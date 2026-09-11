@@ -19,8 +19,72 @@
     "name": "沈伯洋",
     "party": "民進黨"
   },
-  "count": 537,
+  "count": 539,
   "posts": [
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T16:01:22+00:00",
+        "inputHash": "45f33e85b3bfdfc5fe78bd5ad4fb51c0269c71a800f1be40f8f8a4955b81b94d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJsiEyFKsE",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/d7b856722cf903d84c46.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-11T15:07:25+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "宣傳候選人文宣品與支持行動，屬競選動員，未針對特定他方說法回應。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:想拿沈伯洋的文宣品，不用再四處找啦！\n⠀\n「洋流好店」有沈伯洋的文宣品喔！\n也可以打開「洋流好店」地圖，\n就能找到鄰近的友善店家索取文宣品，\n也歡迎用行動支持店家。\n⠀\n如果你也願意在店內協助放置文宣品，\n可以直接透過店家地圖申請加入「洋流好店」，\n讓支持的力量遍布台北每個角落！⠀\n⠀\n📍查看洋流好店：https://storemap.puma.taipei\n⠀\n一間店、一份文宣品，匯聚成改變台北的洋流。\n⠀\n#台北順起來\n#你的市長沈伯洋",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdJsiEyFKsE"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T16:01:22+00:00",
+        "inputHash": "ec4da81dccb43cd5cd9d3598630431eeeb506e8a47f4a6661bcf611cac740677",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJSFRTAEYL",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/9b5f05c2c2d3dd5d97b7.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-11T11:18:13+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享到台大品嚐美食的日常內容，沒有明確公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:來台大吃以前愛吃的美食～",
+      "topicScores": {
+        "生活": 0.97
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/DdJSFRTAEYL"
+    },
     {
       "agendaRelevance": 1.0,
       "candidateId": "shen-poyang",

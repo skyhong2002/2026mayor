@@ -2,6 +2,204 @@
   "count": 100,
   "posts": [
     {
+      "agendaRelevance": 0.18,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T16:01:22+00:00",
+        "inputHash": "45f33e85b3bfdfc5fe78bd5ad4fb51c0269c71a800f1be40f8f8a4955b81b94d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJsiEyFKsE",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/d7b856722cf903d84c46.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-11T15:07:25+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "宣傳候選人文宣品與支持行動，屬競選動員，未針對特定他方說法回應。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:想拿沈伯洋的文宣品，不用再四處找啦！\n⠀\n「洋流好店」有沈伯洋的文宣品喔！\n也可以打開「洋流好店」地圖，\n就能找到鄰近的友善店家索取文宣品，\n也歡迎用行動支持店家。\n⠀\n如果你也願意在店內協助放置文宣品，\n可以直接透過店家地圖申請加入「洋流好店」，\n讓支持的力量遍布台北每個角落！⠀\n⠀\n📍查看洋流好店：https://storemap.puma.taipei\n⠀\n一間店、一份文宣品，匯聚成改變台北的洋流。\n⠀\n#台北順起來\n#你的市長沈伯洋",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdJsiEyFKsE"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-11T16:01:22+00:00",
+        "inputHash": "480f5e8e0036b2ecea6d816694667d8372380549e39b655010f540435514db71",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJm2x0mV9t",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "歷史"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-11T14:17:49+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "透過尋寶活動介紹新北歷史故事與文化景點，屬文化觀光活動宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-threads",
+      "text": "@su.chiaohui:開箱新北第二彈：從前從前\n\n很開心第一波的【你家隔壁】收到大家的熱烈迴響，這一次，我想帶大家循著時間留下的線索，走進新北的故事。\n\n水獺媽媽這波將攜手鬼才繪本作家信子 @quack1106 的人氣角色「奇怪阿嬤」、人氣插畫家瑞秋廖 @rachelliao_illustration 畫的「呱鬆蛙蛙」，一樣設置5個藏寶點，將寶盒藏進承載著歷史記憶的角落。\n\n大家快根據影片裡的線索，找到藏寶的地方，一起開箱新北的從前從前！",
+      "topicScores": {
+        "文化觀光": 0.98
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.threads.com/t/DdJm2x0mV9t"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T16:01:22+00:00",
+        "inputHash": "180793f7cacd48bdf68bae8da56cf7b2d4ed73ac2a8021cb531d5de0f0430640",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:yWTb0zyOc4w",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/e6726ab94703886ca2f5.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-11T13:21:27+00:00",
+      "postingIntent": {
+        "confidence": 0.86,
+        "label": "主動發文",
+        "reason": "僅提供直播節目資訊，內容未呈現具體公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "20260911 談天說地論臺灣  @longmedia  ｜龍介的直播",
+      "topicScores": {
+        "生活": 0.65
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.youtube.com/watch?v=yWTb0zyOc4w"
+    },
+    {
+      "agendaRelevance": 0.45,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T16:01:22+00:00",
+        "inputHash": "1b2f3aa037b45cda65995806bd6b545c9a91abf2d6f4b9559eb616ead50c136c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJfVnPE5GO",
+      "imageAspect": 1.3348,
+      "imageUrl": "assets/feed-images/8762424424f236116152.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-11T13:12:07+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "競選場合宣傳桃園宜居願景，涵蓋城市建設、生活機能與世代需求，但政策細節有限。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:今晚一口氣跑了八場中秋晚會🏃每次跟市民朋友碰面，都想趕快把我對桃園的願景跟熱情分享出去。\n\n桃園是六都最年輕的城市，應該要有年輕城市的活力。建設要加快腳步，機能要加倍完整，生活要一天比一天更幸福！\n\n請大家成為我的力量，杰伴打造讓青壯世代放心拚、孩子快樂長大、長輩安心生活的宜居之城💖",
+      "topicScores": {
+        "住宅": 0.8,
+        "競選": 0.96
+      },
+      "topics": [
+        "競選",
+        "住宅"
+      ],
+      "url": "https://www.threads.com/t/DdJfVnPE5GO"
+    },
+    {
+      "agendaRelevance": 0.96,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-11T16:01:22+00:00",
+        "inputHash": "0ca4eab8d6d3652910d9fa1c66b6d5049a6a9521f27f25e993643663bef456e9",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJUu8_GTa_",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/72dac04b94fa6364069a.webp",
+      "keywords": [
+        "產業"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-11T11:39:28+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出廢棄家具處理、在地產品支持及研發轉型等具體產業政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-threads",
+      "text": "@su.chiaohui:挺家具產業！解決業界痛點、助攻品牌轉型！\n\n我和新北家具相關產業認識超過十年，深知每一件家具背後，都是一代代職人累積的技術和心血。當產業面對廢棄家具清運的困難、低價進口產品競爭，以及品牌轉型等挑戰，未來的市政府更應該站出來，成為家具產業的後盾！\n\n很感謝今天家具產業的朋友們為我成立後援會，我也提出三項政見，期望能實質照顧大家，一起突破產業困境：\n\n✅ 擴大巨大廢棄物去化量能\n✅ 市府帶頭支持新北在地及MIT產品，協助業者取得各項標章，提升競爭力\n✅ 推動家具產業加入「中小型企業創新研發計劃」，協助業者建立自有品牌\n\n產業有技術，政府就幫忙找資源；產業有困難，政府就一起找方法。我會繼續努力，讓新北家具產業傳承好手藝、打造好品牌，在新時代開拓更大的市場！",
+      "topicScores": {
+        "經濟": 0.99
+      },
+      "topics": [
+        "經濟"
+      ],
+      "url": "https://www.threads.com/t/DdJUu8_GTa_"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T16:01:22+00:00",
+        "inputHash": "ec4da81dccb43cd5cd9d3598630431eeeb506e8a47f4a6661bcf611cac740677",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJSFRTAEYL",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/9b5f05c2c2d3dd5d97b7.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-11T11:18:13+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享到台大品嚐美食的日常內容，沒有明確公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:來台大吃以前愛吃的美食～",
+      "topicScores": {
+        "生活": 0.97
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/DdJSFRTAEYL"
+    },
+    {
       "agendaRelevance": 0.12,
       "candidateId": "lai-jui-lung",
       "classification": {
@@ -3433,217 +3631,6 @@
         "交通"
       ],
       "url": "https://www.threads.com/t/DdD_xWWj-S0"
-    },
-    {
-      "agendaRelevance": 0.02,
-      "candidateId": "lai-jui-lung",
-      "classification": {
-        "classifiedAt": "2026-09-11T10:34:37+00:00",
-        "inputHash": "ece613f856d8067d947439ed681bdf88579db4e5f190431d0ef0e9757ef80c73",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "threads:https://www.threads.com/t/DdD-w0CCRyT",
-      "imageAspect": null,
-      "imageUrl": null,
-      "keywords": [],
-      "platform": "threads",
-      "postedAt": "2026-09-09T09:51:16+00:00",
-      "postingIntent": {
-        "confidence": 0.99,
-        "label": "主動發文",
-        "reason": "以演唱後意外離地的趣事與玩笑為主，沒有具體公共議題。",
-        "type": "self_initiated"
-      },
-      "sourceId": "lai-jl-threads",
-      "text": "@zenolai:我只不過唱個「離開地球表面」，怎麼下一秒就離開地面了？",
-      "topicScores": {
-        "生活": 0.96
-      },
-      "topics": [
-        "生活"
-      ],
-      "url": "https://www.threads.com/t/DdD-w0CCRyT"
-    },
-    {
-      "agendaRelevance": 0.0,
-      "candidateId": "lai-jui-lung",
-      "classification": {
-        "classifiedAt": "2026-09-11T11:15:00+00:00",
-        "inputHash": "35a9e6e4ff8556dadebc4571f7dd3182142c16423cff21e5058f09fb7e0ea12f",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "facebook:1659100368904960",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/bcdac834defcc60a7542.webp",
-      "keywords": [],
-      "platform": "facebook",
-      "postedAt": "2026-09-09T09:50:35.000Z",
-      "postingIntent": {
-        "confidence": 0.99,
-        "label": "主動發文",
-        "reason": "以歌名與意外離地發生的雙關語進行生活化幽默分享。",
-        "type": "self_initiated"
-      },
-      "sourceId": "lai-jl-fb",
-      "text": "我只不過唱個「離開地球表面」，怎麼下一秒就離開地面了？",
-      "topicScores": {
-        "生活": 0.99
-      },
-      "topics": [
-        "生活"
-      ],
-      "url": "https://www.facebook.com/reel/2246657725906430/"
-    },
-    {
-      "agendaRelevance": 0.63,
-      "candidateId": "hsieh-lung-chieh",
-      "classification": {
-        "classifiedAt": "2026-09-11T10:34:37+00:00",
-        "inputHash": "496ac5a90c2a4b87a63cffa3447e24971039a12c9b2fb67ab579decd20a09ecd",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "threads:https://www.threads.com/t/DdD-aVIknD5",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/b9a3f541a1a8ec619ded.webp",
-      "keywords": [
-        "社會福利"
-      ],
-      "platform": "threads",
-      "postedAt": "2026-09-09T09:48:15+00:00",
-      "postingIntent": {
-        "confidence": 0.88,
-        "label": "主動發文",
-        "reason": "主張將超徵稅收用於還稅、國防、民生與社會福利。",
-        "type": "self_initiated"
-      },
-      "sourceId": "hsieh-lc-threads",
-      "text": "@hsiehlungchieh:超徵稅收應合理的分配「還稅、國防、民生、社會福利」",
-      "topicScores": {
-        "社福": 0.78,
-        "經濟": 0.83,
-        "議會監督": 0.55
-      },
-      "topics": [
-        "經濟",
-        "社福",
-        "議會監督"
-      ],
-      "url": "https://www.threads.com/t/DdD-aVIknD5"
-    },
-    {
-      "agendaRelevance": 0.78,
-      "candidateId": "hsieh-lung-chieh",
-      "classification": {
-        "classifiedAt": "2026-09-11T10:34:37+00:00",
-        "inputHash": "ebeb9471d0f89842771ec195b657604e2776ca848e46db15ddd6a7510bb96543",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "youtube:rmpQV-1dj6M",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/b41e6277ca2ee6614f25.webp",
-      "keywords": [],
-      "platform": "youtube",
-      "postedAt": "2026-09-09T09:46:03+00:00",
-      "postingIntent": {
-        "confidence": 0.98,
-        "label": "主動發文",
-        "reason": "主張將超額稅收理性分配於退稅、國防與民生用途。",
-        "type": "self_initiated"
-      },
-      "sourceId": "hsieh-lc-yt",
-      "text": "Excess Tax Revenue Should Be Allocated Rationally: Tax Refunds, National Defense, Public Liveliho...",
-      "topicScores": {
-        "兩岸外交": 0.45,
-        "經濟": 0.9
-      },
-      "topics": [
-        "經濟",
-        "兩岸外交"
-      ],
-      "url": "https://www.youtube.com/shorts/rmpQV-1dj6M"
-    },
-    {
-      "agendaRelevance": 0.65,
-      "candidateId": "hsieh-lung-chieh",
-      "classification": {
-        "classifiedAt": "2026-09-11T11:15:00+00:00",
-        "inputHash": "bf484685f5010c8765b0a8e3617206cf42be5f222366114339ff4c7671222faa",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "facebook:1652703532877895",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/c58dea656c9b6a3f302e.webp",
-      "keywords": [
-        "社會福利",
-        "國防"
-      ],
-      "platform": "facebook",
-      "postedAt": "2026-09-09T09:45:08.000Z",
-      "postingIntent": {
-        "confidence": 0.9,
-        "label": "主動發文",
-        "reason": "主動提出超徵稅收應在退稅、國防、民生與社福間分配的政策立場。",
-        "type": "self_initiated"
-      },
-      "sourceId": "hsieh-lc-fb",
-      "text": "超徵稅收應合理的分配「還稅、國防、民生、社會福利」",
-      "topicScores": {
-        "兩岸外交": 0.28,
-        "社福": 0.78,
-        "經濟": 0.82
-      },
-      "topics": [
-        "經濟",
-        "社福",
-        "兩岸外交"
-      ],
-      "url": "https://www.facebook.com/reel/2879221689103503/"
-    },
-    {
-      "agendaRelevance": 0.7,
-      "candidateId": "shen-poyang",
-      "classification": {
-        "classifiedAt": "2026-09-11T11:15:00+00:00",
-        "inputHash": "8e720582724a258c570424e75c36c1bc996931207ff0175cfa6e5f0184b90944",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "facebook:122111783355329310",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/0a01c88bbdbac3d3764d.webp",
-      "keywords": [
-        "後援會"
-      ],
-      "platform": "facebook",
-      "postedAt": "2026-09-09T08:57:51.000Z",
-      "postingIntent": {
-        "confidence": 0.95,
-        "label": "主動發文",
-        "reason": "向勞工致意並提出打造友善職場、將勞工聲音帶入市府的承諾。",
-        "type": "self_initiated"
-      },
-      "sourceId": "shen-fb-campaign",
-      "text": "勞工，是撐起台北運轉的重要力量。\n⠀\n謝謝勞工後援會的夥伴相挺。未來，我會把勞工的聲音帶進市政府，打造更友善的職場，讓每一份努力都被好好接住。",
-      "topicScores": {
-        "競選": 0.8,
-        "經濟": 0.86
-      },
-      "topics": [
-        "經濟",
-        "競選"
-      ],
-      "url": "https://www.facebook.com/reel/2504515240062618/"
     }
   ],
   "version": 1

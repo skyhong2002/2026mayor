@@ -1,5 +1,5 @@
 {
-  "count": 4324,
+  "count": 4330,
   "fallbackTopic": "生活",
   "posts": [
     {
@@ -42842,6 +42842,61 @@
       "postingIntent": "self_initiated",
       "topicScores": {
         "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "threads:https://www.threads.com/t/DdJsiEyFKsE",
+      "postedAt": "2026-09-11T15:07:25+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "threads:https://www.threads.com/t/DdJSFRTAEYL",
+      "postedAt": "2026-09-11T11:18:13+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.97
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "threads:https://www.threads.com/t/DdJm2x0mV9t",
+      "postedAt": "2026-09-11T14:17:49+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.98
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "threads:https://www.threads.com/t/DdJUu8_GTa_",
+      "postedAt": "2026-09-11T11:39:28+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "經濟": 0.99
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "threads:https://www.threads.com/t/DdJfVnPE5GO",
+      "postedAt": "2026-09-11T13:12:07+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "住宅": 0.8,
+        "競選": 0.96
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "youtube:yWTb0zyOc4w",
+      "postedAt": "2026-09-11T13:21:27+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.65
       }
     }
   ],

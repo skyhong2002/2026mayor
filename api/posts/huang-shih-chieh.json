@@ -19,8 +19,42 @@
     "name": "黃世杰",
     "party": "民進黨"
   },
-  "count": 451,
+  "count": 452,
   "posts": [
+    {
+      "agendaRelevance": 0.45,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T16:01:22+00:00",
+        "inputHash": "1b2f3aa037b45cda65995806bd6b545c9a91abf2d6f4b9559eb616ead50c136c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJfVnPE5GO",
+      "imageAspect": 1.3348,
+      "imageUrl": "assets/feed-images/8762424424f236116152.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-11T13:12:07+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "競選場合宣傳桃園宜居願景，涵蓋城市建設、生活機能與世代需求，但政策細節有限。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:今晚一口氣跑了八場中秋晚會🏃每次跟市民朋友碰面，都想趕快把我對桃園的願景跟熱情分享出去。\n\n桃園是六都最年輕的城市，應該要有年輕城市的活力。建設要加快腳步，機能要加倍完整，生活要一天比一天更幸福！\n\n請大家成為我的力量，杰伴打造讓青壯世代放心拚、孩子快樂長大、長輩安心生活的宜居之城💖",
+      "topicScores": {
+        "住宅": 0.8,
+        "競選": 0.96
+      },
+      "topics": [
+        "競選",
+        "住宅"
+      ],
+      "url": "https://www.threads.com/t/DdJfVnPE5GO"
+    },
     {
       "agendaRelevance": 0.01,
       "candidateId": "huang-shih-chieh",
@@ -14732,8 +14766,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DavIqmKE9om/",
-      "imageAspect": 1.5047,
-      "imageUrl": "assets/feed-images/6d1a27f764a6ae998389.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "氣候"
       ],
@@ -14770,8 +14804,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DavIrkPkzyt",
-      "imageAspect": 1.5047,
-      "imageUrl": "assets/feed-images/23ed6d565171437cbe97.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "氣候"
       ],

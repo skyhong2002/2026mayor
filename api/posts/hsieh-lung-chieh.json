@@ -19,8 +19,40 @@
     "name": "謝龍介",
     "party": "國民黨"
   },
-  "count": 444,
+  "count": 445,
   "posts": [
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T16:01:22+00:00",
+        "inputHash": "180793f7cacd48bdf68bae8da56cf7b2d4ed73ac2a8021cb531d5de0f0430640",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:yWTb0zyOc4w",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/e6726ab94703886ca2f5.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-11T13:21:27+00:00",
+      "postingIntent": {
+        "confidence": 0.86,
+        "label": "主動發文",
+        "reason": "僅提供直播節目資訊，內容未呈現具體公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "20260911 談天說地論臺灣  @longmedia  ｜龍介的直播",
+      "topicScores": {
+        "生活": 0.65
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.youtube.com/watch?v=yWTb0zyOc4w"
+    },
     {
       "agendaRelevance": 0.15,
       "candidateId": "hsieh-lung-chieh",

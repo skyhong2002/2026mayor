@@ -9284,8 +9284,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dau4K3AoJwH/",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/64ffbc4a079bc37ac83b.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "產業"
       ],

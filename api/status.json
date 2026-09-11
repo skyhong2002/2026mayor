@@ -2,7 +2,7 @@
   "components": [
     {
       "details": [
-        "最近一次執行心跳：2026-09-11 19:16:00"
+        "最近一次執行心跳：2026-09-12 00:01:29"
       ],
       "id": "pipeline",
       "label": "正常",
@@ -12,7 +12,7 @@
     },
     {
       "details": [
-        "已收錄貼文：4318",
+        "已收錄貼文：4324",
         "監看帳號：67"
       ],
       "id": "public-api",
@@ -24,7 +24,7 @@
     {
       "details": [
         "HTTP：200",
-        "耗時：16 ms"
+        "耗時：30 ms"
       ],
       "id": "rsshub",
       "label": "正常",
@@ -34,7 +34,7 @@
     },
     {
       "details": [
-        "最新抓取時間：2026-09-11 19:14:19",
+        "最新抓取時間：2026-09-12 00:00:52",
         "IG 節流：每來源至少間隔 12 小時抓取一次，避免消耗 RSSHub 的 IG_COOKIE 額度。"
       ],
       "id": "instagram-threads",
@@ -48,7 +48,7 @@
         "最近成功 run：2026-09-11 18:02:07",
         "本月已花費：$1.66 / 目標 $4.75",
         "單次預估花費：$0.21",
-        "pacing 判斷：not due yet (pace ~every 31.8h, next at 2026-09-12T17:50:22+00:00; ~$1.66 of $4.75 spent)"
+        "pacing 判斷：not due yet (pace ~every 31.5h, next at 2026-09-12T17:30:59+00:00; ~$1.66 of $4.75 spent)"
       ],
       "id": "facebook-apify",
       "label": "節流中",
@@ -58,7 +58,7 @@
     },
     {
       "details": [
-        "已收錄影片：627"
+        "已收錄影片：628"
       ],
       "id": "youtube",
       "label": "正常",
@@ -87,21 +87,21 @@
       "summary": "49 個社群來源中，0 個抓不到內容、0 個超過門檻天數沒有新內容、1 個帳號沉寂。"
     }
   ],
-  "generatedAt": "2026-09-11T19:16:00+08:00",
+  "generatedAt": "2026-09-12T00:01:29+08:00",
   "metrics": {
     "candidates": 13,
     "currentErrors": 15,
-    "latestPostAt": "2026-09-11T10:31:16+00:00",
+    "latestPostAt": "2026-09-11T15:07:25+00:00",
     "postsByPlatform": {
       "facebook": 1317,
       "instagram": 1213,
       "podcast": 7,
-      "threads": 1050,
+      "threads": 1055,
       "website": 96,
       "x": 8,
-      "youtube": 627
+      "youtube": 628
     },
-    "totalPosts": 4318,
+    "totalPosts": 4324,
     "watchAccounts": 67
   },
   "overall": {
