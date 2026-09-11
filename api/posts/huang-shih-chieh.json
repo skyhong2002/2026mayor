@@ -14734,8 +14734,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dav4NhUExI3",
-      "imageAspect": 0.7143,
-      "imageUrl": "assets/feed-images/96843c77504a13450635.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-13T21:28:34+00:00",
