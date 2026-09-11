@@ -30,19 +30,20 @@ import feed_common
 
 RUBRIC_VERSION = "content-v5"  # v5: loosened the responsive definition (was so strict only 7/3018 qualified)
 INTENT_VERIFICATION_VERSION = "responsive-v2"
-# gpt-5.6-luna is served through the Codex CLI subscription, not the OpenAI
-# platform API — hence the codex backend default below.
+# gpt-5.6-luna is available on the OpenAI platform API as well as through the
+# Codex CLI; the same model id is used on both backends so cached
+# classifications stay valid when switching between them.
 DEFAULT_MODEL = "gpt-5.6-luna"
-OPENAI_FALLBACK_MODEL = "gpt-5.4-mini"  # used when MAYOR_AI_BACKEND=openai
 DEFAULT_BATCH_SIZE = 20
 DEFAULT_API_URL = "https://api.openai.com/v1/responses"
 DEFAULT_KEY_FILE = Path.home() / ".config" / "mayor2026" / "openai-api-key"
 DEFERRED_EXIT_CODE = 75
 
 # Which AI backend classifies posts:
-#   "openai" — the OpenAI Responses API (needs platform credits)
+#   "openai" — the OpenAI Responses API (platform key; default, uses the
+#              daily free token allowance)
 #   "codex"  — the local Codex CLI, billed to the ChatGPT subscription
-AI_BACKEND = os.environ.get("MAYOR_AI_BACKEND", "codex").strip().lower()
+AI_BACKEND = os.environ.get("MAYOR_AI_BACKEND", "openai").strip().lower()
 CODEX_BIN_CANDIDATES = (
     os.environ.get("MAYOR_CODEX_BIN", ""),
     shutil.which("codex") or "",
@@ -621,11 +622,7 @@ def classify_rows(
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Classify post topics and posting intent with AI.")
-    # With the codex backend the model is whatever the Codex CLI is
-    # configured for; record that (or MAYOR_AI_MODEL if explicitly pinned).
-    default_model = os.environ.get("MAYOR_AI_MODEL") or (
-        DEFAULT_MODEL if AI_BACKEND == "codex" else OPENAI_FALLBACK_MODEL
-    )
+    default_model = os.environ.get("MAYOR_AI_MODEL") or DEFAULT_MODEL
     parser.add_argument("--model", default=default_model)
     parser.add_argument("--batch-size", type=int, default=int(os.environ.get("MAYOR_AI_BATCH_SIZE", DEFAULT_BATCH_SIZE)))
     parser.add_argument("--force", action="store_true")
@@ -633,11 +630,6 @@ def main() -> int:
     args = parser.parse_args()
     if args.batch_size < 1:
         parser.error("--batch-size must be at least 1")
-    if AI_BACKEND != "codex" and args.model.startswith("gpt-5.6"):
-        parser.error(
-            f"{args.model} is only reachable through the Codex CLI; "
-            "set MAYOR_AI_BACKEND=codex or pick an OpenAI platform model"
-        )
 
     rows = feed_common.read_jsonl(feed_common.CANDIDATES_JSONL)
     if not rows:

@@ -43,7 +43,13 @@ def remote_branch_exists(remote: str, branch: str) -> bool:
 
 
 def ensure_clean_worktree(path: Path) -> None:
-    status = git_stdout(["status", "--porcelain"], cwd=path)
+    # Finder drops untracked .DS_Store files into the worktree; they are
+    # wiped by copy_site anyway, so they must not block a publish.
+    status = [
+        line
+        for line in git_stdout(["status", "--porcelain"], cwd=path).splitlines()
+        if line.strip() and not line[3:].endswith(".DS_Store")
+    ]
     if status:
         raise PublishError(f"Deployment worktree is dirty: {path}")
 
