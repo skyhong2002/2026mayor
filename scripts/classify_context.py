@@ -603,6 +603,14 @@ def classify_rows(
     save: Callable[[list[dict[str, Any]]], None] | None = None,
 ) -> tuple[int, int]:
     pending = [row for row in rows if force or not is_current(row, model)]
+    # Posts with no text (image-only posts, or a scraper that missed the
+    # body) give the model nothing to classify; it tends to omit them or
+    # return an empty result, which would defer the whole run. Leave them
+    # unclassified; build_public_data drops unclassified posts.
+    skipped_empty = [row for row in pending if not normalized_post_text(row)]
+    if skipped_empty:
+        pending = [row for row in pending if normalized_post_text(row)]
+        print(f"classify_context: skipped {len(skipped_empty)} post(s) with no text.")
     if limit is not None:
         pending = pending[:limit]
     by_id = {row["id"]: row for row in rows}

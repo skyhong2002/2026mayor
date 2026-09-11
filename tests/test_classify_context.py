@@ -64,6 +64,22 @@ class ContentClassifierTest(unittest.TestCase):
         self.assertEqual((classified, cached), (0, 1))
         self.assertEqual(len(calls), 1)
 
+    def test_classify_rows_skips_posts_without_text(self):
+        rows = [self.row("post-1"), self.row("post-empty", text="  "), self.row("post-none", text=None)]
+        seen = []
+
+        def runner(batch, model):
+            seen.extend(row["id"] for row in batch)
+            return [self.result(row["id"]) for row in batch]
+
+        classified, cached = classify_context.classify_rows(
+            rows, model="gpt-5.4-mini", batch_size=10, runner=runner
+        )
+        self.assertEqual(seen, ["post-1"])
+        self.assertEqual((classified, cached), (1, 2))
+        self.assertNotIn("classification", rows[1])
+        self.assertNotIn("classification", rows[2])
+
     @mock.patch.object(classify_context.time, "sleep")
     def test_failed_batch_splits_until_ids_are_reliable(self, sleep):
         rows = [self.row("post-1"), self.row("post-2")]

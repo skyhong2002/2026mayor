@@ -36,12 +36,20 @@ class _Cards(HTMLParser):
         if tag == "source" and attrs.get("srcset"):
             self.current["media"].append(attrs["srcset"].split()[0])
 
+    def handle_startendtag(self, tag: str, attrs_list: list[tuple[str, str | None]]) -> None:
+        # HTMLParser's default forwards `<img/>` to both handle_starttag and
+        # handle_endtag; for void tags the start never pushed a depth level,
+        # so the pop would close the card right after its cover image.
+        self.handle_starttag(tag, attrs_list)
+        if self.current is not None and tag not in self._VOID:
+            self.depth -= 1
+
     def handle_data(self, data: str) -> None:
         if self.current is not None:
             self.current["parts"].append(data)
 
     def handle_endtag(self, tag: str) -> None:
-        if self.current is None:
+        if self.current is None or tag in self._VOID:
             return
         self.depth -= 1
         if self.depth == 0:

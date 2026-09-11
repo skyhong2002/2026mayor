@@ -184,7 +184,7 @@ def main() -> int:
     accounts_by_candidate = feed_common.accounts_by_candidate(accounts)
     candidates = build_candidate_entries(candidates_csv, accounts_by_candidate)
 
-    posts = feed_common.read_jsonl(feed_common.CANDIDATES_JSONL)
+    posts = feed_common.read_classified_candidates()
     grouped_posts = posts_by_candidate(posts)
 
     build_candidates_index(candidates, grouped_posts)

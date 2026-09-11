@@ -149,6 +149,15 @@ def read_jsonl(path: Path) -> list[dict[str, Any]]:
     return rows
 
 
+def read_classified_candidates() -> list[dict[str, Any]]:
+    """Candidate posts that classify_context has finished with.
+
+    Text-less posts are left unclassified on purpose (nothing to classify) and
+    must stay out of every public output and count.
+    """
+    return [row for row in read_jsonl(CANDIDATES_JSONL) if row.get("classification")]
+
+
 def append_jsonl_dedup(path: Path, new_rows: Iterable[dict[str, Any]], *, key: str = "id") -> int:
     """Append rows whose `key` value isn't already present in the file. Returns count appended."""
     existing_ids = {row.get(key) for row in read_jsonl(path)}

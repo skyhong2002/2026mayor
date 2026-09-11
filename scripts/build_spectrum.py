@@ -85,7 +85,7 @@ def build_topic_details(posts: list[dict[str, Any]]) -> None:
 
 
 def main() -> int:
-    posts = feed_common.read_jsonl(feed_common.CANDIDATES_JSONL)
+    posts = feed_common.read_classified_candidates()
     by_candidate: dict[str, list[dict[str, Any]]] = {}
     for post in posts:
         by_candidate.setdefault(post["candidate_id"], []).append(post)

@@ -12,7 +12,7 @@ API_DIR = feed_common.PROJECT_ROOT / "site" / "api"
 
 
 def main() -> int:
-    posts = feed_common.read_jsonl(feed_common.CANDIDATES_JSONL)
+    posts = feed_common.read_classified_candidates()
     candidates = {row["candidate_id"]: row for row in feed_common.load_candidates()}
 
     intent_counts = Counter((post.get("postingIntent") or {}).get("type", "self_initiated") for post in posts)
