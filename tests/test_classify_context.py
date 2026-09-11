@@ -64,6 +64,20 @@ class ContentClassifierTest(unittest.TestCase):
         self.assertEqual((classified, cached), (0, 1))
         self.assertEqual(len(calls), 1)
 
+    def test_batch_runner_shows_model_short_ids_and_restores_real_ids(self):
+        rows = [self.row("website:https://example.tw/%e6%96%b0%e5%8c%97"), self.row("post-2")]
+        prompts = []
+
+        def fake_request(*, prompt, **kwargs):
+            prompts.append(prompt)
+            return {"results": [self.result("p2"), self.result("p1")]}
+
+        with mock.patch.object(classify_context, "run_structured_request", fake_request):
+            results = classify_context.run_openai_batch(rows, "gpt-5.4-mini")
+
+        self.assertNotIn("%e6%96%b0", prompts[0])
+        self.assertEqual([r["id"] for r in results], ["post-2", "website:https://example.tw/%e6%96%b0%e5%8c%97"])
+
     def test_classify_rows_skips_posts_without_text(self):
         rows = [self.row("post-1"), self.row("post-empty", text="  "), self.row("post-none", text=None)]
         seen = []
