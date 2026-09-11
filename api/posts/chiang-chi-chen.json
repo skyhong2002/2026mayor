@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/743f0cde1741225385d6.webp",
+    "avatarUrl": "assets/source-avatars/00e8bec7845879523ab4.webp",
     "city": "taichung",
     "cityLabel": "臺中市",
     "id": "chiang-chi-chen",
@@ -19,7 +19,7 @@
     "name": "江啟臣",
     "party": "國民黨"
   },
-  "count": 292,
+  "count": 298,
   "posts": [
     {
       "agendaRelevance": 0.45,
@@ -247,6 +247,84 @@
       "url": "https://www.instagram.com/p/DdECg0VE-O9/"
     },
     {
+      "agendaRelevance": 0.63,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "9faeb357cd32f500b5301e31df59e2231d82305cd4937e5d696fbcda5a828ac4",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1611993940287421",
+      "imageAspect": 1.4975,
+      "imageUrl": "assets/feed-images/eaf78fe4963448bf58a1.webp",
+      "keywords": [
+        "外交",
+        "產業",
+        "AI",
+        "觀光"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T10:23:56.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "記錄與日本政黨交流，並主張臺中大阪在產業、城市與觀光合作。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-fb",
+      "text": "老朋友臺中相聚！\n推動臺中與大阪深化合作 🇯🇵🤝🇹🇼\n今天非常榮幸能在我的家鄉臺中，款宴日本維新會馬場伸幸會長、藤田文武共同代表一行老朋友！\n開席前，我特別向熊本地震受災民眾表達關懷。非常感謝維新會長期在日本國會堅定挺臺、關心臺灣參與WHA與CPTPP，臺日總在關鍵時刻給予彼此最溫暖的支持。席間，我也特別送上2024年我們在APPU大會相聚時的合照，定格這份跨越國界的珍貴情誼。\n\n維新會發源於大阪，臺中則是我的家鄉，兩座城市都擁有堅實產業基礎與創新活力。我也誠摯邀請馬場會長在大選過後能再次造訪，讓我有機會盡地主之誼，帶老朋友深入感受臺中的風土人情與城市魅力。期待未來推動臺中與大阪在產業AI化、智慧城市治理、青年與觀光等面向深入合作，從國會外交延伸至城市外交，攜手共創雙贏！祝福臺日友情長長久久！\n\n#臺日友好 #日本維新會 \n#臺中大阪 #國會外交 #城市外交 \n#國會外交 #能在地能國際",
+      "topicScores": {
+        "兩岸外交": 0.96,
+        "文化觀光": 0.58,
+        "經濟": 0.62
+      },
+      "topics": [
+        "兩岸外交",
+        "經濟",
+        "文化觀光"
+      ],
+      "url": "https://www.facebook.com/johnnyccchiang/posts/pfbid03WY8YHK6Bd3J4AgvAwbibsA3oEtkBQngvYrQk5B3pobhj9BB8MRHmbVvosPUcaMXl"
+    },
+    {
+      "agendaRelevance": 0.72,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "ad0c070b9ed2a73e3893292d5a8ba1a6e3c87b64222be87eb8c11faf10d2ea8d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1611877766965705",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/808e7e36a83a4a1283f9.webp",
+      "keywords": [
+        "交通",
+        "道路"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T07:12:30.000Z",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "公布東豐快速道路動工與通車進度，強調改善山城交通及帶動發展。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-fb",
+      "text": "鄉親，久等了！#東豐快 最後一標正式動工！💪\n\n今天與盧秀燕市長共同見證山城回家的路，再向前一步！從與 #蘇慶雲議員在中央、地方攜手奔走，到協助爭取約110億元中央補助，每一次協調、每一份堅持，都是為了回應鄉親長年的期待。\n\n感謝秀燕市長堅持復工、市府與工程團隊克服困難，更謝謝鄉親一路支持！我們也持續推動東豐快直接銜接國道四號，讓山城交通更便利，避免車流集中豐原造成壅塞。\n\n石岡至東勢段預計今年底先通車，全線以2029年通車為目標。啟臣會繼續緊盯進度與品質，讓這條 #生命救援線，成為帶動山城發展的 #希望之線！\n\n今天一起見證動工，未來一起慶祝通車！❤️\n\n#東豐快速道路#安全回家的路 #山城交通 #國道四號#東勢 #石岡 #豐原 #新社 #和平#臺中升級 #幸福旗艦城 #臺中啟程 #打造旗艦城",
+      "topicScores": {
+        "交通": 0.99,
+        "經濟": 0.48
+      },
+      "topics": [
+        "交通",
+        "經濟"
+      ],
+      "url": "https://www.facebook.com/reel/1067418716024109/"
+    },
+    {
       "agendaRelevance": 0.86,
       "candidateId": "chiang-chi-chen",
       "classification": {
@@ -280,6 +358,46 @@
         "交通"
       ],
       "url": "https://www.instagram.com/p/DdDsbvKDtmA/"
+    },
+    {
+      "agendaRelevance": 0.55,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "25aaf5a3fe0a7a7c33dc928d6f33fe7ebfadb24d8c25fea162c92f179f1163c1",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-11T11:15:59+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1611732333646915",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/77647f7d9a9ab02cccfd.webp",
+      "keywords": [
+        "空氣品質"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T02:53:47.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "回應他方觀點",
+        "reason": "針對中央政府，要求說明中火拆除燃煤機組的數量、時程及承諾是否兌現。",
+        "type": "responsive"
+      },
+      "sourceId": "chiang-cc-fb",
+      "text": "增氣就要拆煤\n承諾就要兌現\n守護臺中的藍天與健康呼吸權，啟臣一步都不會退讓！\n\n昨天啟臣陪同盧秀燕市長實地考察中火，我們的重點絕不是走馬看花，而是要嚴格檢驗：「中央對臺中市民的承諾，到底有沒有說到做到」？\n\n中火今年的用煤目標降至1,050萬噸，但大家最關心的下一步——老舊燃煤機組到底要拆幾部？何時才肯拆？中央政府必須給臺中鄉親一個清清楚楚、不容拖延的時間表！\n\n啟臣的立場從頭到尾始終如一：\n我們支持穩定供電，但絕不能以犧牲市民健康與中臺灣空氣品質為代價！\n\n#增氣拆煤 \n#拒絕減煤空窗期\n#守護呼吸權",
+      "topicScores": {
+        "環境": 0.98,
+        "議會監督": 0.5,
+        "醫療": 0.55
+      },
+      "topics": [
+        "環境",
+        "醫療",
+        "議會監督"
+      ],
+      "url": "https://www.facebook.com/reel/1117593494038529/"
     },
     {
       "agendaRelevance": 0.62,
@@ -356,6 +474,42 @@
       "url": "https://www.instagram.com/p/DdBfp2Yk5Fh/"
     },
     {
+      "agendaRelevance": 0.79,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "276e93ed58bb862afe0a2b3c165666a027f0170527de4237572e9b9911461d79",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-11T11:15:59+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1611152480371567",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/c61267dedfc654ab6935.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T10:40:54.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "回應他方觀點",
+        "reason": "針對中央政府，追問中火減煤、拆煤承諾的執行進度與具體時程。",
+        "type": "responsive"
+      },
+      "sourceId": "chiang-cc-fb",
+      "text": "減煤不能有空窗！\n拆煤不能做半套！\n\n今天受邀陪同盧秀燕市長考察中火，我們不是來看風景，而是要確認中央對臺中人的承諾，究竟兌現了沒有！\n\n中火今年用煤目標降至1,050萬噸，接下來怎麼減？燃煤機組要拆幾部、何時拆？中央必須把路徑與時程說清楚，不能讓減煤停在半路，更不能把留著備用當成已經拆除。\n\n從多年前爭取減煤，到今天追問拆除進度，啟臣的立場始終一致，支持穩定供電，也要守護市民健康。增氣就要拆煤，對人民的承諾，就要說到做到！\n\n#增氣拆煤 \n#拒絕減煤空窗期\n#守護呼吸權",
+      "topicScores": {
+        "環境": 0.99,
+        "醫療": 0.7
+      },
+      "topics": [
+        "環境",
+        "醫療"
+      ],
+      "url": "https://www.facebook.com/johnnyccchiang/posts/pfbid0ynJLFJkxuL1mGS5CjFJ8SFpUFdNEyS9EjqdLoDNs3qb9WqkULDsMj38aykWuuyeWl"
+    },
+    {
       "agendaRelevance": 0.1,
       "candidateId": "chiang-chi-chen",
       "classification": {
@@ -386,6 +540,40 @@
         "競選"
       ],
       "url": "https://www.instagram.com/p/DdBRw-_IPFV/"
+    },
+    {
+      "agendaRelevance": 0.16,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "ea8d8e96307ef08a5cbc7f9950b6b069f7bc007fbef72d135538817cd38f56a9",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1611081723711976",
+      "imageAspect": 0.8,
+      "imageUrl": "assets/feed-images/8b8ef543d90709ff874d.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T08:39:34.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "預告地方問政說明會並號召支持，屬競選活動宣傳與交流。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-fb",
+      "text": "#臺中升級 #幸福加給\n山城聯合問政說明會\n\n明天下午回到臺中山城，與古秀英議員服務團隊、吳振嘉 振興山城 有嘉在一同向鄉親報告我們山城發展的最新進度，還有啟臣對故鄉的施政願景。\n\n歡迎所有山城的老朋友作伙來相挺，豐原山城是啟臣的起點、更是我最重要最堅實的靠山，各位的意見都是臺中升級至關重要的力量！\n\n📍活動資訊\n時間｜9/9（三）15:30\n地點｜東勢區客家樂活運動館（臺中市東勢區圓樓街1號-舊東勢高工）\n共同出席｜市議員古秀英、吳振嘉\n\n#臺中啟程 #打造旗艦城 \n#東勢 #臺中山城 \n#豐原山城 #幸福加乘\n#幸福旗艦城 #臺中味 #TaichungWay",
+      "topicScores": {
+        "生活": 0.65,
+        "競選": 0.96
+      },
+      "topics": [
+        "競選",
+        "生活"
+      ],
+      "url": "https://www.facebook.com/johnnyccchiang/posts/pfbid0ecDLamw39unhNyGpEGRCbMzeCKWgCx9bp67X2XgNvrBnp7vThWoSYeEwe6jRaFTJl"
     },
     {
       "agendaRelevance": 0.96,
@@ -427,6 +615,46 @@
         "文化觀光"
       ],
       "url": "https://www.instagram.com/p/DdAynQZk9ut/"
+    },
+    {
+      "agendaRelevance": 0.92,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "37ff1c391c7798dc8b4cea0ce8094b6d0db796caea38d738515e508a686a9adf",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1610935477059934",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/eba93b0b3e725f258f14.webp",
+      "keywords": [
+        "創業"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T04:07:18.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "提出新住民參與、青年國際計畫、創業補助及多語諮詢等具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-fb",
+      "text": "臺中「新」家鄉，#心扎根夢飛翔 🌏\n\n今天和新住民朋友一起手持 #臺中新家鄉 看板，喊出我們共同的期待，讓每個選擇臺中的人，都能安心扎根、實現夢想！\n\n我分享了一位新加坡朋友的故事（ps.這段故事可以到臺中味網站觀看喔 \nhttps://taichungway.tw/ ）\n他因為愛情留在臺中，創業經營酒吧，更站上國際舞台。這些來自不同地方的文化與創意，讓我們的「臺中味」更加精彩！\n\n啟臣要成立 #國際合作發展委員會 ，邀請新住民一起參與；推動 #新住民二代國際領航計畫 ，讓多元文化成為青年走向世界的優勢。透過創業貸款利息補貼，讓好手藝變成好生意，並升級多語法律與心理諮詢服務，支持大家安心打拚。\n\n臺中走向世界，也要讓來自世界的朋友，在這裡找到家的溫暖。無論來自哪裡，我們都是臺中人！❤️\n\n#臺中升級 #幸福加給 #新住民 #幸福旗艦城  \n#臺中啟程 #打造旗艦城",
+      "topicScores": {
+        "兩岸外交": 0.65,
+        "教育": 0.72,
+        "社福": 0.9,
+        "經濟": 0.86
+      },
+      "topics": [
+        "社福",
+        "經濟",
+        "教育",
+        "兩岸外交"
+      ],
+      "url": "https://www.facebook.com/johnnyccchiang/posts/pfbid0mNAi2v35EU1pkKt5oGWhhqh3E75ohpdAV2whr5tFowASH3E7EGhqzQsgtZP6sK8hl"
     },
     {
       "agendaRelevance": 0.08,

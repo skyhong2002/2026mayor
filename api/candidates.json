@@ -1,7 +1,7 @@
 {
   "candidates": [
     {
-      "avatarUrl": "assets/source-avatars/9451a442efd770ab6118.webp",
+      "avatarUrl": "assets/source-avatars/40037c725d9099c0ceef.webp",
       "city": "taipei",
       "cityLabel": "臺北市",
       "id": "shen-poyang",
@@ -20,14 +20,14 @@
       },
       "name": "沈伯洋",
       "party": "民進黨",
-      "postCount": 525
+      "postCount": 537
     },
     {
-      "avatarUrl": "assets/source-avatars/dd8b698d8a0b0cd7bcbf.webp",
+      "avatarUrl": "assets/source-avatars/6a23e2a8b2ee5a355ea5.webp",
       "city": "taipei",
       "cityLabel": "臺北市",
       "id": "chiang-wanan",
-      "latestPostAt": "2026-09-03T00:07:41.000Z",
+      "latestPostAt": "2026-09-08T13:31:57.000Z",
       "links": {
         "facebook": "https://www.facebook.com/chiangwanan/",
         "instagram": "https://www.instagram.com/wanan.chiang/",
@@ -42,10 +42,10 @@
       },
       "name": "蔣萬安",
       "party": "國民黨",
-      "postCount": 95
+      "postCount": 97
     },
     {
-      "avatarUrl": "assets/source-avatars/1607d507e28c25c57aa0.webp",
+      "avatarUrl": "assets/source-avatars/abdc9bee5d0a3ebe36c8.webp",
       "city": "new-taipei",
       "cityLabel": "新北市",
       "id": "su-chiaohui",
@@ -64,10 +64,10 @@
       },
       "name": "蘇巧慧",
       "party": "民進黨",
-      "postCount": 496
+      "postCount": 502
     },
     {
-      "avatarUrl": "assets/source-avatars/eafc6e8299dc6e8bb9bc.webp",
+      "avatarUrl": "assets/source-avatars/5a1cd9cbaaf2bbaf383c.webp",
       "city": "new-taipei",
       "cityLabel": "新北市",
       "id": "lee-shih-chuan",
@@ -86,10 +86,10 @@
       },
       "name": "李四川",
       "party": "國民黨",
-      "postCount": 281
+      "postCount": 285
     },
     {
-      "avatarUrl": "assets/source-avatars/009b0ffaf489f1ebcb84.webp",
+      "avatarUrl": "assets/source-avatars/7bb20603e26b92ee2f27.webp",
       "city": "taoyuan",
       "cityLabel": "桃園市",
       "id": "huang-shih-chieh",
@@ -108,7 +108,7 @@
       },
       "name": "黃世杰",
       "party": "民進黨",
-      "postCount": 446
+      "postCount": 451
     },
     {
       "avatarUrl": "assets/source-avatars/0535d2f05a8bf66e9ef2.webp",
@@ -130,10 +130,10 @@
       },
       "name": "張善政",
       "party": "國民黨",
-      "postCount": 100
+      "postCount": 103
     },
     {
-      "avatarUrl": "assets/source-avatars/5f4474e6ddf98565c567.webp",
+      "avatarUrl": "assets/source-avatars/5092cf5b71d774d36802.webp",
       "city": "taichung",
       "cityLabel": "臺中市",
       "id": "ho-hsin-chun",
@@ -152,10 +152,10 @@
       },
       "name": "何欣純",
       "party": "民進黨",
-      "postCount": 472
+      "postCount": 479
     },
     {
-      "avatarUrl": "assets/source-avatars/743f0cde1741225385d6.webp",
+      "avatarUrl": "assets/source-avatars/00e8bec7845879523ab4.webp",
       "city": "taichung",
       "cityLabel": "臺中市",
       "id": "chiang-chi-chen",
@@ -174,10 +174,10 @@
       },
       "name": "江啟臣",
       "party": "國民黨",
-      "postCount": 292
+      "postCount": 298
     },
     {
-      "avatarUrl": "assets/source-avatars/0815380035a2aa22e986.webp",
+      "avatarUrl": "assets/source-avatars/4dafbb75deeb43f28ef1.webp",
       "city": "tainan",
       "cityLabel": "臺南市",
       "id": "chen-ting-fei",
@@ -196,10 +196,10 @@
       },
       "name": "陳亭妃",
       "party": "民進黨",
-      "postCount": 247
+      "postCount": 251
     },
     {
-      "avatarUrl": "assets/source-avatars/eb09fdf7df9b7debe63f.webp",
+      "avatarUrl": "assets/source-avatars/a8a0e5a21a7f2ec648de.webp",
       "city": "tainan",
       "cityLabel": "臺南市",
       "id": "hsieh-lung-chieh",
@@ -218,10 +218,10 @@
       },
       "name": "謝龍介",
       "party": "國民黨",
-      "postCount": 438
+      "postCount": 444
     },
     {
-      "avatarUrl": "assets/source-avatars/39c51d49d2023a8ab58c.webp",
+      "avatarUrl": "assets/source-avatars/963e1fc9d1bca4f13c9b.webp",
       "city": "kaohsiung",
       "cityLabel": "高雄市",
       "id": "lai-jui-lung",
@@ -240,10 +240,10 @@
       },
       "name": "賴瑞隆",
       "party": "民進黨",
-      "postCount": 401
+      "postCount": 407
     },
     {
-      "avatarUrl": "assets/source-avatars/434e3af8e1e9291df0d7.webp",
+      "avatarUrl": "assets/source-avatars/903c2c411dcab3a63697.webp",
       "city": "kaohsiung",
       "cityLabel": "高雄市",
       "id": "ko-chih-en",
@@ -262,10 +262,10 @@
       },
       "name": "柯志恩",
       "party": "國民黨",
-      "postCount": 395
+      "postCount": 401
     },
     {
-      "avatarUrl": "assets/source-avatars/a0636b8c688c53e78b06.webp",
+      "avatarUrl": "assets/source-avatars/2c4a0cf6b801abe9b8c9.webp",
       "city": "kaohsiung",
       "cityLabel": "高雄市",
       "id": "chang-ching",

@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/9451a442efd770ab6118.webp",
+    "avatarUrl": "assets/source-avatars/40037c725d9099c0ceef.webp",
     "city": "taipei",
     "cityLabel": "臺北市",
     "id": "shen-poyang",
@@ -19,7 +19,7 @@
     "name": "沈伯洋",
     "party": "民進黨"
   },
-  "count": 525,
+  "count": 537,
   "posts": [
     {
       "agendaRelevance": 1.0,
@@ -420,6 +420,46 @@
       "url": "https://www.instagram.com/p/DdGNOefSNlB/"
     },
     {
+      "agendaRelevance": 0.57,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "e1043cb1ea7f7d5beb97f6b4cd6293096fecc7af28c19974e2c14eeef761ab90",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:10175695577330654",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "環境",
+        "交通",
+        "塞車"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-10T01:06:56.000Z",
+      "postingIntent": {
+        "confidence": 0.94,
+        "label": "主動發文",
+        "reason": "整理市民對環境衛生、交通及綠化的意見並預告後續解方活動。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-personal",
+      "text": "昨天「市長，你給我聽好了」上線後\n一天就湧入了\n10,815則市民心聲\n⠀\n大安區是最多的\n有1,637則意見\n信義區1,224則\n中山區1,093則\n⠀\n市民最生氣的議題\n是環境衛生與交通\n從人行空間、塞車\n到病媒環境衛生\n都是市民覺得\n最在意與無力的地方\n⠀\n也有許多人提到\n希望可以把樹種回來\n⠀\n我們當然不是只有整理而已\n我們會釋出更細節的統計資料\n並且分區為台北提出解方\n⠀\n也請大家期待\n接下來的「市長，你給我聽好了」\n實體活動！",
+      "topicScores": {
+        "交通": 0.89,
+        "環境": 0.9,
+        "競選": 0.79
+      },
+      "topics": [
+        "環境",
+        "交通",
+        "競選"
+      ],
+      "url": "https://www.facebook.com/pumashen/posts/pfbid035xcmCGnTHqwCkPmQLRVUhsT9DGZSPnbu43V8qFn25EBdbbfeXCDeRPDR1po9pvfDl"
+    },
+    {
       "agendaRelevance": 0.69,
       "candidateId": "shen-poyang",
       "classification": {
@@ -450,6 +490,108 @@
         "議會監督"
       ],
       "url": "https://www.youtube.com/shorts/RLJ4l0GeVMY"
+    },
+    {
+      "agendaRelevance": 0.43,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "70ec8be7494dab0efe545c372270c7eff0685fed8405e4d5845301842c84c482",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:122111800359329310",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/c53b4d472e038344b0aa.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T14:17:41.000Z",
+      "postingIntent": {
+        "confidence": 0.91,
+        "label": "主動發文",
+        "reason": "主張反映市民聲音以改善城市治理，並帶有競選宣傳性質。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-campaign",
+      "text": "市民才是這個城市的主人，\n市民聲音能被真實的反應，\n才有辦法建造美好的城市！\n\n#市長你給我聽好了\n#台北順起來\n#你的市長沈伯洋",
+      "topicScores": {
+        "競選": 0.88,
+        "議會監督": 0.77
+      },
+      "topics": [
+        "競選",
+        "議會監督"
+      ],
+      "url": "https://www.facebook.com/puma.taipei/videos/1797983094966799/"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "f377f7c3c3b129e557ee53a0e5fac1c5c7f58f94dac74d0e153054aa75e0961e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:122111792211329310",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/c1971e69025951bf7c3f.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T12:17:57.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "紀錄參加律師節活動並分享法律專業與城市治理感想。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-campaign",
+      "text": "9/9是律師節，參加台北律師公會舉辦的「律師節慶祝大會」，再次見到許多法律界的前輩與夥伴，感到格外親切。\n⠀\n當看到許多同學、學長姐、學弟妹還有學生，大家聚在一起，真的很溫暖。可惜時間不夠，沒辦法跟大家一一拍照敘舊，真不好意思。\n⠀\n律師的訓練，讓我們習慣從複雜問題中釐清脈絡、找出關鍵，並提出能夠落實的解方。這不只是法律工作的基礎，也是城市治理需要的能力。\n⠀\n祝所有律師朋友，律師節快樂！讓我們繼續在不同的位置，以專業守護人民的權利，也讓台灣變得更好。\n⠀\n#台北順起來\n#你的市長沈伯洋",
+      "topicScores": {
+        "生活": 0.81
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/puma.taipei/posts/pfbid0zVh3Cb5kS69TpT5Wa2696zu3qYjnEmyzUWNAYK96EZwhv4HmaJeRQhNABVxFHQZNl"
+    },
+    {
+      "agendaRelevance": 0.7,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "8e720582724a258c570424e75c36c1bc996931207ff0175cfa6e5f0184b90944",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:122111783355329310",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/0a01c88bbdbac3d3764d.webp",
+      "keywords": [
+        "後援會"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T08:57:51.000Z",
+      "postingIntent": {
+        "confidence": 0.95,
+        "label": "主動發文",
+        "reason": "向勞工致意並提出打造友善職場、將勞工聲音帶入市府的承諾。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-campaign",
+      "text": "勞工，是撐起台北運轉的重要力量。\n⠀\n謝謝勞工後援會的夥伴相挺。未來，我會把勞工的聲音帶進市政府，打造更友善的職場，讓每一份努力都被好好接住。",
+      "topicScores": {
+        "競選": 0.8,
+        "經濟": 0.86
+      },
+      "topics": [
+        "經濟",
+        "競選"
+      ],
+      "url": "https://www.facebook.com/reel/2504515240062618/"
     },
     {
       "agendaRelevance": 0.3,
@@ -516,6 +658,44 @@
         "競選"
       ],
       "url": "https://www.instagram.com/p/DdDiAkBTWme/"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "3d9f3d35c484e88c20015d10fe51e28a46d4bff6e78682d4eb2465223dbb7762",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-11T11:15:59+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:10175689019510654",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "國防"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T04:50:30.000Z",
+      "postingIntent": {
+        "confidence": 1.0,
+        "label": "回應他方觀點",
+        "reason": "針對《大西洋》雜誌及記者報導，澄清沈伯洋替代役與服兵役言論遭斷章取義。",
+        "type": "responsive"
+      },
+      "sourceId": "shen-fb-personal",
+      "text": "關於《大西洋》雜誌（The Atlantic）報導內容之公開聲明\n\n針對《大西洋》雜誌（The Atlantic）由 Simon Shuster 撰寫之文章〈台灣會就此放棄嗎？〉（Will Taiwan Just Give Up?），文中對台灣國防改革以及沈伯洋委員之引述存在斷章取義與去脈絡化之情事，特發表本公開聲明澄清如下：\n\n本人於今年4月23日接受Shuster先生訪問，並留有受訪音檔存查。\n\n一、 \n該報導為服務凸顯「台灣人逃兵」之特定敘事，將沈伯洋過去依法以專業服替代役之經歷進行去脈絡化的放大與曲解。將合法合規的替代役制度與「逃兵」劃上等號，不僅不符事實，亦嚴重誤導國際社會對台灣公民參與國家服務的認知。\n\n二、 \n文中提及「大家覺得當兵是浪費時間」（people think it's a waste of time）之引述，係完全剝離語境的斷章取義。沈伯洋當時語境明確指的是過去國防改革前、充斥割草與雜務等形式主義的舊式軍事訓練，而非否定服兵役本身的價值，更非指稱全民缺乏保家衛國的決心。此論述否定了政府及台灣社會對舊體制效率低下之檢討，也否定了國軍對國防改革及兵役制度的努力，極具誤導性。\n\n新聞專業與倫理應建立於客觀、完整且具脈絡的報導之上，尤其在涉及區域安全與民主韌性等重大議題時更應審慎。我們呼籲國際媒體在報導台灣國防與防衛意志時，應尊重事實脈絡，切勿以去脈絡化之手法塑造偏頗訊息。",
+      "topicScores": {
+        "兩岸外交": 0.91,
+        "治安": 0.75
+      },
+      "topics": [
+        "兩岸外交",
+        "治安"
+      ],
+      "url": "https://www.facebook.com/pumashen/posts/pfbid02xHhLX5GpnpskBMJ41P5HC1kkU5kc2JLNiAzdnNn5bwCGDdxxN6t3f3o2bkhsSPtHl"
     },
     {
       "agendaRelevance": 0.18,
@@ -656,6 +836,181 @@
       "url": "https://puma.taipei/videos/XYJaqZPHOVVwhUn_u5mJD"
     },
     {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:55+00:00",
+        "inputHash": "2a1139dc800774536159a008f1040de454f053d22466d8e7c7e9429f6c6c8d60",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:10175684156960654",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/aad3ccf21ecc1d11abb4.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T15:36:56.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享與名人簽名及追星的日常內容，沒有公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-personal",
+      "text": "平常都是我簽名\n今天換我追星\n\n美鳳姐簽名Get！",
+      "topicScores": {
+        "生活": 0.97
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/reel/1051677907480838/"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:55+00:00",
+        "inputHash": "2a1139dc800774536159a008f1040de454f053d22466d8e7c7e9429f6c6c8d60",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:10175684156960654",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/aad3ccf21ecc1d11abb4.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T15:36:56.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享與名人簽名及追星的日常內容，沒有公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-personal",
+      "text": "平常都是我簽名\n今天換我追星\n\n美鳳姐簽名Get！",
+      "topicScores": {
+        "生活": 0.97
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/reel/1051677907480838/"
+    },
+    {
+      "agendaRelevance": 0.86,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "147bdff55f3ea5808b0d995c248a84c8888ddebb0b2cdb64f4e896cd499d2315",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:122111719923329310",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/2bef935f25a89dbfc187.webp",
+      "keywords": [
+        "文化",
+        "觀光",
+        "交通"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T14:00:28.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "提出串聯山徑、交通與文化路徑，打造觀光登山城市的明確政策構想。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-campaign",
+      "text": "台北的山，不只有風景，也有城市的記憶。\n⠀\n打造亞洲第一觀光登山城，要串聯山徑、交通與文化路徑，讓大家走進山林，也重新認識台北。",
+      "topicScores": {
+        "交通": 0.78,
+        "文化觀光": 0.95
+      },
+      "topics": [
+        "文化觀光",
+        "交通"
+      ],
+      "url": "https://www.facebook.com/reel/1568649401372240/"
+    },
+    {
+      "agendaRelevance": 0.77,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "2b7594357c54d5200ca4421585d45567b2a4360fd301674d14626992706e2f1d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:122111709753329310",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/4cbf9bf5b9f1aca0c575.webp",
+      "keywords": [
+        "產業",
+        "AI",
+        "交通",
+        "道路"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T11:05:55.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主張以專業治理與公帑效益檢驗推動台北發展，並提出重視產業、人才及交通專業。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-campaign",
+      "text": "會計師，是企業營運的把關者；每一次簽證、每一項專業判斷，背後代表的都是責任與信任。\n⠀\n會計師後援會成立了，感謝國策顧問黃奕睿擔任後援會總會長、台北市會計師公會邵志明理事長擔任後援會會長，也謝謝立法院的好同事 吳秉叡委員、莊瑞雄委員，以及所有到場的台北隊議員夥伴與會計師朋友，給我最堅定的支持。\n⠀\n市政治理應該學習會計師的精神：嚴謹、客觀、誠信。每一分公帑都要花在刀口上，每一項政策都要經得起效益檢驗。\n⠀\n雖然AI提升效率，但AI無法取代人的專業判斷，市長更不可能什麼都懂。真正重要的是，懂得在關鍵時刻讓專業上場，聽工程師談安全、聽交通專家談道路，也聽會計師把數字說清楚。\n⠀\n專業被尊重，市政才能順利推動，市民才能信任政府。\n⠀\n我們一起讓台北成為產業能發展、人才願意留下、專業受到尊重，也讓所有市民感到光榮的城市。\n⠀\n#台北順起來\n#你的市長沈伯洋",
+      "topicScores": {
+        "交通": 0.62,
+        "經濟": 0.8
+      },
+      "topics": [
+        "經濟",
+        "交通"
+      ],
+      "url": "https://www.facebook.com/puma.taipei/posts/pfbid0cQmKR2WwuYLW4epNyrLGGajeCkLvzCEoL5tR8ZKJY5XAgWYquYvHxhAveUMqMhPrl"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "f081ac84515c51c5ca5270f3a02bb976102effda9fd5283f8021a7f8d25dd9b4",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:10175682079520654",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/e0817c7bb77294bdca77.webp",
+      "keywords": [
+        "弱勢"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T09:34:18.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "介紹購買大誌支持弱勢與無家者自立。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-personal",
+      "text": "150塊，在台北可以買到什麼？\n⠀\n可以買一本內容豐富的《大誌雜誌》，\n支持弱勢及無家者靠自己的力量，重新站穩生活。\n⠀\n下次在捷運站出口，不妨停下腳步，\n帶一本《大誌》回家。\n⠀\n一本雜誌，也能接住一個努力生活的人。",
+      "topicScores": {
+        "社福": 0.96
+      },
+      "topics": [
+        "社福"
+      ],
+      "url": "https://www.facebook.com/reel/2551602972006384/"
+    },
+    {
       "agendaRelevance": 0.05,
       "candidateId": "shen-poyang",
       "classification": {
@@ -690,6 +1045,38 @@
         "生活"
       ],
       "url": "https://www.instagram.com/p/DdBX3-jyfmY/"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "56f504c8646dd8cd84c589822efbcbbc0b2f85cbf7092da598959ccbb7663c48",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:122111696259329310",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/b733aa00ff0773a9124a.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T07:00:12.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "公告在公園散步及邀請民眾運動，屬日常活動邀約。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-campaign",
+      "text": "明天早上6點，我會到大湖公園走走，歡迎來一起運動、散散步。\n⠀\n9/9（三）06:00\n⠀\n📍大湖公園",
+      "topicScores": {
+        "生活": 0.92
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/puma.taipei/posts/pfbid028dG2iUPVHwKomDtKTGirZj9GWtC6xqXchPK5oMADJYkdHBN6ekw6es4jbDGjtQ8Ll"
     },
     {
       "agendaRelevance": 0.08,
@@ -875,6 +1262,38 @@
         "文化觀光"
       ],
       "url": "https://www.instagram.com/p/Dc_JXD-vL0d/"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "43e362a8022a3a3a90f1d13747bc985a7ca19b77322a2e081f4b3f8436ff357f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:10175675070745654",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/536f394e20ffa773887c.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-07T13:01:39.000Z",
+      "postingIntent": {
+        "confidence": 0.95,
+        "label": "主動發文",
+        "reason": "僅以簡短文字分享許願柳的使用方式，缺乏公共議題脈絡。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-personal",
+      "text": "POV：許願柳的正確使用方法",
+      "topicScores": {
+        "生活": 0.95
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/reel/941070181758758/"
     },
     {
       "agendaRelevance": 0.62,

@@ -14,7 +14,7 @@
           "verification": "first_party"
         },
         {
-          "avatarUrl": "assets/source-avatars/9451a442efd770ab6118.webp",
+          "avatarUrl": "assets/source-avatars/40037c725d9099c0ceef.webp",
           "displayName": "台北 沈伯洋",
           "handle": "puma.taipei",
           "id": "shen-fb-campaign",
@@ -24,7 +24,7 @@
           "verification": "cross_ref"
         },
         {
-          "avatarUrl": "assets/source-avatars/d2ac3d863ebf2af27d29.webp",
+          "avatarUrl": "assets/source-avatars/83fd8f47c0b4c127f3d6.webp",
           "displayName": "Puma Shen",
           "handle": "pumashen",
           "id": "shen-fb-personal",
@@ -84,7 +84,7 @@
           "verification": "first_party"
         }
       ],
-      "avatarUrl": "assets/source-avatars/9451a442efd770ab6118.webp",
+      "avatarUrl": "assets/source-avatars/40037c725d9099c0ceef.webp",
       "city": "taipei",
       "cityLabel": "臺北市",
       "id": "shen-poyang",
@@ -103,12 +103,12 @@
       },
       "name": "沈伯洋",
       "party": "民進黨",
-      "postCount": 525
+      "postCount": 537
     },
     {
       "accounts": [
         {
-          "avatarUrl": "assets/source-avatars/dd8b698d8a0b0cd7bcbf.webp",
+          "avatarUrl": "assets/source-avatars/6a23e2a8b2ee5a355ea5.webp",
           "displayName": "蔣萬安",
           "handle": "chiangwanan",
           "id": "chiang-wa-fb",
@@ -158,11 +158,11 @@
           "verification": "cross_ref"
         }
       ],
-      "avatarUrl": "assets/source-avatars/dd8b698d8a0b0cd7bcbf.webp",
+      "avatarUrl": "assets/source-avatars/6a23e2a8b2ee5a355ea5.webp",
       "city": "taipei",
       "cityLabel": "臺北市",
       "id": "chiang-wanan",
-      "latestPostAt": "2026-09-03T00:07:41.000Z",
+      "latestPostAt": "2026-09-08T13:31:57.000Z",
       "links": {
         "facebook": "https://www.facebook.com/chiangwanan/",
         "instagram": "https://www.instagram.com/wanan.chiang/",
@@ -177,7 +177,7 @@
       },
       "name": "蔣萬安",
       "party": "國民黨",
-      "postCount": 95
+      "postCount": 97
     },
     {
       "accounts": [
@@ -192,7 +192,7 @@
           "verification": "first_party"
         },
         {
-          "avatarUrl": "assets/source-avatars/1607d507e28c25c57aa0.webp",
+          "avatarUrl": "assets/source-avatars/abdc9bee5d0a3ebe36c8.webp",
           "displayName": "蘇巧慧",
           "handle": "chiaohui.su",
           "id": "su-ch-fb",
@@ -252,7 +252,7 @@
           "verification": "cross_ref"
         }
       ],
-      "avatarUrl": "assets/source-avatars/1607d507e28c25c57aa0.webp",
+      "avatarUrl": "assets/source-avatars/abdc9bee5d0a3ebe36c8.webp",
       "city": "new-taipei",
       "cityLabel": "新北市",
       "id": "su-chiaohui",
@@ -271,12 +271,12 @@
       },
       "name": "蘇巧慧",
       "party": "民進黨",
-      "postCount": 496
+      "postCount": 502
     },
     {
       "accounts": [
         {
-          "avatarUrl": "assets/source-avatars/eafc6e8299dc6e8bb9bc.webp",
+          "avatarUrl": "assets/source-avatars/5a1cd9cbaaf2bbaf383c.webp",
           "displayName": "李四川Hammer Lee",
           "handle": "李四川Hammer-Lee-100051818071280",
           "id": "lee-sc-fb",
@@ -306,7 +306,7 @@
           "verification": "first_party"
         }
       ],
-      "avatarUrl": "assets/source-avatars/eafc6e8299dc6e8bb9bc.webp",
+      "avatarUrl": "assets/source-avatars/5a1cd9cbaaf2bbaf383c.webp",
       "city": "new-taipei",
       "cityLabel": "新北市",
       "id": "lee-shih-chuan",
@@ -325,12 +325,12 @@
       },
       "name": "李四川",
       "party": "國民黨",
-      "postCount": 281
+      "postCount": 285
     },
     {
       "accounts": [
         {
-          "avatarUrl": "assets/source-avatars/009b0ffaf489f1ebcb84.webp",
+          "avatarUrl": "assets/source-avatars/7bb20603e26b92ee2f27.webp",
           "displayName": "黃世杰",
           "handle": "SCHuangLawyer",
           "id": "huang-sj-fb",
@@ -360,7 +360,7 @@
           "verification": "cross_ref"
         }
       ],
-      "avatarUrl": "assets/source-avatars/009b0ffaf489f1ebcb84.webp",
+      "avatarUrl": "assets/source-avatars/7bb20603e26b92ee2f27.webp",
       "city": "taoyuan",
       "cityLabel": "桃園市",
       "id": "huang-shih-chieh",
@@ -379,12 +379,12 @@
       },
       "name": "黃世杰",
       "party": "民進黨",
-      "postCount": 446
+      "postCount": 451
     },
     {
       "accounts": [
         {
-          "avatarUrl": "assets/source-avatars/c111cd371f8e75b0da61.webp",
+          "avatarUrl": "assets/source-avatars/308ab1f8a2d6b9dd8a8e.webp",
           "displayName": "張善政",
           "handle": "SanCheng624",
           "id": "chang-sc-fb",
@@ -433,7 +433,7 @@
       },
       "name": "張善政",
       "party": "國民黨",
-      "postCount": 100
+      "postCount": 103
     },
     {
       "accounts": [
@@ -448,7 +448,7 @@
           "verification": "first_party"
         },
         {
-          "avatarUrl": "assets/source-avatars/5f4474e6ddf98565c567.webp",
+          "avatarUrl": "assets/source-avatars/5092cf5b71d774d36802.webp",
           "displayName": "何欣純",
           "handle": "94achun",
           "id": "ho-hc-fb",
@@ -498,7 +498,7 @@
           "verification": "first_party"
         }
       ],
-      "avatarUrl": "assets/source-avatars/5f4474e6ddf98565c567.webp",
+      "avatarUrl": "assets/source-avatars/5092cf5b71d774d36802.webp",
       "city": "taichung",
       "cityLabel": "臺中市",
       "id": "ho-hsin-chun",
@@ -517,12 +517,12 @@
       },
       "name": "何欣純",
       "party": "民進黨",
-      "postCount": 472
+      "postCount": 479
     },
     {
       "accounts": [
         {
-          "avatarUrl": "assets/source-avatars/743f0cde1741225385d6.webp",
+          "avatarUrl": "assets/source-avatars/00e8bec7845879523ab4.webp",
           "displayName": "江啟臣",
           "handle": "johnnyccchiang",
           "id": "chiang-cc-fb",
@@ -572,7 +572,7 @@
           "verification": "first_party"
         }
       ],
-      "avatarUrl": "assets/source-avatars/743f0cde1741225385d6.webp",
+      "avatarUrl": "assets/source-avatars/00e8bec7845879523ab4.webp",
       "city": "taichung",
       "cityLabel": "臺中市",
       "id": "chiang-chi-chen",
@@ -591,12 +591,12 @@
       },
       "name": "江啟臣",
       "party": "國民黨",
-      "postCount": 292
+      "postCount": 298
     },
     {
       "accounts": [
         {
-          "avatarUrl": "assets/source-avatars/0815380035a2aa22e986.webp",
+          "avatarUrl": "assets/source-avatars/4dafbb75deeb43f28ef1.webp",
           "displayName": "陳亭妃",
           "handle": "fififans",
           "id": "chen-tf-fb",
@@ -646,7 +646,7 @@
           "verification": "first_party"
         }
       ],
-      "avatarUrl": "assets/source-avatars/0815380035a2aa22e986.webp",
+      "avatarUrl": "assets/source-avatars/4dafbb75deeb43f28ef1.webp",
       "city": "tainan",
       "cityLabel": "臺南市",
       "id": "chen-ting-fei",
@@ -665,7 +665,7 @@
       },
       "name": "陳亭妃",
       "party": "民進黨",
-      "postCount": 247
+      "postCount": 251
     },
     {
       "accounts": [
@@ -680,7 +680,7 @@
           "verification": "first_party"
         },
         {
-          "avatarUrl": "assets/source-avatars/eb09fdf7df9b7debe63f.webp",
+          "avatarUrl": "assets/source-avatars/a8a0e5a21a7f2ec648de.webp",
           "displayName": "謝龍介",
           "handle": "TEL062268268",
           "id": "hsieh-lc-fb",
@@ -750,7 +750,7 @@
           "verification": "first_party"
         }
       ],
-      "avatarUrl": "assets/source-avatars/eb09fdf7df9b7debe63f.webp",
+      "avatarUrl": "assets/source-avatars/a8a0e5a21a7f2ec648de.webp",
       "city": "tainan",
       "cityLabel": "臺南市",
       "id": "hsieh-lung-chieh",
@@ -769,7 +769,7 @@
       },
       "name": "謝龍介",
       "party": "國民黨",
-      "postCount": 438
+      "postCount": 444
     },
     {
       "accounts": [
@@ -784,7 +784,7 @@
           "verification": "first_party"
         },
         {
-          "avatarUrl": "assets/source-avatars/39c51d49d2023a8ab58c.webp",
+          "avatarUrl": "assets/source-avatars/963e1fc9d1bca4f13c9b.webp",
           "displayName": "賴瑞隆",
           "handle": "zenolai2",
           "id": "lai-jl-fb",
@@ -834,7 +834,7 @@
           "verification": "first_party"
         }
       ],
-      "avatarUrl": "assets/source-avatars/39c51d49d2023a8ab58c.webp",
+      "avatarUrl": "assets/source-avatars/963e1fc9d1bca4f13c9b.webp",
       "city": "kaohsiung",
       "cityLabel": "高雄市",
       "id": "lai-jui-lung",
@@ -853,12 +853,12 @@
       },
       "name": "賴瑞隆",
       "party": "民進黨",
-      "postCount": 401
+      "postCount": 407
     },
     {
       "accounts": [
         {
-          "avatarUrl": "assets/source-avatars/434e3af8e1e9291df0d7.webp",
+          "avatarUrl": "assets/source-avatars/903c2c411dcab3a63697.webp",
           "displayName": "柯志恩",
           "handle": "KoChihEn",
           "id": "ko-ce-fb",
@@ -928,7 +928,7 @@
           "verification": "first_party"
         }
       ],
-      "avatarUrl": "assets/source-avatars/434e3af8e1e9291df0d7.webp",
+      "avatarUrl": "assets/source-avatars/903c2c411dcab3a63697.webp",
       "city": "kaohsiung",
       "cityLabel": "高雄市",
       "id": "ko-chih-en",
@@ -947,12 +947,12 @@
       },
       "name": "柯志恩",
       "party": "國民黨",
-      "postCount": 395
+      "postCount": 401
     },
     {
       "accounts": [
         {
-          "avatarUrl": "assets/source-avatars/a0636b8c688c53e78b06.webp",
+          "avatarUrl": "assets/source-avatars/2c4a0cf6b801abe9b8c9.webp",
           "displayName": "司法改革黨",
           "handle": "司法改革黨",
           "id": "chang-ching-party-fb",
@@ -962,7 +962,7 @@
           "verification": "first_party"
         }
       ],
-      "avatarUrl": "assets/source-avatars/a0636b8c688c53e78b06.webp",
+      "avatarUrl": "assets/source-avatars/2c4a0cf6b801abe9b8c9.webp",
       "city": "kaohsiung",
       "cityLabel": "高雄市",
       "id": "chang-ching",

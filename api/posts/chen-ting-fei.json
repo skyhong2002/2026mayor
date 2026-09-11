@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/0815380035a2aa22e986.webp",
+    "avatarUrl": "assets/source-avatars/4dafbb75deeb43f28ef1.webp",
     "city": "tainan",
     "cityLabel": "臺南市",
     "id": "chen-ting-fei",
@@ -19,7 +19,7 @@
     "name": "陳亭妃",
     "party": "民進黨"
   },
-  "count": 247,
+  "count": 251,
   "posts": [
     {
       "agendaRelevance": 0.97,
@@ -156,6 +156,79 @@
       "url": "https://www.instagram.com/p/DdGNA7vzmkU/"
     },
     {
+      "agendaRelevance": 0.2,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "3365d21dfafaa3f0d7e93be5a5ff78b5961c6332a6b041dbf9b329e477b43041",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1641841490637106",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/324a6ee91b0d59c51f82.webp",
+      "keywords": [
+        "豪雨",
+        "災害"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T14:07:43.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "公告豪雨農業災損救助與申請期限，並表示將持續爭取協助，屬災害資訊與行政服務。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-fb",
+      "text": "妃妃報你知 🌧️ 台南市牡蠣養殖全品項115年8月下旬豪雨農業災損公告了！\n\n這次台南市全區納入農業天然災害現金救助地區，受災的漁民朋友請把握時間申請！\n📌 申請期間｜9／10～9／23\n📌 台南市全區皆可申請\n📌 例假日也可以受理申請\n\n另外，這次同時也公告，115年8月下旬豪雨農業天然災害現金救助及低利貸款：\n📌受理期限延長至115年9月14日\n\n農民漁民朋友辛苦了！面對連日豪雨造成的農業損失，亭妃會持續為大家發聲、向中央爭取，讓受災農漁民都獲得應有的協助。\n\n請大家告訴大家、相互提醒，符合資格的農民漁民朋友記得把握申請期限！",
+      "topicScores": {
+        "經濟": 0.83,
+        "防災": 0.96
+      },
+      "topics": [
+        "防災",
+        "經濟"
+      ],
+      "url": "https://www.facebook.com/fififans/posts/pfbid0331v5D7tEXWesbNMwwoxXbos8ae9gDVAj8B1vqmJY9BVDaj7oQMBfq2YShiPHmRzl"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "e6fbb7cf9998556f0517013f04b2daf1de4c0264c18e6438032ee424d2109810",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1641602303994358",
+      "imageAspect": 1.7745,
+      "imageUrl": "assets/feed-images/71aa4b91194d81578069.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T07:56:12.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣傳台南城市球衣與訂購資訊，結合地方認同及政治團體品牌動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-fb",
+      "text": "大家敲碗的「台南隊」球衣，正式上線！\n　　　　　\n從台南400年，到科技新城、農漁大城，台南一路走來，始終團結、堅持、向前。\n　　　　　　\n這一次，把對台南的認同穿在身上。一起穿上DPP台灣狼《台南》聯名款城市球衣，為台南隊加油，也為台灣一起拚！\n　　　　　　　　\n📅 限時訂購至9/13中午12點\n📦 預計10/11開始陸續出貨\n　　　　　　　　　\n#線上訂購網址在留言處　　　　　　　\n#台南隊\n#團結堅持向前\n#台南400年",
+      "topicScores": {
+        "文化觀光": 0.75,
+        "競選": 0.62,
+        "體育": 0.84
+      },
+      "topics": [
+        "體育",
+        "文化觀光",
+        "競選"
+      ],
+      "url": "https://www.facebook.com/fififans/posts/pfbid0GweEuMEP1fnqy6t8KitNsReES6u7XMociGMGoMqQ7kTenpaJB6ns3mCXbgsgQnhel"
+    },
+    {
       "agendaRelevance": 0.18,
       "candidateId": "chen-ting-fei",
       "classification": {
@@ -226,6 +299,42 @@
         "生活"
       ],
       "url": "https://www.instagram.com/p/DdDsoM5T16p/"
+    },
+    {
+      "agendaRelevance": 0.84,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "b120147cb71afd4521f8efe3a0d4db8828677a73e2a01a881182f6dc3ce5faaa",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1641461230675132",
+      "imageAspect": 1.3318,
+      "imageUrl": "assets/feed-images/fcee931a61ad6811abf2.webp",
+      "keywords": [
+        "運動"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T03:38:00.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄體健場啟用並提出完成二期工程、推動各區運動空間的政策承諾。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-fb",
+      "text": "【東山區全民運動體健場 正式啟用！🎈】\n　　　　\n看到現場的小朋友們拿著繽紛的氣球花、在全新的設施上歡樂奔跑，臉上洋溢著天真無邪的笑容，心情也跟著亮了起來！😊✨\n　　　　　　　\n感謝所有為這座體健場努力的夥伴與鄉親，為東山打造了一個兼具運動、休閒與親子同樂的好去處。目前一期工程完工，還有二期工程，亭妃會幫大家完成！未來亭妃也會讓37區都有屬於自己的運動空間，讓大朋友小朋友都有更優質、更安全的生活與運動環境！\n　　　　　　　　\n#陳亭妃 #東山區全民運動體健場 #親子同樂 #東山 #台南",
+      "topicScores": {
+        "生活": 0.8,
+        "體育": 0.96
+      },
+      "topics": [
+        "體育",
+        "生活"
+      ],
+      "url": "https://www.facebook.com/fififans/posts/pfbid02LUxRfubR5K5GHEhARS8p4wKGjkBVzpqXJw2Y36j6KtgGLmbPgGDfRavqr52nm1JNl"
     },
     {
       "agendaRelevance": 0.88,
@@ -330,6 +439,40 @@
         "生活"
       ],
       "url": "https://www.instagram.com/p/DdBHU37zU-1/"
+    },
+    {
+      "agendaRelevance": 0.9,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "65d53bcd7cf0815ce748a4a3a623d5db15e8c2b4f6f0b0dd9be0f0957aa3df31",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1640668367421085",
+      "imageAspect": 1.7944,
+      "imageUrl": "assets/feed-images/9c44de9eac6b6070e825.webp",
+      "keywords": [
+        "照顧"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T05:33:36.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出盤點並補足台南與六都福利差距的整體社福政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-fb",
+      "text": "中央加碼，地方接棒。\n　　　　　\n從0歲到老年，孩子的成長、青年的未來、家庭的支持、長者的照顧，台南的福利都不能少。\n　　　　　\n「福利六都齊」AI政見正式亮相！\n　　　　　　　　\n未來我會全面盤點台南與六都的福利差距，該補的補、該加的加，逐項對標、逐項做到位。\n　　　　　　　　\n六都有的，台南不能少；中央加碼的，地方一定接起來。\n　　　　　　　　　\n讓福利不只是數字，而是真正走進每一個家庭。\n　　　　　　　　\n#福利六都齊\n#中央加碼地方接棒\n#陳亭妃\n#台南",
+      "topicScores": {
+        "社福": 0.99
+      },
+      "topics": [
+        "社福"
+      ],
+      "url": "https://www.facebook.com/reel/1694666624971787/"
     },
     {
       "agendaRelevance": 0.04,

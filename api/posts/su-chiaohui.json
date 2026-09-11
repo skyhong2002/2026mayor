@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/1607d507e28c25c57aa0.webp",
+    "avatarUrl": "assets/source-avatars/abdc9bee5d0a3ebe36c8.webp",
     "city": "new-taipei",
     "cityLabel": "新北市",
     "id": "su-chiaohui",
@@ -19,7 +19,7 @@
     "name": "蘇巧慧",
     "party": "民進黨"
   },
-  "count": 496,
+  "count": 502,
   "posts": [
     {
       "agendaRelevance": 0.01,
@@ -440,6 +440,44 @@
       "url": "https://www.instagram.com/p/DdFzK87p537/"
     },
     {
+      "agendaRelevance": 0.94,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "7bc3c88c510f3b224e0b39cb49396e69f3a3f0c0011352d0dd9e0ad8298865f0",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1646902360124927",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/94f836c5118fb1a9b283.webp",
+      "keywords": [
+        "補助",
+        "津貼",
+        "照顧"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-10T02:46:33.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "提出照顧者津貼、居家服務、輔具與復能等具體照顧政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-fb",
+      "text": "深深感謝無數個家庭背後，撐起日常的每一位照顧者。未來我希望帶領市府 #照顧照顧者，全力做大家的靠山！\n\n我們要簡化行政流程、加發津貼與進修補助，提供最實質的支持。#新時代照顧也要升級！我們要發展 #AI智慧照顧，運用科技減輕照顧負擔、推動居家服務與輔具一次到位，帶入專業復能服務，出院照顧不再手忙腳亂。\n\n新北邁向新時代，我們一起讓這座城市更溫暖、更宜居！",
+      "topicScores": {
+        "社福": 0.97,
+        "醫療": 0.7
+      },
+      "topics": [
+        "社福",
+        "醫療"
+      ],
+      "url": "https://www.facebook.com/reel/1333433785335192/"
+    },
+    {
       "agendaRelevance": 1.0,
       "candidateId": "su-chiaohui",
       "classification": {
@@ -489,6 +527,55 @@
       "url": "https://www.instagram.com/p/DdDkrCACf-F/"
     },
     {
+      "agendaRelevance": 0.96,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "a6db35370c7841a863a9dd4151e46b555c60ce787fc8a0f12397e458c821946d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1646154103533086",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/65434e468af7324b66de.webp",
+      "keywords": [
+        "長輩",
+        "敬老",
+        "補助",
+        "津貼",
+        "照顧",
+        "就業",
+        "創業",
+        "青創",
+        "營養午餐",
+        "國中"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T06:00:45.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "以勞工與家庭為主軸，提出職訓、托育、醫療、長者及工會支持政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-fb",
+      "text": "做勞工最大的靠山！挺勞工、顧工會、實質照顧每個家庭！\n\n感謝各行各業的朋友們站出來相挺，為我成立後援會。勞工挺巧慧，巧慧更要用具體政見照顧所有市民：\n\n✅巧慧挺勞工\n・ 調升職災慰問金、勞資爭議涉訟補助\n・ 加碼補助高溫防暑設備\n・ 擴大推動多元職訓，支持中高齡再就業\n・ 獎勵資深人才加入青創團隊擔任創業教練\n\n✅巧慧挺工會\n・ 改善工會辦公空間\n・ 調高職業工會行政事務費、會務經費\n・ 建立市府與工會直接對話機制\n\n✅巧慧挺家庭\n・國中小免費營養午餐\n・0-6歲免門診與住院部分負擔\n・早產兒3萬元照顧津貼\n・鼓勵企業組隊設托，友善職場獎勵金最高100萬元\n・長輩假牙補助最高5萬元\n・敬老卡升級1000點，每月不會歸零\n\n我會繼續努力，讓大家好好生活、安心工作，在新北安居樂業！",
+      "topicScores": {
+        "教育": 0.47,
+        "社福": 0.92,
+        "經濟": 0.76,
+        "醫療": 0.68
+      },
+      "topics": [
+        "社福",
+        "經濟",
+        "醫療",
+        "教育"
+      ],
+      "url": "https://www.facebook.com/chiaohui.su/posts/pfbid0Yu67MXDUBJaKdNhghBuPDM6TMVK8z68gsioUBKUFs3zVLrfqetbWGB1jBCFG9pxzl"
+    },
+    {
       "agendaRelevance": 0.05,
       "candidateId": "su-chiaohui",
       "classification": {
@@ -519,6 +606,40 @@
         "體育"
       ],
       "url": "https://www.instagram.com/p/DdDXQRKOSOK/"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "197fd7a957e169b1db06cb4a6cc9f75b9a31de5bef66e034bf8e78b844a39b18",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1645930473555449",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/255fdb323409e16e977b.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T00:30:57.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "介紹新北藏寶遊戲與在地角落，屬文化觀光推廣及活動邀請。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-fb",
+      "text": "開箱新北小遊戲！你不知道的好所在✨\n\n因為行程很多，我每天在新北到處跑，常會經過充滿驚喜的角落，我都會想：「我一定要讓更多人知道這裡！」\n\n所以這次，我想用一個新的方式，邀請大家真的打開新北、重新認識新北。我邀請了8位知名的插畫家、漫畫家，和我一起打造了「開箱新北」藏寶計劃！\n\n【開箱新北第一彈：你家隔壁】\n很多時候，熟悉的風景裡，反而藏著我們忽略的故事。\n\n第一彈的藏寶企劃，我攜手人氣創作者 HOM 與小心臟LittleHeart，設置了5個藏寶點，要帶大家重新認識那些「以為很熟悉、其實不太了解」的日常角落。\n\n大家快根據影片裡的線索找到我和 蔡英文 Tsai Ing-wen #小英總統 藏寶藏的地方，開箱寶盒！\n\n藏寶盒裡面有什麼？\n🎁水獺媽媽與HOM、小心臟限量「聯名壓克力鑰匙圈」（2款各3個，手腳慢就沒了！）\n🎁水獺媽媽與HOM、小心臟獨家「聯名貼紙」（2款各10張）\n\n🌟每位抵達的參加者可以領取「一份」小禮物唷～\n\n歡迎各位新北在地玩家，一起從你家隔壁開始，更深入地認識新北！",
+      "topicScores": {
+        "文化觀光": 0.93,
+        "生活": 0.55
+      },
+      "topics": [
+        "文化觀光",
+        "生活"
+      ],
+      "url": "https://www.facebook.com/reel/1332872845370326/"
     },
     {
       "agendaRelevance": 0.1,
@@ -685,6 +806,76 @@
       "url": "https://www.instagram.com/p/DdBVhMZCQJC/"
     },
     {
+      "agendaRelevance": 0.08,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "e85113fd313af7bdf0b6fe6273f1fdfd3138daad0e23b73d5d20e53135a7a5c3",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1645422196939610",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/87a1f137ccc57e76d2cc.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T09:09:52.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "與副總統一同參與地方農事交流，主要是生活與地方互動紀錄，沒有具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-fb",
+      "text": "今天我和蕭美琴 Bi-khim Hsiao副總統在金山挖芋頭，也和在地青年、農會聊聊對金山未來的想像！\n\n我們都是芋頭派的喔🤩（芋頭派的舉手～🙋🏼",
+      "topicScores": {
+        "生活": 0.96
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/chiaohui.su/posts/pfbid02iPWJMGuE3jfadovMoHWzUmRJ11qytTP9hEFj8fy5wyfHrNYfLTZWVAY3stjGsPKol"
+    },
+    {
+      "agendaRelevance": 0.91,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "b63067962888557ea476e7d7553ae89a19d2fc61fc5e8fc01b6d2fa355d00d12",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1645354826946347",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/70c60b24f12f041ab238.webp",
+      "keywords": [
+        "觀光"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T07:09:57.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出成立都市更新局、改善居住環境及推動觀光品牌的城市治理政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-fb",
+      "text": "新北衛星變繁星，打造 #新北光榮感！\n\n林姓宗親會的團結與榮譽感，也是我對新北的期待。我希望建立屬於新北人的 #城市認同感，讓每一位新北市民，以新北為榮。\n\n新北有都市區，也有山海城鎮。未來我會成立 #都市更新局，給市民更安全、舒適的居住環境，也會透過 #新皇冠海岸 與 #鑽石山城 計畫，打造新北國際觀光新品牌。\n\n新北29區，每一區都是一顆閃耀的星星。新時代、新市長，我會帶領新北大步向前，新北市民會以新北為榮！",
+      "topicScores": {
+        "住宅": 0.92,
+        "文化觀光": 0.9,
+        "生活": 0.78
+      },
+      "topics": [
+        "住宅",
+        "文化觀光",
+        "生活"
+      ],
+      "url": "https://www.facebook.com/reel/27611263801886347/"
+    },
+    {
       "agendaRelevance": 0.93,
       "candidateId": "su-chiaohui",
       "classification": {
@@ -753,6 +944,40 @@
         "生活"
       ],
       "url": "https://www.instagram.com/p/Dc-1yZ1JBgN/"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "2c3b2d09b3d818a535b2aaa12d2283c19136e86370001b9b2b787c89c5591c6c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1644604600354703",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/557d440a1e0ec813c275.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-07T10:11:27.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "介紹數學主題親子活動，兼具教育遊戲與休閒性質，未提出制度性政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-fb",
+      "text": "水獺媽媽樂園大變身！這次我們把數學變好玩！#水獺媽媽數感樂園 在新店開園啦！\n\n這次，我和 #數感實驗室 合作，準備了滿滿的數學闖關遊戲，要讓大朋友、小朋友不僅在假日時，盡情玩樂享受寶貴的親子時光，更能從中找回探索知識的樂趣！\n\n🗓️9月20日（日）上午9:00至12:00\n📍新店耕莘專校 學生活動中心 （新店區民族路112號）\n🎟️免費入場",
+      "topicScores": {
+        "教育": 0.86,
+        "生活": 0.84
+      },
+      "topics": [
+        "教育",
+        "生活"
+      ],
+      "url": "https://www.facebook.com/chiaohui.su/posts/pfbid0ooGUcm9tghV4qS4DmpzM1vJBAJkRLRyvzRHKhiYMavi1XjUWMRwghPqm1zwbmmtAl"
     },
     {
       "agendaRelevance": 0.5,
@@ -15769,8 +15994,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DauwrJ5Jg-c/",
-      "imageAspect": 0.5626,
-      "imageUrl": "assets/feed-images/e6245cec20df97e7977c.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-13T11:01:35+00:00",
@@ -15837,8 +16062,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dauwk9sAUA-",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/d58af42906214a76f38a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-13T11:00:29+00:00",
@@ -15871,8 +16096,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:sxo85zN7m30",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/4cb1c048212c00031d7f.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-13T11:00:27+00:00",

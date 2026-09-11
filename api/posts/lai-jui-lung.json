@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/39c51d49d2023a8ab58c.webp",
+    "avatarUrl": "assets/source-avatars/963e1fc9d1bca4f13c9b.webp",
     "city": "kaohsiung",
     "cityLabel": "高雄市",
     "id": "lai-jui-lung",
@@ -19,7 +19,7 @@
     "name": "賴瑞隆",
     "party": "民進黨"
   },
-  "count": 401,
+  "count": 407,
   "posts": [
     {
       "agendaRelevance": 0.12,
@@ -186,6 +186,38 @@
       "url": "https://www.threads.com/t/DdF_K_SESAW"
     },
     {
+      "agendaRelevance": 0.01,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "2ecb48b23399b8895cbb7d68a83fa50b74a926b5512dd8cbc61b050c3aa15d4a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1659790765502587",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/71a87c93e0f2c3c23ae3.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-10T04:03:00.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享參與歌仔戲演出的活動內容，沒有具體公共政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-fb",
+      "text": "隆來看歌仔戲！\n\n這次瑞隆學做戲，跤步手路猶無夠水氣，請大家多多包涵，來給瑞隆拍噗仔👏",
+      "topicScores": {
+        "文化觀光": 0.95
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.facebook.com/reel/1638021454523544/"
+    },
+    {
       "agendaRelevance": 0.02,
       "candidateId": "lai-jui-lung",
       "classification": {
@@ -216,6 +248,74 @@
         "生活"
       ],
       "url": "https://www.threads.com/t/DdD-w0CCRyT"
+    },
+    {
+      "agendaRelevance": 0.0,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "35a9e6e4ff8556dadebc4571f7dd3182142c16423cff21e5058f09fb7e0ea12f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1659100368904960",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/bcdac834defcc60a7542.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T09:50:35.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以歌名與意外離地發生的雙關語進行生活化幽默分享。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-fb",
+      "text": "我只不過唱個「離開地球表面」，怎麼下一秒就離開地面了？",
+      "topicScores": {
+        "生活": 0.99
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/reel/2246657725906430/"
+    },
+    {
+      "agendaRelevance": 0.93,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "4e509e8cb8e57a95d1f8b11fd466f702e7030e2353529b268490ae272bd3980d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1658935122254818",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/db9bc291cb3d0d0c07b6.webp",
+      "keywords": [
+        "運動",
+        "選手",
+        "冠軍"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T04:57:57.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "參與體育表揚活動並提出增加選手教練支持及一區一運動中心的政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-fb",
+      "text": "9月9日國民體育節，向每一位為高雄體育努力的人致敬！\n\n今天參加高雄市體育有功人員表揚典禮，恭喜所有獲獎的選手、教練、裁判，以及每一位投入高雄體育的夥伴。每一座獎牌、每一次站上頒獎台，背後都是長時間的訓練和許多人的付出。\n\n我自己從小就是鉛球選手，國小拿過冠軍，高中也參加縣運，大學仍持續透過比賽進行訓練。運動鍛鍊體能，也讓人更專注、更懂得如何面對挑戰。\n\n場上的選手背後，還有教練、裁判、訓練團隊和各界支持。謝謝市府團隊這幾年投入高雄體育，也感謝所有贊助夥伴，讓選手有更好的條件專心訓練。\n\n未來我會增加對選手和教練的支持，也推動「一區一運動中心」，讓競技選手有更好的舞台，也讓運動走進更多人的生活，打造更健康、更有活力的運動城市。\n\n陳其邁 Chen Chi-Mai  高雄小金剛許智傑 康裕成 高雄市議長   邱俊憲 高雄市議員  陳慧文 高雄市議員  林智鴻 高雄市議員  黃捷 服務團隊 高雄市議會副議長曾俊傑 服務團隊 張博洋  服務團隊",
+      "topicScores": {
+        "體育": 0.99
+      },
+      "topics": [
+        "體育"
+      ],
+      "url": "https://www.facebook.com/zenolai2/posts/pfbid0wWp3ezycfRRsSXrKcsCEe8h3Y9WcMXQ7L9r2XiSKwYBcmqpqeUZXgtw7BkhrTekRl"
     },
     {
       "agendaRelevance": 0.3,
@@ -316,6 +416,109 @@
         "競選"
       ],
       "url": "https://www.youtube.com/watch?v=lmkCPfHAy6k"
+    },
+    {
+      "agendaRelevance": 0.76,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "c293f7c728208693def2a4374be9fd6f3f3599aa5359af3acbf45adbaaa1983f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1658233015658362",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/b965d32776697277cb23.webp",
+      "keywords": [
+        "觀光"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T09:30:02.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主張整合高屏農漁產、通路與觀光資源，拓展市場並推動區域合作。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-fb",
+      "text": "高屏齊心，農產鍍金！\n\n高屏生活圈向來緊密相連，今天和 周春米  小米縣長一起推廣屏東金牌水產，強化兩地合作，行銷在地好產品、串聯觀光資源，拓展全台與國際通路。\n\n這次屏東縣府和連鎖企業合作，選用屏東金牌水產的龍虎斑，透過全台餐飲通路增加能見度，就是很好的例子。\n\n高雄、屏東都有優質的農漁特產，從通路拓展、品牌宣傳到城市行銷，都有合作空間。未來我會運用過去在市府推動城市行銷的經驗，整合兩地資源、發揮各自特色，把南台灣的好產品推向更多市場。\n\n高屏攜手，讓在地好物走進更多人的生活，也替農漁民拚出更大的舞台！",
+      "topicScores": {
+        "文化觀光": 0.85,
+        "經濟": 0.96
+      },
+      "topics": [
+        "經濟",
+        "文化觀光"
+      ],
+      "url": "https://www.facebook.com/zenolai2/posts/pfbid0kb4gwDL9pMkNWEKqbYe7LEDXm7sGc97oA3ytAFjpP6QGahBQWHPdW3FFe3v3gYRzl"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "41b22cd10fa6316027d25908768d3be60bd27f0871a78cc0efef5744d25114a3",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1658114002336930",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/2725c979666e4cecfa86.webp",
+      "keywords": [
+        "運動",
+        "選手"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T05:55:15.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "紀錄亞運代表團授旗並為選手加油，屬體育活動與支持性發文。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-fb",
+      "text": "做選手最堅強的後盾！預祝台灣健兒征戰名古屋亞運勇奪佳績\n\n今天參加2026名古屋亞運代表團授旗儀式， 賴清德  總統親自授旗，為即將出征的台灣健兒加油，期勉代表隊勇奪佳績。看著國家運動訓練中心裡，超過700位國手、教練和後勤團隊整裝待發，這份為國爭光的決心，讓人熱血沸騰。  \n\n出征前先抽到好彩頭！選手代表 #楊加力、 王齊麟/Wang Chi Lin  接連抽中「團運籤」上上籤——「相信自己就可以得勝」、「放心去拚」。 賴總統更送上必勝御守，祝福台灣健兒旗開得勝、勇奪佳績。\n\n這次的代表團陣容堅強，更讓我與 高雄小金剛許智傑  委員驕傲的是，有近50位高雄子弟兵披上國家隊戰袍！包括田徑的簡子傑、謝元愷，射擊的吳佳穎，網球的葛藍·喬安娜，柔道的張齡方、劉子芸，跆拳道的林翊榛，鐵人三項的張綺文，高爾夫的王偉軒、舉重的謝孟恩等人，將一起代表台灣站上亞運舞台。\n\n過去我也是田徑項目的鉛球選手，深知每天早起訓練、不斷挑戰自我極限的感覺。能站上國際賽場，背後都是日復一日的刻苦準備。\n\n選手能專心備戰、安心站上場，背後少不了教練、運科、防護和後勤團隊。感謝中華奧會蔡家福主席、廖裕輝總領隊、國手出身的李洋部長，以及所有工作夥伴，為選手做好出征準備。\n\n如同 李洋/Lee Yang  部長所說：「不要低估自己！」祝福所有台灣健兒、高雄子弟，在亞運盡情發揮、享受比賽。高雄和全台灣都會全力相挺，為大家加油！",
+      "topicScores": {
+        "體育": 0.99
+      },
+      "topics": [
+        "體育"
+      ],
+      "url": "https://www.facebook.com/zenolai2/posts/pfbid08pHpQvsnebec1Fs1N9ao8PeMy6HLeCKxuVxdwEAFmBwnogEDJshL5U6b5RdwN9eYl"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "43ff7a2e3457fec8bb6d918b634ceb7c2e1a4b12aeadd73eb1a68fed8a26b8bc",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1657961205685543",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/1561cb40c625f1418e7a.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T01:25:43.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "表達為高雄承擔與努力的競選式口號，沒有具體政策內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-fb",
+      "text": "把高雄放在心上、把責任扛在肩上，我會全力以赴為高雄努力！",
+      "topicScores": {
+        "競選": 0.9
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/reel/1382684500085745/"
     },
     {
       "agendaRelevance": 0.08,

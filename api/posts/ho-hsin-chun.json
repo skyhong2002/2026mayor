@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/5f4474e6ddf98565c567.webp",
+    "avatarUrl": "assets/source-avatars/5092cf5b71d774d36802.webp",
     "city": "taichung",
     "cityLabel": "臺中市",
     "id": "ho-hsin-chun",
@@ -19,7 +19,7 @@
     "name": "何欣純",
     "party": "民進黨"
   },
-  "count": 472,
+  "count": 479,
   "posts": [
     {
       "agendaRelevance": 0.94,
@@ -387,6 +387,42 @@
       "agendaRelevance": 0.91,
       "candidateId": "ho-hsin-chun",
       "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "9bf8e0597c4c00464594e33c71434dec6c6abb9bb31ce55271671fc82f756ed6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1682172283272179",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/98ded9cdce617cded4ca.webp",
+      "keywords": [
+        "觀光"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-10T00:00:40.000Z",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "提出梧棲漁港整修活化、食魚教育與觀光串聯計畫。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-fb",
+      "text": "#梧棲漁港 是中部重要的觀光休閒漁港，先前我成功爭取中央六千多萬元補助，推動漁港整修與活化。\n\n未來梧棲漁港將結合食魚教育、親子空間、休閒咖啡館，串聯周邊觀光景點，讓漁港不只是買海鮮，更成為大家休閒的好去處！\n\n#心存大台中\n#市長換欣_台中創新",
+      "topicScores": {
+        "文化觀光": 0.97,
+        "經濟": 0.79
+      },
+      "topics": [
+        "文化觀光",
+        "經濟"
+      ],
+      "url": "https://www.facebook.com/reel/1099841485840116/"
+    },
+    {
+      "agendaRelevance": 0.91,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
         "classifiedAt": "2026-09-11T10:34:37+00:00",
         "inputHash": "ee258a6413b857b6dc6b642138ea0ebf40865f707cce686a6a61dc67af9ad73d",
         "method": "ai",
@@ -464,6 +500,93 @@
         "競選"
       ],
       "url": "https://www.instagram.com/p/DdEcNymvDGs/"
+    },
+    {
+      "agendaRelevance": 0.62,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "98f614d8c7e20c791d7607aad30bcd6469975290a17a088ef47b611455b643d9",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-11T11:15:59+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1681779773311430",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/b69910a56e407b754630.webp",
+      "keywords": [
+        "敬老",
+        "學校",
+        "營養午餐",
+        "國中"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T13:59:07.000Z",
+      "postingIntent": {
+        "confidence": 0.9,
+        "label": "回應他方觀點",
+        "reason": "針對盧秀燕的敬老卡與營養午餐政策，對比何欣純等人主張並批評其原先立場。",
+        "type": "responsive"
+      },
+      "sourceId": "ho-hc-fb",
+      "text": "何欣純政策許願池！\n何欣純主張，敬老愛心卡坐計程車從85點增加到200點，盧市長就從85點微幅增加到100點；國中小孩子營養午餐不分公私立學校通通免費，議會不分顏色的議員提案支持那麼多年，盧市長本來說沒有錢，後來何欣純、蔣萬安、陳其邁都說要做，盧市長就說有錢了、要跟著做......何欣純「政策許願池」好像還蠻好的！\n\n新台中，交給何欣純！",
+      "topicScores": {
+        "教育": 0.87,
+        "社福": 0.91,
+        "競選": 0.9
+      },
+      "topics": [
+        "社福",
+        "競選",
+        "教育"
+      ],
+      "url": "https://www.facebook.com/reel/1759719688612934/"
+    },
+    {
+      "agendaRelevance": 0.9,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "7aadc708597682dd23a8a1d57381432bf99147ea0cc0ded2db1dc074a9b004c1",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1681609339995140",
+      "imageAspect": 1.7771,
+      "imageUrl": "assets/feed-images/a041bfaaa04000f6cbfe.webp",
+      "keywords": [
+        "掃街",
+        "老人",
+        "長輩",
+        "敬老",
+        "補助",
+        "交通",
+        "道路"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T10:05:52.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "競選掃街中提出老人福利升級與交通建設政策承諾。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-fb",
+      "text": "今天來到非常熟悉的太平區 #中山市場，攤販與採買的鄉親都是認識多年的老朋友，還有攤商送上象徵「好彩頭」的菜頭，祝福我勝選，真的讓我又驚喜又窩心❤️\n\n掃街途中，不少長輩關心老人福利，我也向大家保證，未來擔任市長，老人健保補助一定延續，敬老愛心卡也會再升級，除了每月點數不歸零、擴大使用範圍，計程車單趟使用點數也將提高至200點，讓長輩的福利真正看得到、用得到。\n\n身為屯區女兒，這些年我持續為太平爭取中央資源，從74號快速道路六順橋南入匝道、市民大道一、二期，到太平區聯合行政中心等重大建設陸續完工啟用，就是希望跟著太平的人口成長，把交通、建設與生活品質一起升級。\n\n未來我會繼續和大家一起拚，讓太平越來越好，也讓大台中成為大家安心生活的首選城市！\n\n#心存大台中\n#市長換欣_台中創新",
+      "topicScores": {
+        "交通": 0.88,
+        "社福": 0.94,
+        "競選": 0.96
+      },
+      "topics": [
+        "競選",
+        "社福",
+        "交通"
+      ],
+      "url": "https://www.facebook.com/94achun/posts/pfbid02P6ycY2BhNC3jURUd84zDRodo5B8UUTVp6xpBY9EdQwTkGpjgmHmTtvVcyY6SzTnZl"
     },
     {
       "agendaRelevance": 0.58,
@@ -573,6 +696,40 @@
       "url": "https://www.instagram.com/p/DdB92Niy5O0/"
     },
     {
+      "agendaRelevance": 0.03,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "ef2ad4afbaf38be38aea23ee08a6185fbcae293c893c269acbcc6210d2665f89",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1680912260064848",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/9859a6542ff7122d03c1.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T15:00:45.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "紀錄蔡英文參與競選總部開箱的活動內容，屬競選活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-fb",
+      "text": "這是我迎接 蔡英文 Tsai Ing-wen  #小英榮譽主任委員 開箱何欣純競選總部的歡迎背板！\n小英菇旁邊的，是我 #何鮮菇 🍄‍🟫🍄‍🟫",
+      "topicScores": {
+        "競選": 0.96
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/94achun/posts/pfbid0x6fa282SwKWr2UH5WnbVjeMFmYbMbJe5bzKCt43bFVeytAXp6gsixHKjHpSU3aXsl"
+    },
+    {
       "agendaRelevance": 0.2,
       "candidateId": "ho-hsin-chun",
       "classification": {
@@ -606,6 +763,75 @@
         "競選"
       ],
       "url": "https://www.instagram.com/p/DdBYRRYD2RN/"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "a3faf8e643e168f30f93cf3bc26d2ad5d1eb5d641d7939f2f773aca0492ea83a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1680680153421392",
+      "imageAspect": 1.7507,
+      "imageUrl": "assets/feed-images/cd59b4cc99614eba116f.webp",
+      "keywords": [
+        "競選",
+        "競總"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T09:31:16.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "介紹競選總部成立活動並號召支持，主要是競選動員而非具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-fb",
+      "text": "何欣純露營風競選總部，小英帶你來開箱！⛺️\n\n今天很高興邀請到競總榮譽主委蔡英文 Tsai Ing-wen前總統，以及競選主委蔡其昌來到我的競選總部，一起開箱這個以露營桌椅、植栽、燈串、市民充電站與政策牆打造的「露營風」競總。\n\n小英致詞時提到，台中正處於建設與產業的重要轉型時刻，需要中央地方合作，也需要一位願意把事情做到底的市長，他之所以願意接下榮譽主委一職，就是對我有信心。\n\n謝謝小英對我的信任，未來我會和小英、蔡其昌主委，以及所有台中隊夥伴一起努力，讓台中迎向更好的下一個階段！\n\n這週六下午2點，競總將正式舉辦成立活動，還有FOCASA馬戲團《潘朵拉的盒子》精彩演出，賴清德總統也將到場支持，歡迎大家帶著家人朋友，一起來競總坐坐、看表演，一起為台中加油！\n\n#心存大台中\n#市長換欣_台中創新",
+      "topicScores": {
+        "生活": 0.55,
+        "競選": 0.99
+      },
+      "topics": [
+        "競選",
+        "生活"
+      ],
+      "url": "https://www.facebook.com/94achun/posts/pfbid02nB21ndvE55gFsq7s9ArcZdBEHYvVRMESTW1wo4NPtgaQwMyr2Sv2sMVwmnBFjg3ml"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "9c13d63c0b83fc2fda032b2417c55a6e1a6cc9c5705fa5d7f26d5adfdc8c6a5a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1680350183454389",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/d526437dcc650fb0ff55.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T00:01:14.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享親子休閒活動並預告巡迴活動，屬活動紀錄與資訊公告。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-fb",
+      "text": "孩子的笑聲，就是城市最可愛的風景❤️\n\n週末跟著大小朋友一起玩氣球、玩泡泡，還PK了戰鬥陀螺，為夏日留下開心回憶。\n\n接下來 #親子童樂列車 還會在大台中陸續登場，歡迎鎖定我的臉書粉專，一起來玩！",
+      "topicScores": {
+        "生活": 0.94
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/reel/2318342708937205/"
     },
     {
       "agendaRelevance": 0.06,
@@ -16964,6 +17190,40 @@
         "議會監督"
       ],
       "url": "https://www.instagram.com/p/DZruOSsPucF/"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "e8e21d790a515519db0b2bb7870b1f00f2d41bb2c612ddb2039e68f186b69407",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:bZQ2NVayVsk",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/48076378f71c8813e568.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "youtube",
+      "postedAt": "",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "簡短公布台中市長候選人競選總部成立活動，屬競選紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "台中市長候選人何欣純競選總部成立大會",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=bZQ2NVayVsk"
     }
   ],
   "version": 1

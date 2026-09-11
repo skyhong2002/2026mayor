@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/009b0ffaf489f1ebcb84.webp",
+    "avatarUrl": "assets/source-avatars/7bb20603e26b92ee2f27.webp",
     "city": "taoyuan",
     "cityLabel": "桃園市",
     "id": "huang-shih-chieh",
@@ -19,7 +19,7 @@
     "name": "黃世杰",
     "party": "民進黨"
   },
-  "count": 446,
+  "count": 451,
   "posts": [
     {
       "agendaRelevance": 0.01,
@@ -234,6 +234,47 @@
       "url": "https://www.instagram.com/p/DdF31q7O2yr/"
     },
     {
+      "agendaRelevance": 0.9,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "7792c753b8f573b1294f259b4a36d86f0dd093e41bbd538488df43bf91464971",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1594675135440352",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/7ca49eceace1f9da4918.webp",
+      "keywords": [
+        "籃球",
+        "運動",
+        "選手",
+        "醫療"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-10T03:27:13.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "提出十分鐘運動生活圈、運動社團、共融據點及選手照護等體育政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-fb",
+      "text": "我和黃家齊議員都熱愛打籃球🏀這次就用一場三對三，來聊聊我們理想中的「運動城市」！\n\n世杰要打造「10分鐘運動生活圈」，從孩子的多元運動社團、年輕人的戶外運動空間；到長輩、身障朋友的分齡運動與共融據點；專業選手的培訓、獎勵、醫療照護也要全面升級，讓全民都能動、選手放心拚💪🏻更要打造「桃園全民運動季」，把桃園的運動品牌推向國際，用運動連結世界、讓世界看見桃園！\n\n運動心桃園，幸福動起來💖Taoyuan, This is for you!",
+      "topicScores": {
+        "教育": 0.57,
+        "醫療": 0.35,
+        "體育": 0.98
+      },
+      "topics": [
+        "體育",
+        "教育",
+        "醫療"
+      ],
+      "url": "https://www.facebook.com/reel/1622308086230223/"
+    },
+    {
       "agendaRelevance": 0.98,
       "candidateId": "huang-shih-chieh",
       "classification": {
@@ -276,6 +317,50 @@
       "url": "https://www.instagram.com/p/DdEXkPLE42x/"
     },
     {
+      "agendaRelevance": 0.96,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "7b54f469121e5f19e79775af9f8358809b693f088b7eeacc6ed6adf2ef5dcc66",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1594178035490062",
+      "imageAspect": 1.4975,
+      "imageUrl": "assets/feed-images/11c8b26dff6e7749540b.webp",
+      "keywords": [
+        "運動",
+        "選手",
+        "賽事",
+        "學校",
+        "醫療"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T13:26:25.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "完整提出全民運動、選手培訓照護及國際運動城市的政策方案。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-fb",
+      "text": "運動心桃園，幸福動起來 .ᐟ\n\n今天是9/9國民體育日，也是運動部正式成立滿一周年。世杰今天和桃園體育界舉辦座談會，向總統府葉政彥國策顧問、前運動部鄭世忠政務次長、邱炳坤教授及黎正評教授等各領域教練及專業人士請益，交流對桃園體育發展的想法。\n\n世杰認為，桃園除了要栽培優秀的運動選手，也必須創造讓每位市民都能自在運動、健康生活的城市💪\n\n我是黃世杰，我要打造「打造心生活運動城市」：\n\n📢推動全民運動，構築大桃園運動生活圈\n➊推動學校多元運動社團，導入專業合作機制\n➋擴增多元戶外運動空間，升級運動環境友善設施\n➌推動分齡與分區運動賽事，打造「桃園全民運動季」\n➍設置專屬適應運動中心與共融運動據點\n\n📢強化桃園運動選手的培訓與照顧，擴大健全照護防護網\n➊調整桃園選手參加各項賽事的獎勵制度\n➋串聯醫療資源，打造健全照護防護網\n\n📢打造桃園成為國際運動城市的品牌，用運動連結世界\n讓世界看見桃園，發展具有國際發展潛力項目，建立國際合作，打造桃園運動城市新品牌。\n\n未來，我會全力改善桃園的體育環境，打造全民運動心生活，從孩子到選手、從社區到國際，讓運動真正扎根桃園，一起打造充滿活力、全民運動的幸福城市💖",
+      "topicScores": {
+        "兩岸外交": 0.3,
+        "教育": 0.62,
+        "醫療": 0.52,
+        "體育": 0.99
+      },
+      "topics": [
+        "體育",
+        "教育",
+        "醫療",
+        "兩岸外交"
+      ],
+      "url": "https://www.facebook.com/SCHuangLawyer/posts/pfbid02XiHY9rUPiEcghuAWqNUVaSDJvdPdf5N3aQEfAcpDuppZLNwj1yDSk3zFridMqXgfl"
+    },
+    {
       "agendaRelevance": 0.78,
       "candidateId": "huang-shih-chieh",
       "classification": {
@@ -306,6 +391,40 @@
         "社福"
       ],
       "url": "https://www.instagram.com/p/DdELqLaE--x/"
+    },
+    {
+      "agendaRelevance": 0.7,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "59472b720d85fcbaafd5f291a66dc043285498ff72431703fa8b9de07070b47e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1594106845497181",
+      "imageAspect": 1.4975,
+      "imageUrl": "assets/feed-images/5f05cd5e061b3f045e21.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-09T11:41:52.000Z",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "關注身心障礙者自立與社福機構訂單，主張政府串聯採購及企業資源。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-fb",
+      "text": "今天午後，我和總統府何志偉副秘書長走進 觀音愛心家園，空氣裡瀰漫著剛出爐的糕點甜香，耳邊傳來純真燦爛的笑聲。\n\n我和志偉坐下來，向憨兒寶貝學習組裝中秋紙盒。看著他們小心翼翼對齊摺線、壓平邊角，眼神裡滿是專注。\n\n前陣子外頭有些紛擾與考驗，但他們沒有退縮，因為手裡摺的不只是紙盒，更是自立生活的尊嚴。遞出的每一塊點心，都是想跟世界分享的心意，而且真的非常好吃，連不常吃甜點的我都一口接一口。\n\n一筆訂單，對大家來說只是日常的選擇，對他們而言，卻是證明自我價值的舞台。所幸各界的善意及時匯聚，觀音愛心家園今年中秋訂單已額滿，我和志偉也特別預訂了年節禮盒，要把這份支持延續下去。\n\n除了民間的熱心，地方政府更該主動搭起橋梁，串聯公部門採購與企業資源，把一次的幫助轉化為長遠的機會。\n\n一座城市的溫度，不是看它有多少高樓大廈，而是看它願不願意為走得慢的人留一盞燈。\n\n未來的桃園，不僅要大步建設，更要成為一座溫暖、包容，讓每個人都能活出尊嚴跟價值的城市❤️",
+      "topicScores": {
+        "社福": 0.93,
+        "經濟": 0.52
+      },
+      "topics": [
+        "社福",
+        "經濟"
+      ],
+      "url": "https://www.facebook.com/SCHuangLawyer/posts/pfbid0LjNbft7q47HbXgxxv2Rf3uiaSfREPMTQneaLpGW3B1QuWbyjBY4RYUrK6J4Aq8Vdl"
     },
     {
       "agendaRelevance": 0.72,
@@ -376,6 +495,83 @@
         "競選"
       ],
       "url": "https://www.instagram.com/p/DdB6KktTvBA/"
+    },
+    {
+      "agendaRelevance": 0.7,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "333945049fda25e396f2127e4c32019227fc990bcd75673f210bf2c0731bee30",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-11T11:15:59+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1593394732235059",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/d4cca13bcbe3031e0051.webp",
+      "keywords": [
+        "住宅",
+        "產業",
+        "科技",
+        "道路"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-08T14:25:52.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "回應他方觀點",
+        "reason": "針對張善政及張市府，反駁其市政怠惰、都市計畫停滯與「不要覺得都沒動」的說法。",
+        "type": "responsive"
+      },
+      "sourceId": "huang-sj-fb",
+      "text": "在文燦市長時代，新屋曾經是被重視的焦點。換張善政後，新屋又被邊緣化，成為被遺忘的邊陲。\n\n市長如果有心，能為地方帶來的改變無可限量。\n但這幾年，新屋人看到的只有停滯跟空轉。\n\n像是動也不動的新屋都市計畫。在世杰擔任立委期間，和桃園市議員 陳睿生並肩作戰，積極督促內政部，市府只要積極補件就能順利推進。\n\n遺憾的是，張市府消極以對。攸關市民生活品質的公園綠地、住宅區開闢，以及街上繁榮的機會，就這樣被擱置一旁。\n\n新屋要蛻變，產業必須升級，小孩才不必背井離鄉。如果三年前台積電順利進駐，搭配新梅龍快速道路的串聯，新屋早就是高科技廊帶的關鍵腹地。\n\n張善政讓桃園錯失寶貴的黃金三年，卻回頭跟鄉親說，「不要覺得都沒動」？\n\n新屋人的生活品質與下一代的未來，禁不起散政繼續空轉。\n\n翻轉新屋，需要真正有魄力、有願景、傾聽基層的行動派。\n\n黃世杰已經準備好，把專業與歷練，毫無保留奉獻給最摯愛的家鄉！我知道大家的期待，不只是疼惜新屋子弟，而是期盼一個懂桃園、把新屋放在心上的市長。\n\n11/28，讓我們一起站出來支持黃世杰、翻轉大桃園。終結怠惰散政，讓心桃園全面動起來！",
+      "topicScores": {
+        "交通": 0.85,
+        "住宅": 0.9,
+        "競選": 0.95,
+        "經濟": 0.9
+      },
+      "topics": [
+        "競選",
+        "住宅",
+        "經濟",
+        "交通"
+      ],
+      "url": "https://www.facebook.com/SCHuangLawyer/posts/pfbid07J3pYQgzNHA8QZFPvTDDzi9GXzw49jnk7SJwfsT1HeLVasQeVkijmxZ8QmCtovshl"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T11:15:00+00:00",
+        "inputHash": "02fa652efcdfa0d323ca3e174fc27870e223ec7968c6c91efc77b1ad26a3415c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1592576765650189",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/c97fc214f8912b93692d.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-07T14:37:18.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以蕭美琴背書與個人經歷進行市長競選宣傳及拉票。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-fb",
+      "text": "被蕭美琴 Bi-khim Hsiao副總統認證，是最了解桃園、最專業積極、有願景也有魄力的「鄰家男孩」🙋‍♂️\n\n求學時代，我從中壢國小到小復旦，跟著桃園一起成長，現在正是最有衝勁、最有活力的時刻！\n\n年輕桃園準備起飛，11/28桃園市長懇請支持黃世杰，一起讓心桃園動起來💖",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/reel/2199014951051598/"
     },
     {
       "agendaRelevance": 0.08,

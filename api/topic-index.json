@@ -1,5 +1,5 @@
 {
-  "count": 4257,
+  "count": 4324,
   "fallbackTopic": "生活",
   "posts": [
     {
@@ -10169,7 +10169,7 @@
       "postedAt": "2026-07-17T13:18:39.000Z",
       "postingIntent": "self_initiated",
       "topicScores": {
-        "競選": 0.99
+        "競選": 0.98
       }
     },
     {
@@ -41193,7 +41193,8 @@
       "postedAt": "2026-09-07T04:46:11+00:00",
       "postingIntent": "self_initiated",
       "topicScores": {
-        "社福": 0.72,
+        "生活": 0.76,
+        "社福": 0.82,
         "防災": 0.98
       }
     },
@@ -42161,6 +42162,686 @@
       "topicScores": {
         "競選": 0.78,
         "體育": 0.97
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "facebook:1645422196939610",
+      "postedAt": "2026-09-08T09:09:52.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.96
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "facebook:1645354826946347",
+      "postedAt": "2026-09-08T07:09:57.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "住宅": 0.92,
+        "文化觀光": 0.9,
+        "生活": 0.78
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "facebook:1644604600354703",
+      "postedAt": "2026-09-07T10:11:27.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.86,
+        "生活": 0.84
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "facebook:1680912260064848",
+      "postedAt": "2026-09-08T15:00:45.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.96
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "facebook:1680680153421392",
+      "postedAt": "2026-09-08T09:31:16.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.55,
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "facebook:1680350183454389",
+      "postedAt": "2026-09-08T00:01:14.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.94
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:122111719923329310",
+      "postedAt": "2026-09-08T14:00:28.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.78,
+        "文化觀光": 0.95
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:122111709753329310",
+      "postedAt": "2026-09-08T11:05:55.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.62,
+        "經濟": 0.8
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:122111696259329310",
+      "postedAt": "2026-09-08T07:00:12.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.92
+      }
+    },
+    {
+      "candidateId": "chen-ting-fei",
+      "id": "facebook:1640668367421085",
+      "postedAt": "2026-09-08T05:33:36.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "社福": 0.99
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "facebook:1593394732235059",
+      "postedAt": "2026-09-08T14:25:52.000Z",
+      "postingIntent": "responsive",
+      "topicScores": {
+        "交通": 0.85,
+        "住宅": 0.9,
+        "競選": 0.95,
+        "經濟": 0.9
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "facebook:1592576765650189",
+      "postedAt": "2026-09-07T14:37:18.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "facebook:1611152480371567",
+      "postedAt": "2026-09-08T10:40:54.000Z",
+      "postingIntent": "responsive",
+      "topicScores": {
+        "環境": 0.99,
+        "醫療": 0.7
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "facebook:1611081723711976",
+      "postedAt": "2026-09-08T08:39:34.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.65,
+        "競選": 0.96
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "facebook:1610935477059934",
+      "postedAt": "2026-09-08T04:07:18.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "兩岸外交": 0.65,
+        "教育": 0.72,
+        "社福": 0.9,
+        "經濟": 0.86
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "facebook:1658233015658362",
+      "postedAt": "2026-09-08T09:30:02.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.85,
+        "經濟": 0.96
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "facebook:1658114002336930",
+      "postedAt": "2026-09-08T05:55:15.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "體育": 0.99
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "facebook:1657961205685543",
+      "postedAt": "2026-09-08T01:25:43.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.9
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "facebook:1635812631232450",
+      "postedAt": "2026-09-08T12:02:37.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.72,
+        "競選": 0.98,
+        "經濟": 0.8
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "facebook:1635700104577036",
+      "postedAt": "2026-09-08T08:57:30.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "治安": 0.92,
+        "社福": 0.99,
+        "醫療": 0.8
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "facebook:1635584641255249",
+      "postedAt": "2026-09-08T05:29:18.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "環境": 0.78,
+        "競選": 0.88,
+        "經濟": 0.86,
+        "醫療": 0.72
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:10175684156960654",
+      "postedAt": "2026-09-08T15:36:56.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.97
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:10175682079520654",
+      "postedAt": "2026-09-08T09:34:18.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "社福": 0.96
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:10175675070745654",
+      "postedAt": "2026-09-07T13:01:39.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.95
+      }
+    },
+    {
+      "candidateId": "chang-san-cheng",
+      "id": "facebook:1843694263786464",
+      "postedAt": "2026-09-07T04:46:07.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.76,
+        "社福": 0.82,
+        "防災": 0.98
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "facebook:1110662225252047",
+      "postedAt": "2026-09-08T13:18:58.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "facebook:1651857089629206",
+      "postedAt": "2026-09-08T09:37:51.000Z",
+      "postingIntent": "responsive",
+      "topicScores": {
+        "交通": 0.86
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "facebook:1651692476312334",
+      "postedAt": "2026-09-08T04:30:41.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "防災": 0.93
+      }
+    },
+    {
+      "candidateId": "chiang-wanan",
+      "id": "facebook:1630505145106103",
+      "postedAt": "2026-09-08T13:31:57.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.96,
+        "議會監督": 0.5,
+        "醫療": 0.88
+      }
+    },
+    {
+      "candidateId": "lee-shih-chuan",
+      "id": "facebook:1632698278467426",
+      "postedAt": "2026-09-07T23:30:42.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.9,
+        "文化觀光": 0.84
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:10175695577330654",
+      "postedAt": "2026-09-10T01:06:56.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.89,
+        "環境": 0.9,
+        "競選": 0.79
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:10175689019510654",
+      "postedAt": "2026-09-09T04:50:30.000Z",
+      "postingIntent": "responsive",
+      "topicScores": {
+        "兩岸外交": 0.91,
+        "治安": 0.75
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:10175684156960654",
+      "postedAt": "2026-09-08T15:36:56.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.97
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "facebook:1682172283272179",
+      "postedAt": "2026-09-10T00:00:40.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.97,
+        "經濟": 0.79
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "facebook:1681779773311430",
+      "postedAt": "2026-09-09T13:59:07.000Z",
+      "postingIntent": "responsive",
+      "topicScores": {
+        "教育": 0.87,
+        "社福": 0.91,
+        "競選": 0.9
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "facebook:1681609339995140",
+      "postedAt": "2026-09-09T10:05:52.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.88,
+        "社福": 0.94,
+        "競選": 0.96
+      }
+    },
+    {
+      "candidateId": "chiang-wanan",
+      "id": "facebook:1630505145106103",
+      "postedAt": "2026-09-08T13:31:57.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.96,
+        "議會監督": 0.5,
+        "醫療": 0.88
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:122111800359329310",
+      "postedAt": "2026-09-09T14:17:41.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.88,
+        "議會監督": 0.77
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:122111792211329310",
+      "postedAt": "2026-09-09T12:17:57.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.81
+      }
+    },
+    {
+      "candidateId": "shen-poyang",
+      "id": "facebook:122111783355329310",
+      "postedAt": "2026-09-09T08:57:51.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.8,
+        "經濟": 0.86
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "facebook:1652703532877895",
+      "postedAt": "2026-09-09T09:45:08.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "兩岸外交": 0.28,
+        "社福": 0.78,
+        "經濟": 0.82
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "facebook:1652538582894390",
+      "postedAt": "2026-09-09T04:47:19.000Z",
+      "postingIntent": "responsive",
+      "topicScores": {
+        "競選": 0.3,
+        "議會監督": 0.92
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "facebook:1110662225252047",
+      "postedAt": "2026-09-08T13:18:58.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "lee-shih-chuan",
+      "id": "facebook:1634432424960678",
+      "postedAt": "2026-09-09T23:30:51.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.67,
+        "文化觀光": 0.42
+      }
+    },
+    {
+      "candidateId": "lee-shih-chuan",
+      "id": "facebook:1633960498341204",
+      "postedAt": "2026-09-09T11:18:39.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.48,
+        "文化觀光": 0.43,
+        "體育": 0.98
+      }
+    },
+    {
+      "candidateId": "lee-shih-chuan",
+      "id": "facebook:1633700395033881",
+      "postedAt": "2026-09-09T03:53:08.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.35,
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "facebook:1594675135440352",
+      "postedAt": "2026-09-10T03:27:13.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.57,
+        "醫療": 0.35,
+        "體育": 0.98
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "facebook:1594178035490062",
+      "postedAt": "2026-09-09T13:26:25.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "兩岸外交": 0.3,
+        "教育": 0.62,
+        "醫療": 0.52,
+        "體育": 0.99
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "facebook:1594106845497181",
+      "postedAt": "2026-09-09T11:41:52.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "社福": 0.93,
+        "經濟": 0.52
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "facebook:1646902360124927",
+      "postedAt": "2026-09-10T02:46:33.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "社福": 0.97,
+        "醫療": 0.7
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "facebook:1646154103533086",
+      "postedAt": "2026-09-09T06:00:45.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.47,
+        "社福": 0.92,
+        "經濟": 0.76,
+        "醫療": 0.68
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "facebook:1645930473555449",
+      "postedAt": "2026-09-09T00:30:57.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.93,
+        "生活": 0.55
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "facebook:1611993940287421",
+      "postedAt": "2026-09-09T10:23:56.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "兩岸外交": 0.96,
+        "文化觀光": 0.58,
+        "經濟": 0.62
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "facebook:1611877766965705",
+      "postedAt": "2026-09-09T07:12:30.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.99,
+        "經濟": 0.48
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "facebook:1611732333646915",
+      "postedAt": "2026-09-09T02:53:47.000Z",
+      "postingIntent": "responsive",
+      "topicScores": {
+        "環境": 0.98,
+        "議會監督": 0.5,
+        "醫療": 0.55
+      }
+    },
+    {
+      "candidateId": "chang-san-cheng",
+      "id": "facebook:1845639156925308",
+      "postedAt": "2026-09-09T12:17:37.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.83,
+        "住宅": 0.98,
+        "經濟": 0.67
+      }
+    },
+    {
+      "candidateId": "chang-san-cheng",
+      "id": "facebook:1843694263786464",
+      "postedAt": "2026-09-07T04:46:07.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.76,
+        "社福": 0.82,
+        "防災": 0.98
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "facebook:1637153327765047",
+      "postedAt": "2026-09-10T01:12:37.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.72,
+        "競選": 0.8,
+        "防災": 0.9
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "facebook:1636740197806360",
+      "postedAt": "2026-09-09T13:33:47.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "社福": 0.99,
+        "經濟": 0.55,
+        "醫療": 0.63
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "facebook:1636612187819161",
+      "postedAt": "2026-09-09T10:28:56.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.82,
+        "生活": 0.42,
+        "經濟": 0.67,
+        "體育": 0.99
+      }
+    },
+    {
+      "candidateId": "chen-ting-fei",
+      "id": "facebook:1641841490637106",
+      "postedAt": "2026-09-09T14:07:43.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "經濟": 0.83,
+        "防災": 0.96
+      }
+    },
+    {
+      "candidateId": "chen-ting-fei",
+      "id": "facebook:1641602303994358",
+      "postedAt": "2026-09-09T07:56:12.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.75,
+        "競選": 0.62,
+        "體育": 0.84
+      }
+    },
+    {
+      "candidateId": "chen-ting-fei",
+      "id": "facebook:1641461230675132",
+      "postedAt": "2026-09-09T03:38:00.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.8,
+        "體育": 0.96
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "facebook:1659790765502587",
+      "postedAt": "2026-09-10T04:03:00.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.95
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "facebook:1659100368904960",
+      "postedAt": "2026-09-09T09:50:35.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.99
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "facebook:1658935122254818",
+      "postedAt": "2026-09-09T04:57:57.000Z",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "體育": 0.99
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "youtube:bZQ2NVayVsk",
+      "postedAt": null,
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
       }
     }
   ],
