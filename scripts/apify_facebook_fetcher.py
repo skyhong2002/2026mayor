@@ -276,6 +276,12 @@ def main() -> int:
     parser.add_argument("--force", action="store_true", help="Ignore the dynamic budget pacing.")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--check", action="store_true", help="Print pacing status as JSON and exit; used by build_status_page.py.")
+    parser.add_argument(
+        "--dataset-id",
+        action="append",
+        default=[],
+        help="Re-ingest an existing Apify dataset instead of starting a run (no cost, ledger untouched). Repeatable.",
+    )
     args = parser.parse_args()
 
     if args.check:
@@ -295,7 +301,7 @@ def main() -> int:
     ledger = feed_common.load_json(LEDGER_JSON, {})
     now = dt.datetime.now(dt.timezone.utc)
     run_cost = len(sources) * args.posts_per_page * COST_PER_RESULT_USD
-    if not args.force:
+    if not args.force and not args.dataset_id:
         should_run, reason = dynamic_run_decision(
             ledger,
             now=now,
@@ -308,6 +314,15 @@ def main() -> int:
             return 0
 
     source_by_url = {s["url"]: s for s in sources}
+    if args.dataset_id:
+        rows = []
+        for dataset_id in args.dataset_id:
+            items = fetch_dataset_items(token, dataset_id)
+            rows.extend(normalize_items(source_by_url, items))
+            print(f"apify_facebook_fetcher: dataset {dataset_id} -> {len(items)} raw item(s).")
+        appended = 0 if args.dry_run else feed_common.append_jsonl_dedup(feed_common.INBOX_JSONL, rows)
+        print(f"apify_facebook_fetcher: re-ingested {len(rows)} item(s), appended {appended} new item(s).")
+        return 0
     try:
         run_id = start_run(token, list(source_by_url), posts_per_page=args.posts_per_page)
         run = poll_run(token, run_id)

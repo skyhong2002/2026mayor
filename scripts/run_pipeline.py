@@ -265,15 +265,18 @@ def main() -> int:
             step="classify post topics and posting intent with AI",
             deferred_exit_codes=frozenset({AI_DEFERRED_EXIT_CODE}),
         )
-        if classification_returncode == AI_DEFERRED_EXIT_CODE:
-            completed = True
+        # A deferred classification (quota exhausted, or a post the model
+        # keeps failing on) must not freeze the site: the posts classified so
+        # far still get published and the rest are retried next run. Every
+        # public builder reads only classified posts.
+        ai_deferred = classification_returncode == AI_DEFERRED_EXIT_CODE
+        if ai_deferred:
             publish_runtime_status(
-                "deferred",
+                "running",
                 current_step="classify post topics and posting intent with AI",
-                message="AI item deferred; keeping the current public snapshot until the next scheduled retry",
+                message="Some AI classifications deferred to the next run; publishing what was classified",
                 returncode=classification_returncode,
             )
-            return 0
         run([PYTHON, "scripts/build_public_data.py"], step="build public data")
         run([PYTHON, "scripts/build_spectrum.py"], step="build spectrum")
         run([PYTHON, "scripts/build_qualitative.py"], step="build qualitative comparisons")
@@ -296,7 +299,14 @@ def main() -> int:
             publish_runtime_status("ok", message="Pipeline completed; publishing snapshot")
             run(pages_args, step="publish github pages")
         completed = True
-        publish_runtime_status("ok", message="Pipeline completed")
+        publish_runtime_status(
+            "ok",
+            message=(
+                "Pipeline completed; some AI classifications deferred to the next run"
+                if ai_deferred
+                else "Pipeline completed"
+            ),
+        )
     finally:
         if not args.no_lock:
             release_lock(lock_path)

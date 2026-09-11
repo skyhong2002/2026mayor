@@ -43,7 +43,7 @@ class ExecuteStepTests(unittest.TestCase):
 
     @mock.patch.object(run_pipeline, "write_json_atomic")
     @mock.patch.object(run_pipeline, "execute_step")
-    def test_pipeline_keeps_current_snapshot_when_ai_is_deferred(
+    def test_pipeline_still_publishes_when_ai_is_deferred(
         self, execute_step_mock, write_json_mock
     ):
         def result(command, **kwargs):
@@ -63,14 +63,11 @@ class ExecuteStepTests(unittest.TestCase):
             self.assertEqual(run_pipeline.main(), 0)
 
         commands = [call.args[0] for call in execute_step_mock.call_args_list]
-        self.assertNotIn(
-            [run_pipeline.PYTHON, "scripts/build_public_data.py"], commands
-        )
+        self.assertIn([run_pipeline.PYTHON, "scripts/build_public_data.py"], commands)
+        self.assertIn([run_pipeline.PYTHON, "scripts/sync_pipeline_data.py", "publish"], commands)
         final_payload = write_json_mock.call_args.args[1]
-        self.assertEqual(final_payload["status"], "deferred")
-        self.assertEqual(
-            final_payload["returnCode"], run_pipeline.AI_DEFERRED_EXIT_CODE
-        )
+        self.assertEqual(final_payload["status"], "ok")
+        self.assertIn("deferred", final_payload["message"])
 
 
 if __name__ == "__main__":
