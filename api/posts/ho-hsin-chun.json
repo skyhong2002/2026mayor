@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/1e3baac58f6a426e1580.webp",
+    "avatarUrl": "assets/source-avatars/5f4474e6ddf98565c567.webp",
     "city": "taichung",
     "cityLabel": "臺中市",
     "id": "ho-hsin-chun",
@@ -19,8 +19,1572 @@
     "name": "何欣純",
     "party": "民進黨"
   },
-  "count": 426,
+  "count": 472,
   "posts": [
+    {
+      "agendaRelevance": 0.94,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "0da6db36ebb76a7158d2cc5eebf4ebe95fd6dc243a65423913b2ce71f8c45095",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdIbfL5mXzB",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "產業"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-11T03:19:14+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "說明台中增氣換煤進度，並提出未來加速減煤、兼顧健康與供電的政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:增氣換煤超進度，中火燃氣新機組完工上場，10月就要開始拆煤，252 公尺煙囪拆除工作就要開始。\n\n拆除燃煤機組計畫昨天通過，中央與地方都表示同意，全都支持提早自10月展開拆除工作。\n\n「增氣換煤」不是口號，我們已完成燃氣機組上場的實際行動，全力保障台中市民健康。\n\n未來我有機會就任市長，我會以市長身分，與中央政府密切合作，不會刻意卡關刁難、該做就做，全速推進增氣換煤工作，保障市民健康、穩定民生產業用電。",
+      "topicScores": {
+        "環境": 0.99,
+        "經濟": 0.78
+      },
+      "topics": [
+        "環境",
+        "經濟"
+      ],
+      "url": "https://www.threads.com/t/DdIbfL5mXzB"
+    },
+    {
+      "agendaRelevance": 0.3,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "901dd5cde844a3cd9385b1e4ea93d1cc270825abcf994a387f34f84c47d1fd54",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:vI7qkOKx2rs",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/7bd28a9b321cce2c2082.webp",
+      "keywords": [
+        "球場"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-11T03:00:14+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "參訪台中洲際球場並討論改善方向，聚焦體育場館發展。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "跟著蔡其昌逛台中洲際！球場還能怎麼更好？⚾️",
+      "topicScores": {
+        "文化觀光": 0.42,
+        "體育": 0.96
+      },
+      "topics": [
+        "體育",
+        "文化觀光"
+      ],
+      "url": "https://www.youtube.com/shorts/vI7qkOKx2rs"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "373c2a062646ac37d2589743459a99a7836bef3f206d56b7e7f8861dcce7168f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:0i4SejgpdhA",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/3cb6045066ee9451400e.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-10T12:58:02+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "發布候選人競選主題曲MV，屬競選動員宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純競選主題曲《咱的台中 咱來顧》MV首播！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=0i4SejgpdhA"
+    },
+    {
+      "agendaRelevance": 0.15,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "6a067d1130184404ceaa3cbd9e68d923379e013d1273a481bb45a2afaac779c3",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdG3ZPMFDoV",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/3bf346c57c188c45226c.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-10T12:49:38+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "介紹競選主委與競選歌曲，並號召支持，屬主動競選宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:競選主委我有「雙主菜」蔡英文榮譽主委和蔡其昌主委；\n競選歌曲，我們也推出「雙核心」，由何欣穗來幫忙何欣純創作「咱的台中咱來顧」。\n\n感謝大台中的優秀音樂人聚合，何欣穗、小龜和奇哥一起創作這首歌，也感謝林昶佐Freddy的牽線，促成這次的合作。\n\n台中，是我們的家鄉！\n11/28市長換欣，讓台中創新。\n\n市民對未來好時光的憧憬，免驚！讓我來顧。",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdG3ZPMFDoV"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "8b13dc1d42413b10f7c00a130615e4a86e03392f67fe6908bfba9752359d6b5a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdGzog1yPKo/",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/3ef24245d9e3bf732a3f.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T12:34:43+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "介紹競選主委與歌曲並號召台中市長選舉支持，屬競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "競選主委我有「雙主菜」蔡英文榮譽主委和蔡其昌主委；競選歌曲，我們也推出「雙核心」由何欣穗來幫忙何欣純創作「咱的台中咱來顧」。\n\n台中，是我們的家鄉！\n11/28市長換欣，讓台中創新。\n\n市民對未來好時光的憧憬，免驚！讓我來顧。",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdGzog1yPKo/"
+    },
+    {
+      "agendaRelevance": 0.98,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "f6ab3f414a032de18553e360065895c29bcaeca0d2a9c7ad42eb01240747bc51",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdGmmWyD8PL",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/d872779397572b56db41.webp",
+      "keywords": [
+        "交通",
+        "道路",
+        "鐵路",
+        "機場",
+        "產業",
+        "文化",
+        "觀光"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-10T10:17:51+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動提出海線軌道、道路、港口機場及觀光產業建設政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:🌊 海線媳婦何欣純，推出 「4321海線大進擊」！\n\n我是清水媳婦，也是海線媳婦。每次走訪海線，都能感受到鄉親對交通、建設與地方發展的期待。\n\n今天，我和海線夥伴共同提出海線進擊政策：\n\n🚆 4條軌道加速\n藍線拚通車、橘線動工延伸清水、海線鐵路雙軌高架化、舊貨運鐵道轉型觀光鐵道。\n\n🛣️ 3條交通命脈打通\n甲埔大道延伸、國道4號延伸台中港、生活圈4號道路闢建。\n\n✈️🚢 2大海空港升級\n升級台中機場、活化台中港與梧棲漁港，帶動海線觀光與產業。\n\n🏆 打造第1的海線\n推動台中港盈餘回饋地方，讓海線產業、交通、文化、觀光一起升級！\n\n4321，海線大進步、大進擊！💪🌊",
+      "topicScores": {
+        "交通": 0.99,
+        "文化觀光": 0.8,
+        "經濟": 0.82
+      },
+      "topics": [
+        "交通",
+        "經濟",
+        "文化觀光"
+      ],
+      "url": "https://www.threads.com/t/DdGmmWyD8PL"
+    },
+    {
+      "agendaRelevance": 0.97,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "fc2a023b5f8fc9453babc78f01ae4002f726f5731e75cd6e5197d3f68e3cad7c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdGmlc5D_XO/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/75d19d5c803dc1e428de.webp",
+      "keywords": [
+        "交通",
+        "道路",
+        "鐵路",
+        "機場",
+        "文化",
+        "觀光",
+        "產業"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T10:17:44+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出海線鐵路、道路、港空運及觀光產業的整體建設政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "🌊 海線媳婦何欣純，推出 #4321海線大進擊！\n\n我是清水媳婦，也是海線媳婦。每次走訪海線，都能感受到鄉親對交通、建設與地方發展的期待。\n\n今天，我和海線夥伴共同提出「4321海線大進擊」：\n\n🚆 4條軌道加速\n藍線拚通車、橘線動工延伸清水、海線鐵路雙軌高架化、舊貨運鐵道轉型觀光鐵道。\n\n🛣️ 3條交通命脈打通\n甲埔大道延伸、國道4號延伸台中港、生活圈4號道路闢建。\n\n✈️🚢 2大海空港升級\n升級台中機場、活化台中港與梧棲漁港，帶動海線觀光與產業。\n\n🏆 打造第1的海線\n推動台中港盈餘回饋地方，讓海線產業、交通、文化、觀光一起升級！\n\n4321，海線大進步、大進擊！💪🌊",
+      "topicScores": {
+        "交通": 0.99,
+        "文化觀光": 0.87,
+        "競選": 0.8,
+        "經濟": 0.86
+      },
+      "topics": [
+        "交通",
+        "文化觀光",
+        "經濟",
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdGmlc5D_XO/"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "ffdaa7c96065485ad8ceb56c89ed437aa6fc1b9cda4ea458fda387f175fff599",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdGkEgEP8Td/",
+      "imageAspect": 0.5624,
+      "imageUrl": "assets/feed-images/404db71c1ed4495225f8.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T09:57:24+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享留學時思念家鄉味及稱讚友人的生活內容，無公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "何欣純在英國求學的時候，想念台灣家鄉味，就會跟英國室友分享我的炒米粉，省錢有有人情味！\n\n美鳳姐超漂亮的！❤",
+      "topicScores": {
+        "生活": 0.97
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DdGkEgEP8Td/"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "ab676150e2fd43a96008b7c60e6a4b2ae991fa2a020163c825e5b3acd6a63695",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:yM3FiLazdQY",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/5a08b5a5a4c821f15a63.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-10T09:57:15+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享留學期間飲食與人情回憶，屬個人生活內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純在英國求學的時候，想念台灣家鄉味，就會跟英國室友分享我的炒米粉，省錢有有人情味！美鳳姐超漂亮的！❤",
+      "topicScores": {
+        "生活": 0.9
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.youtube.com/shorts/yM3FiLazdQY"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "e8c723035f6f23b18028fd977300f24bc7b99a09ee70a997e3c83d66b6750b09",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:t9sgUn26y28",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/25584cd43ddf082ea787.webp",
+      "keywords": [
+        "競總"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-10T03:29:24+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "開箱競選總部並邀請觀看，屬競選活動紀錄與宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "小英來開箱⛺️ 何欣純「露營風競總」有多特別？一起來看看！ @ingwen831",
+      "topicScores": {
+        "競選": 0.9
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/t9sgUn26y28"
+    },
+    {
+      "agendaRelevance": 0.91,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "ee258a6413b857b6dc6b642138ea0ebf40865f707cce686a6a61dc67af9ad73d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:ZujnOIoJYgU",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/d9966df16987499a33e3.webp",
+      "keywords": [
+        "敬老",
+        "學校",
+        "營養午餐",
+        "國中"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-09T14:15:04+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出敬老愛心卡升級及公私立國中小營養午餐免費政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純政策許願池！敬老愛心卡大升級，國中小孩子營養午餐不分公私立學校通通免費，何欣純「政策許願池」好像還蠻好的！新台中，交給何欣純！",
+      "topicScores": {
+        "教育": 0.9,
+        "社福": 0.92
+      },
+      "topics": [
+        "社福",
+        "教育"
+      ],
+      "url": "https://www.youtube.com/shorts/ZujnOIoJYgU"
+    },
+    {
+      "agendaRelevance": 0.35,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:46:45+00:00",
+        "inputHash": "2107f9546d7cfaa760e52887b2e051c123cf2d2ac4e88bbca7b5a6e6974bbf21",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-11T10:47:04+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdEcNymvDGs/",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/956856dc12e026caa928.webp",
+      "keywords": [
+        "敬老",
+        "學校",
+        "營養午餐",
+        "國中"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T14:09:26+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "回應他方觀點",
+        "reason": "比較何欣純與盧秀燕對敬老卡及營養午餐政策的主張，回應並嘲諷盧市長政策轉向。",
+        "type": "responsive"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "何欣純政策許願池！\n\n何欣純主張，敬老愛心卡坐計程車從85點增加到200點，盧市長就從85點微幅增加到100點；國中小孩子營養午餐不分公私立學校通通免費，議會不分顏色的議員提案支持那麼多年，盧市長本來說沒有錢，後來何欣純、蔣萬安、陳其邁都說要做，盧市長就說有錢了、要跟著做......何欣純「政策許願池」好像還蠻好的！\n\n新台中，交給何欣純！",
+      "topicScores": {
+        "教育": 0.84,
+        "社福": 0.86,
+        "競選": 0.82
+      },
+      "topics": [
+        "社福",
+        "教育",
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdEcNymvDGs/"
+    },
+    {
+      "agendaRelevance": 0.58,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "1cc71813921adb58cd8ee0bcf67c6352aa40a5d6841cc13efefdf83d5fa26eb7",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:OBuYI7PW_9Q",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/74736c61d4fa64389f22.webp",
+      "keywords": [
+        "道路"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-09T07:02:25+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣傳東豐快速道路即將開通，涉及重大交通建設進度。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "東豐快速道路即將開通-新台中，交給何欣純！！",
+      "topicScores": {
+        "交通": 0.98
+      },
+      "topics": [
+        "交通"
+      ],
+      "url": "https://www.youtube.com/shorts/OBuYI7PW_9Q"
+    },
+    {
+      "agendaRelevance": 0.65,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "a22e3447ab5109902a5f064116deb9ef06661936aed03fa2a6b0d37589d9db76",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdDrKvVxSOo/",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/1474f6fa79a7f4776961.webp",
+      "keywords": [
+        "道路",
+        "觀光"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T07:00:56+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "宣傳東豐快速道路通車效益，並主張帶動山城觀光、農產與地方發展。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "東豐快速道路，便利台中山城東勢往豐原之間的聯繫，大大縮短市民往來時間，東勢到石岡段即將通車，台中好山好水，觀光、農產、好風景更值得大大行銷，讓台中各區域更好更發展！！\n\n新台中，交給何欣純！！",
+      "topicScores": {
+        "交通": 0.99,
+        "文化觀光": 0.86
+      },
+      "topics": [
+        "交通",
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/DdDrKvVxSOo/"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "dd36f1a821c607861010ab32fa3f17e90999cce84f78434d944bef0aba67e0b3",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdB92Niy5O0/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/572f0e68aaad6c26ead7.webp",
+      "keywords": [
+        "競選",
+        "競總",
+        "選戰"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T15:06:19+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄競選總部活動並號召支持，主要是選戰動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "晚安🌙\n今天很開心邀請競總榮譽主委蔡英文前總統，還有競選總部主委蔡其昌，一起來開箱我的「露營風」競選總部⛺️\n\n選戰進入倒數，每一天我都不敢鬆懈，也更珍惜大家給我的每一份支持與鼓勵。\n\n一步一步走、一票一票爭取，繼續為台中全力以赴！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdB92Niy5O0/"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "228ff3d915492327e4f1da86b66fd74e6e1af4eb463cd1c93e699080dc35a513",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdBYRRYD2RN/",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/fa3c4fdb2a9c3222ece0.webp",
+      "keywords": [
+        "競選",
+        "競總"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T09:36:26+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "介紹競選總部並邀請市民交流，屬競選活動紀錄與形象宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "今天很開心邀請競總榮譽主委蔡英文前總統，以及競選總部主委蔡其昌，一起來到我的競選總部，開箱我們充滿巧思的「露營風」空間！\n\n露營桌椅、植栽、燈串，還有市民充電站與政策牆，希望這裡不只是一座競選總部，更是一個大家可以坐下來聊聊、交換想法的地方。\n\n接下來，我會和小英、蔡其昌主委，以及所有台中隊夥伴一起努力，一步一步，把台中帶向更好的下一個階段！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdBYRRYD2RN/"
+    },
+    {
+      "agendaRelevance": 0.06,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "0a616e51c014a6ea358c4950234c43da6fa268625ec90453d8bd6607e05f4e1a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc-1H0GDxmn/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/e2806c438c8b07d44c76.webp",
+      "keywords": [
+        "選戰"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-07T09:50:50+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "號召支持者宣傳、轉發與擴大競選聲勢，屬純競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "感謝台中純派熱情響應🔥\n#欣好店家 已經突破100間啦！\n\n選戰持續倒數，這股「純派動能」還要繼續擴大💪\n\n我要再次邀請所有支持 #市長換欣 的夥伴，不論是在生活中向親朋好友分享，還是在社群上按讚、留言、轉發，每一次宣傳、每一份力量，都很重要！\n\n大家自己製作的純派小物、圖卡和各種創意應援，我都有看到，也真的非常感動❤️\n\n純派揪純派、朋友再揪朋友！\n只要你純愛台中，都是純派的夥伴\n讓我們一起把訊息傳出去、把支持擴出去，讓更多人成為台中純派\n\n集結更大的純派力量，打造欣欣向榮的大台中！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc-1H0GDxmn/"
+    },
+    {
+      "agendaRelevance": 0.14,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "79cea413596dfd7bbd8b3c2c9179177a170531351a97285785a049faf9ca1b81",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:iW4I35LS53M",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/fe4968b1ec9fd89a5ff5.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-07T03:00:12+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "內容是舊城走讀介紹，未提出具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純回舊城走讀 ! 跟我一起認識台中",
+      "topicScores": {
+        "文化觀光": 0.86
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.youtube.com/shorts/iW4I35LS53M"
+    },
+    {
+      "agendaRelevance": 0.22,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "c95ec13a28b99a7ef42bacc6899cbf752a3c04c55e349895a0a68f1e117edcf4",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:vw4M1ZK95jE",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/f52bc1b280f076de67a4.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-06T13:13:40+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "呼籲投票並邀請市民提出問題，屬競選動員，尚未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "從台中市長侯選人，成為台中市長，需要台中市民每一分的力量、每一票的支持！ 歡迎留言告訴何欣純，台中市碰到的問題，何欣純來認真找解方！",
+      "topicScores": {
+        "生活": 0.4,
+        "競選": 0.98
+      },
+      "topics": [
+        "競選",
+        "生活"
+      ],
+      "url": "https://www.youtube.com/shorts/vw4M1ZK95jE"
+    },
+    {
+      "agendaRelevance": 0.25,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "e8651343a6f88fe3ab2f2fe462daf2522c4d105023a23a8bd93f2959d21aa732",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc8m5kEPmzB/",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/b507a78e511ba2c1b218.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T13:10:21+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "邀請市民提供台中問題，並以參選市長及尋找解方作為競選訴求。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "從台中市長侯選人，成為台中市長，需要台中市民每一分的力量、每一票的支持！\n\n歡迎留言告訴何欣純，台中市碰到的問題，何欣純來認真找解方！",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc8m5kEPmzB/"
+    },
+    {
+      "agendaRelevance": 0.25,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "64e7b3d8500d9773b807fb784a262c5c9289634d03a4dcbecdfc08b8b917772a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc8mqyyl5K8",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/a2a54103a9eeb28a3ac6.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-06T13:07:03+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "邀請市民反映台中問題，並以參選市長及提出解方作為競選訴求。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:從台中市長侯選人，成為台中市長，需要台中市民每一分的力量、每一票的支持！\n\n歡迎留言告訴何欣純，台中市碰到的問題，何欣純來認真找解方！",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc8mqyyl5K8"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "59956cafb3f5e5b7e1c064e1f296cbfcace41d5abc70ea4b34b9ced03bc61016",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1679071073582300",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/2d72a667fa35a80c65a8.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T13:02:58.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "邀請市民提出問題並宣傳候選人，屬競選互動與動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-fb",
+      "text": "從台中市長候選人，成為台中市長，需要台中市民每一分的力量、每一票的支持！\n\n歡迎留言告訴何欣純，台中市碰到的問題，何欣純來認真找解方！",
+      "topicScores": {
+        "競選": 0.97
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/reel/1607603417383479/"
+    },
+    {
+      "agendaRelevance": 0.93,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "bac35f3156824256a3c2957857e3151bcf8f1480720ecfd3e900975dd6b31ffe",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc7sjEWmRo-",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/86025c2df6fc7dc75f5d.webp",
+      "keywords": [
+        "托育",
+        "育兒",
+        "補助",
+        "津貼",
+        "道路"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-06T04:38:11+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動提出育兒津貼、托育服務及親子友善公共設施等完整政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:天氣這麼熱，週末就是要讓孩子玩水消暑、大放電！💦☀️\n\n這段時間，我已經在大台中舉辦數十場「親子童樂列車」。每次看到孩子開心的笑容，更讓我相信：一座友善的城市，要從孩子的高度出發。\n\n未來，我會重新檢視公園、道路與公共設施，讓孩子安全長大，也讓爸媽推著嬰兒車更方便。\n\n育兒政策也要更給力！💪\n從每月1,500元營養津貼、生育及坐月子補助、腸病毒疫苗，到增加托育名額、夜間與假日托育服務，全方位減輕爸媽的負擔。\n\n讓孩子開心長大、爸媽安心育兒，就是我要打造的台中❤️",
+      "topicScores": {
+        "交通": 0.74,
+        "教育": 0.9,
+        "社福": 0.94
+      },
+      "topics": [
+        "社福",
+        "教育",
+        "交通"
+      ],
+      "url": "https://www.threads.com/t/Dc7sjEWmRo-"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "75ac7583968364656c3836aee26f22b096ade2da407a3a071f8687946cc1a21f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc7qnOcy2gI/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/6d8cc8268096df6939a0.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T04:22:50+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "成立支持者組織並感謝助選活動參與者，屬競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "上周末我成立 #心純姐妹會 ，現場許多姐妹拿著旗子、脖圍，甚至是自製海報要我簽名，讓我感受到姐妹們的熱情與心意。\n\n謝謝所有姐妹的鼓勵，我會帶著大家的期待繼續努力，努力開創一個更友善更溫暖的新台中🫶",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc7qnOcy2gI/"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "467dd1692a4a40fe31d0840dc266eacbc663ad4517a81c2f8e4f14e3224cc233",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:UCCCphZAgy8",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/b2c6cecc594fc992d8b3.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-06T01:00:40+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "回顧支持者活動與心意，屬競選相關紀錄，沒有具體政策內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "心純姐妹會回顧 每一份心意 都是對台中的期待",
+      "topicScores": {
+        "競選": 0.9
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/UCCCphZAgy8"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "9e3e3ef276cab3301907a7352109890a3fe7f41a4b162dc08d2e2036f867ed2a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1678592733630134",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/a68bf6f99523a3938ea0.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T00:00:53.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄成立競選支持組織，內容以感謝與動員為主。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-fb",
+      "text": "上周末我成立 #心純姐妹會 ，現場許多姐妹拿著旗子、脖圍，甚至是自製海報要我簽名，讓我感受到姐妹們的熱情與心意。\n\n謝謝所有姐妹的鼓勵，我會帶著大家的期待繼續努力，努力開創一個更友善更溫暖的新台中🫶",
+      "topicScores": {
+        "競選": 0.96
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/reel/2053116498653608/"
+    },
+    {
+      "agendaRelevance": 0.98,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "345cdc1d322e3498ed0e997881cec71fb376603450bacf282314c39af5e7dd8e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1678143147008426",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/53f8893b9f3c8f25cb42.webp",
+      "keywords": [
+        "托育",
+        "育兒",
+        "補助",
+        "津貼",
+        "道路"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-05T12:12:18.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出育兒補助、托育擴充及兒童友善公園道路等具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-fb",
+      "text": "有何欣純的地方，就有孩子的歡笑聲！\n\n這段時間我已經在大台中舉辦數十場 #親子童樂列車 活動，今天來到西屯福恩籃球場，和大小朋友一起玩泡泡、釣魚，開心同樂。\n\n最讓我感動的是，有小朋友一看到我，就開心喊著：「阿純來了！」看到孩子們玩得開心，就是我舉辦活動最大的意義。\n\n孩子是城市的未來，未來我會從「孩子的高度」出發，檢視公園、道路與公共設施，讓孩子安全成長，也讓爸媽推著嬰兒車更方便。\n\n我也會持續減輕家庭育兒負擔，推動0至6歲每月1,500元營養津貼、生育補助加碼、每胎5萬元坐月子補助，並補助腸病毒疫苗接種；同時推動公托、準公共托育及2歲專班名額倍增，擴大夜間與假日托育服務。\n\n我會努力讓台中成為一座孩子開心、爸媽安心的城市！\n\n#心存大台中\n#市長換欣_台中創新",
+      "topicScores": {
+        "交通": 0.65,
+        "社福": 0.98
+      },
+      "topics": [
+        "社福",
+        "交通"
+      ],
+      "url": "https://www.facebook.com/94achun/posts/pfbid02HF7XWNtevTxh48sSydih5S3GNNUBRSF4nkaMwvvS8UCyM3FgkoJYEiXZa6ibnb6Nl"
+    },
+    {
+      "agendaRelevance": 0.91,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "deeed0b6f6b09f4eea49baf500b5db47e629b71c30ecf7c070f5342152e61e0b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:4SBB6fXmcbI",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/659b03b8d11784ebe48d.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-05T02:45:25+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "主動宣傳拆除燃煤機組及以氣換煤的空污改善政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "中火燃煤兩機10月開拆 以氣換煤全速推進！何欣純台中要呼吸更好的空氣 @t.ai_good",
+      "topicScores": {
+        "環境": 0.98
+      },
+      "topics": [
+        "環境"
+      ],
+      "url": "https://www.youtube.com/shorts/4SBB6fXmcbI"
+    },
+    {
+      "agendaRelevance": 0.06,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "27a2a5f24b65e2247a6697795e981f4e9195cb7c6ff4dec124b7064d65468129",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3sWPgmQMh",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "選舉"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-04T15:19:28+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以口號表達對何欣純參選台中市長的支持，屬競選宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:台中市長選舉共三位登記\n何欣純，是其一，\n期待成為台中市民的唯一。\n\n欣潮_追欣族_台中純派_純愛戰士_台中欣電心",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc3sWPgmQMh"
+    },
+    {
+      "agendaRelevance": 0.9,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "c6be1188f3cff8cfa1c59c8f9ea937e327b2acbe82b071ca1d7d67e4ea0287aa",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc3YJl9yFEl/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/27575ad104cd39562874.webp",
+      "keywords": [
+        "空氣品質"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T12:25:14+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "公布中火增氣減煤進度，主張兼顧供電、產業與空氣品質。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "改善空品、穩定供電，是我一直努力的目標。\n\n今天陪同行政院長卓榮泰視察 #台中火力發電廠，帶來「#增氣減煤」好消息：\n\n✅ 兩部燃氣機組陸續投入供電\n✅ 燃煤1、2號機及煙囪10月啟動拆除\n✅ 用煤持續減量，朝2034年底前平時發電無煤化邁進\n\n能源轉型正在一步步實現！未來我也會持續推動以氣換煤，兼顧穩定供電、產業發展與空氣品質，讓台中呼吸更好的空氣💪🌱",
+      "topicScores": {
+        "環境": 0.98
+      },
+      "topics": [
+        "環境"
+      ],
+      "url": "https://www.instagram.com/p/Dc3YJl9yFEl/"
+    },
+    {
+      "agendaRelevance": 0.88,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "5b0406dc4d2dfa558c4c9657b1078b3ed761bef8568ef83ac529bfe0094f9774",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3YM27iW8F",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/0d37ea4dfe30527a6bf5.webp",
+      "keywords": [
+        "空氣品質",
+        "產業"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-04T12:24:16+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動說明台中減煤增氣、改善空品與穩定供電的政策方向。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:改善空品、穩定供電，是我一直努力的目標。\n\n今天陪同行政院長 @t.ai_good 卓榮泰視察台中火力發電廠 ，帶來「增氣減煤」好消息：\n\n✅ 兩部燃氣機組陸續投入供電\n✅ 燃煤1、2號機及煙囪10月啟動拆除\n✅ 用煤持續減量，朝2034年底前平時發電無煤化邁進\n\n能源轉型正在一步步實現！未來我也會持續推動以氣換煤，兼顧穩定供電、產業發展與空氣品質，讓台中呼吸更好的空氣💪🌱",
+      "topicScores": {
+        "環境": 0.98,
+        "經濟": 0.72
+      },
+      "topics": [
+        "環境",
+        "經濟"
+      ],
+      "url": "https://www.threads.com/t/Dc3YM27iW8F"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "0a3509b72047b39e1cb0318d37d297b08daad40431da97bba5dcb9b49321487c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3J4vvmTUV",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/a1cfc8e293d4eaf584a8.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-04T10:18:21+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "預告參加親子活動並邀請民眾到場，主要是活動與競選曝光。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:安～台中純派們🌙\n明天下午欣純來到西屯啦！大小朋友一起來玩水、消暑、同樂💦✨\n\n📅 9/05（六）15:30\n🎪 親子童樂列車｜夏日派對水樂園\n📍 福恩籃球場\n（西屯區工業區一路58巷、72巷口）\n\n明天下午見❤️",
+      "topicScores": {
+        "競選": 0.89
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc3J4vvmTUV"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-04T10:03:47+00:00",
+        "inputHash": "828315258fa003ffe1bcccfd5530445c8da92bca7799da42d9b785bcd3ace90b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc2iUqtoOKv",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/14148591f9238767cfed.webp",
+      "keywords": [
+        "選戰"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-04T04:34:37+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄支持者成立大會並號召投入選戰，屬競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:上個週末，「心純姐妹會」成立大會\n超過千位姐妹到場相挺，給我滿滿力量！\n\n選戰倒數不到三個月，姐妹作伙拚，一起向前衝💪",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc2iUqtoOKv"
+    },
+    {
+      "agendaRelevance": 0.16,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "4ae7ff0070031e33aaa6dd2a51e57bfa892f6067a6c5b2b98c96d93c6427ebeb",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc2iSBYS_ez/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/0b7a27608a62f6a9ca0b.webp",
+      "keywords": [
+        "選戰",
+        "照顧"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T04:34:20+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以女性支持者造勢為主，僅概括提及照顧各年齡與家庭。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "心純姐妹向前衝❤️\n\n超過千位姐妹到場相挺，給我滿滿力量！\n\n未來，我會用 #六星市政 照顧每個年齡、每個家庭，打造更溫暖、更照顧女性的台中。\n\n選戰倒數不到三個月，姐妹作伙拚，一起向前衝💪",
+      "topicScores": {
+        "社福": 0.72,
+        "競選": 0.98
+      },
+      "topics": [
+        "競選",
+        "社福"
+      ],
+      "url": "https://www.instagram.com/p/Dc2iSBYS_ez/"
+    },
+    {
+      "agendaRelevance": 0.06,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-04T10:03:47+00:00",
+        "inputHash": "0978765c018e757b19bdb6bdc42eebe74e0774d0ee7fc362572458c28247e09d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:v_lavbevbbg",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/b4ca097a7eeb83ebd3d5.webp",
+      "keywords": [
+        "掃街"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-04T03:04:41+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄候選人赴市場掃街拜票，屬競選行程。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "久違的西屯菜市場！何欣純掃街遇見滿滿人情味",
+      "topicScores": {
+        "競選": 0.95
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/v_lavbevbbg"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "9cab35eb6c4e5a2e0d09167d2c549eb4c46a2f14d4fd9973b8ef1a7939194c10",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc0-6Fvma_-",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/666f768eba0aaf362ea5.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-03T14:03:56+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "邀請支持者到市場見面交流，屬競選接觸與動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:晚安～台中純派們！\n明天早上，我在西屯市場\n\n早起買菜、吃早餐，還是剛好路過，都歡迎來打聲招呼、聊兩句\n一起用滿滿的元氣，開啟新的一天💪✨",
+      "topicScores": {
+        "競選": 0.83
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc0-6Fvma_-"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "4457bef5813664572f730d450ce2c2d51c58ac5b0db24c3e59db12274d995d41",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc01nvakXZ5",
+      "imageAspect": 1.7978,
+      "imageUrl": "assets/feed-images/88c26ebb389a108f2fed.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-03T12:43:50+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣傳競選總部成立大會並邀請支持者參加。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:😘欣潮😘追欣族😘台中純派 \n\n歡迎所有市民好朋友來參加\n何欣純競選總部成立大會 ！\n\n地點：何欣純競選總部(南屯區五權西路二段1127號)\n時間：9/12(六)下午\n2：30  馬戲團現場表演\n4：00  競選總部成立大會\n感謝 賴清德 總統親自蒞臨❤",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc01nvakXZ5"
+    },
+    {
+      "agendaRelevance": 0.3,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "2f480081ddeb3bc470f81370c302ef7cbdeaa9c55e2fab0bf0482ab34053a0e2",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:https://a-chun.tw/news/jianguo-market-visit",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "website",
+      "postedAt": "2026-09-03T12:00:48+08:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄登記後走訪市場，強調從市民日常出發，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-web",
+      "text": "登記後首日走建國市場 何欣純：從市民日常出發 台中市長候選人、立法委員何欣純今（3）日 […] 〈 登記後首日走建國市場 何欣純：從市民日常出發 〉這篇文章最早發佈於《 何欣純官方網站｜2026 台中市長候選人 》。",
+      "topicScores": {
+        "生活": 0.82,
+        "競選": 0.75
+      },
+      "topics": [
+        "生活",
+        "競選"
+      ],
+      "url": "https://a-chun.tw/news/jianguo-market-visit"
+    },
+    {
+      "agendaRelevance": 0.9,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "8d095d0af9adaba7ea48935e3bdf82833602f27c5557d727ba3ff96cf025fd6c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:https://a-chun.tw/news/taichung-old-city-walk",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "website",
+      "postedAt": "2026-09-03T12:00:46+08:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "報導走讀舊城及提出都市更新、人行、停車與觀光串聯主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-web",
+      "text": "登記後首站走讀台中舊城 何欣純攜皮克敏沿途「種花」 台中市長候選人何欣純完成參選登記後，首場 […] 〈 登記後首站走讀台中舊城 何欣純攜皮克敏沿途「種花」 〉這篇文章最早發佈於《 何欣純官方網站｜2026 台中市長候選人 》。",
+      "topicScores": {
+        "交通": 0.83,
+        "住宅": 0.57,
+        "文化觀光": 0.96
+      },
+      "topics": [
+        "文化觀光",
+        "交通",
+        "住宅"
+      ],
+      "url": "https://a-chun.tw/news/taichung-old-city-walk"
+    },
+    {
+      "agendaRelevance": 0.62,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "0d69ed88997b7726f9afb82832d97c1f957ed51b1c8b474523c75aba33d470e7",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:-90tsBX9jJc",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/f1aa527c69daa8d0a1a8.webp",
+      "keywords": [
+        "捷運",
+        "產業"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-03T09:00:06+00:00",
+      "postingIntent": {
+        "confidence": 0.94,
+        "label": "主動發文",
+        "reason": "活動內容集中介紹福利、產業與捷運主張，兼具競選宣傳性質。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "\"心純\"姐妹會活動直擊！何欣純福利 產業 捷運一次講",
+      "topicScores": {
+        "交通": 0.8,
+        "社福": 0.88,
+        "競選": 0.72,
+        "經濟": 0.76
+      },
+      "topics": [
+        "社福",
+        "交通",
+        "經濟",
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=-90tsBX9jJc"
+    },
+    {
+      "agendaRelevance": 0.91,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "92b5ce028548de9f60e114eb5839e6d528e500896b62b6fc457baa6a21d95b11",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc0Vkg_EQCS",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/20d4474f9eec70384639.webp",
+      "keywords": [
+        "文化",
+        "觀光",
+        "歷史",
+        "交通",
+        "停車"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-03T08:02:43+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄舊城走讀並提出都市更新、人行、停車及觀光商圈串聯政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:昨天完成參選登記後，我來到承載青春記憶的台中舊城，參加「從隱者地圖看見台中城」走讀活動。\n\n從舊火車站出發，沿著熟悉的街道慢慢走，重新認識這座城市的歷史，也發現許多平常匆匆經過、容易錯過的風景。\n\n我和江肇國 @tcoppazhaoguo 、黃守達 @huangshouda 也打開皮克敏一起沿途種花🌱 ，讓走讀多了一點趣味！\n\n中區曾是台中城市發展的心臟，有著豐富的歷史建築、街區紋理與文化記憶。未來我要推動「舊城創新」，投入更多都市更新資源、改善人行環境及停車空間，更要串聯交通、觀光與商圈。\n\n保存舊城的記憶，為舊城注入新的活力。讓老台中被看見，讓新台中繼續向前！",
+      "topicScores": {
+        "交通": 0.84,
+        "住宅": 0.58,
+        "文化觀光": 0.96
+      },
+      "topics": [
+        "文化觀光",
+        "交通",
+        "住宅"
+      ],
+      "url": "https://www.threads.com/t/Dc0Vkg_EQCS"
+    },
+    {
+      "agendaRelevance": 0.89,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "c614c1747827ba7ae458d0b0a2991cd1a697721101ee9ef291baca4a121d92e2",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc0VjoxEUma/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/8a27bd7f44c2834518a6.webp",
+      "keywords": [
+        "文化",
+        "觀光",
+        "歷史",
+        "交通",
+        "停車"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T08:02:38+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "提出舊城創新、都市更新、人行改善及觀光商圈串聯政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "昨天完成參選登記後，我來到承載青春記憶的台中舊城，參加「從隱者地圖看見台中城」走讀活動。\n\n從舊火車站出發，沿著熟悉的街道慢慢走，重新認識這座城市的歷史，也發現許多平常匆匆經過、容易錯過的風景。\n\n我和江肇國、黃守達也打開皮克敏一起沿途種花🌱 ，讓走讀多了一點趣味！\n\n中區曾是台中城市發展的心臟，有著豐富的歷史建築、街區紋理與文化記憶。未來我要推動「舊城創新」，投入更多都市更新資源、改善人行環境及停車空間，更要串聯交通、觀光與商圈。\n\n保存舊城的記憶，為舊城注入新的活力。讓老台中被看見，讓新台中繼續向前！",
+      "topicScores": {
+        "交通": 0.66,
+        "住宅": 0.72,
+        "文化觀光": 0.94
+      },
+      "topics": [
+        "文化觀光",
+        "住宅",
+        "交通"
+      ],
+      "url": "https://www.instagram.com/p/Dc0VjoxEUma/"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "c1551ec541dc2b09af5cb688c96774219d8ce4a50934b9291ba9fefa7968be78",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:https://a-chun.tw/news/mayor-registration-campaign-team",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "參選",
+        "競總"
+      ],
+      "platform": "website",
+      "postedAt": "2026-09-02T14:00:19+08:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "報導候選人登記及競選團隊組成，屬競選活動資訊。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-web",
+      "text": "何欣純登記參選 蔡英文任榮譽主委、蔡其昌掌競總 台中市長候選人、立法委員何欣純今（2）日 […] 〈 何欣純登記參選 蔡英文任榮譽主委、蔡其昌掌競總 〉這篇文章最早發佈於《 何欣純官方網站｜2026 台中市長候選人 》。",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://a-chun.tw/news/mayor-registration-campaign-team"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "fb5babf47e21e8cb4662458dd49b80d18d57d9e675bb3bc6df3a006eb6c9b3f8",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:https://a-chun.tw/news/mayor-candidacy-registration",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "參選"
+      ],
+      "platform": "website",
+      "postedAt": "2026-09-02T13:00:59+08:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "報導候選人完成登記並返鄉祈願，屬競選行程紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-web",
+      "text": "何欣純登記參選台中市長 回大里祈願「台中女兒出發了！」 台中市長候選人、立法委員何欣純今（2）日 […] 〈 何欣純登記參選台中市長 回大里祈願「台中女兒出發了！」 〉這篇文章最早發佈於《 何欣純官方網站｜2026 台中市長候選人 》。",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://a-chun.tw/news/mayor-candidacy-registration"
+    },
     {
       "agendaRelevance": 0.22,
       "candidateId": "ho-hsin-chun",
@@ -54,6 +1618,40 @@
         "競選"
       ],
       "url": "https://www.threads.com/t/DcyAF7tlp37"
+    },
+    {
+      "agendaRelevance": 0.28,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "cf4b102ce9cd63c7d6897504f315372bd05c12f22166ca484de394cc69bf0f36",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcyAA2Uywvy/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/e78bb0ba481995e9db39.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T10:18:00+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣布參選台中市長並呼籲選民支持。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "今天，我正式登記參選台中市長！\n\n我期許自己成為「市民的市長」，傾聽每一份聲音、回應每一項需求，讓市民都能對我們的城市充滿希望。\n\n11/28，請大家給台中女兒何欣純一個機會，讓我們一起打造更欣欣向榮的台中！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DcyAA2Uywvy/"
     },
     {
       "agendaRelevance": 0.08,
@@ -158,6 +1756,42 @@
         "競選"
       ],
       "url": "https://www.threads.com/t/DcxehMsEQS0"
+    },
+    {
+      "agendaRelevance": 0.3,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "45b9aa14552ae29e5a1914b206c01196a44b29a98f0bb7efda6c913eac965588",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcxegdiEdIe/",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/f3e9e921845341a7e781.webp",
+      "keywords": [
+        "競選",
+        "選舉",
+        "參選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T05:23:07+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以參選登記、政治支持與競選總部成立為主軸。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "今天，是我正式登記參選台中市長的日子。\n\n出發前，我回到我出生、長大的大里，在福興宮媽祖面前報告：「大里的女兒，要出發了。」\n\n從三屆市議員到四屆立法委員，這一路，我走了很久。每一步，都有故鄉的陪伴；每一次選舉，都有鄉親一票一票的支持，牽著我走到今天。我是大里的女兒、屯區的女兒，也是台中的女兒。\n\n謝謝蔡其昌總召接下競選總部主任委員的重任，更要謝謝蔡英文前總統答應擔任榮譽主任委員。這份支持，對我來說不只是鼓勵，更是一份沉甸甸的責任。\n\n今天完成登記，是另一段路的開始。我將成為一位「市民的市長」，讓疼惜我的故鄉以我為榮，也讓每一位台中市民，都能對我們的城市充滿希望。\n\n📣 9月12日下午2點，競選總部正式成立！\n邀請大家一起來，作伙拚出一個更好的台中！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DcxegdiEdIe/"
     },
     {
       "agendaRelevance": 0.15,
@@ -12796,8 +14430,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DauZtlgGQDJ",
-      "imageAspect": 0.7069,
-      "imageUrl": "assets/feed-images/e35a8bfcd8ea61f62d03.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-13T07:40:41+00:00",
@@ -12828,8 +14462,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DauZH0yEWzL/",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/ae47a08254e31838b670.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "棒球",
         "運動",
@@ -12868,8 +14502,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DauEVcXjn3i",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/4410ea68f7680da55822.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-13T04:37:00+00:00",
@@ -12904,8 +14538,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DauERyySGBi/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/1347ec2659f7bb5dc6ac.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-13T04:34:52+00:00",
@@ -12940,8 +14574,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:JsEW0lEscYE",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/b4be5b4315691a0bbbbe.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-13T03:00:10+00:00",
@@ -12972,8 +14606,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:YXzPt3azxsY",
-      "imageAspect": 1.7872,
-      "imageUrl": "assets/feed-images/199b05fd6766c783ec14.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風"
       ],
@@ -13006,8 +14640,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DapNgUWEfC8",
-      "imageAspect": 0.7426,
-      "imageUrl": "assets/feed-images/98d632df50ed684c0605.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風"
       ],
@@ -13042,8 +14676,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DapNf2AES-t/",
-      "imageAspect": 0.7426,
-      "imageUrl": "assets/feed-images/9c4768b4efb1f34898ad.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風"
       ],
@@ -13114,8 +14748,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dao-XilERbO",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/b10a93f65cfeb1d35495.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "淹水",
@@ -13153,8 +14787,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dao-WrFEV-d/",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/8b6e1d3ab42ced06c8a6.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "淹水",
@@ -13236,8 +14870,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:3iyaSQTAatU",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/57b2f144cc9429d35c0f.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "投資"
       ],
@@ -13306,8 +14940,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DamuAnyGUWE",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/949d66cc86888769af47.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-10T08:04:07+00:00",
@@ -13338,8 +14972,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DamkRpKEWGf",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/398bf80e3f52b5bd1993.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "產業",
         "投資",
@@ -13379,8 +15013,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DamkQteEYgm/",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/01471af9c3d66dd1e632.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "產業",
         "投資",
@@ -13420,8 +15054,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:PCAAYR9hP2o",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/360a9ad0914cb97833e6.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-10T01:00:20+00:00",
@@ -13452,8 +15086,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DakXtOoD_Yd/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/922360cd972f449f24bd.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "豪雨",
@@ -13488,8 +15122,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DakM4yKGYuX",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/6ccc2c568a2331ed8bbb.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "豪雨",
@@ -13602,8 +15236,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Daj3oXxGQ1H",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/34942f856a81c0bbb994.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-09T05:30:28+00:00",
@@ -13634,8 +15268,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:Jtvyp2JET0s",
-      "imageAspect": 1.7872,
-      "imageUrl": "assets/feed-images/a1e3542cc96abf67d640.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-09T03:00:06+00:00",
@@ -13668,8 +15302,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:ATsEia5b6jA",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/49c42fadae49fe92191e.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-09T01:00:22+00:00",
@@ -13702,8 +15336,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DajXezsGbp0",
-      "imageAspect": 0.7075,
-      "imageUrl": "assets/feed-images/c1423a467ed2ee9d1b6b.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-09T00:49:33+00:00",
@@ -13768,8 +15402,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:8JbQLtXKr_c",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/46dd5e7f493909c988ae.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "捷運"
       ],
@@ -13804,8 +15438,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DafGwO8yVT5/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/9811fb5a7c0f54255db3.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-07T09:07:12+00:00",
@@ -13838,8 +15472,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DafBkRBmWyQ",
-      "imageAspect": 1.001,
-      "imageUrl": "assets/feed-images/b586017aea43d4fc5af4.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-07T08:21:05+00:00",
@@ -13902,8 +15536,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:St3OJ0nZa6g",
-      "imageAspect": 1.7872,
-      "imageUrl": "assets/feed-images/acb9263177a25d395466.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-07T05:30:11+00:00",
@@ -13936,8 +15570,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaeqUxaGgZy",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/a16794c6953e905a585a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-07T04:58:55+00:00",
@@ -14004,8 +15638,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:1AY5FZ9FTYs",
-      "imageAspect": 1.7872,
-      "imageUrl": "assets/feed-images/f681cdfa3ec46879be04.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "交通",
         "捷運",
@@ -14040,8 +15674,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:bYSHZ5NbEwg",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/809c5ec4f130c8236a97.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-07T01:00:22+00:00",
@@ -14116,8 +15750,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DactVJ5GeHO",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/e38fa0aa40d7abf53f38.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "交通",
         "道路"
@@ -14153,8 +15787,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaccktCje9i",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/f068dc2bb6ad1c925010.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-06T08:20:16+00:00",
@@ -14185,8 +15819,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:XiHnrK1HCLA",
-      "imageAspect": 1.7872,
-      "imageUrl": "assets/feed-images/eb9dd1213999c73ae48a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "交通"
       ],
@@ -14221,8 +15855,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaZshyRmZFc",
-      "imageAspect": 1.1527,
-      "imageUrl": "assets/feed-images/30ae7f6383bd486b5ac7.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-05T06:41:03+00:00",
@@ -14289,8 +15923,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:TsD6X63oQHY",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/ed0e5aa7435885bb0c76.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "捷運",
         "公車"

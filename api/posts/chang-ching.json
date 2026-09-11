@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/d878bc7c8d9e9d4a0985.webp",
+    "avatarUrl": "assets/source-avatars/a0636b8c688c53e78b06.webp",
     "city": "kaohsiung",
     "cityLabel": "高雄市",
     "id": "chang-ching",
@@ -19,8 +19,121 @@
     "name": "張靜",
     "party": "司法改革黨"
   },
-  "count": 60,
+  "count": 63,
   "posts": [
+    {
+      "agendaRelevance": 0.3,
+      "candidateId": "chang-ching",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "a220053468ca226a83357739a556bb338b13133ddbd86d57114bc15992fba1eb",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:969025099562352",
+      "imageAspect": 1.9157,
+      "imageUrl": "assets/feed-images/1d05eeb937e3f16eca43.webp",
+      "keywords": [
+        "競選",
+        "參選"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-07T03:14:42.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主要發布競選形象片與志工動員，政策內容僅概括提及。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-ching-party-fb",
+      "text": "💥2026雅潭神市議員競選形象片《阿春哥 向前行》｜張烱春用行動守護家園💥\n\n👍【2026雅潭神市議員競選形象片 正式發布】\n這支《阿春哥 向前行》記錄了張烱春與地方鄉親互動的每個瞬間，也象徵我們推動「基層司法改革與在地福利升級」的決心。影片中的場景，都是我們未來要努力改善的目標。\n\n邀請您觀賞，並與我們分享您對雅潭神未來的願景。\n\n看完影片，若你認同阿春哥「實實在在向前行」的理念，歡迎在官網留言區留下「+1」，或是填寫加入志工團，我們需要你的支持！\n\n#張烱春 #阿春哥監督市政\n#2026台中市雅潭神市議員參選人\n#司法改革黨\n#阿春哥向前行\n👍",
+      "topicScores": {
+        "治安": 0.73,
+        "社福": 0.65,
+        "競選": 0.99
+      },
+      "topics": [
+        "競選",
+        "治安",
+        "社福"
+      ],
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid024EoKunaQWnwkVTQSSiYs2HEvJG97rs7LfEG3MNCYKaT7fq1ArpMvMbJg7SExjSg7l&id=100093646137173"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "chang-ching",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "b3d913395b25c99e99c7094059337be09c586b1fdde27827fa3b647aa019f999",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:967765139688348",
+      "imageAspect": 1.9157,
+      "imageUrl": "assets/feed-images/2f1486e18a9faa9a701c.webp",
+      "keywords": [
+        "選舉",
+        "參選"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-05T15:25:16.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "內容是招募監票志工，屬選舉動員公告。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-ching-party-fb",
+      "text": "🔥【招募！雅潭神監票員，守護您的每一張選票】🔥\n\n✍️2026年地方選舉與公投同步登場，為確保投開票過程公開透明，台中市市長參選人洪麗華 強力徵求 雅潭神地區（大雅、潭子、神岡） 在地志工，加入監票行列！\n\n🎉本次因綁公投，監票工作費有望提升至💰2,500元（最終依選委會公告為準），名額有限，手腳要快！\n\n",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0Jpxdv3XH7QiP4qJ3fYYLMx4BrqrkrXWwGwtzKbhQMzqAQjFfMHQfG779WMrCXCcvl&id=100093646137173"
+    },
+    {
+      "agendaRelevance": 0.86,
+      "candidateId": "chang-ching",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "b7eb6e7932e6e8d621ac5f1cbb31dae50d514d048268e692a1e4d1cb40745aeb",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:967443713053824",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/fd743cba79fe92079f52.webp",
+      "keywords": [
+        "自行車",
+        "參選"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-05T07:13:31.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動提出將自行車道改造為綠廊生活網的競選政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-ching-party-fb",
+      "text": "💥大雅、潭子、神岡30年停滯！#司法改革黨秘書長張烱春參選議員，要把 #潭雅神自行車道變「#綠廊樂活生活網」\n\n✍️這幾年走遍大雅、潭子、神岡，很多鄉親都跟阿春哥說：「怎麼感覺這裡30年來都沒什麼變？」這句話我一直放在心裡。\n\n✅所以這次出來參選，我想從大家最熟悉的潭雅神自行車道開始改變——不只騎車，更要打造成一座綠廊樂活生活網，串聯后里、豐原、北屯，讓這條大動脈真正活起來！影片有我的完整想法，歡迎大家留言告訴我你的看法！\n\n「如果你也期待雅潭神改變，請幫我分享這支影片，讓更多人一起關注我們的家園！」\n\n「你騎過潭雅神自行車道嗎？留言區寫下你的感受，我們一起來改變它！」\n\n「別讓30年的停滯繼續下去，這一次，我們一起跨出去。」\n\n#台中市雅潭神市議員參選人 #司法改革黨 #張烱春 #阿春哥監督市政 #潭雅神綠園道 #綠廊樂活生活網",
+      "topicScores": {
+        "交通": 0.95,
+        "環境": 0.86,
+        "競選": 0.78
+      },
+      "topics": [
+        "交通",
+        "環境",
+        "競選"
+      ],
+      "url": "https://www.facebook.com/reel/968769002919684/"
+    },
     {
       "agendaRelevance": 0.45,
       "candidateId": "chang-ching",

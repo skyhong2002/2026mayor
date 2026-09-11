@@ -19,8 +19,422 @@
     "name": "張善政",
     "party": "國民黨"
   },
-  "count": 89,
+  "count": 100,
   "posts": [
+    {
+      "agendaRelevance": 0.91,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "26b2725745006340ac1c405175a74d055fcaf8713f429f8233ff23d2dfd79c9e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdGyUFmn5jt/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/ecbbe1d84e5b1bf0a067.webp",
+      "keywords": [
+        "運動",
+        "球場",
+        "賽事",
+        "健身"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T12:00:04+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "公告運動館啟用與體育園區開工，說明補足運動空間的建設規劃。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-ig",
+      "text": "迎接全民運在桃園，我們希望運動不只在賽場，也走進市民的日常生活\n\n桃園是全台人口成長最快的城市之一，除了交通、建設要跟上，市民需要的運動空間，也要一步一步補足。\n\n今天，龍岡全民運動館正式落成啟用，大園體育園區也同步開工。這兩項建設，一南一北，我們持續完善桃園各區的運動、休閒設施。\n\n#龍岡全民運動館試營運\n\n投入近4.8億元打造的龍岡全民運動館，規劃溫水游泳池、SPA、體適能中心與多功能教室，並導入AI智慧安全防護，補足龍岡地區長期缺乏大型室內運動及游泳空間的需求。\n\n即日起至9月20日免費試營運，歡迎大家來體驗。\n\n#大園體育園區開工\n\n大園則是另一種情況。隨著航空城開發、客運園區移入，大園的人口持續成長，我們投入7.7億元打造大園體育園區。\n\n除了25公尺溫水泳池、綜合球場及健身空間，也依照地形配置綠地步道與生態景觀，讓園區能一次滿足不同興趣愛好的朋友，工程預計118年完工。\n\n一個是補足現在的生活需求；一個是替未來的成長預先準備。\n\n這幾年，從爭取預算、克服用地限制，到把一項項工程做好，過程並不容易，但我們會繼續把每一分建設經費用在刀口上，讓各區都能有更充足的運動空間。\n\n10月，#全民運 即將在桃園登場，除了辦好賽事，我們更希望透過運動建設，讓運動不只發生在賽場，也讓更多市民愛上運動，變得更健康、更快樂。",
+      "topicScores": {
+        "生活": 0.74,
+        "體育": 0.99
+      },
+      "topics": [
+        "體育",
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DdGyUFmn5jt/"
+    },
+    {
+      "agendaRelevance": 0.96,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "3c0ab80b21899186be087f203e802b8ced791cd1fc3c815dccd7ba3a6955ca61",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdEPTLsn_Uk/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/5824427da5a37c212575.webp",
+      "keywords": [
+        "住宅",
+        "居住正義",
+        "交通",
+        "捷運",
+        "道路",
+        "停車",
+        "科技"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T12:15:47+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "說明捷運土地開發、可負擔住宅及城市機能政策，主動提出居住與發展議程。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-ig",
+      "text": "桃園持續成長，但在城市發展的同時，我們也希望讓年輕人看見未來、留在桃園\n\n四年前，桃園人口是228萬；到了今年，已接近236萬。\n\n面對持續成長的城市，我們一方面推動捷運建設與整體開發，充實城市生活機能；另一方面，也要思考如何讓城市發展的成果惠及更多市民，讓桃園的年輕人能夠留下來。\n\n#桃園首件捷運土地開發案正式簽約\nTOD就是以捷運為核心，帶動周邊交通、商業、住宅與生活機能一起發展。這次，桃園首件捷運土地開發案正式簽約，就從蘆竹的機捷A10山鼻站開始。\n\n由宏匯集團、群光電能科技及甲山林建設共同組成的「宏匯光合聯盟」投入，將進一步帶動場站周邊生活機能與區域發展，打造結合商場與住宅的複合大樓，並強化周邊轉乘、停車機能。未來的山鼻站，將會變得很不一樣。\n\n#八德大湳整開區納入可負擔住宅規劃\n上週，桃園市都委會審議通過八德大湳森林公園周邊整體開發計畫，除了完善綠地、公共設施與道路，也正式將可負擔住宅納入規劃。加上這項計畫，目前市府已掌握超過300戶可負擔住宅量能。\n\n從提出可負擔住宅構想，到一項項整體開發納入可負擔住宅，我們持續用行動告訴大家，#桃園落實居住正義的決心不會改變。\n\n目前，《桃園市可負擔住宅自治條例》已送行政院審查，市府也持續與中央溝通。我們已經把所有配套準備好，只要法規程序完備，就能讓更多年輕人在桃園安心成家。\n\n有方便的交通、有好的工作，也有一個負擔得起的房子。我們會努力讓桃園變得更好，讓年輕人在這座城市安心成家。\n\nA10車站專用區土地開發案模擬圖\n\nA10車站專用區土地開發案模擬圖",
+      "topicScores": {
+        "交通": 0.94,
+        "住宅": 0.96,
+        "經濟": 0.72
+      },
+      "topics": [
+        "住宅",
+        "交通",
+        "經濟"
+      ],
+      "url": "https://www.instagram.com/p/DdEPTLsn_Uk/"
+    },
+    {
+      "agendaRelevance": 0.94,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "2b06f050e82a85202a988446247dcefbadbd6bc8b111b357a25445396980a361",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc-SQXHn4Py/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/cc5870ff49eadcc8f9fa.webp",
+      "keywords": [
+        "補助"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-07T04:46:11+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動宣布市場攤商及弱勢家庭瓦斯安全遮斷閥補助，強化火災預防。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-ig",
+      "text": "最近，我核准動用第二預備金，要把傳統市場、夜市的消防安全再往前提升一步。\n\n去年南門市場發生火災後，我們一直持續追蹤市場、夜市的消防安全。除了消防設備、逃生動線及管理機制之外，攤商普遍使用的 #桶裝瓦斯，也是我們這段時間持續檢視的重點。\n\n經過盤點，目前桃園公有零售市場及公有、列管攤販集中區，共有592攤使用桶裝瓦斯。\n為了降低瓦斯外洩及火災風險，市府將補助攤商加裝「#瓦斯安全遮斷閥」，當偵測到瓦斯流量異常或管線脫落時，就能自動切斷瓦斯，多一道安全保障。\n\n每攤最高補助1,500元，即日起至10月16日止，可由自治會、管委會協助彙整資料後提出申請。\n\n除了市場及夜市攤商之外，居家瓦斯安全同樣不能忽視。\n\n因此，市府也同步補助低收入戶及中低收入戶更換瓦斯安全遮斷閥，每戶最高補助1,500元，並優先協助65歲以上長者，即日起至11月30日止，可向轄區消防分隊登記申請。\n\n這兩項補助原本規劃明年辦理，但我認為，能夠提前預防的事情，就不要等到明年。\n\n因此，我決定動用第二預備金，讓有需要的攤商及家庭今年就能完成設備裝設。\n\n把風險降低在事故發生之前，這也是市府決定提前推動這項計畫最重要的原因；我們會用更謹慎為民的心，讓市民的生活環境更安全。",
+      "topicScores": {
+        "社福": 0.72,
+        "防災": 0.98
+      },
+      "topics": [
+        "防災",
+        "社福"
+      ],
+      "url": "https://www.instagram.com/p/Dc-SQXHn4Py/"
+    },
+    {
+      "agendaRelevance": 0.24,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "298bf19b32960dc51a37440bf7c040a3962e288e5a4b683f7d7754402330d68d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:-adyDGYIToE",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/4bd2c6e8809282540196.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-05T04:01:56+00:00",
+      "postingIntent": {
+        "confidence": 0.94,
+        "label": "主動發文",
+        "reason": "以棒球意象包裝候車亭，主要是城市交通設施的形象宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-yt",
+      "text": "桃園是棒球城市，候車亭當然也要有「猿氣」",
+      "topicScores": {
+        "交通": 0.82
+      },
+      "topics": [
+        "交通"
+      ],
+      "url": "https://www.youtube.com/shorts/-adyDGYIToE"
+    },
+    {
+      "agendaRelevance": 0.86,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "944bddfed2b40efea291a15077912b171e28813d98edab918307fa2265ccd4ba",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc5BLt1vGmk/",
+      "imageAspect": 0.5644,
+      "imageUrl": "assets/feed-images/a14e3658b5b19e281386.webp",
+      "keywords": [
+        "公車",
+        "棒球",
+        "運動",
+        "球隊",
+        "球場",
+        "賽事"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T04:00:59+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "公布改善候車環境並結合職業球團特色的市政建設成果。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-ig",
+      "text": "桃園是棒球城市，候車亭當然也要有「猿氣」\n\n市府大門口每天都有許多同仁和洽公民眾搭乘公車，候車環境看起來是一件小事，卻是很多人每天都會遇到的日常。\n\n若是碰上下雨，看著大家撐傘候車，更讓我在想，能不能讓大家等公車時少淋一點雨、少曬一點太陽。所以，我請同仁從更體貼的角度進行候車環境改善。\n而且既然要做，我們也不滿足只是多一個遮風避雨的地方，也希望能增添「桃園味」。\n\n因此，市府特別和 @rakuten_monkeys 合作，把候車亭變成一座充滿棒球元素的 #樂天桃猿 主題候車亭。\n\n從內野風格地坪、球場休息室風格座椅，到上方探出頭來的吉祥物 #猿氣，每個細節都融入棒球巧思。同仁也告訴我，目前正和球團持續討論，希望未來把上方的猿氣從2D升級成3D，讓整座候車亭更能展現特色。\n\n前陣子，樂天桃猿董事長 #森井誠之 先生再次來市府拜訪時，也特別去看看這座當時還沒完工的候車亭。昨天開幕時，樂天桃猿總經理執行長兼領隊 #野原武人 先生也一同參與。樂天的朋友看到我們把公共設施和職業球團特色結合，相當驚喜。\n\n我也當面向森井董事長表達市府一定全力支持在地球隊，也期待雙方能有更進一步的合作機會。\n\n桃園是一座運動城市。我們希望運動不只存在於球場和賽事，也能自然出現在大家每天生活的城市空間。\n今年10月，#全民運動會 將在桃園登場。讓桃園人的運動熱情，從一座候車亭延伸到城市的每個角落。",
+      "topicScores": {
+        "交通": 0.96,
+        "體育": 0.88
+      },
+      "topics": [
+        "交通",
+        "體育"
+      ],
+      "url": "https://www.instagram.com/p/Dc5BLt1vGmk/"
+    },
+    {
+      "agendaRelevance": 0.78,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "640cb99cbec93f8d19c4d23e73525344f6fc9a20b0b68f72508f65c03e40751d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1841986413957249",
+      "imageAspect": 1.4975,
+      "imageUrl": "assets/feed-images/d0ae0cadc5fd3e60a48f.webp",
+      "keywords": [
+        "公車",
+        "棒球",
+        "運動",
+        "球隊",
+        "球場",
+        "賽事"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-05T04:00:53.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "介紹主題候車亭建設，結合公共運輸與棒球城市意象。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-fb",
+      "text": "桃園是棒球城市，候車亭當然也要有「猿氣」\n\n市府大門口每天都有許多同仁和洽公民眾搭乘公車，候車環境看起來是一件小事，卻是很多人每天都會遇到的日常。\n\n若是碰上下雨，看著大家撐傘候車，更讓我在想，能不能讓大家等公車時少淋一點雨、少曬一點太陽。所以，我請同仁從更體貼的角度進行候車環境改善。\n而且既然要做，我們也不滿足只是多一個遮風避雨的地方，也希望能增添「桃園味」。\n\n因此，市府特別和 Rakuten Monkeys 合作，把候車亭變成一座充滿棒球元素的 #樂天桃猿 主題候車亭。\n\n從內野風格地坪、球場休息室風格座椅，到上方探出頭來的吉祥物 #猿氣，每個細節都融入棒球巧思。同仁也告訴我，目前正和球團持續討論，希望未來把上方的猿氣從2D升級成3D，讓整座候車亭更能展現特色。\n\n前陣子，樂天桃猿董事長 #森井誠之 先生再次來市府拜訪時，也特別去看看這座當時還沒完工的候車亭。昨天開幕時，樂天桃猿總經理執行長兼領隊 #野原武人 先生也一同參與。樂天的朋友看到我們把公共設施和職業球團特色結合，相當驚喜。\n\n我也當面向森井董事長表達市府一定全力支持在地球隊，也期待雙方能有更進一步的合作機會。\n\n桃園是一座運動城市。我們希望運動不只存在於球場和賽事，也能自然出現在大家每天生活的城市空間。\n今年10月，#全民運動會 將在桃園登場。讓桃園人的運動熱情，從一座候車亭延伸到城市的每個角落。",
+      "topicScores": {
+        "交通": 0.91,
+        "體育": 0.82
+      },
+      "topics": [
+        "交通",
+        "體育"
+      ],
+      "url": "https://www.facebook.com/SanCheng624/posts/pfbid0mssZHa3a55N4jUzeWEdWfBHrT9Ej8dkb3ELzYd8BiMyvtbQnuQmqEsXBoToHMZafl"
+    },
+    {
+      "agendaRelevance": 0.95,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "6f4f94d6f89a61af9a911da9a0a1bdfe2df32bc7336cf724dadb97a569816b49",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc2enCgH-KT/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/2945f5ccbc5cf61e3c18.webp",
+      "keywords": [
+        "交通",
+        "公車",
+        "道路",
+        "通勤"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T04:00:12+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "詳細公布新公車幹線的路線、班次與無障礙服務規劃。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-ig",
+      "text": "把好業者帶進桃園，也把桃園人需要的公車路線一條一條實現\n新桃園幹線 #南環線 通車，我們引進 #首都客運 負責營運\n\n這幾天開學，加上最近經常下雨，通勤、通學的人增加，也讓大家更需要便利、穩定的公共運輸。\n\n新桃園幹線「南環線」正式通車，我們引進在雙北有良好營運經驗的 #首都客運 負責服務，持續完善路網，提升桃園公車的服務品質。\n\n🔹 南環線營運特色\n南環線最大的特色，就是採A、B雙向循環方式營運，A線為順時針、B線為逆時針，兩線均自內壢為起點，串聯中壢、內壢、平鎮三個生活圈，讓市民在不同區域之間更便利地移動。\n\n🔹南環線經過哪些地方？\n南環線行經台1線、中豐路等主要道路，連結臺鐵中壢、內壢火車站、機捷A21環北站等重要交通節點。\n也串聯行經健行科大、平鎮高中、自強國中、復旦國小等學校，兼顧通勤、通學、洽公及日常生活需求。\n\n🔹 南環線班距、營運時間\n早上6點到晚上10點營運，雙向共60班，尖峰約15分鐘、離峰約30分鐘一班，全線配置低地板無障礙公車。\n\n從今年4月，我們正式推出 #新桃園幹線公車，我們一方面增加既有路線的服務，另一方面加速開闢新路線。接下來，9月還有 #中豐幹線 完成增班，「15中園幹線」、「16大龍竹幹線」也將陸續上線，新桃園幹線12條路線將全部到位。\n\n從桃小巴到幹線公車，我們一步一步把桃園的公共運輸環境做好，讓公車成為大家日常出行時可以信賴的選擇。",
+      "topicScores": {
+        "交通": 0.99
+      },
+      "topics": [
+        "交通"
+      ],
+      "url": "https://www.instagram.com/p/Dc2enCgH-KT/"
+    },
+    {
+      "agendaRelevance": 0.96,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "bd90dfbb905ec0d1a977e5e326de72dab86bdaa468d405103c0f69ccb3ad6bf6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1841107630711794",
+      "imageAspect": 1.4975,
+      "imageUrl": "assets/feed-images/b08ace64843c8d767000.webp",
+      "keywords": [
+        "交通",
+        "公車",
+        "道路",
+        "通勤"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-04T04:00:06.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "公布南環線通車、路線串聯、班次與無障礙公車規劃。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-fb",
+      "text": "把好業者帶進桃園，也把桃園人需要的公車路線一條一條實現\n新桃園幹線 #南環線 通車，我們引進 #首都客運 負責營運\n\n這幾天開學，加上最近經常下雨，通勤、通學的人增加，也讓大家更需要便利、穩定的公共運輸。\n\n新桃園幹線「南環線」正式通車，我們引進在雙北有良好營運經驗的 #首都客運 負責服務，持續完善路網，提升桃園公車的服務品質。\n\n🔹 南環線營運特色\n南環線最大的特色，就是採A、B雙向循環方式營運，A線為順時針、B線為逆時針，兩線均自內壢為起點，串聯中壢、內壢、平鎮三個生活圈，讓市民在不同區域之間更便利地移動。\n\n🔹南環線經過哪些地方？\n南環線行經台1線、中豐路等主要道路，連結臺鐵中壢、內壢火車站、機捷A21環北站等重要交通節點。\n也串聯行經健行科大、平鎮高中、自強國中、復旦國小等學校，兼顧通勤、通學、洽公及日常生活需求。\n\n🔹 南環線班距、營運時間\n早上6點到晚上10點營運，雙向共60班，尖峰約15分鐘、離峰約30分鐘一班，全線配置低地板無障礙公車。\n\n從今年4月，我們正式推出 #新桃園幹線公車，我們一方面增加既有路線的服務，另一方面加速開闢新路線。接下來，9月還有 #中豐幹線 完成增班，「15中園幹線」、「16大龍竹幹線」也將陸續上線，新桃園幹線12條路線將全部到位。\n\n從桃小巴到幹線公車，我們一步一步把桃園的公共運輸環境做好，讓公車成為大家日常出行時可以信賴的選擇。",
+      "topicScores": {
+        "交通": 0.99
+      },
+      "topics": [
+        "交通"
+      ],
+      "url": "https://www.facebook.com/SanCheng624/posts/pfbid0cE4X2hGqFJuJXtvry2cq9qyc86PZtNxmZa4V1xdPeSU9mwZkhgoEqvmr9o8Zfw4xl"
+    },
+    {
+      "agendaRelevance": 0.47,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "72dbedb4166d0e453c2c189038239da1f7a8fe9199a3481731b78ee8ef469622",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dcz_Zm9n06M/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/aeb5e718a6bb0b00c86f.webp",
+      "keywords": [
+        "商圈"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T04:49:02+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "介紹敬軍優惠方案，串聯旅宿、商圈與大眾運輸向國軍致意。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-ig",
+      "text": "九三軍人節，向所有守護中華民國的國軍致敬\n\n今天是九三軍人節，我前往桃園忠烈祠，向為國家犧牲奉獻的先烈先賢，致上最高敬意。\n\n同時，我也要向此刻堅守崗位、守護家園的國軍弟兄姊妹，說一聲：辛苦了，謝謝你們。\n一次次演訓、一次次任務，讓我們能夠安心生活，也讓台灣的民主與自由有最堅實的依靠。\n\n桃園是全台眷村數量最多、駐紮部隊密集的城市，我們對國軍有著深厚的情感。因此，對國軍的感謝與尊敬，更要化為具體行動。\n\n因此，今年我們也特別邀請班長形象深植人心的 #李興文 一起參與敬軍活動，許多國人對國軍的最初印象，或許就來自他在螢幕上的身影。\n\n感謝李興文協助市府宣傳，自即日起至10月底，整合旅宿、商圈及大眾運輸等跨局處資源，推出涵蓋「食、住、遊、購」的敬軍優惠專案，希望讓每一位國軍弟兄姊妹感受到桃園的感謝與支持。\n\n誠摯邀請國軍官兵與眷屬來桃園走走，也祝所有官兵弟兄姊妹軍人節快樂！",
+      "topicScores": {
+        "社福": 0.79,
+        "經濟": 0.68
+      },
+      "topics": [
+        "社福",
+        "經濟"
+      ],
+      "url": "https://www.instagram.com/p/Dcz_Zm9n06M/"
+    },
+    {
+      "agendaRelevance": 0.25,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "60e9f3bd234eb0eb360fe9c79758de5be4ecf79a613aa4a154078d4e74097333",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1840269554128935",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/835041174d5947d9f395.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-03T04:47:26.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "軍人節致敬並公告敬軍食住遊購優惠活動。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-fb",
+      "text": "九三軍人節，向所有守護中華民國的國軍致敬\n\n今天是九三軍人節，我前往桃園忠烈祠，向為國家犧牲奉獻的先烈先賢，致上最高敬意。\n\n同時，我也要向此刻堅守崗位、守護家園的國軍弟兄姊妹，說一聲：辛苦了，謝謝你們。\n一次次演訓、一次次任務，讓我們能夠安心生活，也讓台灣的民主與自由有最堅實的依靠。\n\n桃園是全台眷村數量最多、駐紮部隊密集的城市，我們對國軍有著深厚的情感。因此，對國軍的感謝與尊敬，更要化為具體行動。\n\n因此，今年我們也特別邀請班長形象深植人心的 李興文News Lee夜總會〈 粉絲團 〉  一起參與敬軍活動，許多國人對國軍的最初印象，或許就來自他在螢幕上的身影。\n\n感謝李興文協助市府宣傳，自即日起至10月底，整合旅宿、商圈及大眾運輸等跨局處資源，推出涵蓋「食、住、遊、購」的敬軍優惠專案，希望讓每一位國軍弟兄姊妹感受到桃園的感謝與支持。\n\n誠摯邀請國軍官兵與眷屬來桃園走走，也祝所有官兵弟兄姊妹軍人節快樂！",
+      "topicScores": {
+        "文化觀光": 0.69,
+        "生活": 0.68
+      },
+      "topics": [
+        "文化觀光",
+        "生活"
+      ],
+      "url": "https://www.facebook.com/SanCheng624/posts/pfbid02bxt1MJTzmoeFYyUdm3F1YXCgMkAftavK3rnQakjCCvn9BWGQUhGpPY2awJuByYZLl"
+    },
+    {
+      "agendaRelevance": 0.9,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "1bf07a47688a189ad779fad50a7562d84b17b263267310a516c1b84b513bbf88",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcxiA_-gQNY/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/4b8f0d7e1caef77fc97e.webp",
+      "keywords": [
+        "醫療",
+        "醫院",
+        "護理",
+        "急診"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T05:53:47+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動說明青埔醫院計畫進度、床位與醫療服務規劃。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-ig",
+      "text": "桃園要補足醫療量能，不能只靠一個方向\n很高興桃園的夥伴 #陽明交通大學，在青埔設立醫院有最新的進展\n\n桃園人口快速成長，醫療量能也必須跟著增加。這是我上任以來一直放在心上的事。\n\n上週，我們收到衛福部同意桃園市立醫院設立的許可；今天，再跟大家分享一個好消息：陽明交通大學在青埔設立醫院的計畫，已於8月通過桃園市政府衛生局審查，待校方依委員意見完成修正後，預計今年底前送衛福部審查。\n\n未來，#陽交大附設醫院 規劃400床，包括300床一般病床及100床特殊病床，也將設置24小時急診，補足青埔周邊急重症醫療量能，並發展中西醫整合、老化科學照護、AI醫療等服務。\n\n其實，陽交大這個案子，我上任後就持續和校方溝通。\n\n2019年，市府將青埔這塊基地撥給當時的陽明大學時，原是以教育、研發為主要定位，設立醫院並不是當時主要的規劃方向。\n\n但我上任後，市府持續盤點桃園整體醫療需求，就和校方討論，希望把陽明交大的醫學教育、醫療體系與人才培育資源帶進桃園。經過這幾年的討論，校方也看見桃園人口持續成長、醫療需求增加的潛力，轉向規劃附設醫院。\n\n這對桃園來說，是很重要的一步，我也對陽明交大設立醫院一案寄予厚望。\n\n客觀條件上，我上任後爭取桃園次醫療區重新劃分，過去受到病床配額限制的情況，目前已經鬆綁；主觀條件上，陽明交大本身已有完整的醫學及護理人才培育體系，在宜蘭有附設醫院，新竹也正在推動新的醫院。\n\n未來如果順利在青埔設院，就不是從零開始，而是有機會把既有的醫療人才、管理經驗與醫學教育資源一起帶進桃園。\n\n如果後續順利，#預計2032年可以提供服務。雖然起步比較晚，但目前已走到送中央審查前的階段。我們對後續招商與中央審查都寄予厚望。\n\n市府一方面推動桃園市立醫院，另一方面也積極引進大型醫學體系。不同醫療體系各有任務、服務不同區域，但共同目標都是增加桃園的醫療量能。\n\n青埔的醫療環境，市府持續推進，以務實的行動回應市民的期待，也破除唱衰的聲音；接下來，市府會和校方密切合作、緊盯進度，更要向中央爭取支持，讓這項計畫一步一步實現。",
+      "topicScores": {
+        "醫療": 0.99
+      },
+      "topics": [
+        "醫療"
+      ],
+      "url": "https://www.instagram.com/p/DcxiA_-gQNY/"
+    },
     {
       "agendaRelevance": 0.9,
       "candidateId": "chang-san-cheng",
@@ -1914,8 +2328,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dapt9-xoHpy/",
-      "imageAspect": 1.0008,
-      "imageUrl": "assets/feed-images/1f4ae6d197977f02051b.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "豪雨",
@@ -1995,8 +2409,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DanJp5FFEHL/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/3ecfc1e91cb61286a55d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "豪雨",
@@ -2075,8 +2489,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dak7OaHn2MD/",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/352f4a5282d086b37b37.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "災害",
@@ -2153,8 +2567,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DakkfFSoCBi/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/f471551a0a201f9964d9.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "災害",
@@ -2231,8 +2645,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DahW1Exnxn_/",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/caa3180aa5a3944cf49e.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "豪雨",
@@ -2311,8 +2725,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaaSlOOAkzo/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/e900fca34baa936b52f3.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "棒球",
         "選手",

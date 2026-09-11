@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/f1cc6fd1dd31727069ca.webp",
+    "avatarUrl": "assets/source-avatars/dd8b698d8a0b0cd7bcbf.webp",
     "city": "taipei",
     "cityLabel": "臺北市",
     "id": "chiang-wanan",
@@ -19,8 +19,40 @@
     "name": "蔣萬安",
     "party": "國民黨"
   },
-  "count": 94,
+  "count": 95,
   "posts": [
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "chiang-wanan",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "b14d57eb5e966b86bfb0213e7be4a5d3b0bee3852d68584a199dfbc2753cd151",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1625772125579405",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/1bad2327b30a3139f562.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-03T00:07:41.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "軍人節祭典與致敬內容屬紀念活動，未提出政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-wa-fb",
+      "text": "九三軍人節 向國軍英雄致敬🫡\n\n軍人節前夕，我再次來到忠烈祠主持秋祭典禮。\n唯有銘記歷史、感念先賢，才能守護今日得來不易的自由民主。\n\n向所有為中華民國犧牲奉獻的先賢先烈，以及每一位堅守崗位、保家衛國的國軍弟兄姊妹，致上最崇高的敬意。\n\n國軍英雄辛苦了，永遠以你們為榮。",
+      "topicScores": {
+        "生活": 0.78
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/chiangwanan/posts/pfbid02xnrTzFEFJqftx6BjNZFP3ecNbedZ6GwsjhhiiLdMH2tz9rFYcV5SYA2rr1r7aS56l"
+    },
     {
       "agendaRelevance": 0.12,
       "candidateId": "chiang-wanan",
@@ -1953,8 +1985,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaktrpSti6c/",
-      "imageAspect": 0.5629,
-      "imageUrl": "assets/feed-images/59396d39fc926b6de589.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "災害",
@@ -2099,8 +2131,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dae33LlNXz5/",
-      "imageAspect": 0.5635,
-      "imageUrl": "assets/feed-images/b4e35e46ecdab359a8bf.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-07T06:57:34+00:00",
@@ -2133,8 +2165,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DadH3d_thuC/",
-      "imageAspect": 0.5639,
-      "imageUrl": "assets/feed-images/19adce9dee5bc6fe4963.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "淹水",

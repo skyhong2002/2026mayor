@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/bba3d19d4b778565aefa.webp",
+    "avatarUrl": "assets/source-avatars/434e3af8e1e9291df0d7.webp",
     "city": "kaohsiung",
     "cityLabel": "高雄市",
     "id": "ko-chih-en",
@@ -19,8 +19,1248 @@
     "name": "柯志恩",
     "party": "國民黨"
   },
-  "count": 361,
+  "count": 395,
   "posts": [
+    {
+      "agendaRelevance": 0.36,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "48458819ed6d7cd6e8a3d5492bafb8f34c28cbc9456bc5bcf8a59129fafc5aac",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:JLYco6GrzQc",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/684f2656faa7b07849cb.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-11T10:00:39+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "內容是南高雄支持組織成立，屬競選組織動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-yt",
+      "text": "\"South Kaohsiung Support Association\" Officially Established: Transforming South Kaohsiung, Creat...",
+      "topicScores": {
+        "競選": 0.91
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=JLYco6GrzQc"
+    },
+    {
+      "agendaRelevance": 0.87,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "7742b3ddddae942c58ae89ea78dfca079dafc23669715e1eb6d5c0b21c0bb481",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdGzEtdGjkF",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/432eaacf0eba5d05146d.webp",
+      "keywords": [
+        "商圈",
+        "長輩",
+        "照顧",
+        "環境"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-10T12:07:24+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "提出商圈活化、老屋更新、長輩照顧與河川環境改善的地方政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:四年前，我的第一場廟口開講從三鳳宮出發；再度回到這裡，初心沒變，決心更堅定。\n\n曾經繁華的三民區，不該慢慢老去。\n商圈活化、老屋更新、長輩照顧、幸福川環境提升；我要讓三民區重新發光，成為高雄再起飛的原點！\n\n「投給柯志恩，就是投給善良、正向的力量。」 \n高雄值得更好的未來，高雄也值得再次站上世界舞台！",
+      "topicScores": {
+        "住宅": 0.86,
+        "環境": 0.74,
+        "社福": 0.78,
+        "經濟": 0.86
+      },
+      "topics": [
+        "經濟",
+        "住宅",
+        "社福",
+        "環境"
+      ],
+      "url": "https://www.threads.com/t/DdGzEtdGjkF"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "93966761c38646538c59d491ff0a570309c5454123c3181fd01ffab6108aec1c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:L2jHZIznLyI",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/5551df08ee969359e8ef.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-10T10:02:13+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "描述廟口造勢活動與過往參選經歷，屬競選宣傳紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-yt",
+      "text": "#SanminDistrictTempleTalk #SanfongTemple Four years ago, my first temple-front rally started at S...",
+      "topicScores": {
+        "競選": 0.9
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/L2jHZIznLyI"
+    },
+    {
+      "agendaRelevance": 0.3,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "5bb2215f4d2ac50dcd9ca2a5e9fa5c24dfd663e1d8e4075163e28d87d9012d54",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdFzyljibGR",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/31fa43bcd3a1411c87d8.webp",
+      "keywords": [
+        "豪雨",
+        "參選"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-10T02:53:53+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "回顧豪雨淹水現場與居民訴求，主要是活動紀錄及災情關懷。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:永安鄉親最樸實的心願，就是「永遠平安」。\n\n廟口開講來到 #永安宮 ，鄉親齊聚廟埕，熟悉的笑容再次回到大家臉上。\n\n但幾週前豪雨不斷，永安部分地區積水一度淹到膝蓋。當時我和方信淵議員、宋立彬議員、黃韻涵議員參選人趕到現場。\n\n就在永安宮前，我與陸淑美議員手牽著手涉水而過，一戶一戶聽鄉親訴說暴雨帶來的不安與一夜難眠。再回到同一個地方，看見大家重新展露笑顏，心裡很欣慰，但那一夜鄉親的憂愁與訴求，我始終放在心上。",
+      "topicScores": {
+        "競選": 0.61,
+        "防災": 0.97
+      },
+      "topics": [
+        "防災",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdFzyljibGR"
+    },
+    {
+      "agendaRelevance": 0.92,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "821b5d9350b5950194ddd93cfecfee294c3eca29555ec5139bd3077236f901b2",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdEDO_rica7",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/2c0af0026434aa73c8ca.webp",
+      "keywords": [
+        "運動"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-09T10:30:21+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "在國民體育日提出全民運動、國際接軌與產業升級等政策方向。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:今天是 #國民體育日 ，全齡動起來！\n\n高雄擁有得天獨厚的陽光與豐富的運動場域，無論是河畔慢跑、公園太極，還有各種球類運動的場地。要成為一座全齡宜居的運動城市，不只要年輕人有地方揮灑熱情，更要讓長輩能動得安心、動得健康！我以「全民普及、接軌國際、產業升級」提出四大政策：",
+      "topicScores": {
+        "競選": 0.7,
+        "體育": 0.98
+      },
+      "topics": [
+        "體育",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdEDO_rica7"
+    },
+    {
+      "agendaRelevance": 0.76,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "9e3f4c98de86c794efba4ccf39aafca40ab38d01217a5928b65ae62dd9983445",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdDR6jmjQAu",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/35a172db17b95db7b3c5.webp",
+      "keywords": [
+        "運動"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-09T03:19:48+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主張在社區普設匹克球場，讓各年齡層就近參與運動。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:「區區有匹克球，高雄動起來！」\n今天 #國民體育日，一起動起來！\n\n我請了一位「神秘嘉賓」擔任教練，帶我挑戰匹克球。\n\n匹克球真的很適合全民運動，從8歲到88歲都能玩；年輕人能打、爸媽能打、長輩也能一起打。\n\n未來的高雄，就是要讓運動貼近生活，讓大家想動起來的時候，家附近就有地方可以打球。",
+      "topicScores": {
+        "競選": 0.73,
+        "體育": 0.98
+      },
+      "topics": [
+        "體育",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdDR6jmjQAu"
+    },
+    {
+      "agendaRelevance": 0.34,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "6fb79c8872762e95e6320acbc829e6a891f11056af9c52ef0e53f23426674fbf",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:K32UwMXGAAw",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/a804464a6b0f89aac05a.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-09T03:19:00+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "響應國民體育日，倡議各區推廣匹克球運動。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-yt",
+      "text": "\"Pickleball in every district, Kaohsiung, let’s get moving!\" It’s #NationalSportsDay, so let’s ge...",
+      "topicScores": {
+        "體育": 0.98
+      },
+      "topics": [
+        "體育"
+      ],
+      "url": "https://www.youtube.com/shorts/K32UwMXGAAw"
+    },
+    {
+      "agendaRelevance": 0.68,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "806aaa60a231310e448d40d4c204a642e22f5ccb0b9b4f876ac256f44bbf1a8c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:Bm3PYLGDWhU",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/b41bba43a43f006d21f6.webp",
+      "keywords": [
+        "淹水",
+        "大雨"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-08T13:00:00+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "針對大雨後積淹水與道路問題，提出路平、水通及返家安全需求。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-yt",
+      "text": "#大寮廟口開講 #中庄朝中宮 鄉親的事，就是我最重視的事。高雄連日大雨過後，鄉親要的其實很簡單：路要平、水要通，回家的路不要再淹水。",
+      "topicScores": {
+        "交通": 0.68,
+        "防災": 0.88
+      },
+      "topics": [
+        "防災",
+        "交通"
+      ],
+      "url": "https://www.youtube.com/shorts/Bm3PYLGDWhU"
+    },
+    {
+      "agendaRelevance": 0.36,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "25b31f5f74d9688a41bf75b0e4b551fa4e29e7e19b845e824a2eca753c62e956",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:EU-NGQM0r3k",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/3386bc47c76915be97fe.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-08T12:08:08+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "聚焦南高雄支持團體成立與選舉動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-yt",
+      "text": "#SouthKaohsiungSupportGroup Officially Established! Written off four years ago, four years later,...",
+      "topicScores": {
+        "競選": 0.93
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/EU-NGQM0r3k"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "71114b2c6a88b38a47890c07fd3926553d9955193d90735193d491cb0972d93c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1634617704685276",
+      "imageAspect": 1.0019,
+      "imageUrl": "assets/feed-images/e60beb75eb681ab10836.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-07T02:01:47.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "內容是競選音樂會與廟口活動的場次公告。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-fb",
+      "text": "柯志恩「#廟口那卡西」場次預告\n歡迎相招來聽歌👊\n\n永安場\n📍時間｜9月8日（二）晚上7點開始\n📍地點｜永安區 #永安宮 (永安區永安路49號)\n📍主持人｜#陳昭瑋\n📍暖場主持｜#李怡純\n📍歌手｜超級紅人榜 #江雲梅\n📍琵琶｜小Pi老師\n📍與會來賓｜高雄市議員 #方信淵 #宋立彬 、參選人 #黃韻涵\n\n鳳山場（音樂會）\n📍時間｜9月11日（五）晚上7點半開始\n📍地點｜鳳山區 #代天府 (鳳山區中山東路229巷22之1號)\n📍歌手｜#喬幼\n📍特別來賓｜立法委員 #謝龍介\n📍與會來賓｜高雄市議員 #李雅靜 #鄭安秝 #鍾易仲 #劉德林\n\n鼓山場（音樂會）\n📍時間｜9月12日（六）晚上7點半開始\n📍地點｜鼓山區 #內惟青雲宮 (鼓山區建榮路157巷24號)\n📍主持人/歌手｜沈建豪 、林靜雯\n📍特別來賓｜立法委員 #牛煦庭\n📍與會來賓｜高雄市議員 #陳美雅 #蔡金晏\n\n新興場（音樂會）\n📍時間｜9月13日（日）晚上7點半開始\n📍地點｜新興區 #大港埔鼓壽宮 (新興區文衡一路90號)\n📍主持人｜#方清\n📍歌手｜吳俊宏 、林良歡\n📍與會來賓｜高雄市議員 #許采蓁 參選人 #黃裕庭\n\n柯志恩官方 Facebook全程直播。",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/KoChihEn/posts/pfbid031WfLhsBUxinBctjhxSD5qZKTmLvyujdooEgWEMWkgbQaNs1djLeq934tbnrRVqXvl"
+    },
+    {
+      "agendaRelevance": 0.24,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-06T16:01:24+00:00",
+        "inputHash": "727de98fba8985b40c2b8df2a04309f77702cc31aba72f192211a9e3ed00ee7f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc85gNrGTIH",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/b70f56422487d9d94be8.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-06T15:50:38+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄廟口音樂會與競選歷程，表達改變高雄的決心，但未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:三民區曾是高雄最繁華的起點，我要讓它成為高雄再起飛的原點！\n\n今晚廟口音樂會來到 #三鳳宮 ，對我有著特別的意義。四年前，我第一場廟口開講就在三鳳宮，那天細雨不停，但階梯上依然坐滿了人，陪伴我的議員 童燕珍、 黃柏霖、 黃香菽 都在身旁。\n\n四年後再回到這裡，看著熟悉的人群與熟悉的廟埕，心中只有更多感謝，也更堅定要為高雄改變的決心。",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc85gNrGTIH"
+    },
+    {
+      "agendaRelevance": 0.96,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "f8ea0daf23bdb2a97d41ee7c4369b6a5c19e609efb725f698970905fa955863e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc8y72zkxZR/",
+      "imageAspect": 1.5019,
+      "imageUrl": "assets/feed-images/c640d2ad4ae5de97a549.webp",
+      "keywords": [
+        "住宅",
+        "都更",
+        "租金",
+        "長輩",
+        "敬老",
+        "補助",
+        "照顧",
+        "教育",
+        "環境",
+        "治水"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T14:53:14+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出老屋整建、長者照護、教育及城市環境改善等多項政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "#三民區 曾是高雄最繁華的起點，我要讓它成為高雄再起飛的原點！\n\n今晚廟口音樂會來到 #三鳳宮 ，對我有著特別的意義。四年前，我第一場廟口開講就在三鳳宮，那天細雨不停，但階梯上依然坐滿了人，陪伴我的議員 #童燕珍、 #黃柏霖、 #黃香菽 都在身旁；四年後再回到這裡，看著熟悉的人群與熟悉的廟埕，心中只有更多感謝，也更堅定要為高雄改變的決心。\n\n今晚特別感謝「勇媽」嘉義市長 勇媽阿惠 - 黃敏惠，以及 #高雄市嘉義同鄉會 蔡崇銘理事長率領幹部及成員到場相挺。黃市長說，她父親過去就住在三民區大順二路，與三民有著特別的緣分。她更以17年的市政經驗勉勵我，四年前雖然落選，但我沒有離開高雄，而是持續走遍每個角落、認真為高雄打拚。這份鼓勵，我會一直記在心裡。\n\n三民區對我而言，承載著一個屏東鄉下孩子的夢想。小時候，高雄車站是令人嚮往的繁華世界；哥哥讀雄中、叔叔讀高醫，三民區幾乎就是我全部的世界。\n\n然而今天的三民區，卻面臨「兩個老」的挑戰：一個是高齡化，65歲以上人口數高達7.3萬人；另一個是老屋問題，高雄超過40年的住宅近6萬戶，都集中在三民區，曾經最繁華的地方，不該在時代變遷中逐漸失去光彩。\n\n因此，我提出商圈活化計畫，盤點高雄車站周邊的長明商圈、後驛商圈等重要據點，以更友善的創業環境與租金條件吸引年輕人進駐，讓商機重新回來；推動都市更新與老屋整建，在都更完成前提供必要補助，改善外牆、水管等老舊問題；針對住在老公寓的長輩，補助設置爬梯機，讓長輩能自由、安全的出門。\n\n我也主張將敬老卡點數由600點提高到1000點、擴大使用範圍，讓長輩買菜、看病更方便；面對高雄4萬多名失智長者，推動智慧手環協助照護家庭，因為我相信：「記憶會走遠，但愛不會迷路。」\n\n高雄有山、有海、有港，更應該有讓孩子看見世界的眼界。我希望成為一位重視教育的市長，提升教育經費，培養下一代的國際觀與競爭力，讓高雄的孩子勇敢走向世界。\n\n從商圈活化、老屋重建，到治水改善、幸福川整體環境升級、自行車路網串聯，我希望讓高雄不只是宜居，更是一座充滿希望與活力的城市。讓年輕人住得起、買得起、養得起；讓長輩有照顧、有尊嚴；讓資源更平均，讓機會更公平。\n\n黃敏惠市長今晚說：「投給柯志恩，就是投給善良、正向的力量。」我深受感動。高雄值得更好的未來，高雄也值得再一次站上世界舞台。\n—\n特別感謝高雄市嘉義同鄉會今天的共襄盛舉，包括蔡崇銘理事長、黃瑞榮副理事長、劉鴻德常務理事、邱政雄常務監事、林金藝理事、李文華執行長、黃明治理事、鄧樹欉理事、郭明哲理事，以及各位里長前輩仕紳。",
+      "topicScores": {
+        "住宅": 0.94,
+        "教育": 0.8,
+        "環境": 0.72,
+        "社福": 0.92
+      },
+      "topics": [
+        "住宅",
+        "社福",
+        "教育",
+        "環境"
+      ],
+      "url": "https://www.instagram.com/p/Dc8y72zkxZR/"
+    },
+    {
+      "agendaRelevance": 0.96,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "d27e665aaf47924c06fcaa1d17f936a90c3ee740bbbcd2d5ba5618fce70964c4",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1634236864723360",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/cac05c84e6c12b358d11.webp",
+      "keywords": [
+        "住宅",
+        "都更",
+        "租金",
+        "長輩",
+        "敬老",
+        "補助",
+        "照顧",
+        "創業",
+        "商圈",
+        "教育"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T14:53:09.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動提出商圈活化、老屋整建、長者照護與教育等多項政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-fb",
+      "text": "#三民區 曾是高雄最繁華的起點，我要讓它成為高雄再起飛的原點！\n\n今晚廟口音樂會來到 #三鳳宮 ，對我有著特別的意義。四年前，我第一場廟口開講就在三鳳宮，那天細雨不停，但階梯上依然坐滿了人，陪伴我的議員 #童燕珍、 #黃柏霖、 #黃香菽 都在身旁；四年後再回到這裡，看著熟悉的人群與熟悉的廟埕，心中只有更多感謝，也更堅定要為高雄改變的決心。\n\n今晚特別感謝「勇媽」嘉義市長 勇媽阿惠 - 黃敏惠，以及 #高雄市嘉義同鄉會 蔡崇銘理事長率領幹部及成員到場相挺。黃市長說，她父親過去就住在三民區大順二路，與三民有著特別的緣分。她更以17年的市政經驗勉勵我，四年前雖然落選，但我沒有離開高雄，而是持續走遍每個角落、認真為高雄打拚。這份鼓勵，我會一直記在心裡。\n\n三民區對我而言，承載著一個屏東鄉下孩子的夢想。小時候，高雄車站是令人嚮往的繁華世界；哥哥讀雄中、叔叔讀高醫，三民區幾乎就是我全部的世界。\n\n然而今天的三民區，卻面臨「兩個老」的挑戰：一個是高齡化，65歲以上人口數高達7.3萬人；另一個是老屋問題，高雄超過40年的住宅近6萬戶，都集中在三民區，曾經最繁華的地方，不該在時代變遷中逐漸失去光彩。\n\n因此，我提出商圈活化計畫，盤點高雄車站周邊的長明商圈、後驛商圈等重要據點，以更友善的創業環境與租金條件吸引年輕人進駐，讓商機重新回來；推動都市更新與老屋整建，在都更完成前提供必要補助，改善外牆、水管等老舊問題；針對住在老公寓的長輩，補助設置爬梯機，讓長輩能自由、安全的出門。\n\n我也主張將敬老卡點數由600點提高到1000點、擴大使用範圍，讓長輩買菜、看病更方便；面對高雄4萬多名失智長者，推動智慧手環協助照護家庭，因為我相信：「記憶會走遠，但愛不會迷路。」\n\n高雄有山、有海、有港，更應該有讓孩子看見世界的眼界。我希望成為一位重視教育的市長，提升教育經費，培養下一代的國際觀與競爭力，讓高雄的孩子勇敢走向世界。\n\n從商圈活化、老屋重建，到治水改善、幸福川整體環境升級、自行車路網串聯，我希望讓高雄不只是宜居，更是一座充滿希望與活力的城市。讓年輕人住得起、買得起、養得起；讓長輩有照顧、有尊嚴；讓資源更平均，讓機會更公平。\n\n黃敏惠市長今晚說：「投給柯志恩，就是投給善良、正向的力量。」我深受感動。高雄值得更好的未來，高雄也值得再一次站上世界舞台。\n—\n特別感謝高雄市嘉義同鄉會今天的共襄盛舉，包括蔡崇銘理事長、黃瑞榮副理事長、劉鴻德常務理事、邱政雄常務監事、林金藝理事、李文華執行長、黃明治理事、鄧樹欉理事、郭明哲理事，以及各位里長前輩仕紳。",
+      "topicScores": {
+        "住宅": 0.91,
+        "教育": 0.66,
+        "社福": 0.87,
+        "經濟": 0.8
+      },
+      "topics": [
+        "住宅",
+        "社福",
+        "經濟",
+        "教育"
+      ],
+      "url": "https://www.facebook.com/KoChihEn/posts/pfbid02X26S76Xpshao9oV4Px1rVLeb2ownYuSctV6wb6D6HrzD2UMLAVkSBaBYMP9j6Xyfl"
+    },
+    {
+      "agendaRelevance": 0.68,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "f93e55308a7ad7c5e3af3358f2cb9133c4d87cb5d1123dbe1304eaf46a480016",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-06T14:04:29+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc8cG3ITiVX/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/42ada97789036e595387.webp",
+      "keywords": [
+        "社福",
+        "身心障礙",
+        "照顧"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T11:33:49+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "回應他方觀點",
+        "reason": "明確回應小草關懷協會反映未接到訂單的問題，並承諾與黨中央釐清及補訂300份。",
+        "type": "responsive"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "庇護工場的每一張訂單，都應該被支持、照顧與尊重\n\n庇護工場的問題，許多民眾都很關心。高雄有許多優質的庇護工場與社福團體，長期提供身心障礙朋友穩定工作的機會，也透過產品與服務，讓更多人看見他們的努力與專業。\n\n總統府合作的優良庇護工場與社福團體中，高雄也有幾個優秀代表，包括高雄市小草關懷協會、一家工場（心路基金會）、社團法人高雄市心理復健協會等8家。此外，高雄市政府勞工局輔導立案的優質庇護工場，也包括喜憨兒高雄庇護工場、喜憨兒創作料理庇護商店、喜歡你咖啡鳳山庇護商店、美味佳餐坊庇護工場，以及唐心幸福庇護工場等。\n\n針對小草關懷協會反映「沒有接到訂單」的問題，我絕對不能讓高雄的庇護工場受到委屈，更不能讓任何一位努力工作的朋友受到傷害。\n\n我會盡快與黨中央釐清究竟是什麼原因導致訊息上的誤差，無論如何，這300份訂單一定會訂下來；同時也會由我個人加倍訂購給高雄在地的庇護工場店家，用最直接、最實際的行動支持他們。",
+      "topicScores": {
+        "社福": 0.98
+      },
+      "topics": [
+        "社福"
+      ],
+      "url": "https://www.instagram.com/p/Dc8cG3ITiVX/"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "f03ef1bfcb70fccbf2d76cf505b4eb1b0f3dc3190c0382daa9608363226b947b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:4552513088357955",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/73341ec12a25b43ca9ea.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T11:31:00.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "內容是競選音樂會的時間、地點與來賓公告。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-fb",
+      "text": "#三民區音樂會\n樓頂揪樓下，相招來聽歌！\n\n📍時間｜9月6日（日）晚上7點半開始\n📍地點｜三民三鳳宮\n📍主持人｜#方清\n📍歌手｜#馮偉傑\n📍特別來賓｜嘉義市長 #黃敏惠\n📍與會來賓｜高雄市議員 #黃柏霖 #黃香菽 、參選人 #童燕珍\n\n柯志恩 官方Facebook 全程直播",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/KoChihEn/videos/4552513088357955/"
+    },
+    {
+      "agendaRelevance": 0.82,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "5b659aa841c343e944ce99bea2b0b1680c3367d5c272e7742b69264fff3ffb1f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc8GlIpEwsl/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/f70ab08038fb533ef63f.webp",
+      "keywords": [
+        "長照",
+        "育兒",
+        "長輩",
+        "弱勢",
+        "照顧"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T08:25:40+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄公益活動並提出育兒、婦幼、兒少保護及長照支持的全齡政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "一個人的善意或許微小，但一群人的堅持，足以改變一座城市的明天！\n\n今天先後參加 #小天使家園 募款餐會、 #高雄市國立陽明大學校友會 、 #高雄市一元慈善會 創會36週年暨會員代表大會，以及國際獅子會「 #關懷失智音樂會 」。\n\n在小天使家園，看見許多夥伴長期守護被稱為「心孕兒」的失依幼童；每個孩子都值得被愛，我也期待未來和大家一起努力，讓高雄建立更完善的育兒、婦幼與兒少保護支持體系。\n\n活動之間，也來到陽明校友會與大家交流，哥哥、嫂嫂是陽明校友，對我而言格外親切。看見校友們在各領域持續貢獻社會，也讓我對高雄的人才發展充滿信心。\n\n隨後參加一元慈善會36週年慶。36年來秉持「同耕福田」精神，持續照顧弱勢、扶助急難，展現平凡善意累積而成的不凡力量。\n\n緊接著參加國際獅子會「關懷失智音樂會」，面對高齡社會，未來要照顧的不只是長輩，更是每個家庭。我提出「全齡安心」政見，就是要強化長照與照顧者支持，讓長輩安心老去，也讓家屬不必獨自承擔。\n\n守護孩子、培育人才、扶助弱勢、照顧長輩，看似不同的努力，其實都在讓高雄變得更好；謝謝這些願意付出的人，正是高雄最珍貴的力量。",
+      "topicScores": {
+        "社福": 0.97,
+        "醫療": 0.82
+      },
+      "topics": [
+        "社福",
+        "醫療"
+      ],
+      "url": "https://www.instagram.com/p/Dc8GlIpEwsl/"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "1e10a4a04de4ee72a48a04031674894c9fda1df47455be02d9e60fb3d459ad17",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:Vbef8S4uUAM",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/09dff58514477def70aa.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-06T07:34:45+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "以團結與高雄未來為主題的競選口號，未提出可辨識的政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-yt",
+      "text": "United in Purpose, Transforming Kaohsiung. November 28, Together Toward Glory. A Harbor of Dreams...",
+      "topicScores": {
+        "競選": 0.95
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/Vbef8S4uUAM"
+    },
+    {
+      "agendaRelevance": 0.16,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "2bed2b3b1195b08fbda4793e03648fb39b03b4188a6ec959b4338d9a9870f4f0",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc7kzWrCf7T",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/c12bcbd8e362ce1a1393.webp",
+      "keywords": [
+        "音樂"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-06T03:30:30+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "記錄廟口音樂會及地方交流，並表達競選支持，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:昨晚廟口音樂會來到大寮「中庄朝中宮」，看見許多熟悉的面孔，也想起這幾年與在地議員、里長及鄉親一起為地方打拚的點點滴滴。\n\n特別感謝立法院同仁蘇清泉委員再次來到大寮相挺，用行動展現對高雄發展的關心與支持。",
+      "topicScores": {
+        "文化觀光": 0.72,
+        "競選": 0.9
+      },
+      "topics": [
+        "競選",
+        "文化觀光"
+      ],
+      "url": "https://www.threads.com/t/Dc7kzWrCf7T"
+    },
+    {
+      "agendaRelevance": 0.94,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "f51ed5d6cd6fc384db0e5b69ad0c4832451bf68c1d96f5e1f27d42fcc5f74ff5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc7SkFqE_UZ/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/5dbc282b698963af1e4a.webp",
+      "keywords": [
+        "交通",
+        "捷運",
+        "道路",
+        "路平",
+        "豪雨",
+        "淹水",
+        "長輩",
+        "敬老",
+        "照顧",
+        "教育"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T00:51:08+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動提出交通建設、防洪排水、敬老卡及教育資源等地方治理政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "昨晚廟口音樂會來到 #大寮 中庄朝中宮，看見許多熟悉的面孔，也想起這幾年與在地議員、里長及鄉親一起為地方打拚的點點滴滴。特別感謝立法院同仁 蘇清泉 委員再次來到大寮相挺，用行動展現對高雄發展的關心與支持。\n\n兩年前，我曾和大家一起討論國道七號鳳寮段規劃；上週也再次前往後庄，關心鳳寮交流道議題。對我而言，交通建設不是畫在圖上的線條，而是每位居民每天回家的路。\n\n住在這裡的人最清楚地方需要什麼，無論是國七、鳳寮交流道、八德路與立德路改善，或施工期間的交通配套，都應該充分傾聽地方聲音，而不是由政府單方面決定。\n\n前陣子豪雨成災，我到大寮勘災，看見里長和居民一起泡在積水中搶救家園。 #高雄 不是沒有治水經費，但人民最基本的期待，就是下雨時能平安回家，不必擔心拋錨、積淹水或道路安全。路平、水溝通、排水順，這些不是口號，而是政府最基本的責任。\n\n除了把基礎建設做好，我也希望照顧好長輩。未來我主張將敬老卡點數從600點提高到1000點，並擴大使用範圍，讓長輩看病、採買更加便利，也讓家庭更安心。\n\n高雄有山、有海、有湖、有港，擁有最好的發展條件。未來捷運延伸到林園、大寮後，周邊商圈與產業更要同步發展，讓交通建設真正帶動地方繁榮。\n\n教育更是城市未來的根本，高雄的孩子，不分市區或原高雄縣，都應該擁有同樣的資源與機會。世界在哪裡，我們的眼界就應該在哪裡；高雄的孩子，也應該成為全台最有國際觀的一代。\n\n感謝一路陪伴我的議員 黃天煌、王耀裕市議員、高雄市議員 邱于軒及里長與所有支持者。四年前，在我最艱困的時候，他們始終站在我身邊；四年後，我們有更多力量，也肩負更大的責任。\n\n未來如果有機會承擔市政重任，我們的黨籍議員進到議會，我一定會把資源用在市民最需要的地方，讓市政府與市議會攜手合作，讓林園、大寮變得更好。",
+      "topicScores": {
+        "交通": 0.96,
+        "教育": 0.76,
+        "社福": 0.88,
+        "防災": 0.91
+      },
+      "topics": [
+        "交通",
+        "防災",
+        "社福",
+        "教育"
+      ],
+      "url": "https://www.instagram.com/p/Dc7SkFqE_UZ/"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "cb27b829a24a3dacc642d70062f0c9167562286d0c20953344db1ae67c4254a0",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc6XCiOidfv",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/28235bf8a278e6862887.webp",
+      "keywords": [
+        "後援會"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-05T16:11:00+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄市場拜會與倒數動員，主要是競選宣傳，沒有具體施政主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:市場裡的人情味，就是高雄最珍貴的力量！\n\n昨天下午後援會成立活動後，與南投縣長許淑華一起前往左營自由黃昏市場 ，向鄉親們請安問好。\n\n倒數83天，高雄的未來，需要大家一起拚、一起走。謝謝每一位願意為高雄加油的鄉親！",
+      "topicScores": {
+        "競選": 0.97
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc6XCiOidfv"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "16ee13f5b2c86fbd51990e835bc1d41980a92528c2a741dcc84a9b6c9ab3240e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc6HD9IE6HQ/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/f00022e258d303748a05.webp",
+      "keywords": [
+        "後援會"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T13:51:23+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄市場拜票與後援支持，主要是競選行程和動員內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "市場裡的人情味，就是高雄最珍貴的力量！\n\n今天南高雄後援會成立活動後，與南投縣長 許淑華一起前往自由 #黃昏市場 ，向鄉親們請安問好。\n\n一路上遇到許多熱情的鄉親，有人握手、有人成為加油打氣，更有攤商老闆特別送上粽子，笑著祝福「 #包中 」！一句句祝福、一個個笑容，都是最溫暖的力量。\n\n感謝在地的議員陳玫娟、李雅芬、李眉蓁、陳麗珍，以及 白喬茵服務團隊一路相挺，也感謝黃昭順委員、許多在地里長與候選人共同陪伴。這份來自在地的支持，我會放在心上，也會化成繼續向前的力量。\n\n倒數84天，高雄的未來，需要大家一起拚、一起走。謝謝每一位願意為 #高雄 加油的鄉親！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc6HD9IE6HQ/"
+    },
+    {
+      "agendaRelevance": 0.97,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "8d78c0f3459c25649fd6eb5bd18ae625b1bf0961419ef33b1a13bbdef5f3bc34",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc53mCok44J/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/50bb962038b6526b5379.webp",
+      "keywords": [
+        "選舉",
+        "造勢",
+        "後援會",
+        "道路",
+        "路平",
+        "豪雨",
+        "淹水",
+        "商圈"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T11:36:14+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出治水基建、南高雄都市更新、公園改造及城市發展等完整競選政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "讓南高雄重新發光，讓每個高雄人都能看見希望！\n\n今天，旗津、鼓山、鹽埕、前金、新興、苓雅、前鎮、小港的「 #南高雄後援會 」正式成立，特別感謝多年好友、南投縣長 許淑華 兩度排開行程來到高雄力挺。\n\n回想2018年，我和淑華、萬安、啟臣一起在三山造勢時還是「扛轎的人」，如今大家都肩負起更大的責任與期待。淑華一路看著我從立法院走向高雄基層，四年來一步一腳印深耕地方，也更加堅定我投入這場選舉的決心。\n\n我最感謝的是所有議員夥伴。四年前，即使外界並不看好，大家仍團結拚戰到底；四年來我走破四雙鞋、跑遍基層，有這麼多鄉親與夥伴支持，我對高雄的未來充滿信心。\n\n近期連日豪雨再次提醒我們，市政不能停留在口號。積淹水、天坑、道路破損一再發生，市府更應檢視治水與基礎建設是否真正到位。對我而言，市長最重要的責任，就是把路平、燈亮、水溝通做好，讓長輩安心、孩子安全、家庭免於擔憂。\n\n#高雄 的發展不能只有北高雄繁榮，南高雄也需要新的成長動能。我主張以205兵工廠57公頃土地為核心、重新定位，朝向超越台北信義計畫區的南高雄核心商業中心來規劃，也可以討論市府、市議會搬遷到這裡的可行性，結合市政園區，形成新的城市核心。\n\n同時推動「中央公園2.0」，把 #中央公園 從一座公園，變成帶動整個市中心發展的城市引擎。白天，我要讓大家看見高雄的森林，強化生態、親水、休憩與全齡遊憩空間，讓市民不用跑到郊區，在城市中心就能享受自然；到了晚上，我要讓大家看見高雄的未來，透過燈光、景觀與公共藝術，創造屬於高雄的夜間城市風景。同時，我要把公園的人潮帶進周邊商圈，讓南北高雄一起進步、一起繁榮。\n\n我沒有派系需要效忠，最大的頭家只有高雄市民。我提出「13579」市政藍圖，就是希望讓建設回到市民需求，讓發展照顧每一位市民。\n\n我們要贏的，不只是一場選舉，而是高雄下一個30年的未來。讓南高雄重新發光、北高雄持續進步，讓長輩有尊嚴、孩子有希望、年輕人有未來。\n\n感謝後援會、高雄市議員及候選人好夥伴：前議長莊啟旺、陳麗娜、陳美雅、蔡武宏、蔡金晏、許采蓁、黃裕庭、黃香菽、劉德林、李雅芬、李眉蓁、李雅靜、宋立彬、鄭安秝、林義迪、黃柏霖、李振豪、童燕珍、鍾易仲、陳玫娟、陳麗珍、湯茹婷、黃天煌、宋紹銘、葛姵瑩、洪英雄、陳奕蓁",
+      "topicScores": {
+        "交通": 0.91,
+        "競選": 0.98,
+        "經濟": 0.9,
+        "防災": 0.9
+      },
+      "topics": [
+        "競選",
+        "交通",
+        "防災",
+        "經濟"
+      ],
+      "url": "https://www.instagram.com/p/Dc53mCok44J/"
+    },
+    {
+      "agendaRelevance": 0.16,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "aebdf188998180883477c9e7913b879253ca00f59cf1b4acc8738eee936039c0",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3p2cdiX-x",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/9cfe6cb4a1af2d92ec2f.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-04T14:57:39+00:00",
+      "postingIntent": {
+        "confidence": 0.91,
+        "label": "主動發文",
+        "reason": "記錄赴廟口與鄉親談市政建設的行程，未提出具體政策內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:照片記錄的是孩子的成長，四年的歲月見證的是我的堅持！\n\n今晚來到林園王公廟前與鄉親廟口開講，除了談市政、談建設，也收穫了一份特別的感動。",
+      "topicScores": {
+        "競選": 0.76
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc3p2cdiX-x"
+    },
+    {
+      "agendaRelevance": 0.88,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "24ab579a6729de3b3cc76bf7da36e1c0c8916ba02ddceda2034b8157f137007b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc3owAukzV6/",
+      "imageAspect": 1.5019,
+      "imageUrl": "assets/feed-images/c3ca1eb413e56a261df2.webp",
+      "keywords": [
+        "淹水",
+        "育兒",
+        "長輩",
+        "敬老",
+        "補助",
+        "照顧",
+        "環境",
+        "空氣品質",
+        "治水"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T14:48:02+00:00",
+      "postingIntent": {
+        "confidence": 0.67,
+        "label": "主動發文",
+        "reason": "記錄基層行程並提出治水、環境、醫療與照顧政策，兼具競選訴求。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "今天來到 #林園 王公廟前與鄉親廟口開講，除了談市政、談建設，也收穫了一份特別的感動。\n\n活動開始前，一位媽媽帶著女兒來找我簽名，手上拿著一張四年前的照片，照片裡的小女孩當時才一歲，如今已經長成活潑可愛的小朋友，看著照片與眼前的她，突然覺得時間過得真快。\n\n特別感謝 蘇清泉委員，以及 王耀裕市議員 高雄市議員 邱于軒 黃天煌 議員到場相挺。這四年來，我始終留在高雄，勤走基層、傾聽民意，而對高雄的承諾從未改變。\n\n高雄連續下了二十多天的雨，今天終於迎來藍天，但林園鄉親對淹水的擔憂依然存在。天災無法避免，但讓人民免於恐懼，是政府最基本的責任。未來治水工作不只要做，更要做好、透明，讓鄉親看得到成效。\n\n林園有洋蔥、稻米等優質農漁產品，也有重要的石化產業；未來除了要協助農民拓展通路、提升收益，也要兼顧產業發展與空氣品質，讓經濟與環境能夠共好。\n\n我也將持續推動肺癌篩檢補助、皮蛇疫苗補助、敬老卡升級、照顧者喘息服務及育兒支持政策，照顧長輩，也支持年輕人、培育下一代。\n\n最近有人說市政要「一棒接一棒」，我認同市政需要延續，但接棒的人不一定非得是民進黨；高雄需要的是有能力、有國際視野、願意承擔責任的人，帶領城市繼續向前。\n\n四年前我曾承諾，即使選不上，我也會留在高雄。這四年來，我沒有離開。\n\n希望大家給我和三位在地最認真的議員機會，一起做好更多的建設、加速捷運進程，讓林園與 #高雄 、 #屏東 之間更加緊密。\n\n謝謝林園鄉親的鼓勵與支持，未來的路，我會繼續和大家一起打拚。",
+      "topicScores": {
+        "環境": 0.86,
+        "社福": 0.87,
+        "競選": 0.91,
+        "防災": 0.93
+      },
+      "topics": [
+        "防災",
+        "競選",
+        "社福",
+        "環境"
+      ],
+      "url": "https://www.instagram.com/p/Dc3owAukzV6/"
+    },
+    {
+      "agendaRelevance": 0.86,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "c47030cbaec2b317724daa360282023b919fecacf1b6627ab4113009a4a5569e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc0wycEDBK6/",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/a8b2204945d2b82cc700.webp",
+      "keywords": [
+        "文化",
+        "交通",
+        "捷運",
+        "參選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T12:00:35+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "參與佛光山文化活動並提出完成捷運紫線延伸至佛光山的政策承諾。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "完成參選登記後，隨即來到 #佛光山 ，中午先受邀參加供僧法會，十方信眾以最虔誠的心意供養僧眾，當重現星雲大師的身影，述說著會常在我們的心中時，尤為令人感動。\n\n現場也見到我十分敬重的 #吳伯雄 伯公，伯公分享身為「佛光人」的驕傲與認同，更表示只要身體健康、能力所及，都會繼續為佛光山、佛光會盡一份心力，字字句句，都能感受到他與佛光山數十年來深厚的情感與使命感。\n\n伯公除了感謝陳其邁市長對佛光山的支持，更期盼未來有一位與佛光山攜手同行、共榮共好的市長，當他隨後介紹我時，內心除了感謝，更感受到一份深深的期許與責任。\n\n下午繼續參加「星雲大師常設展」開幕活動，共同慶祝佛光山開山六十週年暨星雲大師 #百歲誕辰 。今天在台上致詞時有很深的感受，不論站在台上的是什麼身份，相較星雲大師對眾生付出的廣大心願，都讓人深感自己的渺小。\n\n#星雲大師 曾說：「給人信心、給人歡喜、給人希望、給人方便。」短短幾句話道盡佛法的智慧及待人處世的態度；大師一生弘法利生、悲智雙運，透過常設展不僅留下豐厚的文化資產，也影響世代的人文精神與價值典範。\n\n我們常說交通到哪、人潮就到哪，未來不論誰當市長，捷運紫線延伸到佛光山都一定會來完成，讓更多人來到佛光山，認識星雲大師留下的智慧與人文精神，也看見高雄珍貴的人文底蘊。\n\n感謝佛光山長年深耕高雄、回饋社會，台積電是台灣的護國神山，佛光山絕對是高雄的護市神山！",
+      "topicScores": {
+        "交通": 0.86,
+        "文化觀光": 0.94,
+        "競選": 0.8
+      },
+      "topics": [
+        "文化觀光",
+        "交通",
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc0wycEDBK6/"
+    },
+    {
+      "agendaRelevance": 0.4,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "67f8068a0d92fb6205164b2f41921d6db370711dd7db3faf21a772787ca3bcd1",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc0YwyBgF5b/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/05eaeb5049ee28893b15.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T08:31:08+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以翻轉高雄、新選擇等口號進行競選動員，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "有志一同，翻轉高雄。\n四年前，我們證明高雄還有一片天\n這些年，我走遍高雄、深耕高雄，更確定高雄需要新的選擇。\n不是延續誰的香火，而是為高雄開啟新的可能；不是複製過去，而是一起帶著高雄向前。\n11月28日，一起迎向光榮。夢想海港，世界雄心，高雄，我們一起出發！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc0YwyBgF5b/"
+    },
+    {
+      "agendaRelevance": 0.55,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "c522c05f75916106bbb606757451735fa59a4a4fa2821ad9798ec0194515f51f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc0LyQ7CVAA",
+      "imageAspect": 1.3325,
+      "imageUrl": "assets/feed-images/f99cd70c9fc32b30a3f8.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-03T06:37:13+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動闡述競選口號，提出讓高雄走向世界的發展願景。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:最近很多網友討論\n「凸全世界」到底是什麼意思？\n\n過去，我曾經「繞著地球跑」，到世界各地學習、工作。\n\n多年前，也有一句家喻戶曉的廣告詞：\n「一台車凸歸台灣」。\n\n這個「凸」，就是向前走、勇敢闖。\n\n所以「凸全世界」，就要讓高雄「不只是台灣的南方，更要成為世界看見的地方」。\n\n呼應我的競選主軸「夢想海港，世界雄心」。\n未來讓高雄繼續邁向世界！",
+      "topicScores": {
+        "競選": 0.96,
+        "經濟": 0.52
+      },
+      "topics": [
+        "競選",
+        "經濟"
+      ],
+      "url": "https://www.threads.com/t/Dc0LyQ7CVAA"
+    },
+    {
+      "agendaRelevance": 0.3,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "2c2864dd7acc177a49943ad7e0a25642f0262c1ae8c3d0a299dcfb8871b4e18d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc0BznKieCd",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/fa65ffb022b03501d61a.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-03T05:10:01+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "完成參選登記後發表出發宣言與競選口號，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:今天，我完成登記，也正式出發。\n高雄，準備好了。\n讓我們一起，打破舊框架，走出新高雄。\n夢想海港，世界雄心！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc0BznKieCd"
+    },
+    {
+      "agendaRelevance": 0.35,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-03T04:01:08+00:00",
+        "inputHash": "2790f643cf8bc9555f80b9f52ae2768be78d8b6361302d857dddbaf8d545115d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dcz5i4kk1tu",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/99ffe8a8de01ccda8292.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-03T03:57:50+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以高雄準備就緒的口號進行競選宣示，未交代具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:高雄，準備好了👊🏻",
+      "topicScores": {
+        "競選": 0.97
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dcz5i4kk1tu"
+    },
+    {
+      "agendaRelevance": 0.25,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "dd125a3fbb0e6dd450bdcf0938497943946633e168fde0eefe666203fbd0d478",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dcz5hn5E51N/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/6f3013449359f2490886.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T03:57:42+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以簡短口號表達競選動員與參選準備。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "高雄，準備好了👊🏻",
+      "topicScores": {
+        "競選": 0.92
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dcz5hn5E51N/"
+    },
+    {
+      "agendaRelevance": 0.22,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "afa77123303eb28d4c1ae39dee2ca4380d867945e71824a13a24c3f8dd31fae5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dcz4l8gTZg8/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/c08a15764f5055f27e06.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T03:49:56+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "簡短記錄前往參選登記，屬競選活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "去登記🥰",
+      "topicScores": {
+        "競選": 0.94
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dcz4l8gTZg8/"
+    },
+    {
+      "agendaRelevance": 0.28,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-03T04:01:08+00:00",
+        "inputHash": "2cebf5e1e297270d51ff2254227c300bb34070e438b8b3a130a6c24f57b4e8e9",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dcz4b3xiWEl",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/d2590f7410b076f28a29.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-03T03:48:08+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "呼籲支持者登記，屬競選動員，未提出施政議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:去登記🥰",
+      "topicScores": {
+        "競選": 0.95
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dcz4b3xiWEl"
+    },
+    {
+      "agendaRelevance": 0.58,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "f95f90426dd7ad793d61f12a5c31a95ab218f15cce2757a9e27cc8572a7a975a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DczhzSYCJ7o/",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/abe1610b14153facf5bd.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T00:30:56+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣布再次登記參選並重申對高雄的承諾，屬競選宣示。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-ig",
+      "text": "今天，我將再次登記參選高雄市長。\n\n對高雄的承諾，我說到做到。\n這些年，柯志恩一直都在。",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DczhzSYCJ7o/"
+    },
+    {
+      "agendaRelevance": 0.55,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-03T04:01:08+00:00",
+        "inputHash": "1e8ce054d2bc525918fa7a6a4481247b76348b3e828668bdf83061b977e7b18c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:hrWY4Fbfq-w",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/858e5393c75f0f1aad2e.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-03T00:30:09+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "以承諾與履行承諾為主題的競選宣傳，未明示具體政策內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-yt",
+      "text": "A Promise Made to Kaohsiung, A Promise Kept: Ke Chih-en Is Always Here.",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=hrWY4Fbfq-w"
+    },
     {
       "agendaRelevance": 0.93,
       "candidateId": "ko-chih-en",
@@ -11218,8 +12458,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DasFsViG_TT/",
-      "imageAspect": 0.8027,
-      "imageUrl": "assets/feed-images/3cc61d11d0a0005e705a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "產業",
         "創業",
@@ -11259,8 +12499,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DarjMzhGdUz",
-      "imageAspect": 0.7361,
-      "imageUrl": "assets/feed-images/8d984b4328582b41171c.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-12T05:05:52+00:00",
@@ -11291,8 +12531,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DarjKCLCea8",
-      "imageAspect": 0.6557,
-      "imageUrl": "assets/feed-images/71696c48b339fd862139.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-12T05:05:29+00:00",
@@ -11323,8 +12563,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DargPgaE3Vc/",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/ad21c98f16eabdde9b3e.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "運動",
         "選手",
@@ -11362,8 +12602,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dapw6hJidOz",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/13c0ffaa34cae4cd6578.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災",
@@ -11409,8 +12649,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DapuaqSkwVT/",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/d6e76348846b9a9a9bc4.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災",
@@ -11487,8 +12727,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DanIVExEzmE/",
-      "imageAspect": 1.3086,
-      "imageUrl": "assets/feed-images/5751b36d40f9745dce3d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "停班停課"
@@ -11565,8 +12805,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dam-JgGFM3B",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/ad4070000262e143747e.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "土石流",
@@ -11601,8 +12841,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dam93k2zVZR/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/f8fdb88aed5f7d39be1d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "土石流",
@@ -11673,8 +12913,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DamxrHyz5mZ/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/f764ae3f8e6b974d7df9.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "停班停課",
@@ -11710,8 +12950,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DamxkRXifBX",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/ff5784e9e156afc40e4a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "停班停課",
@@ -11751,8 +12991,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DamY1-dGbO3",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/48a1d8b14fc638704d0a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "淹水",
@@ -11791,8 +13031,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DakkQwnk41i/",
-      "imageAspect": 1.3348,
-      "imageUrl": "assets/feed-images/7eaf7c9e4e59522d54e1.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "運動",
         "選手",
@@ -11921,8 +13161,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dag6Ob4GTzw",
-      "imageAspect": 0.9591,
-      "imageUrl": "assets/feed-images/e5a4f62d3c7b96469e9b.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "教育",
         "產業",
@@ -12044,8 +13284,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dacbcl9HZrx/",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/ac06b59901d303047443.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "教育",
         "幼兒園",
@@ -12163,8 +13403,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaaP3GSGZ94",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/fd68a04d63d564730a0c.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "後援會",
         "捷運",
@@ -12204,8 +13444,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaaJsPiE-XZ/",
-      "imageAspect": 1.5019,
-      "imageUrl": "assets/feed-images/a26a82c482818bd0d948.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "參選",
         "後援會",
@@ -12294,8 +13534,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaXldMoDG9H/",
-      "imageAspect": 1.2513,
-      "imageUrl": "assets/feed-images/ff69054b685d0d038b23.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "長照",
         "托育",
@@ -12345,8 +13585,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaZBKgUE5GT",
-      "imageAspect": 1.25,
-      "imageUrl": "assets/feed-images/8e6b52f24953ad96e2cd.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-05T00:22:08+00:00",
@@ -12377,8 +13617,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaZAjNskyyC",
-      "imageAspect": 1.25,
-      "imageUrl": "assets/feed-images/cb7fb1a84377489cbf00.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "學校"
       ],
@@ -12411,8 +13651,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaZASxbk-jY",
-      "imageAspect": 0.8136,
-      "imageUrl": "assets/feed-images/83d59e7f4362ecfdcdf8.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "選舉",
         "提名",

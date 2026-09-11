@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/30b08f631e1c330f308a.webp",
+    "avatarUrl": "assets/source-avatars/9451a442efd770ab6118.webp",
     "city": "taipei",
     "cityLabel": "臺北市",
     "id": "shen-poyang",
@@ -19,8 +19,1826 @@
     "name": "沈伯洋",
     "party": "民進黨"
   },
-  "count": 472,
+  "count": 525,
   "posts": [
+    {
+      "agendaRelevance": 1.0,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "77efa7229ee333529309b1645ac0c2e4983fe49d989768948209d43d25a1e6eb",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdI9BAFFM-U",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "社福",
+        "長照",
+        "老人",
+        "長輩",
+        "敬老",
+        "社會福利",
+        "照顧",
+        "醫療"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-11T08:12:13+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動提出涵蓋長照、兒少、身障與女性支持的完整台北社福政策藍圖。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:一座城市的進步，不只是亮眼的那一面，更要看每一個需要支持的人，能不能被好好接住。\n⠀\n社會福利，是衡量一座城市溫度的尺。\n台北擁有全台最豐厚的財政資源，長照涵蓋率卻落後全國平均。\n有些長輩，一個人住在沒有電梯的公寓裡，出門變得不容易；有些家庭，把時間都給了生病的家人，自己卻沒辦法好好休息。\n⠀\n這些需要，不該被漏接。\n⠀\n這段時間，我們和許多社福團體、第一線工作者反覆討論，把大家的意見，整理成一套從孩子到長者的社福政策。\n⠀\n因此，我提出「台北社福藍圖」，從五大族群出發，為每一位市民築起安全網。\n⠀⠀\n▻跟長輩一起，在熟悉的地方好好生活\n⠀\n把敬老卡升級為「城市探索護照」，串連健身房、藝文活動，讓長輩每天都有出門的理由。\n健身小巴開進社區，在宅醫療與社會處方箋2.0走進家裡。\n針對老舊公寓，擴大爬梯機服務、成立到宅修繕服務團，並推動老人租屋友善計畫。\n增加住宿型長照機構，發放彈性臨時托老券，讓照顧者有喘口氣的空間。",
+      "topicScores": {
+        "交通": 0.65,
+        "教育": 0.78,
+        "社福": 0.99,
+        "醫療": 0.9
+      },
+      "topics": [
+        "社福",
+        "醫療",
+        "教育",
+        "交通"
+      ],
+      "url": "https://www.threads.com/t/DdI9BAFFM-U"
+    },
+    {
+      "agendaRelevance": 1.0,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "675bff1dd9105d23c5d011047f8a802c7b0f60da5bce4669fc4af51f31fa9bde",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdI876tkmeu/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/e9f6d73af3bcd2457fcd.webp",
+      "keywords": [
+        "社福",
+        "長照",
+        "老人",
+        "長輩",
+        "敬老",
+        "身障",
+        "社會福利",
+        "補助",
+        "津貼",
+        "照顧",
+        "醫療",
+        "疫苗",
+        "心理健康",
+        "人行道"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T08:11:31+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動提出涵蓋長照、兒少、身障與女性支持的完整台北社福政策藍圖。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "一座城市的進步，不只是亮眼的那一面，更要看每一個需要支持的人，能不能被好好接住。\n⠀\n社會福利，是衡量一座城市溫度的尺。\n台北擁有全台最豐厚的財政資源，長照涵蓋率卻落後全國平均。\n有些長輩，一個人住在沒有電梯的公寓裡，出門變得不容易；有些家庭，把時間都給了生病的家人，自己卻沒辦法好好休息。\n⠀\n這些需要，不該被漏接。\n⠀\n這段時間，我們和許多社福團體、第一線工作者反覆討論，把大家的意見，整理成一套從孩子到長者的社福政策。\n⠀\n因此，我提出「台北社福藍圖」，從五大族群出發，為每一位市民築起安全網。\n⠀⠀\n▻跟長輩一起，在熟悉的地方好好生活\n⠀\n把敬老卡升級為「城市探索護照」，串連健身房、藝文活動，讓長輩每天都有出門的理由。\n健身小巴開進社區，在宅醫療與社會處方箋2.0走進家裡。\n針對老舊公寓，擴大爬梯機服務、成立到宅修繕服務團，並推動老人租屋友善計畫。\n增加住宿型長照機構，發放彈性臨時托老券，讓照顧者有喘口氣的空間。\n⠀\n⠀▻辛苦的中年朋友，也要好好被接住！\n⠀\n補助50歲以上市民一劑皮蛇疫苗；15–45歲免費心理諮商，市府再加碼3次，並擴大到65歲，每人6次。⠀\n推動職場友善政策2.0，以職代津貼補足人力，安心請假！⠀\n針對45歲以上的市民，提供職涯健檢、職務再設計與創業利息補貼。\n⠀⠀\n▻ 孩子成長的每一步，我們一起守護\n⠀\n0至6歲免費腸病毒疫苗；首推0至18歲親子同行卡每月600點。⠀\n成立兒少安全治理分析中心，事後通報變成事前預防，推動通學路安全計畫，守護孩子每天上下學。\n⠀\n▻給身障朋友最貼心的照顧，自在生活\n⠀\n成立無障礙城市設計中心，從家門口、人行道到公共運輸、建築，讓設施使用不再零碎！⠀\n補助罕病家庭家用不斷電系統，並提升身障女性參與公共決策的比率。\n⠀\n▻讓女性一起，守護自己的安全\n⠀\n引入「女性安全審計」，邀請不同年齡、身體狀況的女性，共同檢視公共空間安全。⠀\n建置女性身心健康一站式支持專線，陪伴大家走過心理健康、月經、孕產、更年期困難。⠀\n一座有溫度的城市，是每個人都能在熟悉的家園裡，活得安全、保障，充滿希望。\n⠀\n期待和大家一起，把台北變成這樣的城市。\n\n#台北順起來\n#你的市長沈伯洋",
+      "topicScores": {
+        "交通": 0.65,
+        "教育": 0.78,
+        "社福": 0.99,
+        "醫療": 0.9
+      },
+      "topics": [
+        "社福",
+        "醫療",
+        "教育",
+        "交通"
+      ],
+      "url": "https://www.instagram.com/p/DdI876tkmeu/"
+    },
+    {
+      "agendaRelevance": 0.25,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "a41dcbd99a61bd9d91dbc76b5712da7cf13f4f0b48844a3f7dea57cdf74fa82f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:JCzyYcONWZc",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/4d2c34210ae98cd8e002.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-11T02:29:50+00:00",
+      "postingIntent": {
+        "confidence": 0.9,
+        "label": "主動發文",
+        "reason": "感謝會計師朋友成立支持委員會，屬競選支持與動員內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "Thank you to my accountant friends for forming a support committee and giving me your steadfast b...",
+      "topicScores": {
+        "競選": 0.88
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/JCzyYcONWZc"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "0bd1d4e4e131cb93bb20b03b1dbba18039cdcc2c1dae19f196dfdfe64f3d1603",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdHQSzelB1P",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-10T16:22:11+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄石牌活動人潮並感謝支持、收集建言，屬競選活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:剛到家\n\n想說寫一下石牌的心得\n但因為被人潮震驚到了\n一時間不知道該寫什麼\n\n總之\n真的很謝謝大家\n中間還下雨\n真的對大家很不好意思\n希望大家都有吃飯、有吃飽～\n\n收到很多建言與鼓勵\n我一定會好好努力的\n\n我愛大家",
+      "topicScores": {
+        "競選": 0.92
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdHQSzelB1P"
+    },
+    {
+      "agendaRelevance": 0.35,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "da02d7650824217fa8facb693d9063f79e575e48491e4119e3e7a8afce8c949b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdG0R0gFAQK",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "產業",
+        "AI"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-10T12:17:23+00:00",
+      "postingIntent": {
+        "confidence": 0.94,
+        "label": "主動發文",
+        "reason": "預告與來賓討論AI及產業政策，屬內容宣傳而非具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:沒想到有第二集吧，再戰默契大考驗，\n我們的答案能不能一樣？\n\n這一次會聊到AI跟整個產業政策，\n完整版記得到阿格力的頻道觀看！\n\n#默契大考驗 #台北順起來 #你的市長沈伯洋",
+      "topicScores": {
+        "經濟": 0.88
+      },
+      "topics": [
+        "經濟"
+      ],
+      "url": "https://www.threads.com/t/DdG0R0gFAQK"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "d088ee4ac5f05921583fc8302998fc5a0b37d04209d9d0e03c420d5e6c03d646",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:hilAYMmVUjw",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/efc82e582be6cd8d5771.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-10T12:16:08+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "內容是再次進行化學測驗的輕鬆影片，沒有明確公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "Didn't see a part two coming, did you? Back for another chemistry test—can we match our answers t...",
+      "topicScores": {
+        "生活": 0.82
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.youtube.com/shorts/hilAYMmVUjw"
+    },
+    {
+      "agendaRelevance": 0.35,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "eacc0df5c219db05cdd0ffae1e38441c3fe26af37681e332d36d92ad6e991508",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdGz_B1y56X/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/bd4577dc7eddc6cd5fa2.webp",
+      "keywords": [
+        "產業",
+        "AI"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T12:15:56+00:00",
+      "postingIntent": {
+        "confidence": 0.94,
+        "label": "主動發文",
+        "reason": "預告與來賓討論AI及產業政策，屬內容宣傳而非具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "沒想到有第二集吧，再戰默契大考驗，\n我們的答案能不能一樣？\n\n這一次會聊到AI跟整個產業政策，\n完整版記得到阿格力的頻道觀看！\n\n#默契大考驗 #台北順起來 #你的市長沈伯洋",
+      "topicScores": {
+        "經濟": 0.88
+      },
+      "topics": [
+        "經濟"
+      ],
+      "url": "https://www.instagram.com/p/DdGz_B1y56X/"
+    },
+    {
+      "agendaRelevance": 0.88,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "b2504c0c77476039e6de899e879ee00ee94ceef5ce1bbd8b1f7233379f9c37f6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:4cLreLUig4Q",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/81c7e9813e46c0850569.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-10T11:22:31+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "提出串聯台北故事的文化徑與山林旅遊中心建設構想。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "One Cultural Trail, Weaving Together Taipei’s Stories; One Mountaineering Tourist Center, Buildin...",
+      "topicScores": {
+        "文化觀光": 0.97
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.youtube.com/shorts/4cLreLUig4Q"
+    },
+    {
+      "agendaRelevance": 0.15,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "12752b83d8c4368c24eb4fd7b81756e7c0f8e52e091fcb4c64776d1e0513b365",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdGeE9hlOoE",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/87f4d803c8b82fa294b6.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-10T09:03:23+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "公告競選應援商品加製與捐款方案，主要是選舉動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:⁨⁨敲碗成功啦！\n⠀⠀\n〖應援台北〗方案緊急加製，\n⠀\n在堅持台灣製造的前提下，追加1,332組，\n奔奔、抱抱各666隻，隨機出貨。\n⠀\n ❑ 捐款方案\n𝙉𝙏 $3,939〖應援台北〗\n明天中午12點準時開放！\n⠀\n感謝廠商情義相挺，因台灣製作量能有限，本批訂購預計10月底陸續出貨。\n謝謝大家支持！⁩⁩",
+      "topicScores": {
+        "競選": 0.9,
+        "經濟": 0.65
+      },
+      "topics": [
+        "競選",
+        "經濟"
+      ],
+      "url": "https://www.threads.com/t/DdGeE9hlOoE"
+    },
+    {
+      "agendaRelevance": 0.15,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "5308fa5ee3cdd7a0f22ea48cf0cd896b5b70989534c1c1d97cd88efe3133b779",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdGd-nFSxmy/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/6545726c9e203682a5eb.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T09:02:48+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "公告競選應援商品加製與捐款方案，主要是選舉動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "⁨⁨敲碗成功啦！\n⠀⠀\n〖應援台北〗方案緊急加製，\n⠀\n在堅持台灣製造的前提下，追加1,332組，\n奔奔、抱抱各666隻，隨機出貨。\n⠀\n ❑ 捐款方案\n𝙉𝙏 $3,939〖應援台北〗\n明天中午12點準時開放！\n⠀\n感謝廠商情義相挺，因台灣製作量能有限，\n本批訂購預計10月底陸續出貨。\n謝謝大家支持！⁩⁩",
+      "topicScores": {
+        "競選": 0.9,
+        "經濟": 0.65
+      },
+      "topics": [
+        "競選",
+        "經濟"
+      ],
+      "url": "https://www.instagram.com/p/DdGd-nFSxmy/"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "1dcc93798336a3282ed43356b1aa940a69ecf6c30a738609f55835ebb85b2b83",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdGNOefSNlB/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/4c603c664c0338a3c459.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T07:00:05+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "發布市場見面行程，邀請市民交流，屬競選活動紀錄與動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "明早逛市場，歡迎大家來買菜逛街，\n也來跟我聊聊、打聲招呼！\n \n9/11（五）\n08:30\n📍臨江市場",
+      "topicScores": {
+        "競選": 0.88
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdGNOefSNlB/"
+    },
+    {
+      "agendaRelevance": 0.69,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "b1026575b98b3b2d348452277dd2137ce173df879e9f2cf88446d58685b68b67",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:RLJ4l0GeVMY",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/c83fc957ab44cbd55ae6.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-09T14:22:26+00:00",
+      "postingIntent": {
+        "confidence": 0.88,
+        "label": "主動發文",
+        "reason": "強調市民聲音與參與是城市治理的重要基礎。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "Citizens are the true masters of this city; only when their voices are genuinely heard can we bui...",
+      "topicScores": {
+        "議會監督": 0.83
+      },
+      "topics": [
+        "議會監督"
+      ],
+      "url": "https://www.youtube.com/shorts/RLJ4l0GeVMY"
+    },
+    {
+      "agendaRelevance": 0.3,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "979aeba8e59d1cfeedd9552bff6ead9c5d2ef4aa61cf2fab9e31062316ee166f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:khPooa1oMAo",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/b5a58d972b6956541848.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-09T08:57:25+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "感謝勞動支持委員會夥伴，主題聚焦勞工與城市運作。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "Workers are the vital force that keeps Taipei running. Thank you to the partners of the Labor Sup...",
+      "topicScores": {
+        "競選": 0.55,
+        "經濟": 0.89
+      },
+      "topics": [
+        "經濟",
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/khPooa1oMAo"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "39f9e5f604a8a864bc0bb39f8000dbf3e556966a535ca9a88de576709bb2354e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdDiAkBTWme/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/b1e61fe396fb89639056.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T06:05:05+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "發布商城拜訪行程並邀請市民交流，屬競選活動宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "明天晚上來石牌商城走走，聽聽大家對台北的期待！\n⠀\n9/10（四）\n⠀\n19:30\n📍 石牌商城",
+      "topicScores": {
+        "競選": 0.9
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdDiAkBTWme/"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:46:45+00:00",
+        "inputHash": "594080c7c05fc915eb9880d35112d73843b6cb902f65ce35f6f4900ebbc0a268",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-11T10:47:04+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "x:https://twitter.com/pumashen/status/2097547948108431605",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "x",
+      "postedAt": "2026-09-09T04:49:36+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "回應他方觀點",
+        "reason": "針對《大西洋》文章及作者報導，指其斷章取義、誤導並加以澄清反駁。",
+        "type": "responsive"
+      },
+      "sourceId": "shen-x-personal",
+      "text": "Public Statement Regarding Reporting by The Atlantic\n\nRegarding the article titled \"Will Taiwan Just Give Up?\" authored by Mr. Simon Shuster in The Atlantic, this public statement is hereby issued to clarify and address the selective quotes taken out of context and the decontextualized framing of Taiwan's defense reforms and Legislator Puma Shen:\n\nLegislator Puma Shen was interviewed by Mr. Shuster on April 23 of this year, and a full audio recording of the interview has been retained for verification.\n\n1.\nTo serve a narrative aimed at highlighting \"Taiwanese draft-dodging,\" the article decontextualizes, exaggerates, and misrepresents Legislator Shen’s past experience of legally fulfilling his alternative civil service based on his professional expertise. Equating the legal and compliant alternative service system with \"draft-dodging\" is not only factually inaccurate, but also seriously misleads the international community's understanding of Taiwanese citizens' participation in national service.\n\n2.\nThe article's quote stating that \"people think it's a waste of time\" is completely stripped of its original context. At the time, Legislator Shen explicitly referred to the outdated, ritualistic military training of the past—riddled with chores like cutting grass prior to recent defense reforms—rather than dismissing the intrinsic value of military service or suggesting a lack of public resolve to defend the nation. This framing dismisses the efforts of the government and Taiwanese society in addressing past systemic inefficiencies, as well as the MOD’s ongoing commitment to defense reforms and the conscription system, making it highly misleading.\n\nJournalistic professionalism and ethics must be built on objective, complete, and contextually grounded reporting, particularly when addressing critical issues such as regional security and democratic resilience. We call on international media outlets to respect factual context when reporting on Taiwan's national defense and will to defend itself, and to refrain from using decontextualized techniques to shape biased narratives.",
+      "topicScores": {
+        "兩岸外交": 0.88,
+        "教育": 0.42
+      },
+      "topics": [
+        "兩岸外交",
+        "教育"
+      ],
+      "url": "https://x.com/pumashen/status/2097547948108431605"
+    },
+    {
+      "agendaRelevance": 0.7,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "a60e5876d8d5f1748491f43ca18bc95ff13374486e667f35423ede8a51fe4af0",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdDWp9Nkje2/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/462c2e2c4fbd63f66bde.webp",
+      "keywords": [
+        "選舉"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T04:00:02+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動建立蒐集市民政見的平台，承諾將意見整理為市政政策依據。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "「不要你給我好聽的，我要你給我聽好了！」\n⠀\n選舉通常都是候選人講、市民聽。\n政見一個個端出來，大家只能坐在台下聽。\n⠀\n但是這一次，我們想反過來：\n讓市民先說，候選人好好聽。\n⠀\n「市長，你給我聽好了！」\n⠀\n是一個透過 LINE 即時蒐集大家對台北市政最直接感受的平台。\n只要透過掃描QR Code或點擊留言區連結，\n即可加入並開始參與！\n⠀\n📍參與方式只需三步：\n⠀\nStep 1｜選擇你在意的議題\nStep 2｜輸入你的感受與想說的話\nStep 3｜加入隊伍，等待上台發表\n⠀\n我們要打造「全世界最長的市民政見隊伍」。\n每一位市民，都可以上台，\n沈伯洋則坐在台下努力記錄；\n每一句「我受夠了」，都應該被整理成下一任市長的任務。\n⠀\n📍上台不是結束，是政見的開始。\n⠀\n每一則發言都會依照議題去整理與分析，讓我們能夠依照真實的民意，完善市政意見資料庫。\n⠀\n排隊期間，LINE 會主動通知上台時間與目前進度。\n等待的同時，你也可以看看其他人在意什麼，持續留在這場城市對話裡。\n⠀\n九月下旬，我們還會舉辦實體活動，進一步回應市民提出的問題，把第一線心聲轉化成具體的政策方案。\n⠀\n這不是候選人給市民的承諾，\n這是市民交給候選人的考卷。\n⠀\n候選人要做的，不是講得更好聽，而是把市民的每一句話，「都聽好了」。\n⠀\n#市長你給我聽好了\n#台北順起來 \n#你的市長沈伯洋\n⠀\n⠀\n「市長，你給我聽好了！」官方LINE\n▻▻ https://lin.ee/oPKbaZW",
+      "topicScores": {
+        "競選": 0.98,
+        "議會監督": 0.55
+      },
+      "topics": [
+        "競選",
+        "議會監督"
+      ],
+      "url": "https://www.instagram.com/p/DdDWp9Nkje2/"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:46:45+00:00",
+        "inputHash": "dee53b0875619eb36c571e4402cc0c8242daf8302996b23e8c3bff8b654471cd",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:cNz1hVpPZeo",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/a7d0c251ccc791a30fde.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-09T00:59:30+00:00",
+      "postingIntent": {
+        "confidence": 0.64,
+        "label": "主動發文",
+        "reason": "僅提及召開針對市長的記者會，缺乏具體議題內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "市長你給我聽好了記者會",
+      "topicScores": {
+        "競選": 0.68
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=cNz1hVpPZeo"
+    },
+    {
+      "agendaRelevance": 0.5,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "018fe008555e9d2b2fbb045766397d9066446be675160539b76da6edeca39ea4",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:XYJaqZPHOVVwhUn_u5mJD",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/f8763236bb87c7a7effa.webp",
+      "keywords": [],
+      "platform": "website",
+      "postedAt": "2026-09-09T00:00:00+08:00",
+      "postingIntent": {
+        "confidence": 0.78,
+        "label": "主動發文",
+        "reason": "受訪談市政辯論、利益衝突與韌性城市願景，屬政策監督與主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-web-campaign",
+      "text": "0909受訪 #受訪 #市政辯論 #美鳳有約 #鏡文學採訪 #新聞採訪自由 #利益衝突 #市民是主角 #市長你給我聽好了 #韌性城市 #城市願景",
+      "topicScores": {
+        "議會監督": 0.82,
+        "防災": 0.64
+      },
+      "topics": [
+        "議會監督",
+        "防災"
+      ],
+      "url": "https://puma.taipei/videos/XYJaqZPHOVVwhUn_u5mJD"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "2c0e0941e2777ff8e768447bb2154c34abd37d0e745ecb34d237ac77a7a167ea",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdBX3-jyfmY/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/3ffa3ff3aba257560b89.webp",
+      "keywords": [
+        "弱勢"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T09:33:57+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "推薦購買支持弱勢與無家者的雜誌，屬公益生活倡議。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "150塊，在台北可以買到什麼？\n⠀\n可以買一本內容豐富的《大誌雜誌》，\n支持弱勢及無家者靠自己的力量，重新站穩生活。\n⠀\n下次在捷運站出口，不妨停下腳步，\n帶一本《大誌》回家。\n⠀\n一本雜誌，也能接住一個努力生活的人。",
+      "topicScores": {
+        "生活": 0.72,
+        "社福": 0.8
+      },
+      "topics": [
+        "社福",
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DdBX3-jyfmY/"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "32d30c651249bc89133cdaa7508b0253e3e5fb938275e44a8ba9aa56c512b358",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdAzuF7y_HM/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/a1928c1d6665feb3a41b.webp",
+      "keywords": [
+        "運動"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T07:00:04+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "公布公園散步運動行程並邀請民眾參與，屬競選互動活動。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "明天早上6點，我會到大湖公園走走，\n歡迎來一起運動、散散步。\n⠀\n9/9（三）06:00\n⠀\n📍大湖公園",
+      "topicScores": {
+        "競選": 0.9,
+        "體育": 0.7
+      },
+      "topics": [
+        "競選",
+        "體育"
+      ],
+      "url": "https://www.instagram.com/p/DdAzuF7y_HM/"
+    },
+    {
+      "agendaRelevance": 0.99,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "b5dc69b37095f675065d31b3b54ff60390a3173acdbe04dfd0f1323a8fbb13a6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdAnMAjEl2v/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/e856cd21e5117c0aef4f.webp",
+      "keywords": [
+        "文化",
+        "觀光",
+        "歷史",
+        "生態",
+        "交通",
+        "捷運"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T02:27:33+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出串聯文化徑、山林觀光、步道安全與接駁交通的具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "我們有多久沒有走進山裡，重新認識這座城市了？\n⠀\n被群山環抱的台北，搭捷運二十分鐘，就能從繁忙的街道走進一片山林。\n⠀\n這是許多國際城市羨慕的條件，我們卻還沒有好好發揮。\n⠀\n長久以來，台北的文化與山林，像是兩條平行線：在市區體驗文化，在郊區親近自然。\n⠀\n因此，我提出「首都文化徑 × 山林徑」政策，從四大方向，重新串起台北的文化與山林。\n⠀\n⠀\n▻走過台北的昨日與今天：四大主題文化徑\n⠀\n把散落在城市各處的文化景點，串成一張完整的路網。\n⠀\n從茶葉、煤礦留下的產業記憶，到艋舺、大稻埕、北投的城市發展；從客家、原住民、眷村與新移民的多元故事，到人權與民主的歷史現場。\n⠀\n讓文化不再只是單一景點，而是一段可以親自走過的城市故事。\n⠀\n⠀\n▻打造亞洲第一觀光登山城：三座登山觀光中心\n⠀\n在象山、劍潭、貓空設立登山觀光中心，提供裝備租借、中英日韓四語導覽、即時步道資訊與生態體驗預約。\n⠀\n讓登山口成為深度認識台北的「文化入口」，也吸引更多國際旅客走進台北的山林。\n⠀\n⠀\n▻讓山林更順、更安全：重新檢視步道系統\n⠀\n以修復代替新建，補足指標、休息、飲水與安全設施，並建立整合式的數位導覽與安全應急平台。\n⠀\n同時串連不同登山口之間的接駁交通，讓喜愛山林的朋友，走得更順、更安心！\n⠀\n⠀\n▻讓文化與山林成為日常：品牌化、數位治理與親子同行\n⠀\n透過路徑品牌化、數位治理、在地參與與跨局處合作，搭配每月600點的「親子同行卡」，讓沿線的商圈一起受益。\n⠀\n⠀\n台北之所以有這麼多故事可以說，是因為長年以來，有人記錄、有人保存，也有人用行動守護著這片山林與土地。\n⠀\n讓山林成為城市的日常，讓歷史留在我們走過的每一段路上。\n⠀\n期待未來，我們可以一起走進這座城市，也重新認識台北。\n\n#台北順起來\n#你的市長沈伯洋",
+      "topicScores": {
+        "交通": 0.7,
+        "文化觀光": 0.99,
+        "環境": 0.85
+      },
+      "topics": [
+        "文化觀光",
+        "環境",
+        "交通"
+      ],
+      "url": "https://www.instagram.com/p/DdAnMAjEl2v/"
+    },
+    {
+      "agendaRelevance": 0.72,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "4e2102b3e36e1bcb455f8cd6fcab57f85858828c5b58721c7a684a76d25d540a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:y1EIo91AGeM",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/5e29c26e98a036187382.webp",
+      "keywords": [
+        "文化"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-08T01:34:41+00:00",
+      "postingIntent": {
+        "confidence": 0.94,
+        "label": "主動發文",
+        "reason": "介紹首都文化徑與山林徑相關記者會，涉及文化與觀光建設。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "首都文化徑跟山林徑記者會",
+      "topicScores": {
+        "文化觀光": 0.92
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.youtube.com/watch?v=y1EIo91AGeM"
+    },
+    {
+      "agendaRelevance": 0.55,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "99e3dbcd4134d9068872eb2255409cb55bf0c00dc4af0c61a78f42bda6f90dda",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:7O1nbg-eMPLEmesVC8n9_",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/9fe2e8359a11a4566fa6.webp",
+      "keywords": [
+        "運動",
+        "文化",
+        "觀光"
+      ],
+      "platform": "website",
+      "postedAt": "2026-09-08T00:00:00+08:00",
+      "postingIntent": {
+        "confidence": 0.8,
+        "label": "主動發文",
+        "reason": "受訪提出運動驛站、登山觀光與城市串聯等政策議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-web-campaign",
+      "text": "0908受訪 #受訪 #首都2.0 #運動驛站 #四獸山 #數位科技 #登山觀光中心 #串連城市 #管理文化 #有事敢講 有錯敢認 #市政辯論",
+      "topicScores": {
+        "交通": 0.72,
+        "文化觀光": 0.58,
+        "體育": 0.66
+      },
+      "topics": [
+        "交通",
+        "體育",
+        "文化觀光"
+      ],
+      "url": "https://puma.taipei/videos/7O1nbg-eMPLEmesVC8n9_"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "81454df7f79ef12d781ea65c58c49991a047e5042708f5fac17b71f7e1569fa9",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc_JXD-vL0d/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/bc549f5d4b3133bbe097.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-07T13:02:01+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "分享參與台語漫才特別企劃的影片，沒有具體公共政策內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "妹迪特別企劃《沈伯洋ê漫才大挑戰》！！！\n\n啥物？！\n沈伯洋欲來挑戰講漫才？！\n\n「台灣製造少年家-妹迪 IN TAIWAN」ft.「上強鬼殺隊-台北市我來守柱」\n\n沈老師不只脫口秀！\n連漫才也沒在怕啦！\n\n完整影片請至YT搜尋🔍妹迪 IN TAIWAN🔥\n\n＊特別感謝\n沈伯洋委員熱情參與\n服裝贊助：自助餐服飾\nLogo設計：劉晉志\n\n＃沈伯洋\n＃妹迪INTAIWAN\n＃漫才\n＃台語漫才",
+      "topicScores": {
+        "文化觀光": 0.82
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/Dc_JXD-vL0d/"
+    },
+    {
+      "agendaRelevance": 0.62,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "b2eaa48a592999dcedef625ef8e633761c7901b102ad264f614888df579544b8",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:OAjITI0YhVj08HAtVp6-X",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/dc8a04b568c2b0d0cf57.webp",
+      "keywords": [
+        "社工",
+        "教師"
+      ],
+      "platform": "website",
+      "postedAt": "2026-09-07T00:00:00+08:00",
+      "postingIntent": {
+        "confidence": 0.79,
+        "label": "主動發文",
+        "reason": "聚焦兒童保護、社工與教師減壓，並談議員反映民意責任。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-web-campaign",
+      "text": "0907受訪-1 #受訪 #問A答B #兒童保護 #市議員應該要反應民意 #市政辯論 #無痛行政 #減輕社工壓力 #減輕教師壓力 #城市設計",
+      "topicScores": {
+        "教育": 0.78,
+        "社福": 0.84,
+        "議會監督": 0.65
+      },
+      "topics": [
+        "社福",
+        "教育",
+        "議會監督"
+      ],
+      "url": "https://puma.taipei/videos/OAjITI0YhVj08HAtVp6-X"
+    },
+    {
+      "agendaRelevance": 0.58,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "b799c228d46af490ccbeee2d086927a46d4b6a4ab70e4794d283dd66f4efb11c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:LBVdmixjHCoJ2lyqoQBUf",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/540b2ef936d3fbee172b.webp",
+      "keywords": [
+        "交通"
+      ],
+      "platform": "website",
+      "postedAt": "2026-09-07T00:00:00+08:00",
+      "postingIntent": {
+        "confidence": 0.8,
+        "label": "主動發文",
+        "reason": "受訪討論交通、衛生、AI城市及赴中風險等市政與監督議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-web-campaign",
+      "text": "0907受訪 #受訪 #兒童保護 #一個台北二個世界 #交通議題 #衛生議題 #AI城市 #城市願景 #利益迴避 #赴中風險注意",
+      "topicScores": {
+        "交通": 0.75,
+        "兩岸外交": 0.58,
+        "議會監督": 0.55,
+        "醫療": 0.68
+      },
+      "topics": [
+        "交通",
+        "醫療",
+        "兩岸外交",
+        "議會監督"
+      ],
+      "url": "https://puma.taipei/videos/LBVdmixjHCoJ2lyqoQBUf"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "e40624fab2331cf5b1cf2a225bd74fcbaeac59db2fb4949c71a02237a64cbef0",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc8eB9Zyiq8/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/106b1d188d701a9b9b2c.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T11:50:49+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "發布早起到公園的競選動員資訊，未提出具體施政主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "收假日，大家今晚一起早睡，明天一起早起去公園！\n⠀\n9/7（一）\n06:00\n📍玉成公園",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc8eB9Zyiq8/"
+    },
+    {
+      "agendaRelevance": 0.07,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "46569a42a5f3c7878d67bb447c1baa0a69447db3411572beea6bd775b147d67b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc8d-0TlCfS",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/18ffc07e5d9dcab99022.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-06T11:50:09+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "轉發早起到公園的競選動員資訊，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:收假日，大家今晚一起早睡，明天一起早起去公園！\n⠀\n9/7（一）\n06:00\n📍玉成公園",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc8d-0TlCfS"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "4546d7c81b5500e3b74cd34e85ac9d76d5c7468cb59c068bb9d00051e21c3651",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:122111542461329310",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/bb4177657295e7be4fd8.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T11:48:38.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "號召支持者早起到公園，屬競選動員通知。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-campaign",
+      "text": "收假日，大家今晚一起早睡，明天一起早起去公園！\n⠀\n9/7（一）\n06:00\n📍玉成公園",
+      "topicScores": {
+        "競選": 0.94
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/puma.taipei/posts/pfbid0TY4Gpcp2fKczxQ5NPMpiFQ2hHPVz5anyMKmsiBKuo3qimnTwgDXtsnPtGUuSfbFxl"
+    },
+    {
+      "agendaRelevance": 0.91,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "ed6cccf02cc5746d4fe6cd1a18229babf032e17a2dea95769d5b9dc9e9e4eea5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:122111537691329310",
+      "imageAspect": 1.7771,
+      "imageUrl": "assets/feed-images/bf1450128d9695252721.webp",
+      "keywords": [
+        "產業",
+        "AI",
+        "道路",
+        "人行道",
+        "通勤",
+        "住宅",
+        "照顧"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T10:39:56.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "在勞工後援活動中提出工會、AI轉型、道路與住宅等政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-campaign",
+      "text": "近五十家產業、職業工會幹部及基層勞工代表，一起成為「沈伯洋勞工後援會」最關鍵的力量！\n⠀\n今天大家願意來到現場，願意把對台北、對勞動環境的期待交給我，這份信任，我會牢牢記得。\n⠀\n謝謝 陳時中政委、 洪申翰 Sun-Han部長、 林月琴 Yueh-Chin委員到場支持， 顏蔚慈 議員、 陳賢蔚 議員擔任大會主持人。\n\n謝謝 #林肇俊 理事長、 #戴國榮 理事長分別擔任職業工會及產業工會後援會總會長並接受授旗，以及 #鄭力嘉 副總會長代表致詞。\n也謝謝每一位工會幹部與基層勞工夥伴的力挺！\n⠀\n我要把勞工的聲音帶進市政府。\n讓每一份撐起台北日常的勞動，都能被看見、被尊重；\n也讓每一位在這座城市打拚的人，都有餘裕照顧自己與家人，安穩地生活。\n⠀\n我認為，市府本應該做工會及勞工的後盾。\n⠀\n市府應該簡化工會的行政作業、媒合共享辦公空間，也要派「AI 教練」直接進入不同產業，陪伴大家找到真正用得上的工具。面對無人駕駛與 AI 帶來的轉型，不能等衝擊發生，再叫勞工自己想辦法。\n⠀\n戶外勞工需要遮蔭與休息的空間、通勤者需要安全的道路與人行道、勞工家庭需要負擔得起的住宅。\n⠀\n中央的制度與資源要真正送達市民手中，地方政府就是最後一哩路。\n⠀\n請大家持續向身旁朋友介紹沈伯洋。\n11月28日，讓沈伯洋成為你的市長！\n⠀\n#台北順起來 \n#你的市長沈伯洋",
+      "topicScores": {
+        "交通": 0.72,
+        "住宅": 0.7,
+        "社福": 0.65,
+        "經濟": 0.9
+      },
+      "topics": [
+        "經濟",
+        "交通",
+        "住宅",
+        "社福"
+      ],
+      "url": "https://www.facebook.com/puma.taipei/posts/pfbid0EEvZQLzHc33f38qZdP64qe956ZQXtEyEswGWGfqFRepfjsQ1DzYGH9UbnfVHXMJtl"
+    },
+    {
+      "agendaRelevance": 0.91,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "b10a7a8def05c2c2dd218674852dfb4e446756c841003b4fc263d3eba4a214de",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:122111523123329310",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/17c3df8a29cea8e34eba.webp",
+      "keywords": [
+        "育兒",
+        "補助",
+        "AI",
+        "運動"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T05:45:20.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動提出青年、育兒、運動與研究發展等政策並進行競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-campaign",
+      "text": "馬郁雯邀請我來到廟口開講，接受繞口令、英文等重重挑戰。還好平常有練，順利過關！\n⠀\n但比闖關更重要的，是要向大家推薦一位認真、勇敢的新世代政治工作者：馬郁雯。\n⠀\n從記者到投入政治，郁雯始終勇於揭弊、敢衝敢拚，議會需要這樣願意把問題問到底、把事情做好的人。除了把事情做好外，台北市更要為下一代做好長遠準備。\n⠀\n我提出讓青年 #22歲領50萬、 #青年城市基金 與 #青年AI錢包，補助AI額度，幫助年輕人勇敢追夢；\n⠀\n對育兒家庭，則有 #家長版1999、#親子同行卡，讓育兒家庭獲得更多支持；\n⠀\n再到方便市民運動的 #運動驛站 與擔任台北市大腦的 #台北研究院，讓市民生活更便利，也讓台北掌握下一個時代的機會。\n⠀\n11月28日，拜託大家支持沈伯洋、請中正萬華的朋友支持馬郁雯。\n⠀\n讓我們壯大台北隊，一起成為台北前進的力量！\n⠀\n#台北順起來 \n#你的市長沈伯洋",
+      "topicScores": {
+        "教育": 0.56,
+        "社福": 0.92,
+        "經濟": 0.8,
+        "體育": 0.68
+      },
+      "topics": [
+        "社福",
+        "經濟",
+        "體育",
+        "教育"
+      ],
+      "url": "https://www.facebook.com/puma.taipei/posts/pfbid0226xLNj4suC6kyHfCbWf3ACA8m64QSgwLPCpQb9k7gCsqhjHx45fQgJHAULsvsd7gl"
+    },
+    {
+      "agendaRelevance": 0.06,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "63f650e883d3085d6db5a2f77f64689d240b7a18af535a36dae023c5881cea26",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc7j3NmlK5q",
+      "imageAspect": 0.5624,
+      "imageUrl": "assets/feed-images/af149328b08ad09b0975.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-06T03:22:18+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄市場拜票並請支持者協助宣傳，屬競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:今天早上的雨不小，\n但還是好多朋友\n來南京公寓市場為我加油ಥ_ಥ\n⠀\n非常感動，\n也有說不完的感謝。\n⠀\n所以我會持續以行動\n走遍台北，\n握遍每位市民的手，\n回應大家對我的支持！\n⠀\n請大家繼續跟身邊的人介紹\n「沈伯洋」！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc7j3NmlK5q"
+    },
+    {
+      "agendaRelevance": 0.7,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "b567406adb2c8b28b6cca020095d6ec2ff00a78288d2e806dd40fd29c022e909",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:sQgdi9jMy4DEuJS5Mtu2I",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/65e8257ae3508caae626.webp",
+      "keywords": [],
+      "platform": "website",
+      "postedAt": "2026-09-06T00:00:00+08:00",
+      "postingIntent": {
+        "confidence": 0.82,
+        "label": "主動發文",
+        "reason": "提出大型活動安全規劃、兒童保護及深入基層解決市政問題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-web-campaign",
+      "text": "0906受訪 #受訪 #市政問題解決方案討論 #利益迴避 #兒童保護 #大型活動事先完整規劃 #安全為主 #深入基層 #與議員站在一起 #夜間市長",
+      "topicScores": {
+        "治安": 0.66,
+        "議會監督": 0.62,
+        "防災": 0.77
+      },
+      "topics": [
+        "防災",
+        "治安",
+        "議會監督"
+      ],
+      "url": "https://puma.taipei/videos/sQgdi9jMy4DEuJS5Mtu2I"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-05T10:01:28+00:00",
+        "inputHash": "fe60a479902100f44bbfafbb2024f4608dc788626797949e7d1b89929bdde90a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc5HpPDEflF",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-05T04:37:14+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以交換聯絡方式和夜間接聽電話為主，屬個人互動，沒有具體公共政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:和其邁市長 @chenchimai 交換LINE\n現場馬上試打\n以後半夜來電\n我也會秒接",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/Dc5HpPDEflF"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "8d7b77212d224de67e44b822d59483b059b40c3b9cba390fa833780eff77fbad",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:10175656645340654",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/01c6b92482a0c6233647.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-05T04:31:22.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "內容是與政治人物交換LINE的輕鬆日常分享。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-personal",
+      "text": "和 陳其邁 陳其邁市長交換LINE，現場馬上試打。\n以後半夜來電，我也會秒接！\n\n#台北順起來 #你的市長沈伯洋",
+      "topicScores": {
+        "生活": 0.95
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/reel/28172106352440362/"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "8e5b4852b41e453a0ee712bd176f3aada25cd46e5831090c38b339e166670381",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc5F-WASzz6/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/188a65b9aa0893405434.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T04:31:04+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "以與陳其邁互動及競選口號展現親和形象，屬競選內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "和 @chenchimai 陳其邁市長交換LINE，現場馬上試打。\n以後半夜來電，我也會秒接！\n\n#台北順起來 #你的市長沈伯洋",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc5F-WASzz6/"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-05T10:01:28+00:00",
+        "inputHash": "818335e5bad24fd3716accdf101ac60d6b44da2b54d325aae69a26e8a5af175b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:tEgHmm3cO6g",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/ed44c97b1e198036d0e3.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-05T04:30:19+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "內容是交換市長聯絡方式並測試通話，屬個人互動，沒有公共政策討論。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "Exchanging LINE with Mayor Chen Chi-mai and testing it on the spot. If you call in the middle of ...",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.youtube.com/shorts/tEgHmm3cO6g"
+    },
+    {
+      "agendaRelevance": 0.54,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "9ee8839bdc8c3bc5669f776855a17d41de2279d341ec03a544e77f94a4bb0ad8",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:rXt4IKxez1DQUDaXxuIrr",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/173b6c8d4869b290597b.webp",
+      "keywords": [],
+      "platform": "website",
+      "postedAt": "2026-09-05T00:00:00+08:00",
+      "postingIntent": {
+        "confidence": 0.84,
+        "label": "主動發文",
+        "reason": "受訪談城市願景、市政辯論與問答責任，屬政治監督與政策論述。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-web-campaign",
+      "text": "0905受訪-1 #受訪 #濟南教會 #城市願景 #陳其邁市長 #台北智庫-台北研究院 #市政辯論 #問A答B",
+      "topicScores": {
+        "競選": 0.59,
+        "議會監督": 0.82
+      },
+      "topics": [
+        "議會監督",
+        "競選"
+      ],
+      "url": "https://puma.taipei/videos/rXt4IKxez1DQUDaXxuIrr"
+    },
+    {
+      "agendaRelevance": 0.65,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "0172d8f1da0f22423d4da7ebfff8607023044b9fd9875f8b0bedfac011033668",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:Tmfc7Cqf1JUYC9NmV0QuJ",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/602ad48c02cd51121c89.webp",
+      "keywords": [],
+      "platform": "website",
+      "postedAt": "2026-09-05T00:00:00+08:00",
+      "postingIntent": {
+        "confidence": 0.83,
+        "label": "主動發文",
+        "reason": "受訪討論市場管理、無菸城市、兒童保護與市長行政責任。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-web-campaign",
+      "text": "0905受訪 #受訪 #南門市場 #市政辯論 #利益衝突 #保護市民 #兒童保護 #偷渡空窗期 #設定偷渡專法-管理的法源 #遮陽傘 #無菸城市 #市長像是一個窗口而不是鏡子(被問問題就反擊)",
+      "topicScores": {
+        "治安": 0.68,
+        "生活": 0.7,
+        "議會監督": 0.78
+      },
+      "topics": [
+        "議會監督",
+        "生活",
+        "治安"
+      ],
+      "url": "https://puma.taipei/videos/Tmfc7Cqf1JUYC9NmV0QuJ"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "3703b5daeab252622573640618ff4d7e9d8e3cd331401f9f1b11b1e1c6e58da5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:p-GvtI4z7yM",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/713c069daa881f53f509.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-04T11:45:36+00:00",
+      "postingIntent": {
+        "confidence": 0.86,
+        "label": "主動發文",
+        "reason": "感謝劉品嫻主辦放映活動並呼籲支持，屬支持性競選宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "Thank you, Liu Pin-hsin, for hosting the film screening! Please support Liu Pin-hsin as we work t...",
+      "topicScores": {
+        "競選": 0.72
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/p-GvtI4z7yM"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "85cf27a4e512f9f08757b56af058d089f2417e3550c8bea4f420a4e6749e7712",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:850LI9CbHSo",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/cc5191fe1c5700f2826c.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-04T10:12:32+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "內容是攝影技巧分享，屬一般生活興趣，沒有公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "Learning Photography Tips from Nene!",
+      "topicScores": {
+        "生活": 0.97
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.youtube.com/shorts/850LI9CbHSo"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "f048a9b391377c46609e194bbea71ffa462d6b7771272d061b5ea8e91c69eb74",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3I9CiFIvJ",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-04T10:10:12+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享學習拍照與親友活動的生活紀錄，沒有公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:每次出門想幫女兒太太拍美照\n但總是被退件~_~;\n只好向專業的求救\n⠀\n內內 @nene_shao 果然厲害\n才教一下我就進步超多XD\n下次要再向內內學自拍技術！！\n⠀\n謝謝 @wakuwaku_taipei ，\n讓我在這麼美的空間學拍照！",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/Dc3I9CiFIvJ"
+    },
+    {
+      "agendaRelevance": 0.0,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "9bf3cbf00ded15816f58bde960d47ef79dcf6a6fe8cd7cb0cc6a265c22fe8347",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:10175650655965654",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/16b040aa42c40933b810.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-04T10:09:46.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "內容是學習拍照的個人生活紀錄，沒有公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-fb-personal",
+      "text": "每次出門想幫女兒太太拍美照\n但總是被退件~_~;\n只好向專業的求救\n⠀\n內內 內內 Nene 果然厲害\n才教一下我就進步超多XD\n下次要再向內內學自拍技術！！\n⠀\n謝謝 黃彥翔 ，\n讓我在這麼美的空間學拍照！",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/reel/5092949094323539/"
+    },
+    {
+      "agendaRelevance": 0.0,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-04T22:01:18+00:00",
+        "inputHash": "9e39df46e32f7e1af95bde7701084b4373e53f8d934365584a7a8cc539d917fe",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc3H6EuyILJ/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/63032e7d71a840ead941.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T10:09:22+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享學習拍照與生活體驗，未涉及公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "每次出門想幫女兒太太拍美照\n但總是被退件~_~;\n只好向專業的求救\n⠀\n內內 @nene_shao 果然厲害\n才教一下我就進步超多XD\n下次要再向內內學自拍技術！！\n⠀\n謝謝 @wakuwaku_taipei ，\n讓我在這麼美的空間學拍照！",
+      "topicScores": {
+        "生活": 0.99
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/Dc3H6EuyILJ/"
+    },
+    {
+      "agendaRelevance": 0.0,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-04T22:01:18+00:00",
+        "inputHash": "8033360e1d7ffc0b87cbfe29c5bba7ba454b7d4b1eef4a9ec53cecf5e2a3e012",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc3HWvtRDDC/",
+      "imageAspect": 0.5627,
+      "imageUrl": "assets/feed-images/66166f00e505902ce50a.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T09:59:37+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "單純分享與沈伯洋合照，沒有實質公共議題或政策內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "我拍的沈伯洋，沈伯洋拍的我。",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/Dc3HWvtRDDC/"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-04T10:03:47+00:00",
+        "inputHash": "a51303ec86236bddd703b4c58d0fefaa7ec6c2f4d4da513da8f5be81f6edc10b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc2yU9vFE03",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/a58d710ac93eceed616b.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-04T06:52:29+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "發布週末行程與競選活動資訊，未提出具體施政主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:周末天氣不穩，要準備好雨具喔\n⠀\n9/5（六）\n⠀\n10:15\n📍南門市場\n⠀\n19:00\n馬郁雯議員廟口開講\n📍楊聖廟\n⠀\n9/6（日）\n8:00 \n📍南京公寓市場",
+      "topicScores": {
+        "競選": 0.72
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc2yU9vFE03"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-04T22:01:18+00:00",
+        "inputHash": "5bd6a4dff312a632aab45ca9d6740fb266a3423911eb7ba3f1a0d10768bfdb18",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc2yRopEuzw/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/ba61a01a76dc728e1cb2.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T06:52:02+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "公布週末市場行程與議員廟口開講，屬競選活動紀錄與動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "周末天氣不穩，要準備好雨具喔！\n⠀\n9/5（六）\n⠀\n10:15\n📍南門市場\n⠀\n19:00\n馬郁雯議員廟口開講\n📍楊聖廟\n⠀\n9/6（日）\n8:00 \n📍南京公寓市場",
+      "topicScores": {
+        "競選": 0.95
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc2yRopEuzw/"
+    },
+    {
+      "agendaRelevance": 0.48,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "799eecd59c5b467966a1307c53978ffd73a128d5ca74c0edc586e47231369809",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:9o-kqFYiIewKqwnGGsiPn",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/e351ac8a762f662eae17.webp",
+      "keywords": [
+        "交通",
+        "都更"
+      ],
+      "platform": "website",
+      "postedAt": "2026-09-04T00:00:00+08:00",
+      "postingIntent": {
+        "confidence": 0.88,
+        "label": "主動發文",
+        "reason": "受訪涉及兒童保護、交通、衛生與都更等市政問題，但僅列出討論主題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-web-campaign",
+      "text": "0904受訪 #受訪 #市政辯論 #市政問題解決方案討論 #兒童保護 #1999 #交通議題 #衛生議題 #都更議題 #台北產業生態系",
+      "topicScores": {
+        "交通": 0.72,
+        "住宅": 0.7,
+        "社福": 0.76,
+        "醫療": 0.65
+      },
+      "topics": [
+        "社福",
+        "交通",
+        "住宅",
+        "醫療"
+      ],
+      "url": "https://puma.taipei/videos/9o-kqFYiIewKqwnGGsiPn"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "2057f41eafac29ecdc91651d0218f561d9cc55a28ff22ba9f0eb8a794b0b3071",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:EJ_m5ZuVR58",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/324ee5a7fd5a0d2a5599.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-03T13:16:51+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "分享在公園遇見民眾鍛鍊核心的日常內容，未涉及政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "Ran into a guy working hard on his core at Daan Forest Park the other day—everyone should give it...",
+      "topicScores": {
+        "體育": 0.9
+      },
+      "topics": [
+        "體育"
+      ],
+      "url": "https://www.youtube.com/shorts/EJ_m5ZuVR58"
+    },
+    {
+      "agendaRelevance": 0.34,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "f9096973445190a8aa1dfc1679e59c3973a90958ff0961b62c40205e4033027f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:Jb-5gahHNQM",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/424527268daf92fdc5b5.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-03T10:00:33+00:00",
+      "postingIntent": {
+        "confidence": 0.9,
+        "label": "主動發文",
+        "reason": "強調深耕士林北投並解決市民日常問題，屬競選形象宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "Chen Hsien-wei is deeply rooted in Shilin and Beitou, solving the everyday issues of citizens one...",
+      "topicScores": {
+        "生活": 0.48,
+        "競選": 0.84
+      },
+      "topics": [
+        "競選",
+        "生活"
+      ],
+      "url": "https://www.youtube.com/shorts/Jb-5gahHNQM"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "6d063a30928825178e1db599f446ebb609b3bb352e26694179b0ab1e0a372f4d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:pWlyVL13-jg",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/c16e73e95e2559b54f2d.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-03T07:33:41+00:00",
+      "postingIntent": {
+        "confidence": 0.88,
+        "label": "主動發文",
+        "reason": "內容是陪同政治人物走訪大稻埕並接受民眾歡呼的競選紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-yt-personal",
+      "text": "Walking through Dadaocheng with Lai Jun-han, receiving warm cheers along the way. Jun-han is dili...",
+      "topicScores": {
+        "文化觀光": 0.62,
+        "競選": 0.8
+      },
+      "topics": [
+        "競選",
+        "文化觀光"
+      ],
+      "url": "https://www.youtube.com/shorts/pWlyVL13-jg"
+    },
+    {
+      "agendaRelevance": 0.22,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "5ed2654bff3a768388eee0d4f64c5377cd37bb56a0bf05d3ee3f8ed21e0a9847",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:5WrY1vRVRG0zLrkY4PpVm",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/6a787baa9b7e37056266.webp",
+      "keywords": [],
+      "platform": "website",
+      "postedAt": "2026-09-03T00:00:00+08:00",
+      "postingIntent": {
+        "confidence": 0.78,
+        "label": "主動發文",
+        "reason": "以受訪與時事標籤整理利益迴避、兒童保護及赴中風險等議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-web-campaign",
+      "text": "0903受訪 #受訪 #93軍人節 #利益迴避 #兒童保護 #中國-民族團結進步促進法 #陸委會提醒赴中風險",
+      "topicScores": {
+        "兩岸外交": 0.87,
+        "社福": 0.63,
+        "議會監督": 0.55
+      },
+      "topics": [
+        "兩岸外交",
+        "社福",
+        "議會監督"
+      ],
+      "url": "https://puma.taipei/videos/5WrY1vRVRG0zLrkY4PpVm"
+    },
     {
       "agendaRelevance": 0.06,
       "candidateId": "shen-poyang",
@@ -410,6 +2228,40 @@
         "競選"
       ],
       "url": "https://puma.taipei/videos/sLh4I224y6QTeOu8pTFOf"
+    },
+    {
+      "agendaRelevance": 0.3,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "995eeb38b3bcd86f80ec703e6c9dc85c18ff52e28b9d5420d768786fcc484856",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:Y-ixKs3X_bLYhaMuOOMdO",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/5f8deae60ca63c0ca689.webp",
+      "keywords": [],
+      "platform": "website",
+      "postedAt": "2026-09-02T00:00:00+08:00",
+      "postingIntent": {
+        "confidence": 0.9,
+        "label": "主動發文",
+        "reason": "受訪內容涉及南機場夜市與城市願景，偏活動及議題紀錄，政策主張不明確。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-web-campaign",
+      "text": "0902受訪-1 #受訪 #南機場夜市 #洋流 #城市願景 #復興寶寶",
+      "topicScores": {
+        "文化觀光": 0.72,
+        "環境": 0.4
+      },
+      "topics": [
+        "文化觀光",
+        "環境"
+      ],
+      "url": "https://puma.taipei/videos/Y-ixKs3X_bLYhaMuOOMdO"
     },
     {
       "agendaRelevance": 0.0,
@@ -14309,8 +16161,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DanUDNFFA7z",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/46abb8f48ef887298439.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風"
       ],
@@ -14345,8 +16197,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dak7iN9lG7-",
-      "imageAspect": 1.5625,
-      "imageUrl": "assets/feed-images/593878ed5df9d3cc492d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "豪雨",
         "淹水",
@@ -14465,8 +16317,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaiZcdoE3kt",
-      "imageAspect": 0.5624,
-      "imageUrl": "assets/feed-images/c5c77a56a4bb955e73c9.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風"
       ],
@@ -14538,8 +16390,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:IgalUzEeae4",
-      "imageAspect": 1.7872,
-      "imageUrl": "assets/feed-images/6b10eb3f594f9d7599ae.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-08T07:26:12+00:00",
@@ -14695,8 +16547,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DacvaWRgNTl",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/909e0f509816c25a7b6a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "毒品",
         "國安",
@@ -14775,8 +16627,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Daau8pPlGQY",
-      "imageAspect": 0.6669,
-      "imageUrl": "assets/feed-images/90a02115b735b64abe5a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "籃球",
         "運動",

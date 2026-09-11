@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/95075190df981e2ab94a.webp",
+    "avatarUrl": "assets/source-avatars/0815380035a2aa22e986.webp",
     "city": "tainan",
     "cityLabel": "臺南市",
     "id": "chen-ting-fei",
@@ -19,8 +19,674 @@
     "name": "陳亭妃",
     "party": "民進黨"
   },
-  "count": 228,
+  "count": 247,
   "posts": [
+    {
+      "agendaRelevance": 0.97,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "a4c630aeffa43b7e0015aca2815bbc835199b7745ecd1759afffdee57358ae6c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJE2LJTQ9o/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/6a2a49d8a2a01c181992.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T09:21:49+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "針對農產冷鏈、外銷服務與災害救助提出具體農業政策建議。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-ig",
+      "text": "在芒果節或是農產展， 我聽過很多果農的心聲。 \n我把它們歸成3件事\n1. 產季時的「集運降溫」機制\n芒果最怕熱，從樹上採下來到消費者手裡，中間如果沒有降溫，品質會掉一半。\n政府應該補助社區型冷藏站，讓小果農也能保鮮出貨。\n\n2. 外銷認證的「一站式服務」\n台南芒果外銷，常常卡在，每一個國家的檢驗標準不同，文件複雜、時間長。\n小果農根本沒能力處理。\n農糧署跟外貿協會，應該設立「一站式服務窗口」，幫小農把外銷阻礙拉低。\n\n3. 天災時的「快速救助」\n亭妃一直爭取的方向就縮短地方中央的審核程序，讓救助金能「救急」，而不是事後補償。\n\n這3件事，不是選舉政策，\n是我這幾年聽到的農民建議。",
+      "topicScores": {
+        "經濟": 0.98,
+        "防災": 0.9
+      },
+      "topics": [
+        "經濟",
+        "防災"
+      ],
+      "url": "https://www.instagram.com/p/DdJE2LJTQ9o/"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "2d472957e04a40919704df33591d4f1d9d6cd6fb185f86ca9870200089c3c4f2",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdIcxSrjyZn",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/ec05c6b3067777eeb0ee.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-11T03:52:50+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "介紹競選泰迪熊周邊並預告系列商品，屬競選宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-threads",
+      "text": "@chen_tingfei:繼農業熊、漁業熊之後，今天「第一名妃妃泰迪熊」正式登場！\n\n妃妃泰迪熊穿著專屬帽T，掛著象徵第一名的獎牌，還可以把自己最喜歡的照片放進相框裡❤️\n\n不過先偷偷說，妃妃泰迪熊總共有9款。\n\n下一隻會是什麼主題的妃熊呢？大家拭目以待🤩",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdIcxSrjyZn"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "ce2d404fca7cf6bccdeaafd6435481935fb54dee27d55559cd9ca6ce11389913",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdGkKCXTU4Q/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/70399f2ce948ea5b01b0.webp",
+      "keywords": [
+        "選戰"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T09:57:14+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "推出競選吉祥物並號召台南隊支持，屬純競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-ig",
+      "text": "🐻「叫我第一名妃妃泰迪熊」萌翻亮相！\n選戰倒數，台南隊也要可可愛愛、全力以赴！\n　　　　\n毛茸茸的妃妃泰迪熊，穿上專屬帽T、掛著第一名獎牌，還有專屬相框，把最喜歡的照片放進去，讓「第一名」陪你一起妃熊幸福❤️\n\n而且這還不是全部！\n妃妃泰迪熊未來總共將陸續推出9款不同造型，每一款都有不同任務、不同故事，陪台南走向下一個400年。\n　　　　\n2026，台南400年第一位女市長＋議員全壘打！\n台南隊，準備上場！⚾",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdGkKCXTU4Q/"
+    },
+    {
+      "agendaRelevance": 0.06,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "c7a3327d1ef8ec0ed17b7a83ac74bcce43f8f9ad935e53d61bbc816f89a1e7c2",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdGNA7vzmkU/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/98f3e273798162102ef6.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T06:34:41+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "發布政黨聯名城市球衣，藉台南認同進行競選宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-ig",
+      "text": "大家敲碗的「台南隊」球衣，正式上線！\n從台南400年，到科技新城、農漁大城，台南一路走來，始終團結、堅持、向前。\n\n這一次，把對台南的認同穿在身上。一起穿上DPP台灣狼《台南》聯名款城市球衣，為台南隊加油，也為台灣一起拚！",
+      "topicScores": {
+        "文化觀光": 0.72,
+        "競選": 0.98
+      },
+      "topics": [
+        "競選",
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/DdGNA7vzmkU/"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "6c4c92e8c13cae3ce9f1b3e3fd758a2b6eb2e1a51dc6516eb02077463baa2e10",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdDvbagjwLE",
+      "imageAspect": 1.7751,
+      "imageUrl": "assets/feed-images/7b76be41535d28bae158.webp",
+      "keywords": [
+        "文化"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-09T07:37:17+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "公布台南隊聯名球衣並號召預購，屬競選相關活動宣傳與城市文化呈現。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-threads",
+      "text": "@chen_tingfei:大家敲碗已久的台南隊球衣來了！⚾️💚\n\n今天我在市黨部跟台南隊的議員夥伴們一起公布，「DPP台灣狼《台南》聯名款城市球衣」正式開放限時預購！\n\n這件球衣藏了滿滿的台南元素👀\n衣身是台南市花「蝴蝶蘭」的紋路，下擺還藏著赤崁樓、奇美博物館、廟宇、虱目魚……大家拿到之後可以找找看，有多少台南元素？\n\n從400年古都，到結合文化、科技、農漁業的城市風貌，這些都是我們最驕傲的台南。\n\n一起穿上Team Tainan吧！\n台南隊，準備上場！⚾️💪\n\nPS:⏰ 限時預購到 9/13中午12點，想跟我們穿同款的不要錯過啦！ \nhttps://dpp-tainan.oen.tw",
+      "topicScores": {
+        "文化觀光": 0.91,
+        "競選": 0.83
+      },
+      "topics": [
+        "文化觀光",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdDvbagjwLE"
+    },
+    {
+      "agendaRelevance": 0.78,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "b27d26b84b61cac39de7a4d085eed2e8bb315fca9bec0089a1ca11ea02f74e26",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdDsoM5T16p/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/36e4e4a706749567b334.webp",
+      "keywords": [
+        "運動"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T07:13:13+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄體健場啟用並承諾擴充各區運動與休閒空間。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-ig",
+      "text": "東山區全民運動體健場 正式啟用！🎈\n看到現場的小朋友們拿著繽紛的氣球花、在全新的設施上歡樂奔跑，臉上洋溢著天真無邪的笑容，心情也跟著亮了起來！😊✨\n\n感謝所有為這座體健場努力的夥伴與鄉親，為東山打造了一個兼具運動、休閒與親子同樂的好去處。目前一期工程完工，還有二期工程，亭妃會幫大家完成！未來亭妃也會讓37區都有屬於自己的運動空間，讓大朋友小朋友都有更優質、更安全的生活與運動環境！",
+      "topicScores": {
+        "生活": 0.82,
+        "體育": 0.98
+      },
+      "topics": [
+        "體育",
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DdDsoM5T16p/"
+    },
+    {
+      "agendaRelevance": 0.88,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "a946292cbab0f847e5707f71e8cce7e407ffcf8dde9e526ec166bb9ab70ad461",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:9X55fnZz9ko",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/be8e9751f49c67212f78.webp",
+      "keywords": [
+        "照顧"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-08T14:10:55+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "提出六都福利整合及台南全齡照顧的具體政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-yt",
+      "text": "家庭不是自己撐！陳亭妃拋「福利六都齊」 加碼補齊台南市全齡照顧！",
+      "topicScores": {
+        "社福": 0.98
+      },
+      "topics": [
+        "社福"
+      ],
+      "url": "https://www.youtube.com/watch?v=9X55fnZz9ko"
+    },
+    {
+      "agendaRelevance": 0.91,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "1bfc01dd0a5220e8d60b1a06b28c6883eba79d3442d10b64c0c20e63835a0f96",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdBZ5cFiGmx",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/cf9144f90a646c9e5f05.webp",
+      "keywords": [
+        "照顧"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-08T09:50:46+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動提出涵蓋兒童、青年、家庭與長者的社會福利政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-threads",
+      "text": "@chen_tingfei:六都有的，台南不能少！\n\n今天我與台南隊的夥伴站在一起，提出「福利六都齊」Al政見。從孩子的成長、青年的未來、家庭的支持，到長者的照顧，人民的每一個人生階段，都值得被好好接住！\n\n未來該補的，我們一項一項補齊；該做得更好的，我們就繼續往前。讓每一個家庭，都能在這座城市安心生活、幸福成長。",
+      "topicScores": {
+        "社福": 0.94,
+        "競選": 0.87
+      },
+      "topics": [
+        "社福",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdBZ5cFiGmx"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "304437ee8efcee999a9f1beb8f67111ea15cb93497974211668d692763348054",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdBHU37zU-1/",
+      "imageAspect": 0.9454,
+      "imageUrl": "assets/feed-images/f54719c0303fbe9b9400.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T07:08:45+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "分享支持者簽名故事，主要是個人情感與選舉形象經營。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-ig",
+      "text": "一次活動現場，\n有人拿了一張很舊的小桌子過來，\n說:「妃妃姐姐 · 我要請你在這裡再簽一次。」\n\n我看那張桌子，\n上面已經有一個模糊的簽名。\n\n字跡是20幾年前的我所寫的。\n\n那瞬間，我哽咽了，\n在現場停了3秒。\n\n因為他告訴我:\n「這張桌子是家裡長輩留下來的，\n她走之前有交代，上面的字不可以擦掉。」\n\n我拿起筆， 在原本的字旁邊，又寫了一遍。\n\n有些字，你以為只是簽名，\n其實是一場永遠支持的約定。",
+      "topicScores": {
+        "生活": 0.72,
+        "競選": 0.9
+      },
+      "topics": [
+        "競選",
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DdBHU37zU-1/"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "970c3cb9a3a1966f446fed3deb669558c0d50537e59c969531a5368199729c01",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc-XCeRzBv-/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/4fd060a5be923127bdd8.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-07T05:28:16+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "分享競選視覺與個人形象理念，未提出具體公共政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-ig",
+      "text": "有一次我跟設計師朋友討論新的視覺，\n她問我:「妃姐 · 這次要不要多加一點政治感?再嚴肅一點?」\n\n我:「不要。」\n她:「那要什麼?」\n\n我想了想，說: 讓5歲的小孩看到，覺得可愛。\n讓25歲的女生看到，覺得想拍照。\n讓65歲的阿伯看到，覺得，這個女生我認識20年了，她還是一樣。\n\n設計師想了3秒，說:「那我就給你花。」\n\n政治的顏色，\n可以是藍色、綠色。  但我要的顏色， 每年花開的時候，\n你會知道， 「她」還在。",
+      "topicScores": {
+        "文化觀光": 0.72,
+        "競選": 0.92
+      },
+      "topics": [
+        "競選",
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/Dc-XCeRzBv-/"
+    },
+    {
+      "agendaRelevance": 0.88,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "ec164e627409ad870deb0551135b96bf2752c3934c1e53039f48e2f247fbb870",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc8P_JGjyZw",
+      "imageAspect": 1.3274,
+      "imageUrl": "assets/feed-images/fe232e6a16bbe7fcf240.webp",
+      "keywords": [
+        "醫療",
+        "長照",
+        "照顧"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-06T09:47:51+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "提出串聯預防、照護、長照及偏鄉醫療的健康城市政策方向。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-threads",
+      "text": "@chen_tingfei:今天我與27大醫事團體與醫療專業人員站在一起，成立醫界大聯盟後援會。\n謝謝每一位醫療夥伴的信任與支持，讓我們一起為台南市民的健康努力！\n\n我們所關心的不只是醫療資源，更是未來台南怎麼把預防、照護、長照、公共衛生、基層與偏鄉醫療串起來。在這樣的基礎上，導入醫療科技，更系統化的照顧每一位台南市民的健康。\n\n一座真正健康的城市，應該陪市民從出生一路健康到老，成為市民安心的後盾，而這正是我理想中的健康台南。",
+      "topicScores": {
+        "社福": 0.9,
+        "醫療": 0.98
+      },
+      "topics": [
+        "醫療",
+        "社福"
+      ],
+      "url": "https://www.threads.com/t/Dc8P_JGjyZw"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "30fc95f6dd9c3f866edb7d4c5e69321bc559897feae76e6ec736e69838c39f42",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1639084347579487",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/4aa4eaa03836d01ed2fd.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T09:46:59.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "因天候不穩公告黨慶活動延期，重點是安全與防災通知。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-fb",
+      "text": "再次和大家說聲抱歉並提醒！【緊急活動延期通知】🌧️ \n    \n這兩天原定於 9/5（六）安南區樺谷夜市 與 9/6（日）新營區南瀛綠都心 舉行的民進黨40週年黨慶「一代、二代、三代、四代祖孫同樂會」，因為天氣不穩定，為了大家的安全與遊玩品質，活動決定先延期辦理！\n\n新確定的活動日期與細節，一有消息亭妃會第一時間公布，請大家密切關注我們的訊息喔！❤️",
+      "topicScores": {
+        "防災": 0.91
+      },
+      "topics": [
+        "防災"
+      ],
+      "url": "https://www.facebook.com/fififans/posts/pfbid02XstpfWh4DCFGjtg8uCNuhBxSYciSsZL4h1MqdycGCdcD5xCmX67nH4UeijPu7KFJl"
+    },
+    {
+      "agendaRelevance": 0.86,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "25b98ea185ed16883976292cb1e70b70eb3ddf244b1ecbb801d33131a6521f29",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1638984580922797",
+      "imageAspect": 1.3288,
+      "imageUrl": "assets/feed-images/1051232bb79f0dc2d8bb.webp",
+      "keywords": [
+        "醫療",
+        "長照"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T07:02:26.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出強化醫療、長照、公共衛生與偏鄉照護的健康政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-fb",
+      "text": "今天，醫界集結，為台南健康未來一起打拚！\n\n「陳亭妃醫界大聯盟後援會」正式誓師授旗，在 黃偉哲 市長見證及總會長 #賴俊良 帶領下，集結27大醫事團體與醫療專業人士，成為亭妃最堅實的後盾。\n\n亭妃相信，健康台灣要從地方做起。未來除了強化醫療資源，更要整合長照、公共衛生、基層及偏鄉醫療，導入醫療科技，從「治病」走向「預防、照護、健康促進」，完整守護每一位台南市民。\n\n謝謝每一位醫療夥伴的信任與支持。\n這面旗幟今天授下的不只是承諾，更是我們一起守護台南健康的責任。\n\n#陳亭妃 #醫界大聯盟 #健康台灣 #健康台南 #偏鄉醫療 #醫療科技",
+      "topicScores": {
+        "社福": 0.78,
+        "醫療": 0.99
+      },
+      "topics": [
+        "醫療",
+        "社福"
+      ],
+      "url": "https://www.facebook.com/fififans/posts/pfbid0aiFqFkU2qekvcmTKxSbg4JQcyfTvYnsUtN5Gro51dAbZeSu4qXMv6HmVBVh1YQ4Gl"
+    },
+    {
+      "agendaRelevance": 0.0,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "0b0c988678757c93244c5bc5ece5a47416c8e57c22bf328563188593f42e59f0",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1638148117673110",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/51b31642536c5c607719.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-05T07:19:34.000Z",
+      "postingIntent": {
+        "confidence": 0.5,
+        "label": "主動發文",
+        "reason": "貼文沒有內容，無法辨識公共議題或回應對象。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-fb",
+      "text": "",
+      "topicScores": {
+        "生活": 0.4
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/fififans/posts/1638148117673110:1386662732976169"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "b6b3f425a9a5d83e69c8b305d0f93a5f8398a56440cde0c65a2f33d6f06e234d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:r4gLs66NYwo",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/a126e13558e0937adf9c.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-05T03:28:40+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣示參選目標並號召市長及議員選舉勝利，屬純競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-yt",
+      "text": "2026台南一定要贏！陳亭妃：力拚台南第一位女市長、議員全壘打！找回台南的光榮與驕傲 #shorts",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/r4gLs66NYwo"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-04T10:03:47+00:00",
+        "inputHash": "ac61c83214b6a97966e918feaf7b3c12cd24b7d9705b8ab347265f80dfe6ce59",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc21McvkWD1",
+      "imageAspect": 0.5623,
+      "imageUrl": "assets/feed-images/914a3f078fda71c04820.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-04T07:17:35+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "發布競選吉祥物與募款小物，主要是建立形象及動員支持。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-threads",
+      "text": "@chen_tingfei:🐻 妃熊隊長正式亮相！\n　　　　　\nTEAM TAIWAN「拓荒探險隊」第四彈來到台南！\n　　　　　　\n「妃熊特攻隊，帶給你妃熊幸福！」\n　　　　　　\n妃熊隊長要用「幸福、溫暖、行動」守護台南，深耕在地、陪伴市民，也要說到做到、立即行動！\n　　　　　\n這次妃熊不只可愛，還把台南400年意象、四草綠色隧道、後壁國際蘭展通通放進動畫裡，讓政治多一點趣味，也多一點歡樂！\n　　　　　\n妃熊文創募款小物也同步登場！\n🐻 「妃熊幸福貼近你我」貼紙、「妃熊幸福盡收眼底」資料夾組\n☕ 「妃熊幸福兩小無猜」咖啡杯墊、提袋組\n　　　　　\n把妃熊幸福帶回家，一起加入妃熊特攻隊！\n　　　　　\n#妃熊隊長 #妃熊特攻隊 #TEAMTAIWAN #拓荒探險隊 #台南 幸福溫暖行動",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc21McvkWD1"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "d292e6e034e9d79df013b478a7cd0a34dded4e4ba5cc2d5a7ce03329c87f94cc",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc21FFOzEsm/",
+      "imageAspect": 0.5623,
+      "imageUrl": "assets/feed-images/704a88aaddccdd781944.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T07:17:24+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以角色動畫、文創商品與口號進行競選宣傳及募款動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-ig",
+      "text": "🐻 妃熊隊長正式亮相！\n　　　　　\nTEAM TAIWAN「拓荒探險隊」第四彈來到台南！\n　　　　　　\n「妃熊特攻隊，帶給你妃熊幸福！」\n　　　　　　\n妃熊隊長要用「幸福、溫暖、行動」守護台南，深耕在地、陪伴市民，也要說到做到、立即行動！\n　　　　　\n這次妃熊不只可愛，還把台南400年意象、四草綠色隧道、後壁國際蘭展通通放進動畫裡，讓政治多一點趣味，也多一點歡樂！\n　　　　　\n妃熊文創募款小物也同步登場！\n🐻 「妃熊幸福貼近你我」貼紙、「妃熊幸福盡收眼底」資料夾組\n☕ 「妃熊幸福兩小無猜」咖啡杯墊、提袋組\n　　　　　\n把妃熊幸福帶回家，一起加入妃熊特攻隊！\n　　　　　\n#妃熊隊長 #妃熊特攻隊 #TEAMTAIWAN #拓荒探險隊 #台南 幸福溫暖行動",
+      "topicScores": {
+        "文化觀光": 0.75,
+        "競選": 0.99
+      },
+      "topics": [
+        "競選",
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/Dc21FFOzEsm/"
+    },
+    {
+      "agendaRelevance": 0.14,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "84b91f7e0983de71059fdb84672d09b34035fb09ccf6749685f8c2591d4861c6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc0qoNrk9FE/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/d4054ebeaa6294b4916e.webp",
+      "keywords": [
+        "文化",
+        "藝術",
+        "幼兒園"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T11:06:46+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄幼兒園台日文化交流活動，未提出明確施政方案。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-ig",
+      "text": "🇯🇵❤️🇹🇼 用故事，讓孩子參與台日交流！\n亭妃和怡珍來到幼兒園，和從日本一路來到台灣的行動故事藝術者「布芝居」大哥哥沼沢裕太見面！\n　　　　\n雖然語言不一定相通，但透過故事、生動的表情和笑聲，孩子們很快就打成一片，也感受到日本獨特的傳統文化。\n　　　　　　　\n單純的愛心沒有國界，文化交流也可以很簡單、很溫暖。\n　　　　　　　\n希望這次特別的相遇，能成為孩子記憶中最棒的一段台日交流回憶❤️",
+      "topicScores": {
+        "兩岸外交": 0.86,
+        "教育": 0.76,
+        "文化觀光": 0.88
+      },
+      "topics": [
+        "文化觀光",
+        "兩岸外交",
+        "教育"
+      ],
+      "url": "https://www.instagram.com/p/Dc0qoNrk9FE/"
+    },
+    {
+      "agendaRelevance": 0.55,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "ae496a16ec71f5bf46a6c860929287f9e44c1c18fea3efa521614ce6fa4034ac",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dcx5Npuk4jm/",
+      "imageAspect": 0.7966,
+      "imageUrl": "assets/feed-images/b85a8eca1a7b366adfcc.webp",
+      "keywords": [
+        "選舉",
+        "文化",
+        "觀光",
+        "歷史",
+        "科技",
+        "社福"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T09:16:53+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "完成參選登記並以文化、農業、觀光等施政方向號召勝選。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-ig",
+      "text": "台南女市長・議員全壘打！⚾️\n今天，亭妃和台南隊一起完成登記！\n　　　　　　　\n從賴清德市長、黃偉哲市長，一棒一棒累積台南的基礎；今天，偉哲市長將接力棒交到我手上，代表的不只是市政經驗的傳承，更是責任的延續。\n　　　　　　\n這一場，不是個人的選舉，而是整個台南隊的團體戰！\n　　　　　　　\n台南400年還沒有女性市長，這一次，我要和大家一起寫下歷史新頁。\n　　　　　　\n用女性的疼心、愛心顧好台南這個家，更用最大的決心、執行力與行動力，帶領台南邁向文化、農業、觀光、科技、交通、社福的新時代！\n　　　　\n台南隊正式出航！\n2026，我們一起拚勝選、拚議會過半！\n台南女市長・議員全壘打！⚾️",
+      "topicScores": {
+        "文化觀光": 0.86,
+        "社福": 0.68,
+        "競選": 0.99,
+        "經濟": 0.77
+      },
+      "topics": [
+        "競選",
+        "文化觀光",
+        "經濟",
+        "社福"
+      ],
+      "url": "https://www.instagram.com/p/Dcx5Npuk4jm/"
+    },
     {
       "agendaRelevance": 0.28,
       "candidateId": "chen-ting-fei",
@@ -5254,8 +5920,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DasFEepE1Mz",
-      "imageAspect": 1.7763,
-      "imageUrl": "assets/feed-images/3875479de468220864e4.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "文化",
         "美食"
@@ -5324,8 +5990,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DasFDMwE-e5/",
-      "imageAspect": 1.7763,
-      "imageUrl": "assets/feed-images/1e2dec3d5b6d777c982b.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "文化",
         "美食"
@@ -5361,8 +6027,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DapmVgDT-4Q/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/45bbecc2535f6ca5d5eb.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "垃圾",
         "資源回收",
@@ -5401,8 +6067,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DapmWmYE3rt",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/1ea766415a9580a4c7f6.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "垃圾",
         "資源回收",
@@ -5479,8 +6145,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dao3nCWzHkU/",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/f054fb5cd85e827ae9c6.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災"
@@ -5514,8 +6180,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dao3n75kxeH",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/2665bf3961e37c1754a8.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災"
@@ -5584,8 +6250,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dam3lgKznNK/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/fd5086ef669304faf884.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災",
@@ -5620,8 +6286,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dam3mhBkxh8",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/a68e29da8f8ec020f8ed.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災",
@@ -5692,8 +6358,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DamvfAoTCCd/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/cd813f423d2a8f982447.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災"
@@ -5727,8 +6393,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DamvgJTk17N",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/19e5beb3e2848d1dab40.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災"
@@ -5762,8 +6428,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DakTK96k3V0",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/b07e69850b9e3045d465.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-09T09:31:07+00:00",
@@ -5830,8 +6496,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DakTJpsE2wT/",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/ed3cd07fd63819d77f5f.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-09T09:30:59+00:00",
@@ -5864,8 +6530,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DakBUKNE0Rq/",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/b51f4bd9cd9887362495.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "交通",
         "公車",
@@ -5904,8 +6570,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DakBVmukzl9",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/5ac5d82c57cd1e972318.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "交通",
         "公車",
@@ -5984,8 +6650,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dah3bq_zfQX/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/de9f87add4b2289c0105.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "豪雨",
@@ -6021,8 +6687,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dah3cdqlIDR",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/0d42286843b1e8bf14a3.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-08T10:50:22+00:00",
@@ -6090,8 +6756,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:CTgXB4u4Ew8",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/28d807205e5d613b40f3.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風"
       ],
@@ -6124,8 +6790,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dae1pouE5ql",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/f8cd9cb1295e4fe43899.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "觀光",
         "美食"
@@ -6198,8 +6864,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dae1n-dE6eh/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/b2eb83acb501153685f1.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "觀光",
         "美食"
@@ -6235,8 +6901,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaczGkVkxAV/",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/54d24a1545b19c8cbb7f.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "豪雨",
         "淹水",
@@ -6273,8 +6939,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaczHxbE72a",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/3b3a895eecdc0b74d584.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "豪雨",
         "淹水",
@@ -6381,8 +7047,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaZYNPfk3xh",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/66c8bbb2576a6142319f.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-05T03:43:31+00:00",
@@ -6413,8 +7079,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaZYBJAzP7s/",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/4a79cb5321c4682aa722.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-05T03:43:20+00:00",

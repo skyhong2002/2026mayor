@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": null,
+    "avatarUrl": "assets/source-avatars/eafc6e8299dc6e8bb9bc.webp",
     "city": "new-taipei",
     "cityLabel": "新北市",
     "id": "lee-shih-chuan",
@@ -19,8 +19,850 @@
     "name": "李四川",
     "party": "國民黨"
   },
-  "count": 255,
+  "count": 281,
   "posts": [
+    {
+      "agendaRelevance": 0.84,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "a15c9c434c6481024927d4c1359ed16ee3b6d92c47163a1ef0d19ac424fb7a59",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJJcr0Evv0",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/9c09cb4c42f56d03332e.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-11T10:00:51+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "提出串聯東北角至淡水的海岸步道與自行車步行藍圖。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-threads",
+      "text": "@hammer__lee:有人來看海，我看海，也看這條路能不能再往前接。\n\n東北角這條海岸步道，可以一路接到淡水。\n\n可以騎車，也可以走路。\n\n我拍的不只是海景，是藍圖。\n\n風景是老天給的，路是人接的。",
+      "topicScores": {
+        "交通": 0.97,
+        "文化觀光": 0.66
+      },
+      "topics": [
+        "交通",
+        "文化觀光"
+      ],
+      "url": "https://www.threads.com/t/DdJJcr0Evv0"
+    },
+    {
+      "agendaRelevance": 0.84,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "4e239fb0191f30e466bc3cc0e2107b244d785747d739dbb070fca46133fe2fea",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdD_1B3hEa7/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/b50a696f286db24900bc.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T10:00:05+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "提出串聯東北角至淡水的海岸步道與自行車步行藍圖。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "有人來看海，我看海，也看這條路能不能再往前接。\n\n東北角這條海岸步道，可以一路接到淡水。\n\n可以騎車，也可以走路。\n\n我拍的不只是海景，是藍圖。\n\n風景是老天給的，路是人接的。",
+      "topicScores": {
+        "交通": 0.97,
+        "文化觀光": 0.66
+      },
+      "topics": [
+        "交通",
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/DdD_1B3hEa7/"
+    },
+    {
+      "agendaRelevance": 0.69,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "5127d7a1d2c3dbc22e3d47f1eccbbb367f942f3f7085faf260f8286e2e29804c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdGkoZvgO2K",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/ff7915fb8b59030af252.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-10T10:00:39+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以大巨蛋建設經驗宣示推動新北巨蛋並加速啟用。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-threads",
+      "text": "@hammer__lee:二十幾年前，我也被問過一次「什麼時候蓋得好」。\n\n那顆小巨蛋，今天還在用。\n\n後來，我又被問一次「什麼時候可以啟用」。\n\n那顆大巨蛋，今天大家都在看球。\n\n新北這一顆，我要讓大家早一點進場，用久一點。",
+      "topicScores": {
+        "競選": 0.78,
+        "體育": 0.94
+      },
+      "topics": [
+        "體育",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdGkoZvgO2K"
+    },
+    {
+      "agendaRelevance": 0.69,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "171a60e97acda927501d6394eab9ecd3cdb01e606c07910c5d0b59bc8a3c3894",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJJZAMBAPP/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/c33996d76c483a431015.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T10:00:03+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以大巨蛋建設經驗宣示推動新北巨蛋並加速啟用。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "二十幾年前，我也被問過一次「什麼時候蓋得好」。\n\n那顆小巨蛋，今天還在用。\n\n後來，我又被問一次「什麼時候可以啟用」。\n\n那顆大巨蛋，今天大家都在看球。\n\n新北這一顆，我要讓大家早一點進場，用久一點。",
+      "topicScores": {
+        "競選": 0.78,
+        "體育": 0.94
+      },
+      "topics": [
+        "體育",
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdJJZAMBAPP/"
+    },
+    {
+      "agendaRelevance": 0.29,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "04a506422ba34855dc8c7793c0f74ce99dcba7ad6eda35784e17e5fb2d89b689",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdD_3EBhd-h/",
+      "imageAspect": 0.5626,
+      "imageUrl": "assets/feed-images/26dd7838685a6074b047.webp",
+      "keywords": [
+        "選舉",
+        "凍蒜"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T10:00:05+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "市場拜票與雙北合作宣示，主要是競選活動紀錄及動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "賣了幾十年菜的老闆，把手上的生意先放一邊，拿起手機對著我們拍。\n\n說實在，那一刻我有點不好意思。人家在做生意，我們來打擾。\n\n週六一早，蔣萬安市長從台北過來，陪我走板橋福德市場。一攤一攤過去，握手、合照，老闆娘手機舉起來等，我就湊過去給她拍一張。\n\n有位鄉親端出兩根綁著紅緞帶的白蘿蔔，說：好彩頭，送給你們，凍蒜。\n\n市場裡沒有樣本數，也沒有信心水準。每一隻伸過來的手，都是真的。\n\n台北挺新北，不會只有到了選舉才開始。三年多來難的事我們一起扛過，接下來雙北要接的線、要通的橋，也一樣。\n\n他們把生意先放一邊，我們就得把明天的日子顧好一點。",
+      "topicScores": {
+        "交通": 0.52,
+        "競選": 0.96
+      },
+      "topics": [
+        "競選",
+        "交通"
+      ],
+      "url": "https://www.instagram.com/p/DdD_3EBhd-h/"
+    },
+    {
+      "agendaRelevance": 0.29,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "647761dfceaeead3b314d5b0fec05d23080a8d3f0826030859f9ce52147898af",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdD_xWWj-S0",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/57338b0e6afe930ffb16.webp",
+      "keywords": [
+        "選舉",
+        "凍蒜"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-09T10:00:05+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "市場拜票與雙北合作宣示，主要是競選活動紀錄及動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-threads",
+      "text": "@hammer__lee:賣了幾十年菜的老闆，把手上的生意先放一邊，拿起手機對著我們拍。 \n\n說實在，那一刻我有點不好意思。人家在做生意，我們來打擾。 \n\n週六一早，蔣萬安市長從台北過來，陪我走板橋福德市場。一攤一攤過去，握手、合照，老闆娘手機舉起來等，我就湊過去給她拍一張。 \n\n有位鄉親端出兩根綁著紅緞帶的白蘿蔔，說：好彩頭，送給你們，凍蒜。 \n\n市場裡沒有樣本數，也沒有信心水準。每一隻伸過來的手，都是真的。 \n\n台北挺新北，不會只有到了選舉才開始。三年多來難的事我們一起扛過，接下來雙北要接的線、要通的橋，也一樣。 \n\n他們把生意先放一邊，我們就得把明天的日子顧好一點。",
+      "topicScores": {
+        "交通": 0.52,
+        "競選": 0.96
+      },
+      "topics": [
+        "競選",
+        "交通"
+      ],
+      "url": "https://www.threads.com/t/DdD_xWWj-S0"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "92f6ec7cf565f518a5339a0b6a99add50b445255eae9ae5ed2a7975c8f098d1a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdD3YAZmJKY/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/42a1bf5e1c664202c416.webp",
+      "keywords": [
+        "凍蒜"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T08:46:43+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "市場走訪、接受支持並號召選民，屬純競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "「川ㄟ ～ 愛凍蒜喔！」，賀！我一定拚下去。\n鄉親這一聲「川ㄟ」，我聽了心情高興的在飛。\n\n一早來到新莊裕民市場走走，向攤商與市民朋友問聲好，每一聲加油，我都聽到了。\n\n「我們支持你」，又是悄悄話，所以我不能告訴你是誰說的，但是我知道鄉親對我的鼓勵，有滿滿期待，有滿滿託付。\n\n裕民市場裡，有機車來來往往，但總會那麼幾輛為我停下來，就為了給我一個機會，能握住他們的手。\n\n說實在，如果大拇指可以集成冊，那這個光榮印章，我應該集滿了好幾本。這是我的精神糧食，讓我拚得踏實。\n\n一條市場道路，真的長，但好朋友陪我一起走，時間一點都不漫長。因為累了，還有可愛的鄉親，倒一杯仙草茶讓我喘口氣。\n\n今天議長蔣根煌、議員蔡健棠、議員候選人王珮宇，還有地方頭人，陪著我走，充滿力量一點都不累。\n\n「我好開心看到你」，看到新莊好朋友我更是滿心歡喜。",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdD3YAZmJKY/"
+    },
+    {
+      "agendaRelevance": 0.65,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "092ab78066e4a91b4c8eaeafe9cbf8335d15a52b568eef6ee8c4010da58df7b6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdDSRTTs5UR/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/2a45383e148645d60329.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T03:23:00+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以巨蛋及輝達案例宣示推動新北科學城與巨蛋建設。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "不可能，是我這四十年聽最多次的三個字。\n\n大巨蛋，我聽過。\n輝達落腳，我聽過。\n\n說實在，那兩關，萬安市長和我做伙拚過來的。\n\n南有巨蛋城、北有科學城，新北這一關，我來扛。",
+      "topicScores": {
+        "競選": 0.85,
+        "經濟": 0.75,
+        "體育": 0.73
+      },
+      "topics": [
+        "競選",
+        "經濟",
+        "體育"
+      ],
+      "url": "https://www.instagram.com/p/DdDSRTTs5UR/"
+    },
+    {
+      "agendaRelevance": 0.38,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "e9e532de7ae442c7ed25085988342aa2508ffa560c941550a5f82078cda36b25",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1631842105219710",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/fa6789633a896d4c57b0.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T23:30:33.000Z",
+      "postingIntent": {
+        "confidence": 0.95,
+        "label": "主動發文",
+        "reason": "主動宣示推動大型場館提前啟用，核心涉及體育設施建設。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-fb",
+      "text": "二十幾年前，我也被問過一次「什麼時候蓋得好」。\n那顆小巨蛋，今天還在用。\n後來，我又被問一次「什麼時候可以啟用」。\n那顆大巨蛋，今天大家都在看球。\n新北這一顆，我要讓大家早一點進場，用久一點。",
+      "topicScores": {
+        "體育": 0.9
+      },
+      "topics": [
+        "體育"
+      ],
+      "url": "https://www.facebook.com/reel/1476150091230700/"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "f64318720aa36e6755de149500e3f57021576d0a085a5bc6152f5ae387d3d85c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1631478938589360",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/634b24a7fac5c4395d74.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T13:31:04.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主要記錄與蔣萬安市長走訪市場及選舉互動，沒有具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-fb",
+      "text": "賣了幾十年菜的老闆，把手上的生意先放一邊，拿起手機對著我們拍。\n\n說實在，那一刻我有點不好意思。人家在做生意，我們來打擾。\n\n昨天一早，蔣萬安市長從台北過來，陪我走板橋福德市場。一攤一攤過去，握手、合照，老闆娘手機舉起來等，我就湊過去給她拍一張。\n\n有位鄉親端出兩根綁著紅緞帶的白蘿蔔，說：好彩頭，送給你們，凍蒜。\n\n市場裡沒有樣本數，也沒有信心水準。每一隻伸過來的手，都是真的。\n\n台北挺新北，不會只有到了選舉才開始。三年多來難的事我們一起扛過，接下來雙北要接的線、要通的橋，也一樣。\n\n他們今天把生意先放一邊，我們就得把明天的日子顧好一點。",
+      "topicScores": {
+        "生活": 0.83
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/reel/1393010968927647/"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "e854db7b8623c263c8d8642de833e3b56162b53da633ae15d0b502914fd0f6d7",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc8e14UE5o-",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/e2fded0e8b7724d12dc0.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-06T11:57:40+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動分享赴三峽市場與民眾互動的競選活動紀錄，未提出具體施政主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-threads",
+      "text": "@hammer__lee:在雨中，鄉親送我的見面禮，是那一聲「川伯加油」\n\n今天傍晚，我到三峽黃昏市場，向冒雨前來採買的鄉親問好。老話一句，雨再大，他們熱情如火，我真有點捨不得走。\n\n在雨中忙碌，還是有許多鄉親，願意停下手邊的事，握住我的手。\n\n有一位年輕人，把車靠邊停下，跑過來要和我合照，他說「我是你的粉絲」，說實在，我真有點歹勢，但也充滿感恩。\n\n還有餐廳老闆，帶著員工出來為我加油，為我鼓勵，我絕對會繼續努力。\n\n市場承載著在地人記憶，寫著三峽人的日常，撐起三峽人的生活。\n\n新北雨不停，三峽人的熱情，讓我心中放晴。",
+      "topicScores": {
+        "生活": 0.8,
+        "競選": 0.97
+      },
+      "topics": [
+        "競選",
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/Dc8e14UE5o-"
+    },
+    {
+      "agendaRelevance": 0.09,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "798d3fe95ecaf571aefbbd64c94aa46f53bc391bb08af72662339d0ce987b955",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc8eW_UmAUs/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/b33d2aca542550c9253c.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T11:53:27+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄市場拜訪與獲得支持，主要是競選行程及形象宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "在雨中，鄉親送我的見面禮，是那一聲「川伯加油」\n\n今天傍晚，我到三峽黃昏市場，向冒雨前來採買的鄉親問好。老話一句，雨再大，他們熱情如火，我真有點捨不得走。\n\n在雨中忙碌，還是有許多鄉親，願意停下手邊的事，握住我的手。\n\n有一位年輕人，把車靠邊停下，跑過來要和我合照，他說「我是你的粉絲」，說實在，我真有點歹勢，但也充滿感恩。\n\n還有餐廳老闆，帶著員工出來為我加油，為我鼓勵，我絕對會繼續努力。\n\n市場承載著在地人記憶，寫著三峽人的日常，撐起三峽人的生活。\n\n新北雨不停，三峽人的熱情，讓我心中放晴。",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc8eW_UmAUs/"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "9182a498091ef8fd960585351077c468088fff1d866c06967f1a83cdec8c0281",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1631406105263310",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/d8aac1076a0dd0271106.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T11:47:25.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主要是市場拜訪與地方生活紀錄，未提出具體施政主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-fb",
+      "text": "在雨中，鄉親送我的見面禮，是那一聲「川伯加油」\n\n今天傍晚，我到三峽黃昏市場，向冒雨前來採買的鄉親問好。老話一句，雨再大，他們熱情如火，我真有點捨不得走。\n\n在雨中忙碌，還是有許多鄉親，願意停下手邊的事，握住我的手。\n\n有一位年輕人，把車靠邊停下，跑過來要和我合照，他說「我是你的粉絲」，說實在，我真有點歹勢，但也充滿感恩。\n\n還有餐廳老闆，帶著員工出來為我加油，為我鼓勵，我絕對會繼續努力。\n\n市場承載著在地人記憶，寫著三峽人的日常，撐起三峽人的生活。\n\n新北雨不停，三峽人的熱情，讓我心中放晴。",
+      "topicScores": {
+        "生活": 0.88
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02NEQnZFBeAvYxAH4iure7SedPuzqrqeFptE6S3FyX6jby9UYY7mn3TwugZSpUTR33l&id=100051818071280"
+    },
+    {
+      "agendaRelevance": 0.78,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "680ccc2fd553aceff664522f24c0ff31a819bed4f5f8693089e43a7f31e14553",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc7pI37E0XA",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/2d2d08c36638fe84fedb.webp",
+      "keywords": [
+        "交通",
+        "捷運"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-06T04:08:24+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "提出串聯基北北桃交通網絡及推動捷運建設的方向。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-threads",
+      "text": "@hammer__lee:謝國樑市長送我一個「火車頭」，未來我拚「捷運」來還禮。\n\n今天一早，我到基隆市拜訪謝國樑市長，交流城市發展，我們深知基北北桃四市並肩作戰，拚交通、拚建設，一切不可怠慢。\n\n國樑市長帶我看八堵機廠預定地，聽了當前辦理的現況，讓我進一步了解，未來若我順利就任，作為主管機關的新北市，有哪些事項需要注意。\n\n這就是我與國樑市長的默契，拚建設的心是一樣的，打通基北北桃交通網絡，更是必要的。\n\n「市長你們這個樂園真的讚」，參訪七堵室內兒童樂園時，我聽到好多家長對著謝市長這麼說。說實在，做工程的，仔細觀察就知道，穩不穩、安不安全，這些其實都看在市民眼裡。\n\n孩子開心，爸媽放心，父母官才能安心。\n\n一問之下，民眾從四面八方來，汐止、淡水、桃園都有，代表謝國樑市長的政績，鄰近縣市的居民都清楚，也非常值得借鏡。\n\n基北北桃一日生活圈，我與謝國樑市長、蔣萬安市長、張善政市長，就是「做事連線」，四市要繼續串成一線。\n\n四人兄弟齊心，繼續為建設打拚。",
+      "topicScores": {
+        "交通": 0.99,
+        "競選": 0.92
+      },
+      "topics": [
+        "交通",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc7pI37E0XA"
+    },
+    {
+      "agendaRelevance": 0.78,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "8e81e5adb7e799052ee3d245851aa886fa325988c9e78cf969b4effbeaaf868e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc7o6_BGP02/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/7405453218480fc0a9f5.webp",
+      "keywords": [
+        "交通",
+        "捷運"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T04:06:30+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "提出串聯基北北桃交通網絡及推動捷運建設的方向。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "謝國樑市長送我一個「火車頭」，未來我拚「捷運」來還禮。\n\n今天一早，我到基隆市拜訪 @kl_george_hsieh 謝國樑 市長，交流城市發展，我們深知基北北桃四市並肩作戰，拚交通、拚建設，一切不可怠慢。\n\n國樑市長帶我看八堵機廠預定地，聽了當前辦理的現況，讓我進一步了解，未來若我順利就任，作為主管機關的新北市，有哪些事項需要注意。\n\n這就是我與國樑市長的默契，拚建設的心是一樣的，打通基北北桃交通網絡，更是必要的。\n\n「市長你們這個樂園真的讚」，參訪七堵室內兒童樂園時，我聽到好多家長對著謝市長這麼說。說實在，做工程的，仔細觀察就知道，穩不穩、安不安全，這些其實都看在市民眼裡。\n\n孩子開心，爸媽放心，父母官才能安心。\n\n一問之下，民眾從四面八方來，汐止、淡水、桃園都有，代表謝國樑市長的政績，鄰近縣市的居民都清楚，也非常值得借鏡。\n\n基北北桃一日生活圈，我與謝國樑市長、蔣萬安市長、張善政市長，就是「做事連線」，四市要繼續串成一線。\n\n四人兄弟齊心，繼續為建設打拚。",
+      "topicScores": {
+        "交通": 0.99,
+        "競選": 0.92
+      },
+      "topics": [
+        "交通",
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc7o6_BGP02/"
+    },
+    {
+      "agendaRelevance": 0.67,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-05T10:01:28+00:00",
+        "inputHash": "9f8326deaad11d280d55b81d67089f87144a2114f0c7ca3ef8ad6a85ec4c620d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc5rFaLE-5p",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/731f12831e6cc47ac7ca.webp",
+      "keywords": [
+        "掃街",
+        "捷運"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-05T09:46:55+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動記錄雙北掃街競選活動，並提出打造雙北三十分鐘核心生活圈的交通政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-threads",
+      "text": "@hammer__lee:「我可以抱你們嗎？」\n\n一位媽媽走過來，對著我和蔣萬安市長這樣說。她說，一定要加油。\n\n當然可以。我們全力以赴。\n\n今天一早，我跟蔣市長走了板橋接雲寺、板橋慈惠宮和福德街市場，一攤一攤過去，每一雙手都是熱情的。\n\n我們握著每一雙伸過來的手，看著每一個人的眼睛。想講的其實只有一句：請放心，雙北交給我和蔣市長。\n\n有位老闆突然遞出一把傘，說要幫我們遮風擋雨。說實在，聽了真的很感動。但這件事得反過來——傘，本來就該我們幫鄉親撐。\n\n三樓還有鄉親探出頭，對我們比大拇指。那個大拇指，我收到了。\n\n前一天侯友宜市長陪我登記，今天蔣市長陪我掃街。新北台北有共同的理念、最近的距離、最深的情感。\n\n雙北，不用磨合。\n\n我跟蔣市長是三年多的好戰友。大巨蛋完工啟用、捷運多線同時動工、輝達留在台灣，難的事我們都一起扛過。接下來，要打造雙北30 分鐘核心生活圈——兩座城市一條線走到底。\n\n革命情感兄弟情，不懼風雨向前行。",
+      "topicScores": {
+        "交通": 0.88,
+        "競選": 0.99
+      },
+      "topics": [
+        "競選",
+        "交通"
+      ],
+      "url": "https://www.threads.com/t/Dc5rFaLE-5p"
+    },
+    {
+      "agendaRelevance": 0.82,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "396f4e67e6135f3272850324fc8282b6fbaf35a6dad14e0210b5c19fe07f96b6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc5qk_YmDpG/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/54a3aeadd13ccb5922ad.webp",
+      "keywords": [
+        "掃街",
+        "捷運"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T09:42:30+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動記錄雙北掃街拜票，並提出打造雙北30分鐘核心生活圈的交通政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "「我可以抱你們嗎？」\n\n一位媽媽走過來，對著我和 @wanan.chiang 蔣萬安市長這樣說。她說，一定要加油。\n\n當然可以。我們全力以赴。\n\n今天一早，我跟蔣市長走了板橋接雲寺、板橋慈惠宮和福德街市場，一攤一攤過去，每一雙手都是熱情的。\n\n我們握著每一雙伸過來的手，看著每一個人的眼睛。想講的其實只有一句：請放心，雙北交給我和蔣市長。\n\n有位老闆突然遞出一把傘，說要幫我們遮風擋雨。說實在，聽了真的很感動。但這件事得反過來——傘，本來就該我們幫鄉親撐。\n\n三樓還有鄉親探出頭，對我們比大拇指。那個大拇指，我收到了。\n\n前一天侯友宜市長陪我登記，今天蔣市長陪我掃街。新北台北有共同的理念、最近的距離、最深的情感。\n\n雙北，不用磨合。\n\n我跟蔣市長是三年多的好戰友。大巨蛋完工啟用、捷運多線同時動工、輝達留在台灣，難的事我們都一起扛過。接下來，要打造雙北30 分鐘核心生活圈——兩座城市一條線走到底。\n\n革命情感兄弟情，不懼風雨向前行。",
+      "topicScores": {
+        "交通": 0.84,
+        "競選": 0.98
+      },
+      "topics": [
+        "競選",
+        "交通"
+      ],
+      "url": "https://www.instagram.com/p/Dc5qk_YmDpG/"
+    },
+    {
+      "agendaRelevance": 0.82,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "fe26e32ca4c23c92b066788c3c8cef92f631182e39d611c7a93dcdabe1a7ba82",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3wv1LE3PU",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/339399556759dfbfadbd.webp",
+      "keywords": [
+        "參選",
+        "都更"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-04T15:57:55+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "宣布參選並提出軌道建設、都市更新等初步施政主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-threads",
+      "text": "@hammer__lee:海納百川，「侯李」好市長。\n團結一心，我們都挺李四川。\n\n9/4一早，我在 侯友宜 市長、國民黨籍議員與參選人、無黨籍議員以及民眾黨議員與參選人陪同下，正式登記參選新北市長。\n\n「我把棒子交給李四川」，侯市長這句話，是鼓勵我向前最大的動力。\n\n一路走來，我與侯友宜市長始終有默契，始終並肩作戰。我們共同的信念，是不辜負市民期待，要「侯李」好市長。\n\n一路走來，我不分黨派不分顏色，廣納意見爭取最大支持， 團結一心，要「海納百川」。 \n\n軌道123、都更5夠力，是我接下這一棒之後，要先做的兩件事。 \n\n我這一生都是公務人員，沒有資源，沒有政治勢力的靠山，我的心中與侯市長相同，只有人民。\n\n我最堅強的後盾，是404萬新北市民。 \n\n拿鐵鎚的李四川，沒有變。拚建設的幹勁，只會更強。 \n\n我是做事的人，做成事的人。 \n\n請放心把新北的未來交給我，李四川上場，會打贏這一仗。 \n\n海納百川，才能匯聚眾力；匯聚眾力，必將衝出勝利。",
+      "topicScores": {
+        "交通": 0.91,
+        "住宅": 0.76,
+        "競選": 0.98
+      },
+      "topics": [
+        "競選",
+        "交通",
+        "住宅"
+      ],
+      "url": "https://www.threads.com/t/Dc3wv1LE3PU"
+    },
+    {
+      "agendaRelevance": 0.88,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "d5b6e82d1b7bb1881ba75aab65e13ba380d510998affb70ed6a7613752458858",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc3v7efGKk_/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/026fab9fbf8f01050cea.webp",
+      "keywords": [
+        "參選",
+        "都更"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T15:50:46+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "登記參選並提出軌道建設與都市更新兩項明確政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "海納百川，「侯李」好市長。\n團結一心，我們都挺李四川。\n\n今天一早，我在 @hou.yuih 侯友宜市長、國民黨籍議員與參選人、無黨籍議員以及民眾黨議員與參選人陪同下，正式登記參選新北市長。\n\n「我把棒子交給李四川」，侯市長這句話，是鼓勵我向前最大的動力。\n\n一路走來，我與侯友宜市長始終有默契，始終並肩作戰。我們共同的信念，是不辜負市民期待，要「侯李」好市長。\n\n一路走來，我不分黨派不分顏色，廣納意見爭取最大支持， 團結一心，要「海納百川」。 \n\n軌道123、都更5夠力，是我接下這一棒之後，要先做的兩件事。 \n\n我這一生都是公務人員，沒有資源，沒有政治勢力的靠山，我的心中與侯市長相同，只有人民。\n\n我最堅強的後盾，是404萬新北市民。 \n\n拿鐵鎚的李四川，沒有變。拚建設的幹勁，只會更強。 \n\n我是做事的人，做成事的人。 \n\n請放心把新北的未來交給我，李四川上場，會打贏這一仗。 \n\n海納百川，才能匯聚眾力；匯聚眾力，必將衝出勝利。",
+      "topicScores": {
+        "交通": 0.88,
+        "住宅": 0.84,
+        "競選": 0.99
+      },
+      "topics": [
+        "競選",
+        "交通",
+        "住宅"
+      ],
+      "url": "https://www.instagram.com/p/Dc3v7efGKk_/"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "b4fba5204612bac475d7d65c0b514cc4ff9d38fa21b6656a1015b8a50ee68761",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3JaU4iFoc",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/42221b6f60960ffd6d09.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-04T10:15:06+00:00",
+      "postingIntent": {
+        "confidence": 0.9,
+        "label": "主動發文",
+        "reason": "描述侯友宜交棒與自身承擔責任，屬參選宣傳及活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-threads",
+      "text": "@hammer__lee:說實在，今天最重的，不是那張登記表，是那支棒子。\n\n侯友宜市長在台上講，市長這一棒很重要。\n\n我聽得懂他的意思。\n\n這八年，新北的建設都在高峰期。一條路開通、一段軌道往前推，都不是憑空來的。侯友宜市長把它推上高峰，中間是十幾年、一任接一任累積下來的。\n\n我想，侯友宜市長今天把棒子交到我手上，交的不是一個位子，是一份還沒做完的責任。\n\n做工程的人都知道，接手別人的工程最怕什麼？\n\n怕看不懂前面那段圖。\n\n還好，這幾年我就在旁邊。每一段圖我都看過，每一個工地我都走過。\n\n說實在，棒子交在手上，不代表事情就成了。真正要蓋章的，是新北市民。\n\n棒子是責任，不是位子。\n\n路，我接著鋪。",
+      "topicScores": {
+        "競選": 0.94
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc3JaU4iFoc"
+    },
+    {
+      "agendaRelevance": 0.63,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "ff0d0a878dc3cebd40a3992a0462495838e2ae7259dd84f3cdb3f32392f77dc8",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc3JYc4sJRw/",
+      "imageAspect": 0.5626,
+      "imageUrl": "assets/feed-images/0072a256a8929ec02b96.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T10:15:01+00:00",
+      "postingIntent": {
+        "confidence": 0.94,
+        "label": "主動發文",
+        "reason": "以接棒侯友宜為政治敘事，承諾延續並推進既有建設。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "說實在，今天最重的，不是那張登記表，是那支棒子。\n\n侯友宜市長在台上講，市長這一棒很重要。\n\n我聽得懂他的意思。\n\n這八年，新北的建設都在高峰期。一條路開通、一段軌道往前推，都不是憑空來的。侯友宜市長把它推上高峰，中間是十幾年、一任接一任累積下來的。\n\n我想，侯友宜市長今天把棒子交到我手上，交的不是一個位子，是一份還沒做完的責任。\n\n做工程的人都知道，接手別人的工程最怕什麼？\n\n怕看不懂前面那段圖。\n\n還好，這幾年我就在旁邊。每一段圖我都看過，每一個工地我都走過。\n\n說實在，棒子交在手上，不代表事情就成了。真正要蓋章的，是新北市民。\n\n棒子是責任，不是位子。\n\n路，我接著鋪。",
+      "topicScores": {
+        "交通": 0.86,
+        "競選": 0.96
+      },
+      "topics": [
+        "競選",
+        "交通"
+      ],
+      "url": "https://www.instagram.com/p/Dc3JYc4sJRw/"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "d857fb9c719b6822258d5434102abee54b551530710e131f5917870f63ccfb7b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc0-B7LMlQ8/",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/677d76b76ff9e05a81f9.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T13:56:32+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄大雨中陪同里長服務居民，沒有提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "今天新北大雨，新北29區的里長，平常就是在這種雨裡跑里民的事。\n\n三重埔的巷子不寬，陪里長走一段，雨很大，傘不大。\n\n他們替里民擋雨，不是只有今天。這把傘，我替他們撐。",
+      "topicScores": {
+        "生活": 0.86
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/Dc0-B7LMlQ8/"
+    },
+    {
+      "agendaRelevance": 0.28,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "ecf71f93e3567741663d07e5ef89b2d684675a3ff184ad55261d7a4b420b2305",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dcz9mtME904",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/a4927e58438bd6863774.webp",
+      "keywords": [
+        "颱風",
+        "災害",
+        "治安"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-03T04:33:18+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以軍人節為引介，強調國土韌性、災害防救與社會守護責任。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-threads",
+      "text": "@hammer__lee:太陽底下站哨，皮曬到脫一層，還是站得直挺挺。\n\n站哨、演習、天天重複同一個動作，準備的都是希望永遠不會發生的那一天。\n\n軍人就是用這樣的決心跟意志，在保護台灣。\n\n說實在，我做工程的，看了很感動。因為我們算的是同一種帳。\n\n我算一座橋，從來不照最低的標準算，是照最壞的那一次算。百年一次的洪水扛不扛得住？最大等級的颱風擋不擋得住？這些數字，大概一輩子都用不到。但沒抓到，出事就是一次要命。\n\n那不是做白工，那是規格。做工程的都懂，守國土的更懂。\n\n上個月我去了後備憲兵的年度大會。今天軍人節，我想再說一次——「軍服可以脫，那份守護的責任脫不掉。」\n\n我在新北市服務那些年，新北的治安協勤、公益、災害防救，很多場合都站著退役的弟兄姊妹。沒有人叫他們去，他們自己就到了。\n\n一座城市扛不扛得住，從來不是只看硬體。橋、堤防、排水，那是我的本行，我會算到最壞的那一格；但真正決定韌性的，是出事的那一刻，有多少人願意第一個站出來——這件事，脫下軍服的弟兄姊妹，已經替新北做了很多年。\n\n沒有人希望派上用場，但沒有人敢說不用準備。\n\n最好的準備，是一輩子都用不到。\n\n軍人節快樂，辛苦了。",
+      "topicScores": {
+        "治安": 0.5,
+        "防災": 0.84
+      },
+      "topics": [
+        "防災",
+        "治安"
+      ],
+      "url": "https://www.threads.com/t/Dcz9mtME904"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "c81a28741e1ca07645cad28c05d9406be9177457580ba072e29ba25cafc765ff",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dcz9j2kGNtU/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/b8f52ef442b614312dd4.webp",
+      "keywords": [
+        "颱風",
+        "災害",
+        "治安"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T04:32:56+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以軍人守護及橋堤防災的最壞情境，談城市韌性與準備。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "太陽底下站哨，皮曬到脫一層，還是站得直挺挺。\n\n站哨、演習、天天重複同一個動作，準備的都是希望永遠不會發生的那一天。\n\n軍人就是用這樣的決心跟意志，在保護台灣。\n\n說實在，我做工程的，看了很感動。因為我們算的是同一種帳。\n\n我算一座橋，從來不照最低的標準算，是照最壞的那一次算。百年一次的洪水扛不扛得住？最大等級的颱風擋不擋得住？這些數字，大概一輩子都用不到。但沒抓到，出事就是一次要命。\n\n那不是做白工，那是規格。做工程的都懂，守國土的更懂。\n\n上個月我去了後備憲兵的年度大會。今天軍人節，我想再說一次——「軍服可以脫，那份守護的責任脫不掉。」\n\n我在新北市服務那些年，新北的治安協勤、公益、災害防救，很多場合都站著退役的弟兄姊妹。沒有人叫他們去，他們自己就到了。\n\n一座城市扛不扛得住，從來不是只看硬體。橋、堤防、排水，那是我的本行，我會算到最壞的那一格；但真正決定韌性的，是出事的那一刻，有多少人願意第一個站出來——這件事，脫下軍服的弟兄姊妹，已經替新北做了很多年。\n\n沒有人希望派上用場，但沒有人敢說不用準備。\n\n最好的準備，是一輩子都用不到。\n\n軍人節快樂，辛苦了。",
+      "topicScores": {
+        "治安": 0.72,
+        "防災": 0.88
+      },
+      "topics": [
+        "防災",
+        "治安"
+      ],
+      "url": "https://www.instagram.com/p/Dcz9j2kGNtU/"
+    },
     {
       "agendaRelevance": 0.04,
       "candidateId": "lee-shih-chuan",
@@ -54,6 +896,38 @@
       "url": "https://www.threads.com/t/DcySpfdEzha"
     },
     {
+      "agendaRelevance": 0.12,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "ab69458ef90b632fce899e62fa8ef045f68264af17076767eca96f781703181d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcySic1GDbO/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/da0a5e322e1e2b77a0c8.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T12:57:46+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄市場拜訪與民眾支持，屬競選活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "「你是好人我知道」，鄉親這句話是鼓勵，我更要說「我是做事的人」。\n\n好多鄉親會偷偷在我耳邊，對我說加油，給我力量，這是我喜歡掃市場的原因，民意在眼前，讓我勇往直前。\n\n今天傍晚，我到蘆洲黃昏市場，和鄉親與攤商打招呼。\n\n熱情依舊，感動依舊。\n\n說實在，每回掃市場，我都很感動，有鄉親在機車上按喇叭叫我，靠邊停下來只為了跟我握手。\n\n也有好大聲的鼓勵「川伯加油」，我回頭看時已經不見人影，團隊告訴我，是兩位年輕人騎車經過那一剎那，給我的最大支持。\n\n我與蘆洲的感情，讓我一路走來都有好心情。",
+      "topicScores": {
+        "競選": 0.96
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DcySic1GDbO/"
+    },
+    {
       "agendaRelevance": 0.04,
       "candidateId": "lee-shih-chuan",
       "classification": {
@@ -84,6 +958,40 @@
         "競選"
       ],
       "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0oWmpLH57nXr4RNJN1V1dWSXwLfmEU8y1BWT1uAS8CeNtwk6rAMUGnygRxH53Eqmfl&id=100051818071280"
+    },
+    {
+      "agendaRelevance": 0.48,
+      "candidateId": "lee-shih-chuan",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "15af351b06fff6e6a6c9b8b21c13d12d7ebbc8f025799008f53287cfb2b368e0",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dcx9cQvmM5a/",
+      "imageAspect": 0.8,
+      "imageUrl": "assets/feed-images/8f2befb87c577df4dfea.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T09:53:26+00:00",
+      "postingIntent": {
+        "confidence": 0.94,
+        "label": "主動發文",
+        "reason": "介紹坪林溪流景觀與茶鄉觀光，並提出改善道路可達性的想法。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lee-sc-ig-main",
+      "text": "那北勢溪，水聲比車聲清楚，很少有人特地繞過來看它。\n\n這幾年跑遍新北二十九區，坪林算是最安靜的一段\n山路遠、風大、人不多，但我來過好幾趟。\n\n坪林，我們推廣的是茶香，但這條溪也很美，大家也可以來走走看看。\n\n路要好走，人才進得來。\n這件事，我也放在心上。\n\n#川流來了 #李四川 #新北市 #坪林 #北勢溪",
+      "topicScores": {
+        "交通": 0.65,
+        "文化觀光": 0.86
+      },
+      "topics": [
+        "文化觀光",
+        "交通"
+      ],
+      "url": "https://www.instagram.com/p/Dcx9cQvmM5a/"
     },
     {
       "agendaRelevance": 0.22,
@@ -7959,8 +8867,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dahxsr5mJLE/",
-      "imageAspect": 0.8,
-      "imageUrl": "assets/feed-images/855f848b993cb12d5355.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-08T10:00:05+00:00",
@@ -8038,8 +8946,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DahHuHriFKl",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/623677637ab7a31c5d40.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-08T03:54:29+00:00",
@@ -8072,8 +8980,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DahHsMXsGzV/",
-      "imageAspect": 0.5626,
-      "imageUrl": "assets/feed-images/3d7ac59deff0f97b6ed2.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-08T03:54:27+00:00",
@@ -8184,8 +9092,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DacYMTbiMzp",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/1766abba63ac86ed7e42.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "醫院",
         "照顧"
@@ -8223,8 +9131,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DacYLvQM9cX/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/4eb9840ec15ba6d35a95.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "醫院",
         "照顧"
@@ -8262,8 +9170,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DacMe9yE2xJ",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/1ad455733fec74d2f00d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "醫療",
         "醫院"
@@ -8303,8 +9211,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DacMcrPmLca/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/6c6e180ca8ce7c52fb1a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "醫療",
         "醫院"
@@ -8417,8 +9325,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaZW8u_iOf5",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/60f53be412a8bb5eac28.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "校園",
         "教師"
@@ -8454,8 +9362,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaZW7VksTYk/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/f2b760672955e6478139.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "校園",
         "教師"
@@ -8491,8 +9399,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaZJTDUs3Gv/",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/b7df04eb3b4c5e64c3d5.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "選手"
       ],

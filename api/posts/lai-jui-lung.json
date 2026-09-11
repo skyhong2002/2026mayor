@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/e2a1cbeba544db4d014f.webp",
+    "avatarUrl": "assets/source-avatars/39c51d49d2023a8ab58c.webp",
     "city": "kaohsiung",
     "cityLabel": "高雄市",
     "id": "lai-jui-lung",
@@ -19,8 +19,1005 @@
     "name": "賴瑞隆",
     "party": "民進黨"
   },
-  "count": 370,
+  "count": 401,
   "posts": [
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "115744812ed8f4f897bbbd18eebfd6bc733d57e256878480a6cf60722337541f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJM7bTCaE7",
+      "imageAspect": 0.7502,
+      "imageUrl": "assets/feed-images/3dbcb2ca5b8528622b56.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-11T10:31:16+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "分享用餐與支持在地店家的日常內容，並附帶爭取市民認同。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-threads",
+      "text": "@zenolai:趁著行程空檔來碗肉燥飯，也外帶幾份給助理們。\n\n一碗肉燥飯，有人喜歡滷汁多一點、有人喜歡清爽一點，每個人口味不同；一座城市也是一樣，有不同的想法、不同的選擇。\n\n高雄之所以偉大，就在於城市有多元的聲音，也有包容不同選擇的胸襟。我也會繼續努力，爭取更多市民的認同。\n\n每一位認真打拚、用心經營的在地店家都相當不簡單，我們一起支持高雄好味道，也祝福大家生意興隆！",
+      "topicScores": {
+        "生活": 0.9,
+        "競選": 0.7
+      },
+      "topics": [
+        "生活",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdJM7bTCaE7"
+    },
+    {
+      "agendaRelevance": 0.28,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "4206714c4a052fc8677559897e4a9d67b2b033bddf13676619aea51fd2a23fb4",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:Ubl7FRjTE54",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/5c44d2f6bf1fec82bc8b.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-11T10:13:40+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "表達為高雄承擔與努力的政治承諾，但未提出具體施政方案。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-yt",
+      "text": "把高雄放在心上、把責任扛在肩上，我會全力以赴為高雄努力！",
+      "topicScores": {
+        "競選": 0.9
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/Ubl7FRjTE54"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "0c5733b74500f63791c74a3b8d5140a6e0f12199bc998dab218472ab6aa0ede4",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:F0Cdlz4hhcw",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/4ee46e7adbbf7b6ac961.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-11T10:11:44+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "與蔡英文製作月餅並支持庇護工場，重點是身心障礙者就業支持。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-yt",
+      "text": "和蔡英文總統一起動手做月餅，用行動支持庇護工場，讓善的循環延續、讓今年中秋充滿溫暖！🥮",
+      "topicScores": {
+        "社福": 0.96
+      },
+      "topics": [
+        "社福"
+      ],
+      "url": "https://www.youtube.com/shorts/F0Cdlz4hhcw"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "0f6bfb782a8a99968108a88daf3e2a3c3dd664669b47d067b17c2196563491db",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:uEY7c3SHq3s",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/17f91cf332710d4fdeaa.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-11T04:56:00+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "分享學習歌仔戲及邀請民眾參與，屬文化活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-yt",
+      "text": "隆來看歌仔戲！這次瑞隆學做戲，跤步手路猶無夠水氣，請大家多多包涵，來給瑞隆拍噗仔👏",
+      "topicScores": {
+        "文化觀光": 0.96
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.youtube.com/shorts/uEY7c3SHq3s"
+    },
+    {
+      "agendaRelevance": 0.15,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "2d1b4f508443f2312816626655e4a761ecb7e23ec518d0a08a1a58dad3dff3d5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdF_K_SESAW",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-10T04:33:20+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄參與歌仔戲演出並邀請民眾支持，屬文化活動與競選曝光。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-threads",
+      "text": "@zenolai:隆來看歌仔戲！\n\n這次瑞隆學做戲，跤步手路猶無夠水氣，請大家多多包涵，來給瑞隆拍噗仔👏",
+      "topicScores": {
+        "文化觀光": 0.94,
+        "競選": 0.72
+      },
+      "topics": [
+        "文化觀光",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdF_K_SESAW"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "ece613f856d8067d947439ed681bdf88579db4e5f190431d0ef0e9757ef80c73",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdD-w0CCRyT",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-09T09:51:16+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以演唱後意外離地的趣事與玩笑為主，沒有具體公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-threads",
+      "text": "@zenolai:我只不過唱個「離開地球表面」，怎麼下一秒就離開地面了？",
+      "topicScores": {
+        "生活": 0.96
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/DdD-w0CCRyT"
+    },
+    {
+      "agendaRelevance": 0.3,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "136483c958cbc8f51b6f1a3d5d7fa57de510342c58a21044049e235d5925bd47",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:rLm7ljxV-44",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/0aa070f32a15f3ac2904.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-09T03:20:26+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "感謝市長支持並承諾與高雄團隊努力，屬政治動員與團隊表態。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-yt",
+      "text": "謝謝其邁市長一路相挺，更把我當作最好的兄弟，我會扛起這份信任與責任，和高雄隊一起努力，為高雄開創新的篇章！",
+      "topicScores": {
+        "競選": 0.91
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/rLm7ljxV-44"
+    },
+    {
+      "agendaRelevance": 0.82,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "639a5928fc37f362726e61f6f6003a2eeff0a3e8977d04872e09a04b4f97030e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:vCSA2vqPNzY",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/0d92194b526d692151d6.webp",
+      "keywords": [
+        "產業",
+        "科技",
+        "AI"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-09T02:33:28+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主張結合AI與智慧科技推動產業升級並創造就業機會。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-yt",
+      "text": "高雄具備多元產業條件，更要結合AI與智慧科技，帶動產業升級、創造新機會！",
+      "topicScores": {
+        "經濟": 0.96
+      },
+      "topics": [
+        "經濟"
+      ],
+      "url": "https://www.youtube.com/shorts/vCSA2vqPNzY"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "bbb5418150e97b4982bd5cdec0ae1932a0024c76ca19aebf91fa1549c0ae382f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:lmkCPfHAy6k",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/bc761978df4093f33730.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-08T14:46:25+00:00",
+      "postingIntent": {
+        "confidence": 0.9,
+        "label": "主動發文",
+        "reason": "標題僅提到挑戰，公共議題資訊不足，較像競選或宣傳內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-yt",
+      "text": "第四棒的挑戰",
+      "topicScores": {
+        "競選": 0.62
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=lmkCPfHAy6k"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "23c385a4ad8e6ef03d5ce02f8569e6524624a7fe6d1baa59dfd50317d99d2e59",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:UdApmJFWOEM",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/22e87bd98a6f77f011bf.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-07T04:13:37+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以演出與城市幸福作比喻，未具體說明政策內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-yt",
+      "text": "台上用心演一齣好戲，感動觀眾；城市用心拚每一天，幸福市民。",
+      "topicScores": {
+        "文化觀光": 0.55,
+        "生活": 0.45
+      },
+      "topics": [
+        "文化觀光",
+        "生活"
+      ],
+      "url": "https://www.youtube.com/watch?v=UdApmJFWOEM"
+    },
+    {
+      "agendaRelevance": 0.98,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "ec4c91b207941b68a956025a16ce1c15c961d3931de012570efe49448f8d623b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1657193572428973",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/27dc7b90e0b610c180c9.webp",
+      "keywords": [
+        "文化",
+        "藝術",
+        "音樂",
+        "表演",
+        "歷史",
+        "電影",
+        "動漫",
+        "產業"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-07T04:03:32.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動提出文化場館、內容產業與國際發展的完整政策方案。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-fb",
+      "text": "讓高雄的故事，走向世界！🌏\n\n一場好戲，台上幾十分鐘，背後卻是無數次的練習與準備。\n\n藝術工作者用專業帶給觀眾感動，政治工作者則要用專業，讓市民生活得更好。這份對專業的要求，其實是一樣的。\n\n過去20多年，高雄從高美館、駁二、衛武營、高流，到春天藝術節、大港開唱、高雄電影節、TTXC，逐步累積出完整的文化場館與城市品牌，也打下深厚的文化基礎。下一階段，要讓這些場館、活動與城市故事，轉化成更多屬於高雄的作品與文化內容。\n\n因此，我提出 「文化高雄．世界舞台」7大政策、18項計畫，讓文化從土地生根、從生活長出創作，讓更多好作品在高雄誕生。\n\n📚 文化生根｜社區文化扎根：61座圖書館串起生活圈。\n\n🏘️ 時光再生｜歷史街區再生：建置38區文化故事庫。\n\n🎭 百藝傳世｜盤點文化職人與傳統技藝，培育青年接班。\n\n📖 南方立論｜建立大南方人文藝術研究，述說高雄自己的故事。\n\n🎬 時光再生｜培育表演人才、支持在地原創，推動劇場人口倍增。\n\n🌊 內容造浪｜布局四大文化內容基地，發展影視、音樂、動漫、遊戲與IP產業等。\n\n🌏 國際交陪｜從國際邀演走向策展共製，讓高雄作品進入國際市場。\n\n我相信，文化就存在於我們生活的街區、記憶、語言，以及每一個人的故事裡。\n\n未來，要讓孩子從小接觸文化、青年有機會創造文化、創作者能在高雄安心創作，也讓一代又一代累積下來的文化被好好傳承。\n\n文化高雄，世界舞台。一起讓高雄的故事，邁向國際！",
+      "topicScores": {
+        "文化觀光": 0.99,
+        "經濟": 0.72
+      },
+      "topics": [
+        "文化觀光",
+        "經濟"
+      ],
+      "url": "https://www.facebook.com/zenolai2/posts/pfbid0oNuvpLD3pd7h6VtRyf75Uhe2mcAkk4kzkF3KQgRUhQ4MmQWKqZsSjkmq5fpNgjk4l"
+    },
+    {
+      "agendaRelevance": 0.98,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "6af7cf5e742626110f1bc538fcd177d9105214fb4b6487a145af57c771ce190c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc-NXgwie0j",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/5473b29450024edd0cbb.webp",
+      "keywords": [
+        "文化",
+        "藝術",
+        "音樂",
+        "表演",
+        "歷史",
+        "電影",
+        "動漫",
+        "產業"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-07T04:03:27+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "明確提出文化高雄世界舞台的七大政策與十八項計畫。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-threads",
+      "text": "@zenolai:讓高雄的故事，走向世界！🌏\n\n一場好戲，台上幾十分鐘，背後卻是無數次的練習與準備。\n\n藝術工作者用專業帶給觀眾感動，政治工作者則要用專業，讓市民生活得更好。這份對專業的要求，其實是一樣的。\n\n過去20多年，高雄從高美館、駁二、衛武營、高流，到春天藝術節、大港開唱、高雄電影節、TTXC，逐步累積出完整的文化場館與城市品牌，也打下深厚的文化基礎。下一階段，要讓這些場館、活動與城市故事，轉化成更多屬於高雄的作品與文化內容。\n\n因此，我提出 「文化高雄．世界舞台」7大政策、18項計畫，讓文化從土地生根、從生活長出創作，讓更多好作品在高雄誕生。\n\n📚 文化生根｜社區文化扎根：61座圖書館串起生活圈。\n\n🏘️ 時光再生｜歷史街區再生：建置38區文化故事庫。\n\n🎭 百藝傳世｜盤點文化職人與傳統技藝，培育青年接班。\n\n📖 南方立論｜建立大南方人文藝術研究，述說高雄自己的故事。\n\n🎬 時光再生｜培育表演人才、支持在地原創，推動劇場人口倍增。\n\n🌊 內容造浪｜布局四大文化內容基地，發展影視、音樂、動漫、遊戲與IP產業等。\n\n🌏 國際交陪｜從國際邀演走向策展共製，讓高雄作品進入國際市場。",
+      "topicScores": {
+        "文化觀光": 0.99,
+        "經濟": 0.83
+      },
+      "topics": [
+        "文化觀光",
+        "經濟"
+      ],
+      "url": "https://www.threads.com/t/Dc-NXgwie0j"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "0f3ed181c6cd0458e837432620f52b7fc368ef9d12af55b2b3175faba8407d71",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:5YBQZPwtsAo",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/f986691e8421bd8e70b5.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-07T02:22:35+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主要是市場互動紀錄與日常問候，沒有公共議題主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-yt",
+      "text": "哈囉你好嗎！在哈囉市場一路哈囉到底，大家真的有夠暖、讚啦👍",
+      "topicScores": {
+        "生活": 0.9
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.youtube.com/shorts/5YBQZPwtsAo"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "2e81c4642984e31d174f3d82e34924479d964b77974113ece9b73abff6292696",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:t20VN4pC8wc",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/b4ab61d39b6441cb118a.webp",
+      "keywords": [
+        "颱風"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-07T02:20:25+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "發布颱風期間工程進度與防汛整備資訊。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-yt",
+      "text": "颱風期間不能鬆懈，持續確認工程進度與防汛整備。",
+      "topicScores": {
+        "防災": 0.98
+      },
+      "topics": [
+        "防災"
+      ],
+      "url": "https://www.youtube.com/shorts/t20VN4pC8wc"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "e58a5d081bb0af2683324408e2dd34b164e7266690f2bb94a1bec5e446a175e6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:QdHS8XlsUwk",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/5fecfb34c4c71b9989ad.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-07T02:18:23+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄視察防颱整備工作，屬災害應變資訊。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-yt",
+      "text": "視察防颱整備工作，全力守護市民朋友安全！",
+      "topicScores": {
+        "防災": 0.99
+      },
+      "topics": [
+        "防災"
+      ],
+      "url": "https://www.youtube.com/shorts/QdHS8XlsUwk"
+    },
+    {
+      "agendaRelevance": 0.62,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "bbbbe3f4d75072a7dfa6c9e9fc843bb1edbe3e797efdfa52efa70439decf0ccb",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc97APgADom",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/fbf997ac8fa45cfc3594.webp",
+      "keywords": [
+        "文化",
+        "藝術"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-07T01:23:01+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享歌仔戲體驗，並主張將高雄文化推向國際市場。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-threads",
+      "text": "@zenolai:「台上用心演一齣好戲，感動觀眾；\n城市用心拚每一天，幸福市民。」\n\n非常感謝郭春美老師和江明龍團長的協助和指導，帶領著我體驗歌仔戲從準備、練習到登台演出的完整過程。\n\n頂著繁複的妝髮、穿上厚重的戲服，一次又一次的身段練習，親自體驗過，才真正瞭解每一場精彩演出的背後，是多少的累積和付出。藝術工作者對自我的要求極度嚴格，所有的幕後辛勞，只為了站上舞台那一刻，把最好的一面呈現給觀眾。\n\n「台上一分鐘，台下十年功」\n\n一棚好戲，需要時間準備；一座城市，乃是點滴累積。這段體驗讓我深刻感受，藝術和市政有著相同的精神，以專業、專注、經驗服務群眾，高雄在我們一棒一棒接續努力下奠定基礎，打造出閃亮的港灣城市品牌。\n\n好戲帶給觀眾滿滿感動，好市政帶給市民滿滿幸福。下一階段，我們要讓從高雄的土地和生活中成長茁壯的文化推向國際市場。\n\n「年年壽花紅、當朝鐵樹開、三仙齊下界、福祿壽仙來～」\n\n扮仙，是傳統謝神戲裡的重要開場，除了答謝神靈，更是賜福大眾。願以此為引，祝福市民朋友平安健康、高雄百業順昌興旺。\n\n我會一直打拚，為著咱的城市。",
+      "topicScores": {
+        "文化觀光": 0.95
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.threads.com/t/Dc97APgADom"
+    },
+    {
+      "agendaRelevance": 0.62,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "a6066fcf8194bd0d50978b8c69d51fa8139880b09445fee5818cc8f760e5dddd",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc96odWyU2P/",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/fafd24f35622d0ac71f7.webp",
+      "keywords": [
+        "文化",
+        "藝術"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-07T01:22:57+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享歌仔戲體驗，並主張將高雄文化推向國際市場。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "「台上用心演一齣好戲，感動觀眾；\n城市用心拚每一天，幸福市民。」\n\n非常感謝郭春美老師和江明龍團長的協助和指導，帶領著我體驗歌仔戲從準備、練習到登台演出的完整過程。\n\n頂著繁複的妝髮、穿上厚重的戲服，一次又一次的身段練習，親自體驗過，才真正瞭解每一場精彩演出的背後，是多少的累積和付出。藝術工作者對自我的要求極度嚴格，所有的幕後辛勞，只為了站上舞台那一刻，把最好的一面呈現給觀眾。\n\n「台上一分鐘，台下十年功」\n\n一棚好戲，需要時間準備；一座城市，乃是點滴累積。這段體驗讓我深刻感受，藝術和市政有著相同的精神，以專業、專注、經驗服務群眾，高雄在我們一棒一棒接續努力下奠定基礎，打造出閃亮的港灣城市品牌。\n\n好戲帶給觀眾滿滿感動，好市政帶給市民滿滿幸福。下一階段，我們要讓從高雄的土地和生活中成長茁壯的文化推向國際市場。\n\n「年年壽花紅、當朝鐵樹開、三仙齊下界、福祿壽仙來～」\n\n扮仙，是傳統謝神戲裡的重要開場，除了答謝神靈，更是賜福大眾。願以此為引，祝福市民朋友平安健康、高雄百業順昌興旺。\n\n我會一直打拚，為著咱的城市。",
+      "topicScores": {
+        "文化觀光": 0.95
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/Dc96odWyU2P/"
+    },
+    {
+      "agendaRelevance": 0.57,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "3c9eb87cc67a6992c3d27dea1fa05f64a7f74917d9a9d9f282c3e1dac65ed3ff",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1657098089105188",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/01916fce315e0df1c4db.webp",
+      "keywords": [
+        "文化",
+        "藝術"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-07T01:15:38.000Z",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以歌仔戲體驗為活動紀錄，延伸表達推動高雄文化國際化的立場。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-fb",
+      "text": "「台上用心演一齣好戲，感動觀眾；\n城市用心拚每一天，幸福市民。」\n\n非常感謝郭春美老師和江明龍團長的協助和指導，帶領著我體驗歌仔戲從準備、練習到登台演出的完整過程。\n\n頂著繁複的妝髮、穿上厚重的戲服，一次又一次的身段練習，親自體驗過，才真正瞭解每一場精彩演出的背後，是多少的累積和付出。藝術工作者對自我的要求極度嚴格，所有的幕後辛勞，只為了站上舞台那一刻，把最好的一面呈現給觀眾。\n\n「台上一分鐘，台下十年功」\n\n一棚好戲，需要時間準備；一座城市，乃是點滴累積。這段體驗讓我深刻感受，藝術和市政有著相同的精神，以專業、專注、經驗服務群眾，高雄在我們一棒一棒接續努力下奠定基礎，打造出閃亮的港灣城市品牌。\n\n好戲帶給觀眾滿滿感動，好市政帶給市民滿滿幸福。下一階段，我們要讓從高雄的土地和生活中成長茁壯的文化推向國際市場。\n\n「年年壽花紅、當朝鐵樹開、三仙齊下界、福祿壽仙來～」\n\n扮仙，是傳統謝神戲裡的重要開場，除了答謝神靈，更是賜福大眾。願以此為引，祝福市民朋友平安健康、高雄百業順昌興旺。\n\n我會一直打拚，為著咱的城市。",
+      "topicScores": {
+        "文化觀光": 0.9
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.facebook.com/reel/1756251312209913/"
+    },
+    {
+      "agendaRelevance": 0.26,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "321500734dae0ab9edfe45972754d5b727f2a50888353a9abddf7ce1bcdc9aa4",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1656708962477434",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/9bacb4a29437a5d9d20b.webp",
+      "keywords": [
+        "後援會",
+        "經濟",
+        "產業",
+        "科技"
+      ],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T14:30:26.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "成立後援會並動員支持候選人，僅概述產業與地方建設方向。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-fb",
+      "text": "「挺瑞隆 做市長！」 #路竹後援會 成立！\n\n今天三場後援會接力成立，最後一站來到路竹。謝謝路竹區農會王和雄理事長擔任榮譽會長、謝棋萬董事長擔任會長，以及後援會夥伴和路竹鄉親相挺。\n\n路竹是高雄的傳產重鎮，也是科技產業廊帶的重要節點，我在立院的好兄弟 邱志偉委員和我長期在經濟委員會為產業發聲，爭取多項建設，未來我也會持續和志偉分工，攜手議員夥伴，讓路竹的產業和地方建設持續升級推進。\n\n我們的目標很清楚，路竹贏、北高雄就贏！11月28日，除了要讓市長順利接棒，也要全力支持  #黃明太議員 、陳琳潔，讓高雄議會過半，市政建設才能持續推進，為路竹發展再贏一次！\n\n康裕成 高雄市議長 黃彥毓 前鎮小港 我願意",
+      "topicScores": {
+        "競選": 0.98,
+        "經濟": 0.74
+      },
+      "topics": [
+        "競選",
+        "經濟"
+      ],
+      "url": "https://www.facebook.com/zenolai2/posts/pfbid0gnnawxkXchGpo1UcrpX5QXQSGVqELvEoEeAMtipWdKVsdGmiJLfAUvB4Eawmc48Hl"
+    },
+    {
+      "agendaRelevance": 0.15,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "346ef12ebcb9ad962d1e402e086fb6d7febe402dbb210a060185c8a5534cd3ae",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc8CtuXkRmJ",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/313eda93f8b6c0d75afa.webp",
+      "keywords": [
+        "身障"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-06T07:51:53+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄拜訪庇護工場並呼籲支持身障團體禮盒，未提出具體施政方案。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-threads",
+      "text": "@zenolai:今天和 @tsai_ingwen  總統一起拜訪中外餅舖庇護工場，體驗製餅、包裝，也關心庇護員工的工作與生活。\n\n中秋節將近，邀請大家一起支持庇護工場和身障團體的禮盒，讓台灣人的善意持續循環！",
+      "topicScores": {
+        "社福": 0.95
+      },
+      "topics": [
+        "社福"
+      ],
+      "url": "https://www.threads.com/t/Dc8CtuXkRmJ"
+    },
+    {
+      "agendaRelevance": 0.34,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "a8c1e4fb307c110b09ea218c1f13f17aa2b0175337a68aba44698cdc09b92acf",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc7vre2kVly",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/c591a85060ee3deb27fa.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-06T05:05:33+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "分享市長新書活動與高雄治理感想，並表達延續高雄發展的政治意向。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-threads",
+      "text": "@zenolai:其邁市長！電話要接喔！\n\n謝謝其邁市長，用六年時間，為我們拚出一個精彩的、光榮的、豐富的高雄。\n\n今天受邀出席 @chenchimai 陳其邁市長《高雄 緊緊緊：2314天極限轉型》新書發表，我分享了讀後心得，也是這六年最深刻的感受：\n✔️面對自己的不足\n✔️能堅持，但不能固執\n✔️面對錯誤，不閃躲\n\n我相信大家讀完這本書，都能身歷其境，而且非常有感，更能理解其邁市長「緊緊緊」的努力都是為了高雄。我就不在這邊劇透太多，歡迎一起買書來看！\n\n我想，其邁市長最後一次市政總質詢的發言，就是這本最好的註解：\n「我們永遠要對我們的家鄉懷著熱情。」\n\n我也向各位報告，高雄的精彩未完待續。因為高雄的故事，是所有高雄人共同寫下的，而我也參與其中。未來，我會全力以赴把高雄的「續集」寫得更加精采。\n\n最後，也要拜託其邁市長，以後電話要接喔！大賴的電話優先接，小賴的電話也要接。\n\n高雄的未來，我們繼續一起拚！",
+      "topicScores": {
+        "文化觀光": 0.72,
+        "競選": 0.91
+      },
+      "topics": [
+        "競選",
+        "文化觀光"
+      ],
+      "url": "https://www.threads.com/t/Dc7vre2kVly"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "dd5dc35b1734b9eeb067990c440009851c2b671d1d4948f6c943fb912c54de28",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-06T14:04:29+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc5fPOEgXXD/",
+      "imageAspect": 0.8044,
+      "imageUrl": "assets/feed-images/c2f9438b93ddd7dbc7a9.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T08:03:24+00:00",
+      "postingIntent": {
+        "confidence": 0.78,
+        "label": "回應他方觀點",
+        "reason": "針對鄭麗文等人被指訂單跳票、庇護工場追問一事，表達政治誠信立場並予以回應。",
+        "type": "responsive"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "潘孟安秘書長：「眾人做，眾人得。匯聚眾人之善，就能成就眾人之志。」\n\n我始終相信，政治工作無他，誠信而已。\n鄭麗文 傅崐萁 翁曉玲\n 首頁>政治新聞 政治新聞 鄭麗文訂中秋禮盒跳票？ 慢慢 恆春庇護工場急問:300盒 300盒訂 單呢？ 2026/09/05 2026/09/0513:00 13:00 f LINE 2S 慢慢反春共焙坊'.\" referrerpolicy=\"no-referrer\">",
+      "topicScores": {
+        "社福": 0.72,
+        "議會監督": 0.55
+      },
+      "topics": [
+        "社福",
+        "議會監督"
+      ],
+      "url": "https://www.instagram.com/p/Dc5fPOEgXXD/"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-05T10:01:28+00:00",
+        "inputHash": "00c3e00b3af7f85966017508fe21a73954453f8bb5b882f2f34ea7f1e714bd10",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc5fOJxEWkS",
+      "imageAspect": 0.6619,
+      "imageUrl": "assets/feed-images/0e3d4aa44425310f1e01.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-05T08:03:15+00:00",
+      "postingIntent": {
+        "confidence": 0.82,
+        "label": "主動發文",
+        "reason": "以政治誠信與團結語句表態，帶有政治宣傳性質，但未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-threads",
+      "text": "@zenolai:@ananpingtung 潘孟安秘書長：「眾人做，眾人得。匯聚眾人之善，就能成就眾人之志。」\n\n我始終相信，政治工作無他，誠信而已。\n@clw1112 傅崐萁 @hsiao_ling_weng",
+      "topicScores": {
+        "競選": 0.83
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc5fOJxEWkS"
+    },
+    {
+      "agendaRelevance": 0.96,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "564763c4e2696fe8dfb5d550bd8a12ef224843004b56e50f4740d57d3e275506",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc4n99PgZuC/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/70aa7832437db5f7f178.webp",
+      "keywords": [
+        "運動",
+        "球場",
+        "健身"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T00:00:27+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動公布爭取經費興建運動中心及相關運動設施政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "讓運動成為日常！成功爭取4.6億！\n小港國民運動中心預計10月底試營運！\n\n一座進步的城市，要為每位市民打造安心、便利的運動空間。迎接99國民體育日，很高興跟大家宣布，我一路積極推動、爭取經費支持的 #小港國民運動中心 目前工程進度超前，預計今年10月底就要正式試營運！\n\n為了讓建設順利推進，我協調各方資源，成功為小港爭取4.6億元經費補助。如今，這座屬於小港、也屬於南高雄的重要運動場館，終於要和大家見面。\n\n運動中心位於小港森林公園，建築外觀融入飛機起飛的意象，也呼應小港的在地特色。館內規劃完整，一樓設有溫水游泳池與SPA池，並導入AI防溺預警系統，提升使用安全；二樓有約三百坪健身中心、女性訓練區，以及空中瑜珈、皮拉提斯教室；三樓則規劃挑高綜合球場與自由重量訓練區，滿足不同年齡層的運動需求。\n\n下班後能痛快流一場汗，是最好的充電方式。配合運動部9月新推出的 #揮汗有禮 計畫，中央用心推廣全民運動，我們則在地方全力把硬體建設做到最好！\n\n趁著國民體育日，邀請全民一起開啟運動生活。未來小港運動中心落成後，歡迎大家多來這裡運動打卡、兌換健康好禮！把地方建設好，讓市民擁有更健康的生活空間，我們繼續一起拚！",
+      "topicScores": {
+        "體育": 0.99
+      },
+      "topics": [
+        "體育"
+      ],
+      "url": "https://www.instagram.com/p/Dc4n99PgZuC/"
+    },
+    {
+      "agendaRelevance": 0.14,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "6801b728d81dc64413402bf53b5952f439106eacf79a85d873c5c2b1198d32c5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc3DVL5DhQj/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/d423f06e43757a2d45ba.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T09:21:28+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "感謝支持並號召共同拚產業，主要是政治動員而非具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "感謝信賴之友會、小英之友會全力相挺，一起顧民主、拚產業，為高雄開創下一個黃金十年！",
+      "topicScores": {
+        "競選": 0.96
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc3DVL5DhQj/"
+    },
+    {
+      "agendaRelevance": 0.4,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "5f1360c9d69c570d88a0ef6af73a5b48594a1c9893964fa17b113f3651500a52",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc2KpDzCgqX/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/20d8fa554b254a979589.webp",
+      "keywords": [
+        "選手",
+        "電競"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T01:06:17+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "以支持電競發展為主軸，提出讓選手發展的概括立場。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "高雄挺電競，讓夢想有舞台、讓選手有未來！🎮",
+      "topicScores": {
+        "體育": 0.94
+      },
+      "topics": [
+        "體育"
+      ],
+      "url": "https://www.instagram.com/p/Dc2KpDzCgqX/"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "43d84a04dd49c9690ee31cd8996d3460cde74a6e80e5c288341d3e784b2c5d45",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc03WuFCdVn",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-03T12:57:56+00:00",
+      "postingIntent": {
+        "confidence": 0.95,
+        "label": "主動發文",
+        "reason": "表達獲市長支持並宣示與高雄隊努力，屬競選宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-threads",
+      "text": "@zenolai:謝謝其邁市長一路相挺，更把我當作最好的兄弟，我會扛起這份信任與責任，和高雄隊一起努力，為高雄開創新的篇章！",
+      "topicScores": {
+        "競選": 0.96
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc03WuFCdVn"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "3ec7bec74cd1f93375c916bebc929b7946319a797793e5cfbab4db18a29f556a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc0w0rcCWSo/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/2b6eff4b7ef75e5a294e.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T12:01:27+00:00",
+      "postingIntent": {
+        "confidence": 0.95,
+        "label": "主動發文",
+        "reason": "表達獲市長支持及承擔責任，主要是競選形象宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "謝謝其邁市長一路相挺，更把我當作最好的兄弟，我會扛起這份信任與責任，和高雄隊一起努力，為高雄開創新的篇章！",
+      "topicScores": {
+        "競選": 0.96
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc0w0rcCWSo/"
+    },
+    {
+      "agendaRelevance": 0.28,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "ffbcc2758bf79c3b2cb3a713384a4761fea95e02095f1f7546c8c8dbe71a61ca",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dczx78SgVru/",
+      "imageAspect": 1.0059,
+      "imageUrl": "assets/feed-images/8d5ebf4285405da63ab4.webp",
+      "keywords": [
+        "照顧"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T02:51:23+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "介紹軍人加給與加薪等照顧措施，並向國軍致敬。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "九三軍人節，向守護台灣的國軍致敬🫡\n\n從日常戰備、海空巡弋，到颱風豪雨期間投入救災，國軍弟兄姊妹總是在國家與人民需要的時候，堅守崗位、挺身而出。\n\n中央政府照顧國軍！今年7月起，專業加給、主管職務加給每月各調增2,000元，新增第三類型戰鬥部隊加給每月4,000元，戰鬥部隊義務役官士兵也比照支領，明年1月起，軍公教整體加薪4%，持續給予國軍更實質的支持。\n\n我們安穩的日常，背後都有國軍的辛勞。謝謝所有現役及退役國軍守護家園，祝福大家軍人節快樂！",
+      "topicScores": {
+        "生活": 0.38,
+        "社福": 0.67
+      },
+      "topics": [
+        "社福",
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/Dczx78SgVru/"
+    },
     {
       "agendaRelevance": 0.2,
       "candidateId": "lai-jui-lung",
@@ -86,6 +1083,38 @@
       "url": "https://www.facebook.com/reel/1313689687331210/"
     },
     {
+      "agendaRelevance": 0.18,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "6c9168fd2ab35f0b42377039450c9c8d54090e5761ec1b847d7bed20afe20f10",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcyOExJjqoc/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/0d33c8fba8a168069495.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T12:19:32+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以球隊出發和城市未來為號召，屬競選動員，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "高雄隊，正式出發！\n\n接下關鍵第四棒，和所有隊友並肩向前，延續進步，為高雄拚出更好的未來。\n\n高雄第一，全力以赴💪",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DcyOExJjqoc/"
+    },
+    {
       "agendaRelevance": 0.25,
       "candidateId": "lai-jui-lung",
       "classification": {
@@ -119,6 +1148,41 @@
         "競選"
       ],
       "url": "https://www.threads.com/t/DcyEua0iUpR"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "e35dd8661887c675be1a9bd9b3ff747cd3964ce1cb7e4ded409cd7ccac7f6109",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcyDnc0AUv4/",
+      "imageAspect": 1.005,
+      "imageUrl": "assets/feed-images/9804c4048491ca985d7b.webp",
+      "keywords": [
+        "選舉",
+        "參選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T10:47:23+00:00",
+      "postingIntent": {
+        "confidence": 0.87,
+        "label": "主動發文",
+        "reason": "說明疑似假帳號干擾並呼籲選舉回歸理性，屬選舉事件回應而非政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "堅守乾淨選舉\n\n昨晚起，發現大量名稱、頭像高度重複的海外帳號異常湧入臉書追蹤；今天上午發布參選登記貼文後，更出現大量越南文帳號集中留言，留下「支持」的言論。\n\n針對這項異常現象，團隊已在第一時間向 Meta 回報，請平台協助查明與處理。\n\n我要再次說明，我一直秉持開放、正面的態度經營社群，我們不需要假帳號，更不接受任何透過異常帳號洗版、反串，進而製造錯誤連結、栽贓抹黑的政治操作。\n\n上午登記時，我也宣示「正面第一」的承諾，相信高雄市民期待的是政策、願景與城市發展的對話，而不是充滿算計的網路攻防。\n\n請有心人士停止這類行為，讓選舉回歸乾淨、理性的本質。我們堅持用政策說服市民，用成績爭取認同。\n\n感謝每一位真實留下鼓勵的市民朋友，也謝謝所有願意提供意見的聲音。無論支持或有不同看法，我們都會認真傾聽、虛心面對；我也會繼續踏實打拚，用政策與行動爭取更多高雄市民的認同與支持。",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DcyDnc0AUv4/"
     },
     {
       "agendaRelevance": 0.25,
@@ -10047,8 +11111,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaurKQ0H3CA",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/55a0368ef43c2041e51d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-13T10:13:12+00:00",
@@ -10081,8 +11145,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DauqKx5S9S5/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/6fd1d31fa5740cb252dd.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-13T10:12:58+00:00",
@@ -10159,8 +11223,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:BTsg5MTFazA",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/325bd0253a0decb9ab88.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-12T05:06:09+00:00",
@@ -10193,8 +11257,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:Mr0cIRTmbhw",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/01cb53c144619c00b6d8.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-12T05:04:47+00:00",
@@ -10225,8 +11289,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:fe1-E_BH_08",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/94688a0518a83fed5125.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-12T05:03:03+00:00",
@@ -10257,8 +11321,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DardXhzkRES",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/b4a878a086e1ddf0b7e2.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-12T04:17:33+00:00",
@@ -10323,8 +11387,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dapg_DHiQw5",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/4ae46e6064923f875e33.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "防災",
         "大雨",
@@ -10359,8 +11423,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dapg7cRj-OH/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/87aea0c45fe3f05aa528.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "防災",
         "大雨",
@@ -10433,8 +11497,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:qPqAk-aHhNg",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/daf6a53bfd9d2f17b9ed.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-11T07:41:36+00:00",
@@ -10465,8 +11529,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:Y3VtTSixGwc",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/d9ba060f1ac7ecbfd7ea.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-11T07:38:33+00:00",
@@ -10499,8 +11563,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:AuPt56XXdpA",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/e82e68e75909987b5b00.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-11T07:34:39+00:00",
@@ -10569,8 +11633,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dam-FkpAZ_M/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/ccc872ff9c355e3419e4.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災",
@@ -10673,8 +11737,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dam37QzgDXb/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/8fd0b4173ea71f69dab8.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-10T09:31:21+00:00",
@@ -10705,8 +11769,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DamzIhCEen1",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/9e1d1af7007784c825a5.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災",
@@ -10741,8 +11805,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Damy6blgYDe/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/c76f1febd09c269a1cff.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "防災",
@@ -10777,8 +11841,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DamY_dnEVTs",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/0adad5b3ff7cf1327b31.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-10T05:00:28+00:00",
@@ -10809,8 +11873,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DamTNoWAVNI/",
-      "imageAspect": 1.5019,
-      "imageUrl": "assets/feed-images/ec36b28b682efc0e9669.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風"
       ],
@@ -10845,8 +11909,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dalv64pE7DT",
-      "imageAspect": 0.5623,
-      "imageUrl": "assets/feed-images/0b6cbf8aabe01a726897.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風"
       ],
@@ -10879,8 +11943,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dalu-0ayPWW/",
-      "imageAspect": 0.5623,
-      "imageUrl": "assets/feed-images/e134945e0c7a5ca527a0.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風"
       ],
@@ -10913,8 +11977,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaknUiliTiH",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/b21f57bd30bcfb35b541.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "環境",
@@ -10989,8 +12053,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DakQdjjEu2F/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/d0159bae4e4d9f144031.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "托育",
         "補助",
@@ -11045,8 +12109,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DakPERokfKu",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/c58e852131eb194b2d9b.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "產業",
         "創業",
@@ -11182,8 +12246,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Daj6AMEERPA",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/0a5b03cff3502071ed69.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "強降雨",
         "質詢",
@@ -11221,8 +12285,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DajyDJTERXd",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/9950e82b1cbebad362f0.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風"
       ],
@@ -11255,8 +12319,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DajoUe2EsYn/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/4052fc3937a3b66435c4.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-09T03:17:14+00:00",
@@ -11289,8 +12353,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:Fox_4HyLPLY",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/4527bc5c48102e3dbcb5.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-09T02:23:50+00:00",
@@ -11321,8 +12385,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:_NsqtJesnWQ",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/33c798c627c25fa0c292.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-09T02:19:38+00:00",
@@ -11353,8 +12417,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dah4totgaxb/",
-      "imageAspect": 1.0059,
-      "imageUrl": "assets/feed-images/9ef9e64c1c2a4a3ec19f.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "經濟",
         "產業",
@@ -11446,8 +12510,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dahq6DNgemT/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/4edae46548350b71c408.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "經濟",
         "產業",
@@ -11525,8 +12589,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DahDz6lEvKC/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/4f1ba8c3bad9abe1179b.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-08T03:23:32+00:00",
@@ -11559,8 +12623,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:Wqak_enK_Kc",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/50e7a80ea58dc099eb14.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-08T02:58:46+00:00",
@@ -11591,8 +12655,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:D-OSixGq_i0",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/76b45d1b3fe493d0b30d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-08T02:57:08+00:00",
@@ -11623,8 +12687,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:_N_LITyyFm4",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/7f1782d99fdfa3a491a0.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-08T02:55:10+00:00",
@@ -11719,8 +12783,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DafT6GFjWWK/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/7ab93ee649f2c9ae9a45.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-07T11:01:49+00:00",
@@ -11751,8 +12815,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DafH7irkX0M",
-      "imageAspect": 1.0059,
-      "imageUrl": "assets/feed-images/d9226a923df90b8f8241.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-07T09:16:42+00:00",
@@ -11785,8 +12849,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DafHwyWgXcR/",
-      "imageAspect": 1.0059,
-      "imageUrl": "assets/feed-images/8ef71df12efd8091a4e6.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-07T09:15:16+00:00",
@@ -11885,8 +12949,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DacyeYUj5u5",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/a2829e1030ff12b1bedd.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-06T11:30:46+00:00",
@@ -11917,8 +12981,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DacxtOLyFBD/",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/5176ab54626bdfee3611.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-06T11:30:36+00:00",
@@ -11990,8 +13054,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Daabu3SiXw1/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/253af97ed2fa6992db2a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-05T13:33:59+00:00",
@@ -12058,8 +13122,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaaaNcvj689",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/a82ee31c1642ad677788.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "選手"
       ],
@@ -12092,8 +13156,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaaZ_5_yMO3/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/e15d47ea3c2d6a7a9189.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "選手"
       ],
@@ -12162,8 +13226,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaaGISxEatW",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/42b44e01a5ff1e388df1.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "災害",

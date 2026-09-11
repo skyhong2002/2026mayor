@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/a9acc8d456bac3f8007c.webp",
+    "avatarUrl": "assets/source-avatars/009b0ffaf489f1ebcb84.webp",
     "city": "taoyuan",
     "cityLabel": "桃園市",
     "id": "huang-shih-chieh",
@@ -19,8 +19,1073 @@
     "name": "黃世杰",
     "party": "民進黨"
   },
-  "count": 410,
+  "count": 446,
   "posts": [
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "40a758b426b8b8e675f9b350e7634edf8d3c64539b34118d32991fe767e23cdc",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdJBkACmhJo",
+      "imageAspect": 0.75,
+      "imageUrl": "assets/feed-images/2366027bba5ad6c215a2.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-11T08:51:57+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享用餐及準備參加中秋晚會的日常內容，沒有公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:跑到現在，才有空坐下吃今天的第一餐😅\n\n趕快補充能量，準備迎接晚上的中秋晚會馬拉松！",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/DdJBkACmhJo"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "6be05080ffc6d099ca167e9bd11704a1f8e0ea18054b5a07f2567a1f114c373a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJBixfT2i6/",
+      "imageAspect": 0.75,
+      "imageUrl": "assets/feed-images/0d2e65fd1abcae5f9e69.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T08:51:50+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享個人用餐與晚會行程，沒有公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "跑到現在，才開始吃今天的第一餐😅\n\n趕快補充能量，迎接晚上的中秋晚會馬拉松！",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DdJBixfT2i6/"
+    },
+    {
+      "agendaRelevance": 0.38,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "925e76461768807b33501a52bd3089db7ee0b0c8353da45588917de8702df40a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdG3M0cCPWS",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/4ab1870236ef9dac5b38.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-10T12:45:11+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄參訪庇護工場並呼籲市民支持身心障礙者就業與自立。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:我和何志偉副秘書長，一起到觀音愛心家園「拜師學藝」！\n\n小老師們手很巧，紙盒摺得又快又工整。親手烘焙的手工點心香氣四溢，主任還沒介紹完，志偉就忍不住開動，我也默默嗑光一整盒，真心推薦👍\n\n每一份點心禮盒，都是他們靠雙手自立生活、踏實前行的證明。\n\n不只中秋節，平時也歡迎市民朋友多多支持桃園各家庇護工場，給這群認真的寶貝更多被看見的舞台💖",
+      "topicScores": {
+        "社福": 0.98
+      },
+      "topics": [
+        "社福"
+      ],
+      "url": "https://www.threads.com/t/DdG3M0cCPWS"
+    },
+    {
+      "agendaRelevance": 0.25,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "e2cc935c2e994ab2327c4f015613bda9454598138b87f90ff62595c99ae3fcb8",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdG21wYO1lS/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/3d16ba1fa487f6b778f7.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T12:41:14+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "走訪庇護工場並鼓勵支持身心障礙者自立與就業。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "我和何志偉副秘書長 @ho_art_501 ，一起到觀音愛心家園「拜師學藝」！\n\n小老師們手很巧，紙盒摺得又快又工整。親手烘焙的手工點心香氣四溢，主任還沒介紹完，志偉就忍不住開動，我也默默嗑光一整盒，真心推薦👍\n\n每一份點心禮盒，都是他們靠雙手自立生活、踏實前行的證明。\n\n不只中秋節，平時也歡迎市民朋友多多支持桃園各家庇護工場，給這群認真的寶貝更多被看見的舞台💖",
+      "topicScores": {
+        "社福": 0.94,
+        "經濟": 0.55
+      },
+      "topics": [
+        "社福",
+        "經濟"
+      ],
+      "url": "https://www.instagram.com/p/DdG21wYO1lS/"
+    },
+    {
+      "agendaRelevance": 0.72,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:46:45+00:00",
+        "inputHash": "2ef0bbca40024f22a29cb3104e0d2a8f638bc92ab853c51bfcce075c561f3c49",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-11T10:47:04+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdGw9MZCYlF",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "文化",
+        "觀光"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-10T11:48:21+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "回應他方觀點",
+        "reason": "針對桃園市長張善政未提前招商、消極處理桃園神社營運的作法提出批評與回應。",
+        "type": "responsive"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:這是一個情境題。\n\n如果你是一位市長，遇到愈來愈多年輕人、外地遊客慕名而來，甚至吸引國際旅客專程前往的熱門景點，你會怎麼做？\n\n一般人當市長，會用心經營、大力推廣。\n絕對不是放任合約到期、消極擺爛。\n\n很遺憾地，從明天起，桃園神社的原經營團隊合約期滿撤離，神社將正式面臨營運空窗期。而且這不是突發狀況，桃園市政府早就知道委外契約即將到期。\n\n我要問張善政，為什麼沒有提前招商、做好交接？任由好不容易打造的城市亮點，苦心累積的成果瞬間歸零。張善政的消極與擺爛，再次暴露了他對地方觀光和文化資產的漫不在乎！\n\n更何況桃園神社早就不只是普通的觀光景點，而是珍貴的文化資產。\n\n面對桃園神社的未來，我上任後，會積極尋找好的團隊，延續過去成功的經驗，讓在地文化一點一滴累積成城市品牌，和市民一起重新擦亮桃園的名字！",
+      "topicScores": {
+        "文化觀光": 0.96,
+        "競選": 0.86
+      },
+      "topics": [
+        "文化觀光",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdGw9MZCYlF"
+    },
+    {
+      "agendaRelevance": 0.94,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "73c1c911caa9f7df3d1b87e83f0743779de641922b5d94c20da8abac9cd7fd92",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdF31q7O2yr/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/373c44032e67d5ab9ca8.webp",
+      "keywords": [
+        "籃球",
+        "運動",
+        "選手",
+        "長輩",
+        "身障",
+        "醫療"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T03:30:48+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出十分鐘運動生活圈、共融據點及選手培訓醫療照護等完整體育政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "我和黃家齊議員 @jack790218 都熱愛打籃球🏀這次就用一場三對三，來聊聊我們理想中的「運動城市」！\n\n世杰要打造「10分鐘運動生活圈」，從孩子的多元運動社團、年輕人的戶外運動空間；到長輩、身障朋友的分齡運動與共融據點；專業選手的培訓、獎勵、醫療照護也要全面升級，讓全民都能動、選手放心拚💪🏻更要打造「桃園全民運動季」，把桃園的運動品牌推向國際，用運動連結世界、讓世界看見桃園！\n\n運動心桃園，幸福動起來💖Taoyuan, This is for you!",
+      "topicScores": {
+        "社福": 0.72,
+        "醫療": 0.62,
+        "體育": 0.99
+      },
+      "topics": [
+        "體育",
+        "社福",
+        "醫療"
+      ],
+      "url": "https://www.instagram.com/p/DdF31q7O2yr/"
+    },
+    {
+      "agendaRelevance": 0.98,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "001802f215b4b246d263547a7ad342ca88638b884b30ae3591e15cb2b561312a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdEXkPLE42x/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/6fe0035ad6568fc05c9f.webp",
+      "keywords": [
+        "運動",
+        "選手",
+        "賽事",
+        "學校",
+        "醫療"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T13:28:01+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動提出全民運動、選手培訓照護及國際運動城市政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "運動心桃園，幸福動起來 .ᐟ\n\n今天是9/9國民體育日，也是運動部正式成立滿一周年。世杰今天和桃園體育界舉辦座談會，向總統府葉政彥國策顧問、前運動部鄭世忠政務次長、邱炳坤教授及黎正評教授等各領域教練及專業人士請益，交流對桃園體育發展的想法。\n\n世杰認為，桃園除了要栽培優秀的運動選手，也必須創造讓每位市民都能自在運動、健康生活的城市💪\n\n我是黃世杰，我要打造「打造心生活運動城市」：\n\n📢推動全民運動，構築大桃園運動生活圈\n➊推動學校多元運動社團，導入專業合作機制\n➋擴增多元戶外運動空間，升級運動環境友善設施\n➌推動分齡與分區運動賽事，打造「桃園全民運動季」\n➍設置專屬適應運動中心與共融運動據點\n\n📢強化桃園運動選手的培訓與照顧，擴大健全照護防護網\n➊調整桃園選手參加各項賽事的獎勵制度\n➋串聯醫療資源，打造健全照護防護網\n\n📢打造桃園成為國際運動城市的品牌，用運動連結世界\n讓世界看見桃園，發展具有國際發展潛力項目，建立國際合作，打造桃園運動城市新品牌。\n\n未來，我會全力改善桃園的體育環境，打造全民運動心生活，從孩子到選手、從社區到國際，讓運動真正扎根桃園，一起打造充滿活力、全民運動的幸福城市💖",
+      "topicScores": {
+        "教育": 0.72,
+        "醫療": 0.65,
+        "體育": 0.99
+      },
+      "topics": [
+        "體育",
+        "教育",
+        "醫療"
+      ],
+      "url": "https://www.instagram.com/p/DdEXkPLE42x/"
+    },
+    {
+      "agendaRelevance": 0.78,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "73075c22ba9a6669a056d0db2c925a42d704240cede7617120c3e0904dd1296f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdELqLaE--x/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/692df12b5ef4c65247f0.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T11:43:58+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "記錄參訪身心障礙機構，並主張串聯採購與企業資源支持庇護工場。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "今天午後，我和總統府何志偉副秘書長 @ho_art_501 走進觀音愛心家園，空氣裡瀰漫著剛出爐的糕點甜香，耳邊傳來純真燦爛的笑聲。\n\n我和志偉坐下來，向憨兒寶貝學習組裝中秋紙盒。看著他們小心翼翼對齊摺線、壓平邊角，眼神裡滿是專注。\n\n前陣子外頭有些紛擾與考驗，但他們沒有退縮，因為手裡摺的不只是紙盒，更是自立生活的尊嚴。遞出的每一塊點心，都是想跟世界分享的心意，而且真的非常好吃，連不常吃甜點的我都一口接一口。\n\n一筆訂單，對大家來說只是日常的選擇，對他們而言，卻是證明自我價值的舞台。所幸各界的善意及時匯聚，觀音愛心家園今年中秋訂單已額滿，我和志偉也特別預訂了年節禮盒，要把這份支持延續下去。\n\n除了民間的熱心，地方政府更該主動搭起橋梁，串聯公部門採購與企業資源，把一次的幫助轉化為長遠的機會。\n\n一座城市的溫度，不是看它有多少高樓大廈，而是看它願不願意為走得慢的人留一盞燈。\n\n未來的桃園，不僅要大步建設，更要成為一座溫暖、包容，讓每個人都能活出尊嚴跟價值的城市❤️",
+      "topicScores": {
+        "社福": 0.98
+      },
+      "topics": [
+        "社福"
+      ],
+      "url": "https://www.instagram.com/p/DdELqLaE--x/"
+    },
+    {
+      "agendaRelevance": 0.72,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "b6897354cfe5fc2deeef26eb549ec2d909fe4298b3156587c019f487e6a67f0b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdDLFFcTim_/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/b90079a4014d146d847a.webp",
+      "keywords": [
+        "選舉",
+        "法案",
+        "立法院"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T02:21:00+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "以律師及公職經歷建立競選形象，泛稱以制度改善生活，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "9/9律師節。\n\n回想我執業的日子，和大家印象中穿律師袍，天天跑法院的想像有點不同。更多時候，我專注梳理法規架構、制度設計跟風險把關，隱身在幕後捍衛公平。\n\n走入公共事務後，我帶著法學訓練，投入對社會有益的制度工程改造。\n\n我在桃園市政府時，參與升格直轄市的龐雜自治法規翻新，為新桃園奠定運作基石。在立法院，把基層民意轉化為嚴謹法案，守護國家大政和民主法治。到了法務部，則從中央視角推動各項法務政策，強化國家法制防線。\n\n現在，我帶著地方自治、中央行政和立法歷練，回到桃園投入市長選舉。我知道，一套好的制度，能改變千千萬萬人生活。我想用專業為家鄉打造更好的生活，為市民爭取更大福祉的決心，從來沒有變過。\n\n法律是守護公平和弱勢的底線，世杰要向每一位在法庭奔走、為當事人權益挺身而出的道長們致敬。祝福大家律師節快樂！",
+      "topicScores": {
+        "競選": 0.9,
+        "議會監督": 0.55
+      },
+      "topics": [
+        "競選",
+        "議會監督"
+      ],
+      "url": "https://www.instagram.com/p/DdDLFFcTim_/"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "495a26da56dc0b2f9f709b1a05b93cbd06eb464c85a4ea08a44e5f62ccac4629",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdB6KktTvBA/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/2a427eb4147482c13c0c.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T14:32:54+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "批評張善政治理新屋並號召支持黃世杰，屬競選攻防與動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "在文燦市長時代，新屋曾經是被重視的焦點。換張善政後，新屋又被邊緣化，成為被遺忘的邊陲。\n\n市長如果有心，能為地方帶來的改變無可限量。\n但這幾年，新屋人看到的只有停滯跟空轉。\n\n翻轉新屋，需要真正有魄力、有願景、傾聽基層的行動派。\n\n黃世杰已經準備好，把專業與歷練，毫無保留奉獻給最摯愛的家鄉！我知道大家的期待，不只是疼惜新屋子弟，而是期盼一個懂桃園、把新屋放在心上的市長。\n\n11/28，讓我們一起站出來支持黃世杰、翻轉大桃園。終結怠惰散政，讓心桃園全面動起來！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdB6KktTvBA/"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:46:45+00:00",
+        "inputHash": "dde7984397480145904e56b364651b1109dac52d7435f8403f11fb7beb8ed82d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc_UsShTlDc/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/789d4fa8a76839c3dc12.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-07T14:36:46+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "宣傳候選人形象並呼籲支持桃園市長選舉。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "被美琴副總統 @bikhimhsiao 認證，是最了解桃園、最專業積極、有願景也有魄力的「鄰家男孩」🙋‍♂️\n\n求學時代，我從中壢國小到小復旦，跟著桃園一起成長，現在正是最有衝勁、最有活力的時刻！\n\n年輕桃園準備起飛，11/28桃園市長懇請支持黃世杰，一起讓心桃園動起來💖",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc_UsShTlDc/"
+    },
+    {
+      "agendaRelevance": 0.24,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "e62e7c2b45e6e7fc2eb5a8edd5d210942e4c1f58251e48e99dab111ffc1dc42e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc8mN04E39H/",
+      "imageAspect": 1.3319,
+      "imageUrl": "assets/feed-images/946de6c129793d5d302d.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T13:02:06+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "走訪市場與廟宇了解民情，主要是競選行程及地方互動。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "從中元前夕，我就參加各式各樣的普渡。今天我到桃園觀光夜市、中壢批發市場、中壢青果市場，和鄉親朋友們一起拜拜普渡，祈求平安。\n\n我也趁著行程和市民朋友聊聊，了解大家關心的、想要改變的事。\n\n這是我一直以來堅持多走多聽的原因，只有去瞭解地方真正的需要，未來市政的推動才能貼近市民需求！讓我們一起翻轉桃園，桃園大步向前💖",
+      "topicScores": {
+        "生活": 0.7,
+        "競選": 0.98
+      },
+      "topics": [
+        "競選",
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/Dc8mN04E39H/"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "79c158c18ed084997404613981d58983f881e32128caf2a1bce63678695b2a49",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1591688075739058",
+      "imageAspect": 1.3318,
+      "imageUrl": "assets/feed-images/e6887b5315ea1aee998f.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T13:00:47.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享普渡行程與地方走訪，未提出具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-fb",
+      "text": "從中元前夕，我就參加各式各樣的普渡。今天我到桃園觀光夜市、中壢批發市場、中壢青果市場，和鄉親朋友們一起拜拜普渡，祈求平安。\n\n我也趁著行程和市民朋友聊聊，了解大家關心的、想要改變的事。\n\n這是我一直以來堅持多走多聽的原因，只有去瞭解地方真正的需要，未來市政的推動才能貼近市民需求！讓我們一起翻轉桃園，桃園大步向前💖",
+      "topicScores": {
+        "生活": 0.96
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/SCHuangLawyer/posts/pfbid02gzucyEdMEQiaap2DTcECZWGEBsCuC8RDjPaDYdHaMJ95icqAiuzGGCzoiptccuPbl"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "6ad55a357fcadd8489d904f7e4eb1e5b4b5b771a4f80e45ae4e8d5dd9539acee",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc70b63Ccou",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/5b779f86a264a2bda700.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-06T05:47:07+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "介紹老街溪整治成果並進行候選人與議員團隊的競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:我跟美琴副總統 @bikhimhsiao 沿著老街溪畔健走，遇到很多運動的市民。看到大家臉上的笑容，讓我想起這條河流一路以來的翻轉跟重生。\n\n十幾年前，老街溪曾是人人避之唯恐不及的臭水溝。在中央支持、文燦市長八年打拚下，老街溪已經成為大家散步、休憩的好所在。\n\n老街溪的蛻變，不只是河川整治的典範，更證明了有遠見、有執行力的團隊，能讓一座城市脫胎換骨。\n\n從中央穩健執政十年，到桃園八年飛躍成長，世杰一路深耕其中、不曾缺席。我親眼見證家鄉轉變，我比誰都清楚，桃園的潛力遠遠不止於此。\n\n11/28，懇請大家支持最懂市政實務、最貼近基層、最有行動力的黃世杰！\n\n懇請支持我身邊27位議員夥伴，讓桃園隊全壘打，讓我們攜手翻轉停滯、加速建設，讓心桃園動起來💖",
+      "topicScores": {
+        "環境": 0.92,
+        "競選": 0.98
+      },
+      "topics": [
+        "競選",
+        "環境"
+      ],
+      "url": "https://www.threads.com/t/Dc70b63Ccou"
+    },
+    {
+      "agendaRelevance": 0.7,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "ad97d7dea7ca03d78879ec3389601a47eec65cf2be35198f337851c46d3b2dc4",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc7y8WMk-yY/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/f543d69ec86bbf8d1ee5.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-06T05:34:04+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以老街溪整治成果倡議延續環境建設，並結合競選訴求。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "肆拾同行💚世杰陪同蕭美琴副總統 @bikhimhsiao 沿著老街溪畔健走，遇到很多運動的市民。看到大家臉上的笑容，讓我想起這條河流一路以來的翻轉跟重生。\n\n十幾年前，老街溪曾是人人避之唯恐不及的臭水溝。在中央支持、文燦市長八年打拚下，市府推動老街溪開蓋與全流域整治，把溪流跟水岸綠帶還給市民，如今老街溪已經成為大家散步、休憩的好所在。\n\n老街溪的蛻變，不只是河川整治的典範，更證明了有遠見、有執行力的團隊，能讓一座城市脫胎換骨。\n\n從中央穩健執政十年，到桃園八年飛躍成長，世杰一路深耕其中。無論是在桃園市政府擔任參議與顧問，在府內協調推動各項建設跟計畫，或在立法院爭取預算，我都不曾缺席。我親眼見證家鄉轉變，我比誰都清楚，桃園的潛力遠遠不止於此。\n\n四十年前，民進黨前輩在威權陰霾下無畏創黨。四十年後的今天，新世代接下火炬，肩負起守護民主、守護台灣、守護桃園的使命。\n\n健走後的天空落下大雨，但風雨會讓我們的意志更堅定。\n\n11/28，懇請大家支持最懂市政實務、最貼近基層、最有行動力的黃世杰！支持我身邊27位議員夥伴，讓桃園隊全壘打！\n\n新世代扛起新時代，我們會攜手翻轉停滯、加速建設，讓心桃園動起來💖",
+      "topicScores": {
+        "環境": 0.99,
+        "競選": 0.95
+      },
+      "topics": [
+        "環境",
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc7y8WMk-yY/"
+    },
+    {
+      "agendaRelevance": 0.38,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "c74da561389d62477f5400bb74574b34200a698c078a841f4c0c872edde5a94e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1591411905766675",
+      "imageAspect": 1.4975,
+      "imageUrl": "assets/feed-images/a1141a87e9fbb2116bd1.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-06T05:31:53.000Z",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "介紹老街溪整治成果並宣傳團隊與候選人，未提出明確新政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-fb",
+      "text": "肆拾同行💚世杰陪同蕭美琴 Bi-khim Hsiao副總統沿著老街溪畔健走，遇到很多運動的市民。看到大家臉上的笑容，讓我想起這條河流一路以來的翻轉跟重生。\n\n十幾年前，老街溪曾是人人避之唯恐不及的臭水溝。在中央支持、文燦市長八年打拚下，市府推動老街溪開蓋與全流域整治，把溪流跟水岸綠帶還給市民，如今老街溪已經成為大家散步、休憩的好所在。\n\n老街溪的蛻變，不只是河川整治的典範，更證明了有遠見、有執行力的團隊，能讓一座城市脫胎換骨。\n\n從中央穩健執政十年，到桃園八年飛躍成長，世杰一路深耕其中。無論是在桃園市政府擔任參議與顧問，在府內協調推動各項建設跟計畫，或在立法院爭取預算，我都不曾缺席。我親眼見證家鄉轉變，我比誰都清楚，桃園的潛力遠遠不止於此。\n\n四十年前，民進黨前輩在威權陰霾下無畏創黨。四十年後的今天，新世代接下火炬，肩負起守護民主、守護台灣、守護桃園的使命。\n\n健走後的天空落下大雨，但風雨會讓我們的意志更堅定。\n\n11/28，懇請大家支持最懂市政實務、最貼近基層、最有行動力的黃世杰！支持我身邊27位議員夥伴，讓桃園隊全壘打！\n\n新世代扛起新時代，我們會攜手翻轉停滯、加速建設，讓心桃園動起來💖",
+      "topicScores": {
+        "環境": 0.95,
+        "競選": 0.89
+      },
+      "topics": [
+        "環境",
+        "競選"
+      ],
+      "url": "https://www.facebook.com/SCHuangLawyer/posts/pfbid0nsY1QaYaFTJm88rY6zJSuANx3oPAkT69mKpMQLQwM2ygKrhs8kf8zeNByFZVVSn4l"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "01cd3cb86e8c0d84dfcc53941e0a05f5c1e79f4377ad2a9221947f9d9fdbddda",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc6OuKlE-lL",
+      "imageAspect": 0.75,
+      "imageUrl": "assets/feed-images/23105425e0dead81920d.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-05T14:58:19+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄中秋地方活動並感謝支持者，主要是競選互動與動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:今晚的桃園，熱力全開！連跑瑞慶里、南埔里、玉山里和東埔里的中秋晚會。一走進會場，就聽到滿滿的歡笑聲、摸彩聲😁\n\n「世杰，幫我在扇子上簽名！」「再加油，衝過去！」看見大家比出大大的讚，真的非常感謝。市民朋友的信任，就是支持我每天往前衝的最大力量。\n\n活動非常精彩圓滿，幕後大功臣就是所有里長、鄰長與志工夥伴，感謝你們辛勞奔走，凝聚整個社區。未來我也會用同樣的精神，團結大桃園！\n\n未來，我會繼續走遍地方，握緊每雙手，和大家一起拚，讓我們深愛的桃園變得不一樣！一起讓心桃園，動起來💖",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc6OuKlE-lL"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "11666315b40237312af98bfda13d303c47c5503c108c1df840011a2f5401c872",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc6Os0dkyeW/",
+      "imageAspect": 0.75,
+      "imageUrl": "assets/feed-images/85317c87afaa86cd298b.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T14:58:08+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄中秋晚會拜票與感謝地方支持，屬競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "今晚的桃園，熱力全開！連跑瑞慶里、南埔里、玉山里和東埔里的中秋晚會。一走進會場，就聽到滿滿的歡笑聲、摸彩聲😁\n\n「世杰，幫我在扇子上簽名！」「再加油，衝過去！」看見大家比出大大的讚，真的非常感謝。市民朋友的信任，就是支持我每天往前衝的最大力量。\n\n活動非常精彩圓滿，幕後大功臣就是所有里長、鄰長與志工夥伴，感謝你們辛勞奔走，凝聚整個社區。未來我也會用同樣的精神，團結大桃園！\n\n未來，我會繼續走遍地方，握緊每雙手，和大家一起拚，讓我們深愛的桃園變得不一樣！一起讓心桃園，動起來💖",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc6Os0dkyeW/"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "2c2ddbf454525034739b8c9edc98f6386f3424fcc2333101a8909dd3d893e502",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1590925129148686",
+      "imageAspect": 0.7508,
+      "imageUrl": "assets/feed-images/695a4dd58880dcef58a0.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-05T14:55:31.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄中秋晚會行程並進行支持動員，屬競選活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-fb",
+      "text": "今晚的桃園，熱力全開！連跑瑞慶里、南埔里、玉山里和東埔里的中秋晚會。一走進會場，就聽到滿滿的歡笑聲、摸彩聲😁\n\n「世杰，幫我在扇子上簽名！」「再加油，衝過去！」看見大家比出大大的讚，真的非常感謝。市民朋友的信任，就是支持我每天往前衝的最大力量。\n\n活動非常精彩圓滿，幕後大功臣就是所有里長、鄰長與志工夥伴，感謝你們辛勞奔走，凝聚整個社區。未來我也會用同樣的精神，團結大桃園！\n\n未來，我會繼續走遍地方，握緊每雙手，和大家一起拚，讓我們深愛的桃園變得不一樣！一起讓心桃園，動起來💖",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/SCHuangLawyer/posts/pfbid0M5TzNERxWiWn9Nk7SGJ7pKnzbKqMX9AREBRELggYRHz71Wo5oY3DPMtxbkoseX1Pl"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-05T10:01:28+00:00",
+        "inputHash": "ce56f1728ced7857f744d16150a6052d80320e015424b0f512c3cefdbb2134df",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc5Q94ymsa_",
+      "imageAspect": 0.75,
+      "imageUrl": "assets/feed-images/e90b04ce89dcc17c7cc6.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-05T05:58:43+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享跑行程途中購買地方小吃的日常內容，沒有公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:跑龍潭行程，一定要去三坑老街買我跟老婆都愛的菜包！\n\n（那我可以申請不睡沙發了嗎）",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/Dc5Q94ymsa_"
+    },
+    {
+      "agendaRelevance": 0.0,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-06T14:02:56+00:00",
+        "inputHash": "52d083bbb74dba9a44d9170192e150d06f1405003df0766fe9f60380b356cd5d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc5Q8OTThHx/",
+      "imageAspect": 0.75,
+      "imageUrl": "assets/feed-images/04e09df3a571c0583f84.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T05:58:36+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享地方行程與購買小吃，屬日常生活內容，沒有公共政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "跑龍潭行程，一定要去三坑老街買我跟老婆都愛的菜包！\n\n（那我可以申請不睡沙發了嗎）",
+      "topicScores": {
+        "生活": 0.99
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/Dc5Q8OTThHx/"
+    },
+    {
+      "agendaRelevance": 0.79,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "75b850241f151355f4779081fd6ec474195226dd4286cba74aea6bf099e9cc18",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc45tqpE7D3",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/5275508adfae6d885152.webp",
+      "keywords": [
+        "文化",
+        "藝術",
+        "藝文"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-05T02:35:30+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "分享藝文參訪及文化政策願景，並結合個人競選宣示。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:走進展間，迎面而來的是筆勢豪邁、氣韻生動的水墨線條。\n\n藝術家李奇茂筆下的市井百態和鄉土風情，有大膽奔放的筆墨，也蘊含了豐富人文情懷。欣賞畫作，就像是在閱讀屬於台灣的生活記憶。\n\n世杰跟彭俊豪議員 @c_peng 、魏筠議員 @weiyunin 來到創價美術館，欣賞李奇茂水墨展。台灣創價學會長期投入文化教育推廣，除了打造免費向市民開放的美術館，也透過行動美術館，在校園播下美育種子。\n\n桃園有許多值得被看見的民間藝文基地。未來世杰進入市府，會積極串聯資源，讓文化活動深入各區。藝術不只是少數人專利，是每位市民都能親炙的日常。\n\n一座進步城市，要有健全的基礎建設，更要有生活美感，我們要攜手把桃園打造成文化底蘊豐厚的宜居之都！\n\n在氣勢磅礡的畫作前，解說員轉頭對我說：「祝福你像那匹黑馬。」感謝大家的厚愛跟期許，我會帶著後發先至的韌性，為家鄉全力以赴、逆轉勝出！",
+      "topicScores": {
+        "文化觀光": 0.97,
+        "競選": 0.8
+      },
+      "topics": [
+        "文化觀光",
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc45tqpE7D3"
+    },
+    {
+      "agendaRelevance": 0.78,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "3844104ab250d731dac134f3551377814c8a11e4761e8da2be6c785522178a3c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc45sUSEyPK/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/0a2310fb47204cb43254.webp",
+      "keywords": [
+        "文化",
+        "藝術",
+        "藝文"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T02:35:19+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "參訪水墨展並提出串聯藝文資源、讓文化活動深入各區的主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "走進展間，迎面而來的是筆勢豪邁、氣韻生動的水墨線條。\n\n藝術家李奇茂筆下的市井百態和鄉土風情，有大膽奔放的筆墨，也蘊含了豐富人文情懷。欣賞畫作，就像是在閱讀屬於台灣的生活記憶。\n\n世杰跟彭俊豪議員 @c_peng 、魏筠議員 @weiyunin 來到創價美術館，欣賞李奇茂水墨展。台灣創價學會長期投入文化教育推廣，除了打造免費向市民開放的美術館，也透過行動美術館，在校園播下美育種子。\n\n桃園有許多值得被看見的民間藝文基地。未來世杰進入市府，會積極串聯資源，讓文化活動深入各區。藝術不只是少數人專利，是每位市民都能親炙的日常。\n\n一座進步城市，要有健全的基礎建設，更要有生活美感，我們要攜手把桃園打造成文化底蘊豐厚的宜居之都！",
+      "topicScores": {
+        "文化觀光": 0.98
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/Dc45sUSEyPK/"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "b159c6d39336d32fa21c7fc20947c91d2726d4ad0e84de0bd0ebce3f9c92245a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3hE92CTls",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/e48e344afa3370fe4e82.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-04T13:41:12+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享參訪非洲鼓班並致謝的活動紀錄，未提出公共政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:來探班🥁感謝中壢金華里非洲鼓班姐姐哥哥們的熱烈歡迎！",
+      "topicScores": {
+        "文化觀光": 0.86
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.threads.com/t/Dc3hE92CTls"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "3ff9185d5b2de66b10ceed0d9702a72de77ed62d42de9e179194f75d1703c607",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc3g8a4TJso/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/60fce7d8fa566776504e.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T13:40:10+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "單純記錄探訪地方社團活動，沒有具體公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "來探班🥁感謝中壢金華里非洲鼓班姐姐哥哥們的熱烈歡迎！",
+      "topicScores": {
+        "生活": 0.9
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/Dc3g8a4TJso/"
+    },
+    {
+      "agendaRelevance": 0.29,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "1cec0fa82daa1d31292c27d980477079e5554f5196ed55f002ff91e603d55fe2",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-04T16:01:56+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3Pr-QiQ4q",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "醫療",
+        "醫院",
+        "急診"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-04T11:09:02+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "回應他方觀點",
+        "reason": "反駁張善政及市府將醫院、建設計畫宣傳為政績，質疑其進度與醫療量能。",
+        "type": "responsive"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:張善政最近大力宣傳市立醫院觀音分院，事實上，他上任三年多以來，土地還在整合、工程進度往後延，連24小時急診都還沒確定，就急著拿來當政績宣傳？\n\n張市府原本說這塊地要規劃市場、複合商場，後來改成門診、檢查為主的「院區」，今年又變成有住院病床的「分院」，但名稱越喊越大，最基本的醫療量能卻始終沒有說清楚。\n\n這就是張善政慣用的手法，把他說不出有做什麼、根本怠惰沒做、也不一定能進行的計劃，先拿來當成偽政績宣傳。\n\n像是台積電進駐龍科三期、像是幼擴二期、像是可負擔住宅。\n\n觀音人要「真醫療資源」，不是選前的「可宣傳醫院」。\n桃園人要「真正的建設」，不是選前的「可宣傳建設」。",
+      "topicScores": {
+        "議會監督": 0.91,
+        "醫療": 0.98
+      },
+      "topics": [
+        "醫療",
+        "議會監督"
+      ],
+      "url": "https://www.threads.com/t/Dc3Pr-QiQ4q"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "70a22d1278150fd961eb7cfe4dd5c4d748b193a24010e517290eb0c1574b8ba0",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc1Cq3iE7KL/",
+      "imageAspect": 1.5019,
+      "imageUrl": "assets/feed-images/c2fac900eff34761408d.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T14:41:03+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "登記參選後返鄉拜票，強調地方情感並爭取市民支持。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "登記參選市長的隔天，世杰回到新屋，到養育我長大的老家向鄉親報告。\n\n夜裡雨勢非常大，我的袖子跟褲腳都濕透，但是一握住長輩們歷經風霜、粗糙卻溫熱的雙手，聽見他們用客語說，「世杰，新屋交分你，桃園乜交分你。」我的眼眶也忍不住泛紅。\n\n新屋，是不到五萬人的沿海鄉村，是北台灣的糧倉。這裡常被視為地圖邊緣，甚至被習慣性遺忘，但對我來說，一個懂得疼惜新屋辛酸的市長，才有能力真正守護大桃園。\n\n因為我明白，這座城市的生命力，從不只在繁華新穎的重劃區大樓裡，在逆著海風打拚的農漁民手裡、在工業區輪班揮汗的勞工身上、在老街市場默默撐起一個家的小攤邊，更在十三區每一個踏實生活的桃園人心中。\n\n這些聲音，需要被執政者聽見。但這幾年，只有退休模式、過客思維。如果心不在桃園，又怎麼能同理基層，怎麼可能把十三區的每寸土地、每個家庭，當成自己的根來疼惜。\n\n只有把這裡當成唯一歸宿的人，才會在風雨來襲時，毫無保留地跟所有人站在一起風吹雨淋。\n\n新屋的孩子站出來了。這一仗，不只是在地子弟為家鄉爭一口氣，更是所有市民，要一起把城市的未來找回來，交給真正在乎桃園的人！",
+      "topicScores": {
+        "競選": 0.97
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc1Cq3iE7KL/"
+    },
+    {
+      "agendaRelevance": 0.17,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "c1c82d0989727fb3a600105ad48f2dc16a1a55bcc354a4f142896cb57e6d5778",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc1CsP_kzYD",
+      "imageAspect": 1.5019,
+      "imageUrl": "assets/feed-images/8ab5e3833f1b928b025a.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-03T14:37:00+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以返鄉報告和地方認同爭取支持，屬參選宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:登記參選市長的隔天，世杰回到新屋，到養育我長大的老家向鄉親報告。\n\n一個懂得疼惜新屋辛酸的市長，才有能力真正守護大桃園。\n\n只有把這裡當成唯一歸宿的人，才會在風雨來襲時，毫無保留地跟所有人站在一起風吹雨淋。\n\n新屋的孩子站出來了。這一仗，不只是在地子弟為家鄉爭一口氣，更是所有市民，要一起把城市的未來找回來，交給真正在乎桃園的人！",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc1CsP_kzYD"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-03T04:01:08+00:00",
+        "inputHash": "66a4dff973782703cb695f4b1a1b9ae4c9d47e3055abee2c8f9502a9ddb4b2b6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DczqJ6Rn43o",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/e8534a86a4850691fc05.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-03T01:43:22+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "軍人節致敬與祝賀，未提出具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:翻出當年服役時的老照片，理得短短的平頭，鋼盔壓在額頭上的悶熱感，依然歷歷在目。\n\n今天是九三軍人節，世杰要向在前線捍衛國土的官兵弟兄姐妹，以及退除役前輩們致上最崇高的敬意🫡\n\n軍人守護國家，地方政府守護軍人與家庭。祝所有國軍弟兄姐妹，軍人節快樂🪖",
+      "topicScores": {
+        "生活": 0.96
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/DczqJ6Rn43o"
+    },
+    {
+      "agendaRelevance": 0.62,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "072abaf10f35160d057f2ce70c6e06d54d4646f21618318e7350286fa8e4fd72",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DczqH1izC9x/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/62e5627ba4573721e7ef.webp",
+      "keywords": [
+        "長照",
+        "托育",
+        "照顧",
+        "國防"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T01:43:14+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主張支持國防韌性，並提出照顧官兵家庭的托育與長照資源。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "翻出當年服役時的老照片，理得短短的平頭，鋼盔壓在額頭上的悶熱感，依然歷歷在目。\n\n今天是九三軍人節，世杰要向在前線捍衛國土的官兵弟兄姐妹，以及退除役前輩們致上最崇高的敬意🫡\n\n桃園是國防重鎮，從龍潭的陸軍司令部、八德的國防大學，到散布各區的營區與眷村，這座城市銘刻著最深刻的軍旅記憶，更有無數默默守護前線的軍眷家庭。\n\n支持國軍，不只是口號。對外，我們全力支持無人機預算，提升國軍戰力與強化防衛韌性，落實國防自主。\n\n對內，要照顧每一位基層官兵。未來世杰進入市府，我要強化托育與長照等資源，成為前線戰士最安心的後盾。\n\n軍人守護國家，地方政府守護軍人與家庭。祝所有國軍弟兄姐妹，九三軍人節快樂🪖",
+      "topicScores": {
+        "兩岸外交": 0.77,
+        "社福": 0.84
+      },
+      "topics": [
+        "社福",
+        "兩岸外交"
+      ],
+      "url": "https://www.instagram.com/p/DczqH1izC9x/"
+    },
+    {
+      "agendaRelevance": 0.0,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "fbdb049904065b52f07bb251396a07c2578e9416ecfd54e65787e7e290c47a9e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DcywgcsCXHs",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-02T17:19:37+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "內容是個人睡眠與生活近況，沒有實質公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:靠在沙發上睡著了，但最近可能都只能睡沙發了",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/DcywgcsCXHs"
+    },
     {
       "agendaRelevance": 0.16,
       "candidateId": "huang-shih-chieh",
@@ -54,6 +1119,40 @@
         "競選"
       ],
       "url": "https://www.threads.com/t/DcyeTJ-CUwn"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "c44d311f07c96cd4316fba857df0ba8568855849c6cbe35d1758f1faa04f9a21",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcyeFq4TO9k/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/11e8cb858a3b932c0b36.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T14:39:13+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣布正式登記參選桃園市長並呼籲支持。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "我是黃世杰，今天正式登記參選桃園市長！\n\n桃園需要更多活力跟希望，請跟我一起杰伴同行💖",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DcyeFq4TO9k/"
     },
     {
       "agendaRelevance": 0.18,
@@ -125,6 +1224,38 @@
       "agendaRelevance": 0.2,
       "candidateId": "huang-shih-chieh",
       "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "d892c66a3ed8848e4cec27c5d9392fc92ce9134915f1225fd2cc54700295b156",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dcxp8biE6kY/",
+      "imageAspect": 1.5013,
+      "imageUrl": "assets/feed-images/406ea1678b38c09646ae.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T07:03:05+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄競選團隊活動並號召民眾分享政見、支持候選人。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "感謝頂著正午大太陽☀️特地準備應援小物，來給我們熱情鼓勵的「杰伴」！\n\n我們的衣服濕了又乾、乾了又濕，但聆聽民意、勤跑基層的腳步不會停下，世杰跟團隊會持續深入大街小巷，把我們對這座城市的承諾，告訴每一位市民朋友。\n\n謝謝黃瓊慧議員 @qn_taiwan 、李光達議員 @lee_kung_da 、黃家齊議員 @jack790218 、余信憲議員 @yu.councilor 、李柏瑟議員候選人 @leeposhe_taoyuanmama 全程陪同、並肩作戰，展現桃園隊團結氣勢。\n\n最後不到三個月，懇請每一位關心桃園好朋友，成為世杰的分身跟小蜜蜂，把政見跟願景分享給身邊所有桃園人！\n\n支持黃世杰，市政不打結！我們一起讓心桃園，動起來💖",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dcxp8biE6kY/"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
         "classifiedAt": "2026-09-02T16:02:42+00:00",
         "inputHash": "756eb68bfd763b1e39944a274c271d0929a3de9d07a01ebc39d7342df20ec7ac",
         "method": "ai",
@@ -186,6 +1317,49 @@
         "競選"
       ],
       "url": "https://www.threads.com/t/DcxUhEHk2d4"
+    },
+    {
+      "agendaRelevance": 0.47,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "a82192411c6c217228c0747e03299b29894539eecb5b736e160769a7f4f87a17",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcxUfx2k3bR/",
+      "imageAspect": 1.5019,
+      "imageUrl": "assets/feed-images/f0d4dd581ba371a1a3bb.webp",
+      "keywords": [
+        "參選",
+        "交通",
+        "醫療",
+        "教育"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T03:55:39+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "完成參選登記並概述桃園未來需面對的公共政策挑戰。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "在桃園隊陪同下，世杰正式完成桃園市第四屆市長參選登記！\n\n我是黃世杰，土生土長桃園子弟，經過桃園市政府、立法院、法務部的歷練，我已經準備好為家鄉貢獻，實現我對這片土地的承諾。\n\n桃園快速發展，人口持續成長，面對交通、醫療、產業、教育、社福等各項挑戰，進步的腳步不能停下。\n\n剛剛，世杰和桃園隊議員及候選人，帶著13區的願景，帶著桃園人的期待，走進選委會。\n\n我們會一起拚出桃園的下個黃金十年💪\n\n11/28，懇請桃園市民支持黃世杰，支持桃園隊全壘打！杰伴打造令人心動的桃園，讓心桃園 動起來💖",
+      "topicScores": {
+        "交通": 0.63,
+        "教育": 0.6,
+        "競選": 0.99,
+        "醫療": 0.62
+      },
+      "topics": [
+        "競選",
+        "交通",
+        "醫療",
+        "教育"
+      ],
+      "url": "https://www.instagram.com/p/DcxUfx2k3bR/"
     },
     {
       "agendaRelevance": 0.72,
@@ -297,6 +1471,40 @@
       "url": "https://www.threads.com/t/Dcv70uxCTo4"
     },
     {
+      "agendaRelevance": 0.14,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "b3027409ae4b429ce2f75b2701c0639e424005a62c838775a203033f85f18b7d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dcv6sirzuCL/",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/72397e619fa99b691741.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-01T14:58:53+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以市場走訪與傾聽民意為主，屬競選活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "整個八月，一步一腳印，走遍南北桃園12個市場。\n\n從天還沒亮的批發市場，到人聲鼎沸的早市、黃昏市場，一雙雙握過的手、一句句加油與祝福，我都好好收在心裡。\n\n走入市場，我看到的不只是市場的熱鬧，更聽見了解桃園人的生活。有人跟我談交通、停車，有人關心市場環境，也有人只是拍拍我的肩膀，跟我說一句：「加油。」\n\n明天，我將正式登記參選桃園市長。\n\n謝謝這一路每一位陪我「杰伴同行」的你。倒數88天，我會帶著大家的期待，繼續全力以赴向前衝！",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dcv6sirzuCL/"
+    },
+    {
       "agendaRelevance": 0.08,
       "candidateId": "huang-shih-chieh",
       "classification": {
@@ -333,6 +1541,44 @@
         "競選"
       ],
       "url": "https://www.threads.com/t/DcvhrijCfXW"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "85a9821ab58d80cba84d449af0b32f82314dbbb98a6df66580a14b6f32d93b95",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcvhdmJzbdW/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/17cc9b229a016c3c0bda.webp",
+      "keywords": [
+        "競選",
+        "選舉",
+        "參選",
+        "掃街",
+        "車掃"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-01T11:11:27+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "公告參選登記及車隊掃街行程，屬競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "明早十點，世杰將跟桃園隊夥伴，一起到選委會登記參選！\n\n登記完畢後將到桃園區杰伴車隊掃街、跟市民朋友問好，大家明天見🚗\n\n📆 時間：\n9/2（三）\n上午10:00 選委會登記\n上午11:00 車隊掃街\n\n📍路線\n桃園市選舉委員會（桃園區成功路三段115巷100號）→左轉三元街→左轉三民路→右轉中山東路→接中山路→景福宮→黃瓊慧服務處→續行中山路→右轉正光路→黃家齊服務處→右轉廈門街→直行接縣府路→余信憲服務處→左轉縣府路→左轉中山北路→李光達服務處→左轉永安路→右轉大興西路→左轉寶慶路→右轉南平路→右轉春日路→李柏瑟服務處→右轉三民路→北桃園競選總部（桃園區三民路二段300號）\n\n明天在路上遇到我們，歡迎市民朋友給我們最熱情的鼓勵👋成為桃園隊前進的最大力量！\n\n📺車掃將同步於黃世杰臉書、YT直播，歡迎不能到場的杰伴小企鵝，線上不見不散！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DcvhdmJzbdW/"
     },
     {
       "agendaRelevance": 0.04,
@@ -13403,8 +14649,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Daun-ZdGr6_",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/8dacfc73e87a524642b4.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "掃街",
         "攤商"
@@ -13440,8 +14686,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Daun5LAzVtj/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/d66b49cd59bbdb0d3804.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "掃街"
       ],
@@ -13544,8 +14790,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DauB1npT7cH/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/f9a9a8572642c59201f0.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "美食"
       ],
@@ -13580,8 +14826,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dasi0JsE_FV",
-      "imageAspect": 1.3324,
-      "imageUrl": "assets/feed-images/059e09f541423b2e65f0.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "經濟"
       ],
@@ -13616,8 +14862,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DasizTBE1ow/",
-      "imageAspect": 1.3324,
-      "imageUrl": "assets/feed-images/8686dca6fe9e70a2a585.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "經濟"
       ],
@@ -13903,8 +15149,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DakGLnEk2Gj/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/f4d019cd4d79fca6c8b7.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "豪雨",
@@ -14009,8 +15255,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaiULrVk3hj/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/5635a044611035dcdb0b.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "颱風",
         "淹水",
@@ -14083,8 +15329,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DahvRyemmCK",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/7e03108be633ed0eb09a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "大學",
         "颱風"
@@ -14120,8 +15366,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DahvPLhzRLm/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/7e32ec391a4c23989bed.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "教育",
         "大學",
@@ -14199,8 +15445,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DahHs87k92z/",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/c19443f59cdafa29bf96.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "交通",
         "捷運",
@@ -14280,8 +15526,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DafXO2cGiOS",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/9d62931bd085b1f69d06.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-07T11:30:25+00:00",
@@ -14312,8 +15558,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DafXL0jpp2B/",
-      "imageAspect": 1.3333,
-      "imageUrl": "assets/feed-images/2997dbe82719f7d43c81.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-07T11:30:18+00:00",
@@ -14410,8 +15656,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaeUzWOpjqO/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/d7728fe05ec222e918b9.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-07T01:50:12+00:00",
@@ -14623,8 +15869,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaZ6LI5kwWu/",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/98e1a525629849145914.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "後援會",
         "連任",
@@ -14705,8 +15951,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaZe5bUkzaL/",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/035fd64d027b9c2089b9.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "生態"
       ],
@@ -14741,8 +15987,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaZe6YTE2Hi",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/9ee2f2459f494e14dd13.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "生態"
       ],

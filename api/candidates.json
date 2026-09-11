@@ -1,11 +1,11 @@
 {
   "candidates": [
     {
-      "avatarUrl": "assets/source-avatars/30b08f631e1c330f308a.webp",
+      "avatarUrl": "assets/source-avatars/9451a442efd770ab6118.webp",
       "city": "taipei",
       "cityLabel": "臺北市",
       "id": "shen-poyang",
-      "latestPostAt": "2026-09-02T15:33:30.000Z",
+      "latestPostAt": "2026-09-11T08:12:13+00:00",
       "links": {
         "facebook": "https://www.facebook.com/puma.taipei/",
         "instagram": "https://www.instagram.com/pumashen/",
@@ -20,14 +20,14 @@
       },
       "name": "沈伯洋",
       "party": "民進黨",
-      "postCount": 472
+      "postCount": 525
     },
     {
-      "avatarUrl": "assets/source-avatars/f1cc6fd1dd31727069ca.webp",
+      "avatarUrl": "assets/source-avatars/dd8b698d8a0b0cd7bcbf.webp",
       "city": "taipei",
       "cityLabel": "臺北市",
       "id": "chiang-wanan",
-      "latestPostAt": "2026-09-01T23:45:17.000Z",
+      "latestPostAt": "2026-09-03T00:07:41.000Z",
       "links": {
         "facebook": "https://www.facebook.com/chiangwanan/",
         "instagram": "https://www.instagram.com/wanan.chiang/",
@@ -42,14 +42,14 @@
       },
       "name": "蔣萬安",
       "party": "國民黨",
-      "postCount": 94
+      "postCount": 95
     },
     {
-      "avatarUrl": "assets/source-avatars/4474032aea5a9666d0f1.webp",
+      "avatarUrl": "assets/source-avatars/1607d507e28c25c57aa0.webp",
       "city": "new-taipei",
       "cityLabel": "新北市",
       "id": "su-chiaohui",
-      "latestPostAt": "2026-09-02T13:46:15+00:00",
+      "latestPostAt": "2026-09-11T10:30:05+00:00",
       "links": {
         "facebook": "https://www.facebook.com/chiaohui.su",
         "instagram": "https://www.instagram.com/su.chiaohui/",
@@ -64,14 +64,14 @@
       },
       "name": "蘇巧慧",
       "party": "民進黨",
-      "postCount": 449
+      "postCount": 496
     },
     {
-      "avatarUrl": null,
+      "avatarUrl": "assets/source-avatars/eafc6e8299dc6e8bb9bc.webp",
       "city": "new-taipei",
       "cityLabel": "新北市",
       "id": "lee-shih-chuan",
-      "latestPostAt": "2026-09-02T12:58:43+00:00",
+      "latestPostAt": "2026-09-11T10:00:51+00:00",
       "links": {
         "facebook": "https://www.facebook.com/p/%E6%9D%8E%E5%9B%9B%E5%B7%9DHammer-Lee-100051818071280/",
         "instagram": "https://www.instagram.com/hammer__lee/",
@@ -86,14 +86,14 @@
       },
       "name": "李四川",
       "party": "國民黨",
-      "postCount": 255
+      "postCount": 281
     },
     {
-      "avatarUrl": "assets/source-avatars/a9acc8d456bac3f8007c.webp",
+      "avatarUrl": "assets/source-avatars/009b0ffaf489f1ebcb84.webp",
       "city": "taoyuan",
       "cityLabel": "桃園市",
       "id": "huang-shih-chieh",
-      "latestPostAt": "2026-09-02T14:40:55+00:00",
+      "latestPostAt": "2026-09-11T08:51:57+00:00",
       "links": {
         "facebook": "https://www.facebook.com/SCHuangLawyer/",
         "instagram": "https://www.instagram.com/schuanglawyer/",
@@ -108,14 +108,14 @@
       },
       "name": "黃世杰",
       "party": "民進黨",
-      "postCount": 410
+      "postCount": 446
     },
     {
       "avatarUrl": "assets/source-avatars/0535d2f05a8bf66e9ef2.webp",
       "city": "taoyuan",
       "cityLabel": "桃園市",
       "id": "chang-san-cheng",
-      "latestPostAt": "2026-09-02T05:53:43.000Z",
+      "latestPostAt": "2026-09-10T12:00:04+00:00",
       "links": {
         "facebook": "https://www.facebook.com/SanCheng624/",
         "instagram": "https://www.instagram.com/sancheng624/",
@@ -130,14 +130,14 @@
       },
       "name": "張善政",
       "party": "國民黨",
-      "postCount": 89
+      "postCount": 100
     },
     {
-      "avatarUrl": "assets/source-avatars/1e3baac58f6a426e1580.webp",
+      "avatarUrl": "assets/source-avatars/5f4474e6ddf98565c567.webp",
       "city": "taichung",
       "cityLabel": "臺中市",
       "id": "ho-hsin-chun",
-      "latestPostAt": "2026-09-02T10:22:42+00:00",
+      "latestPostAt": "2026-09-11T03:19:14+00:00",
       "links": {
         "facebook": "https://www.facebook.com/94achun/",
         "instagram": "https://www.instagram.com/a_chun1973/",
@@ -152,14 +152,14 @@
       },
       "name": "何欣純",
       "party": "民進黨",
-      "postCount": 426
+      "postCount": 472
     },
     {
-      "avatarUrl": "assets/source-avatars/a87348217602effafdae.webp",
+      "avatarUrl": "assets/source-avatars/743f0cde1741225385d6.webp",
       "city": "taichung",
       "cityLabel": "臺中市",
       "id": "chiang-chi-chen",
-      "latestPostAt": "2026-09-02T11:32:49.000Z",
+      "latestPostAt": "2026-09-11T04:45:18+00:00",
       "links": {
         "facebook": "https://www.facebook.com/johnnyccchiang/",
         "instagram": "https://www.instagram.com/taichungjohnny/",
@@ -174,14 +174,14 @@
       },
       "name": "江啟臣",
       "party": "國民黨",
-      "postCount": 260
+      "postCount": 292
     },
     {
-      "avatarUrl": "assets/source-avatars/95075190df981e2ab94a.webp",
+      "avatarUrl": "assets/source-avatars/0815380035a2aa22e986.webp",
       "city": "tainan",
       "cityLabel": "臺南市",
       "id": "chen-ting-fei",
-      "latestPostAt": "2026-09-02T08:14:35.000Z",
+      "latestPostAt": "2026-09-11T09:21:49+00:00",
       "links": {
         "facebook": "https://www.facebook.com/fififans/",
         "instagram": "https://www.instagram.com/chen_tingfei/",
@@ -196,14 +196,14 @@
       },
       "name": "陳亭妃",
       "party": "民進黨",
-      "postCount": 228
+      "postCount": 247
     },
     {
-      "avatarUrl": "assets/source-avatars/0ebb77dce81e0594c0be.webp",
+      "avatarUrl": "assets/source-avatars/eb09fdf7df9b7debe63f.webp",
       "city": "tainan",
       "cityLabel": "臺南市",
       "id": "hsieh-lung-chieh",
-      "latestPostAt": "2026-09-02T09:50:54+00:00",
+      "latestPostAt": "2026-09-11T03:53:51+00:00",
       "links": {
         "facebook": "https://www.facebook.com/TEL062268268/",
         "instagram": "https://www.instagram.com/hsiehlungchieh/",
@@ -218,14 +218,14 @@
       },
       "name": "謝龍介",
       "party": "國民黨",
-      "postCount": 404
+      "postCount": 438
     },
     {
-      "avatarUrl": "assets/source-avatars/e2a1cbeba544db4d014f.webp",
+      "avatarUrl": "assets/source-avatars/39c51d49d2023a8ab58c.webp",
       "city": "kaohsiung",
       "cityLabel": "高雄市",
       "id": "lai-jui-lung",
-      "latestPostAt": "2026-09-02T12:22:50+00:00",
+      "latestPostAt": "2026-09-11T10:31:16+00:00",
       "links": {
         "facebook": "https://www.facebook.com/zenolai2/",
         "instagram": "https://www.instagram.com/zenolai/",
@@ -240,14 +240,14 @@
       },
       "name": "賴瑞隆",
       "party": "民進黨",
-      "postCount": 370
+      "postCount": 401
     },
     {
-      "avatarUrl": "assets/source-avatars/bba3d19d4b778565aefa.webp",
+      "avatarUrl": "assets/source-avatars/434e3af8e1e9291df0d7.webp",
       "city": "kaohsiung",
       "cityLabel": "高雄市",
       "id": "ko-chih-en",
-      "latestPostAt": "2026-09-02T10:28:12.000Z",
+      "latestPostAt": "2026-09-11T10:00:39+00:00",
       "links": {
         "facebook": "https://www.facebook.com/KoChihEn/",
         "instagram": "https://www.instagram.com/prof.kochihen/",
@@ -262,14 +262,14 @@
       },
       "name": "柯志恩",
       "party": "國民黨",
-      "postCount": 361
+      "postCount": 395
     },
     {
-      "avatarUrl": "assets/source-avatars/d878bc7c8d9e9d4a0985.webp",
+      "avatarUrl": "assets/source-avatars/a0636b8c688c53e78b06.webp",
       "city": "kaohsiung",
       "cityLabel": "高雄市",
       "id": "chang-ching",
-      "latestPostAt": "2026-09-01T14:00:22.000Z",
+      "latestPostAt": "2026-09-07T03:14:42.000Z",
       "links": {
         "facebook": "https://www.facebook.com/p/%E5%8F%B8%E6%B3%95%E6%94%B9%E9%9D%A9%E9%BB%A8-100093646137173/",
         "instagram": null,
@@ -284,7 +284,7 @@
       },
       "name": "張靜",
       "party": "司法改革黨",
-      "postCount": 60
+      "postCount": 63
     }
   ],
   "count": 13,

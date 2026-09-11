@@ -1,6 +1,6 @@
 {
   "candidate": {
-    "avatarUrl": "assets/source-avatars/0ebb77dce81e0594c0be.webp",
+    "avatarUrl": "assets/source-avatars/eb09fdf7df9b7debe63f.webp",
     "city": "tainan",
     "cityLabel": "臺南市",
     "id": "hsieh-lung-chieh",
@@ -19,8 +19,1059 @@
     "name": "謝龍介",
     "party": "國民黨"
   },
-  "count": 404,
+  "count": 438,
   "posts": [
+    {
+      "agendaRelevance": 0.15,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "1d857193c284eea98864e257a8e6cd486b450950e5e0c8b0f86e3edba5474bab",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:qFhNJZeY8-M",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/cdd8077d6d5ad76fff2e.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-11T03:53:51+00:00",
+      "postingIntent": {
+        "confidence": 0.94,
+        "label": "主動發文",
+        "reason": "以直播與民眾談天說地為主，未見明確政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "龍介來囉！和你談天說地論台灣｜龍介的直播",
+      "topicScores": {
+        "生活": 0.45,
+        "競選": 0.55
+      },
+      "topics": [
+        "競選",
+        "生活"
+      ],
+      "url": "https://www.youtube.com/watch?v=qFhNJZeY8-M"
+    },
+    {
+      "agendaRelevance": 0.22,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "98b9502d330a85030a20d0b26a46a0517813fd96a70ef5ea95bf15b9fb5a5603",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdGYZrYEqp2",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/b013eadc8863fc243998.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-10T08:13:48+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄友黨政治人物到台南助選，主要是競選動員與活動宣傳。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-threads",
+      "text": "@hsiehlungchieh:神力女超人來相挺、女力應援翻轉大台南\n\n09月12日(六)，南投縣長許淑華來到台南與龍介一起翻轉大台南、人民贏一次！",
+      "topicScores": {
+        "競選": 0.96
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdGYZrYEqp2"
+    },
+    {
+      "agendaRelevance": 0.98,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "56b9b95a54ac05b19b05cdb79860338ece186958385baf9c3a4f268c140be36c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdGPlvDDy0Z",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/ae2fdd22926275c6455c.webp",
+      "keywords": [
+        "托育",
+        "托嬰",
+        "育兒",
+        "補助",
+        "醫療",
+        "健保"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-10T06:56:48+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "具體提出尿布、幼兒健保與公托翻倍等育兒福利政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-threads",
+      "text": "@hsiehlungchieh:＃十大新政全面升級\n＃育兒三箭育兒無憂\n\n🏹幼兒日常免費：\n\n「0到3歲嬰幼兒尿布免費」是龍介4年前就提出的重要政見。養囝仔，除了奶粉，尿布也是每天少不了的固定開銷。\n\n台南本身就有優質尿布廠商，未來由市府大量採購、降低成本，直接讓嬰幼兒免費使用，實實在在替新手爸媽省下一筆育兒開銷、減輕養育負擔。\n\n🏹醫療健保免費：\n\n孩子健康，是每個父母最掛心的代誌。龍介提出「0到6歲幼兒健保全額免費」，健保費由市政府補助，替家庭多扛一點，讓台南孩子從出生到上小學前，不用再由家長負擔健保費，也讓每一個囝仔都能安心、健康長大。\n\n🏹公托機構翻倍：\n\n目前台南僅有19處公共托育機構，包括6家公設民營托嬰中心、13家公共托育家園。龍介上任後，要讓公托數量直接翻倍，擴大托育量能，讓爸媽不再為了搶名額傷腦筋。\n\n同時活化閒置校舍，轉型公托空間，就近提供托育服務，方便家長接送，讓孩子有更安全、安心的成長環境。\n\n少子化，不是喊幾句「鼓勵大家多生」就能解決。年輕人不是不喜歡孩子，而是從孩子一出生開始，奶粉、尿布、健保、托育，每一項都是錢，都是爸媽每天要面對的現實壓力。",
+      "topicScores": {
+        "社福": 0.97,
+        "競選": 0.9,
+        "醫療": 0.88
+      },
+      "topics": [
+        "社福",
+        "競選",
+        "醫療"
+      ],
+      "url": "https://www.threads.com/t/DdGPlvDDy0Z"
+    },
+    {
+      "agendaRelevance": 0.63,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "496ac5a90c2a4b87a63cffa3447e24971039a12c9b2fb67ab579decd20a09ecd",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdD-aVIknD5",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/b9a3f541a1a8ec619ded.webp",
+      "keywords": [
+        "社會福利"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-09T09:48:15+00:00",
+      "postingIntent": {
+        "confidence": 0.88,
+        "label": "主動發文",
+        "reason": "主張將超徵稅收用於還稅、國防、民生與社會福利。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-threads",
+      "text": "@hsiehlungchieh:超徵稅收應合理的分配「還稅、國防、民生、社會福利」",
+      "topicScores": {
+        "社福": 0.78,
+        "經濟": 0.83,
+        "議會監督": 0.55
+      },
+      "topics": [
+        "經濟",
+        "社福",
+        "議會監督"
+      ],
+      "url": "https://www.threads.com/t/DdD-aVIknD5"
+    },
+    {
+      "agendaRelevance": 0.78,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "ebeb9471d0f89842771ec195b657604e2776ca848e46db15ddd6a7510bb96543",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:rmpQV-1dj6M",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/b41e6277ca2ee6614f25.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-09T09:46:03+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主張將超額稅收理性分配於退稅、國防與民生用途。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "Excess Tax Revenue Should Be Allocated Rationally: Tax Refunds, National Defense, Public Liveliho...",
+      "topicScores": {
+        "兩岸外交": 0.45,
+        "經濟": 0.9
+      },
+      "topics": [
+        "經濟",
+        "兩岸外交"
+      ],
+      "url": "https://www.youtube.com/shorts/rmpQV-1dj6M"
+    },
+    {
+      "agendaRelevance": 0.32,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:46:45+00:00",
+        "inputHash": "27c6c6de36e4d5d8a9aa50dc53b22e515864a505ed80dc64cdefc38499ea7447",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:MInGnW1EaCA",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/860a696432b421c737ee.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-09T04:47:46+00:00",
+      "postingIntent": {
+        "confidence": 0.55,
+        "label": "主動發文",
+        "reason": "標題批評行政院長以拒絕副署限制立法權，涉及憲政監督。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "Undermining Taiwan's Democracy! Cho Jung-tai Uses \"Refusal to Countersign\" to Restrain the Legisl...",
+      "topicScores": {
+        "兩岸外交": 0.7,
+        "議會監督": 0.86
+      },
+      "topics": [
+        "議會監督",
+        "兩岸外交"
+      ],
+      "url": "https://www.youtube.com/shorts/MInGnW1EaCA"
+    },
+    {
+      "agendaRelevance": 0.4,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "0a34065691129b2ce3063287412f0b0a1e8008c5a49d9f37d02116a9fbecc181",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:VjVOcj50vSg",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/f37ba39e0fd6f99d0cd1.webp",
+      "keywords": [
+        "交通",
+        "道路",
+        "預算"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-08T13:18:34+00:00",
+      "postingIntent": {
+        "confidence": 0.82,
+        "label": "主動發文",
+        "reason": "直播討論追加預算、油品案件、道路安全及陳情進度，屬多項公共議題評論。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "20260908 行政院提追加六千億預算..中聯毒油案...泰山向4公司提告求償10億！回覆網友陳情進度：道路安全、交通議題  @longmedia  ｜龍介的直播",
+      "topicScores": {
+        "交通": 0.88,
+        "治安": 0.72,
+        "經濟": 0.82,
+        "議會監督": 0.78
+      },
+      "topics": [
+        "交通",
+        "經濟",
+        "議會監督",
+        "治安"
+      ],
+      "url": "https://www.youtube.com/watch?v=VjVOcj50vSg"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:46:45+00:00",
+        "inputHash": "8dc6221f5c4b36d88376170f1f98865d5f3a4b5d17c74dc81a5b27d41f580903",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:zH5SlgKTnOs",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/a26714f34b6bb99ef1a8.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-08T09:48:05+00:00",
+      "postingIntent": {
+        "confidence": 0.58,
+        "label": "主動發文",
+        "reason": "討論大型重機遭扣押及相關管制爭議。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "Uproar in the Heavy Motorcycle Community! Zhang Xue Bikes Seized… Has Taiwan Become a \"Ban-First\"...",
+      "topicScores": {
+        "交通": 0.9,
+        "治安": 0.46
+      },
+      "topics": [
+        "交通",
+        "治安"
+      ],
+      "url": "https://www.youtube.com/shorts/zH5SlgKTnOs"
+    },
+    {
+      "agendaRelevance": 0.16,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:46:45+00:00",
+        "inputHash": "259d7ba207a3e895923c10b66c821bee995473963719d96b1da23ac4a8cec85e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:eawGaKZCVtI",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/7e92abbde72d37b59cbd.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-08T04:31:26+00:00",
+      "postingIntent": {
+        "confidence": 0.78,
+        "label": "主動發文",
+        "reason": "反映工廠火災後金屬板殘留搖搖欲墜的公共安全問題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "Netizen Appeal: After the factory fire on Baodong 2nd Street, metal sheets were left teetering… W...",
+      "topicScores": {
+        "生活": 0.58,
+        "防災": 0.92
+      },
+      "topics": [
+        "防災",
+        "生活"
+      ],
+      "url": "https://www.youtube.com/shorts/eawGaKZCVtI"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-11T10:34:37+00:00",
+        "inputHash": "2f47a1de675acd5cb28f2ba5691ec4d1386ef42852b6f738520a42385fb3629a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:WpGpSCfLP_M",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/083e428d052ceee60b6d.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-07T10:01:38+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以台語教學與人物互動為主，屬文化活動內容，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "龍介的台語秘笈！陳菁徽的一日台語老師",
+      "topicScores": {
+        "文化觀光": 0.94
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.youtube.com/shorts/WpGpSCfLP_M"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "b7329d8350c33bd628a9ff85155eb713b957ae1c46764394ad3f9a87ea87d3a6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc40ChHyjgL/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/b88ff8efcfb3e2f66179.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-05T01:46:47+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "簡短宣傳台南藍白合作，屬競選政治口號。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-ig",
+      "text": "台南藍白合作全壘打！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc40ChHyjgL/"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "b100913cfc6ae2dd6f134aa7d2d609aa0d78e3204c4efedbc240e58fc36fc927",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:jXgdd4OW-tk",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/ebc5e03fe3f7f31a0f70.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-05T01:43:27+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以藍白合作全壘打作為政治宣傳口號，未針對特定說法回應。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "台南藍白合作全壘打！",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/jXgdd4OW-tk"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "7b0a1c88644c44b06ce0d02a014339d61143e1c4e50cc2359497627e0b438cb1",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc4zOAHD6Eo",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/2f1e4dcc8308068c69bd.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-05T01:39:11+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以藍白合作口號進行政治宣傳，未回應特定他方說法。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-threads",
+      "text": "@hsiehlungchieh:台南藍白合作全壘打！",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc4zOAHD6Eo"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "600d9aca4f7f789b0652f12e00abefcff2b1c34742a1ec0c55f78c84aeb70a5b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1649069779907937",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/51e75ffe652d67be6a1a.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-05T01:35:25.000Z",
+      "postingIntent": {
+        "confidence": 0.9,
+        "label": "主動發文",
+        "reason": "簡短宣示台南藍白合作，屬政治與競選動員表述。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-fb",
+      "text": "台南藍白合作全壘打！",
+      "topicScores": {
+        "競選": 0.94
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.facebook.com/reel/875238392192608/"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-04T22:01:18+00:00",
+        "inputHash": "22dfebf9e66006f31702efe5e870a96becd5c7895e3e5fbd299b6166313423db",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:https://inewslong.com/2026/09/04/4144/",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "教育",
+        "國中",
+        "教師"
+      ],
+      "platform": "website",
+      "postedAt": "2026-09-04T22:58:00+08:00",
+      "postingIntent": {
+        "confidence": 0.72,
+        "label": "主動發文",
+        "reason": "轉述蔣萬安子女交換生計畫爭議，主要是教育政治新聞，未見發文者政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-web-media",
+      "text": "蔣萬安子交換生風波！前北一女教師痛批民進黨 〈 蔣萬安子交換生風波！前北一女教師痛批民進黨 〉本文來自於《 龍傳媒新聞 iNews Long 》。 從國中畢業獲得市長獎一直到錄取台北市教育局的「國際交換生」計畫，台北市長蔣萬安長子蔣得立近期成為綠營追殺目標...",
+      "topicScores": {
+        "教育": 0.94
+      },
+      "topics": [
+        "教育"
+      ],
+      "url": "https://inewslong.com/2026/09/04/4144/"
+    },
+    {
+      "agendaRelevance": 0.38,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:04:40+00:00",
+        "inputHash": "7ab4405b8237b839dbe7df473f51ec36c818e54f9d9c7473505f72a783ae2691",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3J2Ibjsx0",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/5746bfacb8cb7dba6b3f.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-04T10:18:01+00:00",
+      "postingIntent": {
+        "confidence": 0.72,
+        "label": "主動發文",
+        "reason": "指出行政院媒宣預算大幅增加，屬主動評論政府預算，未明確回應特定他方說法。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-threads",
+      "text": "@hsiehlungchieh:今年媒宣費才砍半...明年行政院媒宣費再編13億",
+      "topicScores": {
+        "議會監督": 0.86
+      },
+      "topics": [
+        "議會監督"
+      ],
+      "url": "https://www.threads.com/t/Dc3J2Ibjsx0"
+    },
+    {
+      "agendaRelevance": 0.38,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:04:40+00:00",
+        "inputHash": "d58a29777859f151bc89843054c14a57d597d09bbff30613effa1599f53cf878",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc3Jv9Oy2Uy/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/13afc6bc367fbab24078.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T10:17:58+00:00",
+      "postingIntent": {
+        "confidence": 0.72,
+        "label": "主動發文",
+        "reason": "指出行政院媒宣預算大幅增加，屬主動評論政府預算，未明確回應特定他方說法。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-ig",
+      "text": "今年媒宣費才砍半...明年行政院媒宣費再編13億",
+      "topicScores": {
+        "議會監督": 0.86
+      },
+      "topics": [
+        "議會監督"
+      ],
+      "url": "https://www.instagram.com/p/Dc3Jv9Oy2Uy/"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-04T16:01:17+00:00",
+        "inputHash": "5f3f8327708b8ef9ec11bda344e9a363a4d5af399b270203f4f87df055da85c2",
+        "intentVerificationVersion": "responsive-v2",
+        "intentVerifiedAt": "2026-09-04T16:01:56+00:00",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:ilp93bopWhM",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/62525e0aa13b28d6f22b.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-04T10:15:41+00:00",
+      "postingIntent": {
+        "confidence": 0.84,
+        "label": "回應他方觀點",
+        "reason": "質疑行政院媒宣費宣稱砍半，卻又申請編列13億元的說法與政策。",
+        "type": "responsive"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "Media Spending Budget Was Just Cut in Half… Yet the Executive Yuan Requests Another 1.3 Billion f...",
+      "topicScores": {
+        "議會監督": 0.8
+      },
+      "topics": [
+        "議會監督"
+      ],
+      "url": "https://www.youtube.com/shorts/ilp93bopWhM"
+    },
+    {
+      "agendaRelevance": 0.24,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "fb6ea87b53f0f775eead66a84b205c232cda71c7bc8f30aff2b795944caf25ca",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1648504053297843",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/a50fffae192bcbff4259.webp",
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-04T10:14:58.000Z",
+      "postingIntent": {
+        "confidence": 0.86,
+        "label": "主動發文",
+        "reason": "批評行政院媒體宣傳預算編列，屬主動預算監督。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-fb",
+      "text": "今年媒宣費才砍半...明年行政院媒宣費再編13億",
+      "topicScores": {
+        "議會監督": 0.94
+      },
+      "topics": [
+        "議會監督"
+      ],
+      "url": "https://www.facebook.com/reel/1245688371022650/"
+    },
+    {
+      "agendaRelevance": 0.0,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-04T10:03:47+00:00",
+        "inputHash": "c75caf85032d43827f84c4cc8ca6d1ad4450a9fdeb0d7d26d52041226f9ff997",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc3HD7hDw0A",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-04T09:53:40+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "公告直播暫停，沒有公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-threads",
+      "text": "@hsiehlungchieh:今晚龍介直播暫停一次！各位市民朋友我們下集見",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/Dc3HD7hDw0A"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-07T04:06:00+00:00",
+        "inputHash": "0f8a65b9e79b98649de678f0d4519f47baba891f1da50f298a23431c001c5af1",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "facebook:1648490443299204",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [],
+      "platform": "facebook",
+      "postedAt": "2026-09-04T09:52:10.000Z",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "公告直播暫停，沒有公共議題或政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-fb",
+      "text": "今晚龍介直播暫停一次\n各位市民朋友我們下集見",
+      "topicScores": {
+        "生活": 0.9
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.facebook.com/TEL062268268/posts/pfbid0sWjn29y2gMzGWB8agg8tmKREn6zuSFMFpVviXyPeZ8AWdXYPT7PWcJTSt218bV2sl"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-04T10:03:47+00:00",
+        "inputHash": "28d5a1addbdba8840db7a23adf9850103c81ec96f242458eae1fa89ccc32f194",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:JRxZPU9dfHw",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/0471d51dc6f972c5e4f7.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-04T03:49:20+00:00",
+      "postingIntent": {
+        "confidence": 0.9,
+        "label": "主動發文",
+        "reason": "宣傳政治人物直播交流，但標題未呈現具體公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "Long-Chieh is here! Discussing Taiwan and everything under the sun with you | Long-Chieh's Livest...",
+      "topicScores": {
+        "競選": 0.7
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=JRxZPU9dfHw"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-04T10:03:47+00:00",
+        "inputHash": "02d0adfe456f5e8031f420fbe58a334335160be0027a42a4cb56ee64af95b2a8",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:nbiF3xg6140",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/837be0e17e3a95b2c610.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-04T03:23:06+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄同黨市議員參選人陪同登記，屬競選活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "Thank you to all KMT Tainan City Councilor candidates for joining Long-chieh in registering for t...",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/nbiF3xg6140"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-04T10:03:47+00:00",
+        "inputHash": "bede25f54fd2ee51cb972dd0190f7ea0331dfd2e4406438ef255dd5e0bbd8971",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc2ZilVDumS",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/7af9e0f3d03410a0d108.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-04T03:15:56+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄同黨參選人陪同登記，屬選舉活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-threads",
+      "text": "@hsiehlungchieh:感謝所有國民黨臺南市議員參選人陪龍介登記參選臺南市長",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc2ZilVDumS"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-05T04:03:36+00:00",
+        "inputHash": "5909e779ab39ba320c2aad9419eb8ba8379af12fde2f1c7efc1fe2b7e901551f",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc2ZZaWSPPE/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/f5d87cd39516cba6e477.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-04T03:15:51+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "感謝政黨議員參選人陪同登記，主要是競選活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-ig",
+      "text": "感謝所有國民黨臺南市議員參選人陪龍介登記參選臺南市長",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc2ZZaWSPPE/"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-03T10:01:44+00:00",
+        "inputHash": "46f4513cd81a2d4c2f44b73d70047429d911a831b3cef4d60b44829ddd1c58b1",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "website:https://inewslong.com/2026/09/03/4141/",
+      "imageAspect": null,
+      "imageUrl": null,
+      "keywords": [
+        "交通"
+      ],
+      "platform": "website",
+      "postedAt": "2026-09-03T13:35:28+08:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "媒體報導鞭刑公投、非核家園及交通罰鍰等提案後續，未表達自身政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-web-media",
+      "text": "中選會否決鞭刑公投成案！洪孟楷預告會在新的會期提出修法 〈 中選會否決鞭刑公投成案！洪孟楷預告會在新的會期提出修法 〉本文來自於《 龍傳媒新聞 iNews Long 》。 立法院通過鞭刑入法、廢除非核家園及交通罰鍰專款改善道安3項公投提案，但中選會僅讓廢除非核家園案過關，推動鞭刑的國民黨立委洪孟楷表示...",
+      "topicScores": {
+        "交通": 0.56,
+        "治安": 0.9,
+        "環境": 0.64
+      },
+      "topics": [
+        "治安",
+        "環境",
+        "交通"
+      ],
+      "url": "https://inewslong.com/2026/09/03/4141/"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "6a3f74565060930cde0f60b664d1674bd03ce6dbb4879ea98acccd57c439630b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc0jIFhyfm_/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/880b057e0fdfa4704050.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T10:15:04+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣傳藍白合作並陪同參選登記，屬競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-ig",
+      "text": "臺南藍白合全壘打！感謝民眾黨臺南市黨部主委 顏耀星 帶領所有民眾黨議員參選人陪龍介登記參選臺南市長",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dc0jIFhyfm_/"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "2d7b396b0228349aa481aa26b2e81f84c11403d63de7cb5d613138bc767c9db4",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:1PaEKzL17r8",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/9b465adff334b3427338.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-03T10:08:09+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "宣傳藍白合作及市長參選登記，屬競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "臺南藍白合全壘打！感謝民眾黨臺南市黨部主委 顏耀星 帶領所有民眾黨議員參選人陪龍介登記參選臺南市長",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/1PaEKzL17r8"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "2314c19c26c652f72f03c9dbe339df32f6212c707446380e3f21aae937566725",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dc0jLTxEhMl",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/9032b7326bece04bb7ac.webp",
+      "keywords": [
+        "參選"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-03T10:01:40+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動宣傳藍白合作及市長參選登記，屬競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-threads",
+      "text": "@hsiehlungchieh:臺南藍白合全壘打！感謝民眾黨臺南市黨部主委 顏耀星 帶領所有民眾黨議員參選人陪龍介登記參選臺南市長",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/Dc0jLTxEhMl"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-03T04:01:08+00:00",
+        "inputHash": "35fb9aacd3627dcdff7949a386ae02c4a40c9f5c62ce5c0b54d95c0970c99451",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/Dczq2i2EiC9",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/a3344bf8210c795689ce.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-03T01:49:28+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "軍人節感謝國軍並致意，屬節日宣傳，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-threads",
+      "text": "@hsiehlungchieh:今天是93軍人節，龍介要向所有堅守崗位的國軍弟兄姊妹，致上最深的感謝與敬意！\n\n不論平時戰備、守護海疆領空，還是每逢災害第一時間投入救援，你們始終站在最前線。\n\n國軍守護人民，我們也不能忘記守護國軍的尊嚴與保障。\n\n謝謝你們為中華民國付出的一切。祝所有國軍弟兄姊妹，軍人節快樂！",
+      "topicScores": {
+        "生活": 0.94
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/Dczq2i2EiC9"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-03T16:03:24+00:00",
+        "inputHash": "c5b34d67d5434f8210f32f1c4173fa0ce10fc473a3706279043b5f5e8894cb7e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DczquutSiql/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/c97b8a10669f62120ed6.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-03T01:49:20+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動向國軍致敬並表達感謝，未提出具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-ig",
+      "text": "今天是93軍人節，龍介要向所有堅守崗位的國軍弟兄姊妹，致上最深的感謝與敬意！\n\n不論平時戰備、守護海疆領空，還是每逢災害第一時間投入救援，你們始終站在最前線。\n\n國軍守護人民，我們也不能忘記守護國軍的尊嚴與保障。\n\n謝謝你們為中華民國付出的一切。祝所有國軍弟兄姊妹，軍人節快樂！",
+      "topicScores": {
+        "生活": 0.42
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DczquutSiql/"
+    },
     {
       "agendaRelevance": 0.14,
       "candidateId": "hsieh-lung-chieh",
@@ -118,6 +1169,38 @@
       "url": "https://www.threads.com/t/Dcx8DdcDxji"
     },
     {
+      "agendaRelevance": 0.12,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "ca66177dad426b12522fc49b0dbdf5feb6f42ec75ae0b46e9dad369fc1f78252",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dcx7Oi4y3JO/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/1d289b179c86dcbecd86.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T09:40:41+00:00",
+      "postingIntent": {
+        "confidence": 0.91,
+        "label": "主動發文",
+        "reason": "宣傳臺南藍白合作與議員選舉成果，未提出具體施政政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-ig",
+      "text": "民眾黨臺南市議員全壘打！臺南藍白100%合作",
+      "topicScores": {
+        "競選": 0.93
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/Dcx7Oi4y3JO/"
+    },
+    {
       "agendaRelevance": 0.91,
       "candidateId": "hsieh-lung-chieh",
       "classification": {
@@ -158,6 +1241,48 @@
         "住宅"
       ],
       "url": "https://www.threads.com/t/DcxTj1yjam1"
+    },
+    {
+      "agendaRelevance": 0.92,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "86d0c0e6ef5be1388f7c7791aa48e214aacef087549ed52e51c2b977a128cfe6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcxTZ-GydIa/",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/2b9fdeac9b331a2149d3.webp",
+      "keywords": [
+        "參選",
+        "補助",
+        "健保"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T03:47:07+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "宣布參選並提出育兒補助、免費健保與供房等具體政策承諾。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-ig",
+      "text": "龍介已正式登記參選2026台南市長！將推動馬上辦中心、尿布免費、0-6歲小孩健保免費、6-18歲加碼補助2500元、你生孩子我供房子",
+      "topicScores": {
+        "住宅": 0.85,
+        "社福": 0.9,
+        "競選": 0.98,
+        "醫療": 0.78
+      },
+      "topics": [
+        "競選",
+        "社福",
+        "住宅",
+        "醫療"
+      ],
+      "url": "https://www.instagram.com/p/DcxTZ-GydIa/"
     },
     {
       "agendaRelevance": 0.45,
@@ -275,6 +1400,55 @@
         "防災"
       ],
       "url": "https://www.threads.com/t/DcxMg5aj-XM"
+    },
+    {
+      "agendaRelevance": 0.98,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-02T22:03:00+00:00",
+        "inputHash": "48c8dee6244daf0e04319975dea0dbc0e7351818da4e3601c965ce02d3fa7291",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DcxMSeeSbYy/",
+      "imageAspect": 1.8018,
+      "imageUrl": "assets/feed-images/2d9fa6e59abf6285db61.webp",
+      "keywords": [
+        "參選",
+        "托育",
+        "育兒",
+        "老人",
+        "補助",
+        "津貼",
+        "住宅",
+        "都更",
+        "醫療",
+        "健保"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-02T02:44:40+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "宣布參選並發表涵蓋婚育、住宅、托育與幼兒醫療的具體政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-ig",
+      "text": "龍介正式登記參選台南市長！\n\n四年前，龍介提出「十大新政」，向台南鄉親報告，我們想怎麼改變這座城市。\n\n四年過去，台南面對的問題更多，鄉親對市政的期待也更高。這一次龍介再站出來，當然不能只是把四年前的政見重新拿出來。\n\n既然叫「加強版」，就要看得更準、做得更實在，力道也要更強。\n\n這一次，龍介把十大新政全面升級。每一項新政，都再提出三個具體做法。就像搭弓上箭，一項新政射出三支箭，十大新政，就是三十支箭。\n\n每一支箭，不是為了喊口號，而是瞄準台南真正需要解決的問題，提出具體解方。從生子、育兒、備孕，到交通、治水、都更，再到教育、農漁、廉能治理與老人福利，三十支箭，就是三十項龍介準備替台南鄉親做到的政策。\n\n方向要看得準，箭更要射得中。接下來，龍介就一支一支箭，向鄉親報告，我們要怎麼把台南的問題，一項一項解決。\n\n🏹生子三箭：最強催生\n🔹首創全國最強婚育宅：「你生孩子，我供房子」，透過都更容積回饋、公辦重劃土地、住宅基金運用，提供住宅，解決台南青年婚育的居住痛點。\n🔹最強育兒補助：0到15歲孩子每月加碼5000元；中央跟進延長，6至18歲中央助存2500元，龍介加碼現金2500元，讓台南孩子每月領好領滿5000元。\n🔹最強生育津貼：中央補助10萬，龍介霸氣加碼第一胎3萬、第二胎以上每胎5萬。\n\n🏹育兒三箭：育兒無憂\n🔹幼兒日常免費：推動0到3歲幼兒尿布免費，減輕新手父母育嬰負擔。\n🔹醫療健保免費：實施0到6歲幼兒健保全額免費，由市府補助，築起嬰幼兒健康的終極防禦網。\n🔹公托機構翻倍：4年內讓全市公托機構數量翻倍，提升公共托育量能，擴大育兒服務，減輕家庭負擔。\n\n🏹備孕三箭：生育自主\n🔹女性補助凍卵：全面補助25至40歲女性凍卵，終身一次3萬元，捍衛女性生育自主權。\n🔹男性凍精補助：補助男性凍精，每人補助上限3000元。\n🔹抽血",
+      "topicScores": {
+        "住宅": 0.87,
+        "社福": 0.95,
+        "競選": 0.98,
+        "醫療": 0.8
+      },
+      "topics": [
+        "競選",
+        "社福",
+        "住宅",
+        "醫療"
+      ],
+      "url": "https://www.instagram.com/p/DcxMSeeSbYy/"
     },
     {
       "agendaRelevance": 0.99,
@@ -12120,8 +13294,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DascfwzyAlk/",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/8d449205bbeb9a9c1c71.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-12T13:26:49+00:00",
@@ -12152,8 +13326,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DasbjVQjzfq",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/2b484a1aacad39eddb80.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-12T13:18:50+00:00",
@@ -12216,8 +13390,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:fZBpYWV7FEk",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/265fc6b22bfee6cb8553.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-12T13:08:14+00:00",
@@ -12314,8 +13488,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DamCIEKyNDj/",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/eb151460bc06906b2647.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-10T01:41:16+00:00",
@@ -12378,8 +13552,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DamA53DDwN2",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/88751a498bfb540d4d06.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-10T01:30:42+00:00",
@@ -12410,8 +13584,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:Y1ENjX5hYPo",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/9178a796cef6b86fa518.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-10T01:28:24+00:00",
@@ -12442,8 +13616,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:fn8UjqRl-3Q",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/de3eac2e22b74b0131be.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-09T08:39:18+00:00",
@@ -12506,8 +13680,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DakM69KnVWz",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/7b1bba74c681afd508ae.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-09T08:36:33+00:00",
@@ -12538,8 +13712,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DakM0zuShY2/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/1eaebf57c69e6aeee47d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-09T08:36:05+00:00",
@@ -12572,8 +13746,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Daj-KiVkt_8/",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/de9bd5c436e7d761baeb.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "立法院"
       ],
@@ -12610,8 +13784,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:YDqJYvvvp1M",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/9a3652cc7820726ab07a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-08T06:12:31+00:00",
@@ -12682,8 +13856,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DahXM8qD0vE",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/411f0953d74e0a99788d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "外交"
       ],
@@ -12718,8 +13892,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DahXHgDyQKu/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/f401c692fe752f144efe.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "外交"
       ],
@@ -12792,8 +13966,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:9-GNnjcwWfE",
-      "imageAspect": 1.7872,
-      "imageUrl": "assets/feed-images/b9af36a0f04e17c44fdd.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-07T13:15:59+00:00",
@@ -12824,8 +13998,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaclH39Er53",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/f0824de08e9e5ddf73d4.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-06T09:34:06+00:00",
@@ -12858,8 +14032,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dack-z0SMoE/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/39f012c7ef2f7955781f.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-06T09:33:41+00:00",
@@ -12892,8 +14066,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:OiMlq70hKec",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/45f5f8f3e9a74bed98a6.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-06T09:31:24+00:00",
@@ -12960,8 +14134,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DacLiFfSfC-/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/0380afb06c3b581dcc71.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "學校",
         "校園",
@@ -13002,8 +14176,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DacLbbmD5Xo",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/a50d54b34eb3c58cfe8e.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-06T05:49:32+00:00",
@@ -13080,8 +14254,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:_th7BqJPOmg",
-      "imageAspect": 1.7872,
-      "imageUrl": "assets/feed-images/016cfd7353c2cd478995.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-06T03:58:57+00:00",
@@ -13112,8 +14286,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaaYOr0y8z4/",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/6cf3f20d5a0c92d2cb89.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "育兒",
         "健保"
@@ -13153,8 +14327,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaaX5-xD1K7",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/2f60702e56c0794ba358.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "育兒",
         "健保"
@@ -13229,8 +14403,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:9Sr4VDTJ-8s",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/81d34836a2bb888eb7bc.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-05T12:53:49+00:00",
