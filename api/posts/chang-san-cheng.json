@@ -19,8 +19,44 @@
     "name": "張善政",
     "party": "國民黨"
   },
-  "count": 103,
+  "count": 104,
   "posts": [
+    {
+      "agendaRelevance": 0.58,
+      "candidateId": "chang-san-cheng",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "31a9be2c2169a21e375a19b526f00e38d70019dbdaf7d343d13886fb43fc5c12",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdLI4AbFNCH/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/849ce17e653780cba34b.webp",
+      "keywords": [
+        "歷史"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T04:34:44+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "介紹後慈湖重新開放、步道與歷史展館改造，兼具觀光及自然環境內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chang-sc-ig",
+      "text": "初秋涼爽，歡迎來後慈湖走走。\n\n睽違三年，後慈湖已在今年六月重新開放。除了將步道全面升級，我們也將戰備官舍從傳統靜態展示，結合AI 技術，轉型為「沉浸式歷史場域」，並引進桃園在地餐飲品牌，打造特色餐點。\n\n來到後慈湖，彷彿走入世外桃源。1.6公里森林步道，由專業導覽人員帶領，一步步走進山林，感受湖光山色與自然景致。\n\n過去的一號辦公室，現在轉型為沉浸式展館，結合AI互動技術，重現歷史場景，讓遊客彷彿穿越時空，與歷史互動。\n\n二號辦公室則引進榮獲綠色餐飲大獎的桃園在地餐飲品牌，重現總統苦花魚、紅豆鬆糕和俄羅斯軟糖等特色餐點，我推薦大家可以搭配一杯桃園紅茶，在山林裡享受一段悠閒時光。\n\n歡迎大家來到後慈湖，走進這座天然的歷史博物館，在靜謐療癒的景色中，享受悠閒自適的美好時光。",
+      "topicScores": {
+        "文化觀光": 0.98,
+        "環境": 0.78
+      },
+      "topics": [
+        "文化觀光",
+        "環境"
+      ],
+      "url": "https://www.instagram.com/p/DdLI4AbFNCH/"
+    },
     {
       "agendaRelevance": 0.91,
       "candidateId": "chang-san-cheng",

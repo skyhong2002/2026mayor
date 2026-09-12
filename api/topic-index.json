@@ -1,5 +1,5 @@
 {
-  "count": 4352,
+  "count": 4406,
   "fallbackTopic": "生活",
   "posts": [
     {
@@ -42426,9 +42426,10 @@
       "candidateId": "hsieh-lung-chieh",
       "id": "facebook:1651857089629206",
       "postedAt": "2026-09-08T09:37:51.000Z",
-      "postingIntent": "responsive",
+      "postingIntent": "self_initiated",
       "topicScores": {
-        "交通": 0.86
+        "交通": 0.95,
+        "治安": 0.28
       }
     },
     {
@@ -43097,6 +43098,557 @@
       "candidateId": "hsieh-lung-chieh",
       "id": "youtube:DZwyEguMwCk",
       "postedAt": "2026-09-12T07:00:13+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "instagram:https://www.instagram.com/p/DdMEnMECZlH/",
+      "postedAt": "2026-09-12T13:16:19+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.95,
+        "社福": 0.72
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "instagram:https://www.instagram.com/p/DdLFPepJnaH/",
+      "postedAt": "2026-09-12T04:03:22+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "threads:https://www.threads.com/t/DdME0P1mexb",
+      "postedAt": "2026-09-12T13:18:06+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.95,
+        "社福": 0.72
+      }
+    },
+    {
+      "candidateId": "lee-shih-chuan",
+      "id": "instagram:https://www.instagram.com/p/DdMKbFXE4IG/",
+      "postedAt": "2026-09-12T14:07:05+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.94,
+        "住宅": 0.88,
+        "競選": 0.98,
+        "經濟": 0.9
+      }
+    },
+    {
+      "candidateId": "lee-shih-chuan",
+      "id": "instagram:https://www.instagram.com/p/DdJkzGnshKc/",
+      "postedAt": "2026-09-11T13:59:56+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "lee-shih-chuan",
+      "id": "threads:https://www.threads.com/t/DdMZ5pGExwe",
+      "postedAt": "2026-09-12T16:22:20+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.93,
+        "競選": 0.96,
+        "經濟": 0.88
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdMSrDLE23M/",
+      "postedAt": "2026-09-12T15:19:10+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdLsNp8TRxw/",
+      "postedAt": "2026-09-12T09:43:23+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.62,
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdLKDaaE_Rx/",
+      "postedAt": "2026-09-12T04:44:37+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.7,
+        "文化觀光": 0.96
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdKtHiDzdS4/",
+      "postedAt": "2026-09-12T00:32:01+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.99
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdJfT7WkzH_/",
+      "postedAt": "2026-09-11T13:11:54+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.65,
+        "競選": 0.9
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "threads:https://www.threads.com/t/DdMTAZ8iSH8",
+      "postedAt": "2026-09-12T15:22:05+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "chang-san-cheng",
+      "id": "instagram:https://www.instagram.com/p/DdLI4AbFNCH/",
+      "postedAt": "2026-09-12T04:34:44+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.98,
+        "環境": 0.78
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "instagram:https://www.instagram.com/p/DdKu7B2vZ0w/",
+      "postedAt": "2026-09-12T00:56:01+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "instagram:https://www.instagram.com/p/DdMNIYkk-xz/",
+      "postedAt": "2026-09-12T14:30:45+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.85,
+        "競選": 0.78,
+        "體育": 0.97
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "instagram:https://www.instagram.com/p/DdL6mMnlLIG/",
+      "postedAt": "2026-09-12T11:48:48+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.82,
+        "文化觀光": 0.7,
+        "體育": 0.75
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "instagram:https://www.instagram.com/p/DdLeBRblOqA/",
+      "postedAt": "2026-09-12T07:39:05+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "instagram:https://www.instagram.com/p/DdKtnI9CKlZ/",
+      "postedAt": "2026-09-12T00:36:40+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.98,
+        "經濟": 0.82
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "instagram:https://www.instagram.com/p/DdKjQtaEcgg/",
+      "postedAt": "2026-09-11T23:05:39+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "instagram:https://www.instagram.com/p/DdJhmFSlAaI/",
+      "postedAt": "2026-09-11T13:31:51+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.7,
+        "文化觀光": 0.9,
+        "社福": 0.88,
+        "經濟": 0.94
+      }
+    },
+    {
+      "candidateId": "chiang-chi-chen",
+      "id": "instagram:https://www.instagram.com/p/DdJU5NvFF1J/",
+      "postedAt": "2026-09-11T11:40:52+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.86,
+        "經濟": 0.98
+      }
+    },
+    {
+      "candidateId": "chen-ting-fei",
+      "id": "instagram:https://www.instagram.com/p/DdLlLs4k_td/",
+      "postedAt": "2026-09-12T08:41:41+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdL_F7pyQO6/",
+      "postedAt": "2026-09-12T12:29:00+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdGYRy4yl9q/",
+      "postedAt": "2026-09-10T08:13:41+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdGPfBCkq9h/",
+      "postedAt": "2026-09-10T06:55:52+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.74,
+        "社福": 0.98,
+        "醫療": 0.88
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdD-UNfyHE5/",
+      "postedAt": "2026-09-09T09:48:10+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "社福": 0.8,
+        "經濟": 0.82
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdDceisSMxJ/",
+      "postedAt": "2026-09-09T04:52:23+00:00",
+      "postingIntent": "responsive",
+      "topicScores": {
+        "治安": 0.25,
+        "議會監督": 0.9
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdBYAy0S7bQ/",
+      "postedAt": "2026-09-08T09:35:26+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.95,
+        "治安": 0.28
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdA1CIjSRYA/",
+      "postedAt": "2026-09-08T04:28:58+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.72,
+        "防災": 0.88
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "instagram:https://www.instagram.com/p/DdAeAVzEumK/",
+      "postedAt": "2026-09-08T01:07:19+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "住宅": 0.97,
+        "社福": 0.95,
+        "經濟": 0.77
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "instagram:https://www.instagram.com/p/Dc-2ZTISZH1/",
+      "postedAt": "2026-09-07T10:03:33+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.54,
+        "文化觀光": 0.8
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "instagram:https://www.instagram.com/p/Dc-O1PFSSz4/",
+      "postedAt": "2026-09-07T04:17:27+00:00",
+      "postingIntent": "responsive",
+      "topicScores": {
+        "治安": 0.55,
+        "議會監督": 0.5
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "threads:https://www.threads.com/t/DdL_NcbkqjL",
+      "postedAt": "2026-09-12T12:29:07+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "instagram:https://www.instagram.com/p/DdJM2uZiTX-/",
+      "postedAt": "2026-09-11T10:30:38+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.9,
+        "競選": 0.56
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "instagram:https://www.instagram.com/p/DdF-fOIiNgs/",
+      "postedAt": "2026-09-10T04:28:17+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.94
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "instagram:https://www.instagram.com/p/DdD-geRjWky/",
+      "postedAt": "2026-09-09T09:49:35+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.98
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "instagram:https://www.instagram.com/p/DdCwsK1AZLQ/",
+      "postedAt": "2026-09-08T22:29:05+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "社福": 0.76,
+        "體育": 0.99
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "instagram:https://www.instagram.com/p/DdBXi47j1aB/",
+      "postedAt": "2026-09-08T09:30:06+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.76,
+        "經濟": 0.94
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "instagram:https://www.instagram.com/p/DdA-9vygdGU/",
+      "postedAt": "2026-09-08T05:55:19+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "體育": 0.99
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "instagram:https://www.instagram.com/p/DdAf_FqlJZF/",
+      "postedAt": "2026-09-08T01:25:14+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.82
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "instagram:https://www.instagram.com/p/Dc-y4lJjM0R/",
+      "postedAt": "2026-09-07T09:31:53+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.7,
+        "社福": 0.93
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "instagram:https://www.instagram.com/p/Dc-eiEekg4Q/",
+      "postedAt": "2026-09-07T06:33:26+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.55,
+        "文化觀光": 0.99,
+        "經濟": 0.65
+      }
+    },
+    {
+      "candidateId": "lai-jui-lung",
+      "id": "threads:https://www.threads.com/t/DdMAU9EiWmO",
+      "postedAt": "2026-09-12T12:38:52+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.72,
+        "文化觀光": 0.82,
+        "競選": 0.9
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "instagram:https://www.instagram.com/p/DdLvDr3kkHJ/",
+      "postedAt": "2026-09-12T10:08:35+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.94,
+        "議會監督": 0.62,
+        "防災": 0.88
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "instagram:https://www.instagram.com/p/DdLuQCIASoz/",
+      "postedAt": "2026-09-12T10:00:55+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "住宅": 0.65,
+        "教育": 0.63,
+        "競選": 0.98,
+        "經濟": 0.72
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "instagram:https://www.instagram.com/p/DdLc7xzCWRu/",
+      "postedAt": "2026-09-12T07:29:36+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "交通": 0.65,
+        "社福": 0.62,
+        "競選": 0.99,
+        "經濟": 0.78
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "instagram:https://www.instagram.com/p/DdKzcMYieih/",
+      "postedAt": "2026-09-12T01:27:01+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "住宅": 0.62,
+        "環境": 0.68,
+        "競選": 0.99,
+        "防災": 0.72
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "instagram:https://www.instagram.com/p/DdJeVsXieXx/",
+      "postedAt": "2026-09-11T13:03:24+00:00",
+      "postingIntent": "responsive",
+      "topicScores": {
+        "交通": 0.72,
+        "教育": 0.7,
+        "文化觀光": 0.82,
+        "競選": 0.65
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "instagram:https://www.instagram.com/p/DdGk9eVgSdb/",
+      "postedAt": "2026-09-10T10:05:03+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "住宅": 0.72,
+        "文化觀光": 0.6,
+        "環境": 0.62,
+        "競選": 0.97
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "instagram:https://www.instagram.com/p/DdGT7PLo-iV/",
+      "postedAt": "2026-09-10T07:34:42+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "治安": 0.78,
+        "環境": 0.99,
+        "議會監督": 0.84
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "instagram:https://www.instagram.com/p/DdFoQhVk8cH/",
+      "postedAt": "2026-09-10T01:13:06+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "住宅": 0.6,
+        "教育": 0.78,
+        "競選": 0.96,
+        "防災": 0.92
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "instagram:https://www.instagram.com/p/DdEYPAHk5DV/",
+      "postedAt": "2026-09-09T13:33:51+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "社福": 0.99,
+        "競選": 0.72,
+        "經濟": 0.58,
+        "醫療": 0.68
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "instagram:https://www.instagram.com/p/DdEDE8CHZld/",
+      "postedAt": "2026-09-09T10:28:59+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "文化觀光": 0.78,
+        "經濟": 0.76,
+        "體育": 0.99
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "youtube:Q854fJu9-5o",
+      "postedAt": "2026-09-12T10:08:36+00:00",
       "postingIntent": "self_initiated",
       "topicScores": {
         "競選": 0.99

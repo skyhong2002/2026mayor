@@ -1,12 +1,12 @@
 {
   "intentCounts": {
-    "responsive": 289,
-    "self_initiated": 4063
+    "responsive": 291,
+    "self_initiated": 4115
   },
   "intentLabels": {
     "responsive": "回應他方觀點",
     "self_initiated": "主動發文"
   },
-  "postCount": 4352,
+  "postCount": 4406,
   "version": 3
 }

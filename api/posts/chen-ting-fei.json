@@ -19,8 +19,43 @@
     "name": "陳亭妃",
     "party": "民進黨"
   },
-  "count": 252,
+  "count": 253,
   "posts": [
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "223ba83a082446de00fc7787addfff37b0a35522f5d373592fafca7106b81b6c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdLlLs4k_td/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/c611b89d78980dbd3445.webp",
+      "keywords": [
+        "競選",
+        "選戰"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T08:41:41+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "公告競選總部成立並號召民眾參與，屬競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-ig",
+      "text": "🏠 亭妃競選總部，今天正式進駐！\n\n不只是選戰基地，更希望打造一個屬於台南人的空間。\n\n以「美學台南」為核心，跳脫傳統競選總部的制式感，把自然、親子、交流與生活帶進政治，讓政治也可以很生活、很有溫度。\n\n總部戶外跑道，象徵台南持續向前；「1」的設計意象，則代表台南400年來第一位女市長的歷史意義。\n\n下一棒，接下責任、延續好的政策，用行動政府、行動正能量，帶台南繼續向前！\n\n📍陳亭妃競選總部\n台南市永康區水漾路520號\n\n10月11日下午3點\n競選總部成立大會\n邀請大家一起來，見證「台南隊」正式成立！",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdLlLs4k_td/"
+    },
     {
       "agendaRelevance": 0.2,
       "candidateId": "chen-ting-fei",

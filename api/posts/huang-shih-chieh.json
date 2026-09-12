@@ -19,8 +19,72 @@
     "name": "黃世杰",
     "party": "民進黨"
   },
-  "count": 455,
+  "count": 461,
   "posts": [
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "55f83e54bca6498b22b9498487d29fdc5742a48b8991ba7ea6f305043a25eac7",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdMTAZ8iSH8",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/de233a73f45de85d0d5d.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-12T15:22:05+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "轉貼競選行程與動員訊息，未針對他方說法或提出政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:從清晨五點多起跑到現在，超過20個行程，17小時不斷電🔋\n\n體力會消耗，但為桃園打拚的意志只有更堅定。\n\n倒數77天，請大家跟世杰一起衝🏃讓桃園再次動起來！",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdMTAZ8iSH8"
+    },
+    {
+      "agendaRelevance": 0.1,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "331bcebc8efbfec9d10a0e0118cb2628326ebc78929b6e77c321222fcefa36f6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdMSrDLE23M/",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/e82640bf504889503e6a.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T15:19:10+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "競選行程紀錄與倒數動員，沒有具體公共政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "從清晨五點多起跑到現在，超過20個行程，17小時不斷電🔋\n\n體力會消耗，但為桃園打拚的意志只有更堅定。\n\n倒數77天，請大家跟世杰一起衝🏃讓桃園再次動起來！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdMSrDLE23M/"
+    },
     {
       "agendaRelevance": 0.18,
       "candidateId": "huang-shih-chieh",
@@ -52,6 +116,42 @@
         "競選"
       ],
       "url": "https://www.threads.com/t/DdLsQfFGhS3"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "c51af9d28844dea678b647e50344b166fd3575d5bcbe1447b1522bbad0d01d88",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdLsNp8TRxw/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/4e490918720bf4bfc89b.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T09:43:23+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "招募青年競選志工並舉辦願景座談，重點是競選組織動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "尋找桃園杰出好青年 .ᐟ 杰伴小隊熱血招募中🔥\n\n桃園需要更多青年的聲音，來和黃世杰一起「杰伴同行」吧！\n\n我要邀請對桃園有愛、有想法、有服務社會衝勁跟熱血的杰出好青年，一起來分享你對桃園的觀察、期待和願景。\n\n年輕桃園的未來，青年不缺席！\n\n現在就加入杰伴小隊，一起球給世杰，行動出自己的未來💖\n\n【青年願景座談首發 .ᐟ 】\n\n時間｜9/18（五）09:00-10:00\n地點｜黃世杰北桃園競選總部（桃園區三民路二段300號）\n報名連結請見留言👇",
+      "topicScores": {
+        "教育": 0.62,
+        "競選": 0.98
+      },
+      "topics": [
+        "競選",
+        "教育"
+      ],
+      "url": "https://www.instagram.com/p/DdLsNp8TRxw/"
     },
     {
       "agendaRelevance": 0.78,
@@ -92,6 +192,42 @@
       "url": "https://www.threads.com/t/DdLKsP0CZas"
     },
     {
+      "agendaRelevance": 0.78,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "e8924048462df5bea0bc64acf028e5bc0dcbd29f7096290f25b904daa058db22",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdLKDaaE_Rx/",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/ef7731f9b70f875c160a.webp",
+      "keywords": [
+        "文化"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T04:44:37+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "介紹客家儀典與文化保存，並提出支持客語及文化復振的市政承諾。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "一早來到龍潭虹橋土地公，聽到全程以客語進行、遵循正統客家禮俗的三獻禮。身為客家子弟，真的非常感動。\n\n承蒙桃園市禮儀承展協會用心協助，讓這場儀典莊重而圓滿。桃園有非常多土地公廟，桃園區更是全國之最，無論走到哪裡，看到伯公伯婆身影、聽到熟悉鄉音、聞到土地氣息，心就會瞬間安定下來。\n\n從客庄常見的石頭伯公、大樹伯公，到新屋獨特的貝殼伯公，不分大小與形式，都象徵客家人敬天惜地的生活理念。\n\n面對傳統文化的流失，時間不等人，未來世杰擔任市長，一定大力支持客家語言及文化復振，讓本土文化存續、客家精神永流傳！\n\n請伯公庇佑世杰，亻厓會煞猛守護桃園、守護台灣，摎大自家共下來打拚❤️",
+      "topicScores": {
+        "教育": 0.7,
+        "文化觀光": 0.96
+      },
+      "topics": [
+        "文化觀光",
+        "教育"
+      ],
+      "url": "https://www.instagram.com/p/DdLKDaaE_Rx/"
+    },
+    {
       "agendaRelevance": 0.01,
       "candidateId": "huang-shih-chieh",
       "classification": {
@@ -122,6 +258,38 @@
         "生活"
       ],
       "url": "https://www.threads.com/t/DdKtPaPCEjo"
+    },
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "9fbc84239a4f1a5491936964b42c4d1f11efbc4bb412b25a12f31a2dc9306741",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdKtHiDzdS4/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/766c9f7de1e638482cab.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T00:32:01+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "僅是日常問候與週末生活分享，沒有公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "早安☀️先來暖身一下，準備開啟充實的週末！",
+      "topicScores": {
+        "生活": 0.99
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DdKtHiDzdS4/"
     },
     {
       "agendaRelevance": 0.45,
@@ -156,6 +324,40 @@
         "住宅"
       ],
       "url": "https://www.threads.com/t/DdJfVnPE5GO"
+    },
+    {
+      "agendaRelevance": 0.32,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "a1e720da025ea128b3002bf7c0cdc0bc8fd65bc4ce601db6b1fb5167b30549ee",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJfT7WkzH_/",
+      "imageAspect": 1.3348,
+      "imageUrl": "assets/feed-images/0fba607ab151b015ec04.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T13:11:54+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以活動拜訪宣傳桃園願景，概括提及城市建設與宜居生活方向。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-ig",
+      "text": "今晚一口氣跑了八場中秋晚會🏃每次跟市民朋友碰面，都想趕快把我對桃園的願景跟熱情分享出去。\n\n桃園是六都最年輕的城市，應該要有年輕城市的活力。建設要加快腳步，機能要加倍完整，生活要一天比一天更幸福！\n\n請大家成為我的力量，杰伴打造讓青壯世代放心拚、孩子快樂長大、長輩安心生活的宜居之城💖",
+      "topicScores": {
+        "生活": 0.65,
+        "競選": 0.9
+      },
+      "topics": [
+        "競選",
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DdJfT7WkzH_/"
     },
     {
       "agendaRelevance": 0.01,

@@ -19,8 +19,47 @@
     "name": "賴瑞隆",
     "party": "民進黨"
   },
-  "count": 407,
+  "count": 417,
   "posts": [
+    {
+      "agendaRelevance": 0.72,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "c1a4e31a66ba0b2bddb632c0426ae497324ba7741ef16ca802fbaa8fc381eeed",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdMAU9EiWmO",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/2d0de96202f0eb196712.webp",
+      "keywords": [
+        "後援會",
+        "藝文"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-12T12:38:52+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "競選造勢並提出藝文發展、黃線建設與通學步道改善方向。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-threads",
+      "text": "@zenolai:鳳山一起拚，邁向亞洲藝文新都心！\n\n鳳山是高雄人口最多的行政區，今天後援會有將近六成的里長站出來相挺，這是我向前衝的最大動力。\n\n特別感謝好兄弟 #歡喜小金剛 @leer0105 智傑委員出任會長。智傑在中央爭取建設，地方有 @lin_chihhung_gary0530 林智鴻 、張漢忠 、@huiwen.ifs 陳慧文 一起打拚，加上 @fengshanarong 蘇致榮 、@chiao.pei.gogo 鄧巧佩 ，這就是鳳山最強的服務團隊。\n\n這座兩百多年的古城，正透過黃埔新村等活化再生保留記憶；而衛武營和三井LaLaport的串聯，更帶動了全新的商業和藝文發展。未來我們會持續推動黃線建設、改善通學步道，把建設做好、把生活顧好，讓更多人愛上鳳山。",
+      "topicScores": {
+        "交通": 0.72,
+        "文化觀光": 0.82,
+        "競選": 0.9
+      },
+      "topics": [
+        "競選",
+        "文化觀光",
+        "交通"
+      ],
+      "url": "https://www.threads.com/t/DdMAU9EiWmO"
+    },
     {
       "agendaRelevance": 0.12,
       "candidateId": "lai-jui-lung",
@@ -54,6 +93,40 @@
         "競選"
       ],
       "url": "https://www.threads.com/t/DdJM7bTCaE7"
+    },
+    {
+      "agendaRelevance": 0.25,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "367fe8310707c4511900064d4d9419a1bdc16f5393b3edee8f3598a07977e3ea",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJM2uZiTX-/",
+      "imageAspect": 0.7994,
+      "imageUrl": "assets/feed-images/bb4eb04e601e12de64c7.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T10:30:38+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "分享餐食與在地店家，順帶表達爭取市民認同。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "趁著行程空檔來碗肉燥飯，也外帶幾份給助理們。\n\n一碗肉燥飯，有人喜歡滷汁多一點、有人喜歡清爽一點，每個人口味不同；一座城市也是一樣，有不同的想法、不同的選擇。\n\n高雄之所以偉大，就在於城市有多元的聲音，也有包容不同選擇的胸襟。我也會繼續努力，爭取更多市民的認同。\n\n每一位認真打拚、用心經營的在地店家都相當不簡單，我們一起支持高雄好味道，也祝福大家生意興隆！",
+      "topicScores": {
+        "生活": 0.9,
+        "競選": 0.56
+      },
+      "topics": [
+        "生活",
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdJM2uZiTX-/"
     },
     {
       "agendaRelevance": 0.28,
@@ -186,6 +259,38 @@
       "url": "https://www.threads.com/t/DdF_K_SESAW"
     },
     {
+      "agendaRelevance": 0.18,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "c1f02fb77cf8d5493b93b616486d8ab93a5349c11c72fa5d871166da521ef422",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdF-fOIiNgs/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/34435ed4c242f477f848.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-10T04:28:17+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "宣傳參與歌仔戲活動並邀請民眾觀賞，屬文化活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "隆來看歌仔戲！\n這次瑞隆學做戲，跤步手路猶無夠水氣，請大家多多包涵，來給瑞隆拍噗仔👏",
+      "topicScores": {
+        "文化觀光": 0.94
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/DdF-fOIiNgs/"
+    },
+    {
       "agendaRelevance": 0.01,
       "candidateId": "lai-jui-lung",
       "classification": {
@@ -280,6 +385,38 @@
         "生活"
       ],
       "url": "https://www.facebook.com/reel/2246657725906430/"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "99b6e1fcdcc3177801c1abf9e328501273dc8dd759c9d71afe4cb75e00d986a9",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdD-geRjWky/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/0a6b32f273b4508af372.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-09T09:49:35+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "以歌曲與意外離地的雙關語分享趣味日常。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "我只不過唱個「離開地球表面」，怎麼下一秒就離開地面了？",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DdD-geRjWky/"
     },
     {
       "agendaRelevance": 0.93,
@@ -386,6 +523,47 @@
       "url": "https://www.youtube.com/shorts/vCSA2vqPNzY"
     },
     {
+      "agendaRelevance": 0.91,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "6fe16beb1d0a0a66f20ec304e99792ae5d5a1fd09249f975b01bc160c1b6c9e7",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdCwsK1AZLQ/",
+      "imageAspect": 1.0059,
+      "imageUrl": "assets/feed-images/8cd3565f2349b318c129.webp",
+      "keywords": [
+        "運動",
+        "選手",
+        "球場",
+        "健身",
+        "長輩",
+        "敬老"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T22:29:05+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出運動中心、場館與敬老卡加碼等全民運動政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "#國民體育日 高雄動起來！🏃‍♂️\n\n我從小就熱愛運動，學生時期還曾是鉛球選手。對我來說，運動是生活習慣，也是保持健康、補充活力最好的方式。\n\n過去我支持運動部成立，除了培育專業選手，更要讓運動走進校園、社區與職場，讓全民運動成為大家的日常。\n\n未來在高雄，我會推動「一區一運動中心」及複合式小型場館，讓市民在住家附近就有方便、友善的運動空間。為了鼓勵長輩多出門、多活動，我也會推動敬老卡加碼至一萬五千點，並擴大使用於運動中心。\n\n運動環境要持續進步，健康生活可以從今天開始。趁著國民體育日，三大運動好康一次整理給大家！\n\n🏟️高雄運動場館優惠\n\n9月9日高雄多座運動中心及委外場館推出免費開放或入場優惠，健身房、游泳池及球場都有不同方案。\n\n🏃「動出新體態」活動\n\n10月底前，年滿18歲、BMI達24以上的高雄市民，可至運動中心登記前測，BMI下降達3%，即可獲得300元超商商品卡，還有機會抽中Apple Watch等好禮。\n\n🎁運動部「揮汗有禮」\n\n9月1日至11月30日，符合規定的朋友完成指定運動任務、上傳紀錄並通過審核，就能獲得加碼券、兌換健康好禮，數量有限，發完為止。\n\n一起找出喜歡的運動，動出健康、迎接更有活力的每一天！",
+      "topicScores": {
+        "社福": 0.76,
+        "體育": 0.99
+      },
+      "topics": [
+        "體育",
+        "社福"
+      ],
+      "url": "https://www.instagram.com/p/DdCwsK1AZLQ/"
+    },
+    {
       "agendaRelevance": 0.12,
       "candidateId": "lai-jui-lung",
       "classification": {
@@ -416,6 +594,42 @@
         "競選"
       ],
       "url": "https://www.youtube.com/watch?v=lmkCPfHAy6k"
+    },
+    {
+      "agendaRelevance": 0.83,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "77bae0eb444bd4280356e90c7f84a87d632e992bf0f770e472d0ed418b691d8a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdBXi47j1aB/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/7475c722509f27611ee8.webp",
+      "keywords": [
+        "觀光"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T09:30:06+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "主動提出高屏農產通路、品牌與觀光資源整合方向。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "高屏齊心，農產鍍金！\n\n高屏生活圈向來緊密相連，今天和 周春米  小米縣長一起推廣屏東金牌水產，強化兩地合作，行銷在地好產品、串聯觀光資源，拓展全台與國際通路。\n\n這次屏東縣府和連鎖企業合作，選用屏東金牌水產的龍虎斑，透過全台餐飲通路增加能見度，就是很好的例子。\n\n高雄、屏東都有優質的農漁特產，從通路拓展、品牌宣傳到城市行銷，都有合作空間。未來我會運用過去在市府推動城市行銷的經驗，整合兩地資源、發揮各自特色，把南台灣的好產品推向更多市場。\n\n高屏攜手，讓在地好物走進更多人的生活，也替農漁民拚出更大的舞台！",
+      "topicScores": {
+        "文化觀光": 0.76,
+        "經濟": 0.94
+      },
+      "topics": [
+        "經濟",
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/DdBXi47j1aB/"
     },
     {
       "agendaRelevance": 0.76,
@@ -452,6 +666,41 @@
         "文化觀光"
       ],
       "url": "https://www.facebook.com/zenolai2/posts/pfbid0kb4gwDL9pMkNWEKqbYe7LEDXm7sGc97oA3ytAFjpP6QGahBQWHPdW3FFe3v3gYRzl"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "11d6cfd20660aa131f875e275054a9b80b9eb1ae08303967e45d9386b0f21324",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdA-9vygdGU/",
+      "imageAspect": 1.4981,
+      "imageUrl": "assets/feed-images/5a8c0ffb776cd50e3b42.webp",
+      "keywords": [
+        "運動",
+        "選手"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T05:55:19+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "記錄亞運代表團授旗並為選手加油，屬體育活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "做選手最堅強的後盾！預祝台灣健兒征戰名古屋亞運勇奪佳績\n\n今天參加2026名古屋亞運代表團授旗儀式， 賴清德  總統親自授旗，為即將出征的台灣健兒加油，期勉代表隊勇奪佳績。看著國家運動訓練中心裡，超過700位國手、教練和後勤團隊整裝待發，這份為國爭光的決心，讓人熱血沸騰。 \n\n出征前先抽到好彩頭！選手代表 #楊加力、 王齊麟/Wang Chi Lin  接連抽中「團運籤」上上籤——「相信自己就可以得勝」、「放心去拚」。 賴總統更送上必勝御守，祝福台灣健兒旗開得勝、勇奪佳績。\n\n這次的代表團陣容堅強，更讓我與 高雄小金剛許智傑  委員驕傲的是，有近50位高雄子弟兵披上國家隊戰袍！包括田徑的簡子傑、謝元愷，射擊的吳佳穎，網球的葛藍·喬安娜，柔道的張齡方、劉子芸，跆拳道的林翊榛，鐵人三項的張綺文，高爾夫的王偉軒、舉重的謝孟恩等人，將一起代表台灣站上亞運舞台。\n\n過去我也是田徑項目的鉛球選手，深知每天早起訓練、不斷挑戰自我極限的感覺。能站上國際賽場，背後都是日復一日的刻苦準備。\n\n選手能專心備戰、安心站上場，背後少不了教練、運科、防護和後勤團隊。感謝中華奧會蔡家福主席、廖裕輝總領隊、國手出身的李洋部長，以及所有工作夥伴，為選手做好出征準備。\n\n如同 李洋/Lee Yang  部長所說：「不要低估自己！」祝福所有台灣健兒、高雄子弟，在亞運盡情發揮、享受比賽。高雄和全台灣都會全力相挺，為大家加油！",
+      "topicScores": {
+        "體育": 0.99
+      },
+      "topics": [
+        "體育"
+      ],
+      "url": "https://www.instagram.com/p/DdA-9vygdGU/"
     },
     {
       "agendaRelevance": 0.12,
@@ -519,6 +768,117 @@
         "競選"
       ],
       "url": "https://www.facebook.com/reel/1382684500085745/"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "2b2eeb5a018aaa49cfca2c4ecbb101e261b87e84b7e7ba8b850406638c8f918a",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdAf_FqlJZF/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/1cd09fc760e1aef078c4.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-08T01:25:14+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以口號宣示為高雄承擔責任，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "把高雄放在心上、把責任扛在肩上，我會全力以赴為高雄努力！",
+      "topicScores": {
+        "競選": 0.82
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdAf_FqlJZF/"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "2d494b5c27df05ed30db1eee86c9828268da1d0b5d5e8d17ce865c03d518fa1c",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc-y4lJjM0R/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/8d63bbe92d48e4638e62.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-07T09:31:53+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "參與與總統共做月餅並支持庇護工場，屬公益活動紀錄，沒有具體政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "和 蔡英文 Tsai Ing-wen  總統一起動手做月餅，用行動支持庇護工場，讓善的循環延續、讓今年中秋充滿溫暖！🥮",
+      "topicScores": {
+        "生活": 0.7,
+        "社福": 0.93
+      },
+      "topics": [
+        "社福",
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/Dc-y4lJjM0R/"
+    },
+    {
+      "agendaRelevance": 0.98,
+      "candidateId": "lai-jui-lung",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "292ee4b6b7dca1808c4b9391df77fb78f5c537bcfbbd7157376e8ae858c51c7d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/Dc-eiEekg4Q/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/2fe91685b8c46af6eeec.webp",
+      "keywords": [
+        "文化",
+        "藝術",
+        "音樂",
+        "表演",
+        "歷史",
+        "電影",
+        "動漫",
+        "產業"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-07T06:33:26+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動提出文化高雄七大政策，涵蓋文化教育、內容產業與國際發展。",
+        "type": "self_initiated"
+      },
+      "sourceId": "lai-jl-ig",
+      "text": "讓高雄的故事，走向世界！🌏\n\n一場好戲，台上幾十分鐘，背後卻是無數次的練習與準備。\n\n藝術工作者用專業帶給觀眾感動，政治工作者則要用專業，讓市民生活得更好。這份對專業的要求，其實是一樣的。\n\n過去20多年，高雄從高美館、駁二、衛武營、高流，到春天藝術節、大港開唱、高雄電影節、TTXC，逐步累積出完整的文化場館與城市品牌，也打下深厚的文化基礎。下一階段，要讓這些場館、活動與城市故事，轉化成更多屬於高雄的作品與文化內容。\n\n因此，我提出 「文化高雄．世界舞台」7大政策、18項計畫，讓文化從土地生根、從生活長出創作，讓更多好作品在高雄誕生。\n\n📚 文化生根｜社區文化扎根：61座圖書館串起生活圈。\n\n🏘️ 時光再生｜歷史街區再生：建置38區文化故事庫。\n\n🎭 百藝傳世｜盤點文化職人與傳統技藝，培育青年接班。\n\n📖 南方立論｜建立大南方人文藝術研究，述說高雄自己的故事。\n\n🎬 高雄舞台｜培育表演人才、支持在地原創，推動劇場人口倍增。\n\n🌊 內容造浪｜布局四大文化內容基地，發展影視、音樂、動漫、遊戲與IP產業等。\n\n🌏 國際交陪｜從國際邀演走向策展共製，讓高雄作品進入國際市場。\n\n我相信，文化就存在於我們生活的街區、記憶、語言，以及每一個人的故事裡。\n\n未來，要讓孩子從小接觸文化、青年有機會創造文化、創作者能在高雄安心創作，也讓一代又一代累積下來的文化被好好傳承。\n\n文化高雄，世界舞台。一起讓高雄的故事，邁向國際！",
+      "topicScores": {
+        "教育": 0.55,
+        "文化觀光": 0.99,
+        "經濟": 0.65
+      },
+      "topics": [
+        "文化觀光",
+        "經濟",
+        "教育"
+      ],
+      "url": "https://www.instagram.com/p/Dc-eiEekg4Q/"
     },
     {
       "agendaRelevance": 0.08,

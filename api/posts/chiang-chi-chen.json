@@ -19,8 +19,279 @@
     "name": "江啟臣",
     "party": "國民黨"
   },
-  "count": 298,
+  "count": 305,
   "posts": [
+    {
+      "agendaRelevance": 0.72,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "741169cf0458dad0c52c04b3c2db5881ffcc127a2f4915ba882f13f8f10fa710",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdMNIYkk-xz/",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/df79ac6090d99e7dc5a0.webp",
+      "keywords": [
+        "選手",
+        "賽事",
+        "文化"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T14:30:45+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "支持國際街舞賽事並提出持續辦理及興建巨蛋等青年體育文化政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-ig",
+      "text": "#臺中盃國際街舞大賽 熱血開跳！🔥\n臺中的青年舞臺，要更盛大、更國際！\n\n兩週前，主辦單位因為經費缺口向我求助，賽事一度面臨停辦。想起八年前帶臺中孩子赴德國、五年前到沖繩比賽，我深知選手站上國際舞臺有多不容易，臺中的主場更要守住！\n\n感謝「臺中建築新世代委員會」的兄弟們及時贊助，#青年挺青年，讓熱血延續，也讓各國好手齊聚臺中、以舞交流！\n\n啟臣要讓年輕人有舞臺、有機會，讓臺中成為友善、多元、包容的 #國際旗艦城。臺中盃要持續辦，未來更要朝 #臺中巨蛋 邁進，一起讓世界看見臺中的實力！💪\n\n#臺中啟程 #打造旗艦城 #臺中升級 #熱血延續 #街舞文化 #青年舞臺 #支持青年 #國際交流 #以舞會友 #舞出臺中 #讓世界看見臺中 #臺中建築新世代委員會 #臺中味 #TaichungWay",
+      "topicScores": {
+        "文化觀光": 0.85,
+        "競選": 0.78,
+        "體育": 0.97
+      },
+      "topics": [
+        "體育",
+        "文化觀光",
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdMNIYkk-xz/"
+    },
+    {
+      "agendaRelevance": 0.68,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "a3f8a0f65552d21623c99964b5775efb640336391cadf935bbb75b1cee5689da",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdL6mMnlLIG/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/e55e2e06860d80699ba5.webp",
+      "keywords": [
+        "運動",
+        "藝文"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T11:48:48+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "紀錄親子活動並主張友善育兒、社區運動與藝文空間。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-ig",
+      "text": "週末的烏日，充滿孩子的笑聲！🎈\n\n今天啟臣與顏寬恒委員、為民說話-吳瓊華議員，一起到烏日朝天宮參加 #藝啟動一動 親子歡樂城 ，陪大小朋友度過歡樂午後。孩子們玩得開心，爸媽笑得燦爛，就是最美的臺中風景！\n\n感謝烏日區婦女會、婦工會、青工會、朝天宮、體育會，以及所有協辦夥伴，將廟埕變成親子同樂的好所在，讓運動、遊戲與藝文走進鄉親生活。\n\n啟臣要持續推動友善育兒環境，讓社區有更多親子活動、孩子有更多快樂成長的空間。一起努力，讓幸福從每個家庭、每個庄頭開始！\n\n#臺中啟程 #打造旗艦城 #烏日朝天宮\n#藝啟動一動 #親子歡樂城 #友善育兒",
+      "topicScores": {
+        "教育": 0.82,
+        "文化觀光": 0.7,
+        "體育": 0.75
+      },
+      "topics": [
+        "教育",
+        "體育",
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/DdL6mMnlLIG/"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "000c50dcabc486ae56bdb823afb5a63af834004c2cf8748ff44d8829b93efdaa",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdLeBRblOqA/",
+      "imageAspect": 1.4981,
+      "imageUrl": "assets/feed-images/b676a33bfb0aa9c442b3.webp",
+      "keywords": [
+        "後援會",
+        "選戰"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T07:39:05+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "後援會成立與拉票號召，主要是競選動員，沒有具體政策內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-ig",
+      "text": "一日海龍，終身蛙人！\n人民託付，#使命必達💪\n\n今天 #海龍蛙兵挺江啟臣後援會 正式成立，感謝上百位退役弟兄從全臺集結！從上週陪我冒雨跑步登記，到今天攜手相挺，「衝不破、打不散」的海龍精神始終都在！\n\n謝謝 #陳儒雄會長、 #林豐喜顧問團長。林團長跨越黨派、以人民福祉為先的支持，啟臣銘記在心。\n\n過去在最前線保衛國家，現在站在第一線服務人民！蛙訓教會我不落下任何一位弟兄，面對市政託付，啟臣同樣會全力以赴、#說到做到！\n\n選戰倒數77天，懇託學長弟兄全力拉票！11月28日，票票入匭，一起為臺中拚下一個 #黃金十年！💪\n\n#臺中啟程 #打造旗艦城 \n#海龍蛙兵 #臺中味 \n#TaichungWay #幸福臺中",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdLeBRblOqA/"
+    },
+    {
+      "agendaRelevance": 0.9,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "49b28f96101d7082caae1a847c2d791f680c5306c0d6132f1c6d238efafd23f8",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdKtnI9CKlZ/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/bee5ca1c30d83c7ebf1d.webp",
+      "keywords": [
+        "交通",
+        "捷運",
+        "產業"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T00:36:40+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出加速捷運橘線、串聯雙港與帶動海線產業發展的交通政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-ig",
+      "text": "發揮海線雙港優勢，交通串連大發展！\n\n海線擁有空港、海港，是臺中迎向國際的重要門戶。未來不只要有產業與觀光，更要靠交通把發展真正串起來💪\n\n#藍線 已經啟動，接下來 #橘線 也要加速推進，讓沙鹿、清水、梧棲與雙港之間形成更完整的捷運路網。把交通節點連起來，就是把海線的未來連起來，讓大臺中的發展更完整、更有競爭力！\n\n#臺中啟程 #打造旗艦城\n#海線發展 #雙港優勢",
+      "topicScores": {
+        "交通": 0.98,
+        "經濟": 0.82
+      },
+      "topics": [
+        "交通",
+        "經濟"
+      ],
+      "url": "https://www.instagram.com/p/DdKtnI9CKlZ/"
+    },
+    {
+      "agendaRelevance": 0.25,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "2dc7cfa7f98b58e785f3584bfb832e8ef3babbc20f14c2ca601ee5c49710d39b",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdKjQtaEcgg/",
+      "imageAspect": 0.8,
+      "imageUrl": "assets/feed-images/e8fab85070f33ffbcb27.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T23:05:39+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "舉辦地方問政說明會並宣傳施政願景，主要屬競選活動邀請。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-ig",
+      "text": "臺中升級💪幸福加給\n北太平、北大里聯合問政說明會\n\n週日晚間連續兩場問政說明會\n\n📍17:00北太平【新坪活動中心前廣場】\n賴義鍠、接勵向前 我是佳恬共同出席\n\n📍19:00北大里【大里公園廣場】\n林碧秀、蘇柏興 興台中共同出席\n\n作伙與鄉親見面！\n啟臣親自向鄉親報告對臺中的施政願景，邀請所有太平、大里的市民朋友一起來～\n\n#臺中啟程 #打造旗艦城 \n#臺中太平 #臺中大里\n#幸福旗艦城 #臺中味 #TaichungWay",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdKjQtaEcgg/"
+    },
+    {
+      "agendaRelevance": 0.94,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "2d7639f9e6a690d47cbf467c7d3162878c105f8ab1019d3cbde1f1a5b807e5b7",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJhmFSlAaI/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/53eb6f61fa0c51dcdc7c.webp",
+      "keywords": [
+        "產業",
+        "文化",
+        "觀光",
+        "長照",
+        "育兒",
+        "長輩",
+        "敬老",
+        "補助"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T13:31:51+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "提出海線觀光、智慧農業、交通建設、育兒長照與敬老福利等具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-ig",
+      "text": "海線不是吹海風，是要走路有風！💪\n\n今晚和台中市議員 李文傑、楊啓邦 甲安埔ㄟ鄉親議員來到大安、大甲，向鄉親報告，也謝謝 #李榮鴻前輩的鼓勵，以及蔡壁如到大甲應援！\n\n每一區，都是市長的責任區。啟臣長年服務山城，深知地方需求，未來要加碼基層建設，讓臺中29區均衡發展。\n\n推動 #親海賞蟹大道，在保護生態的前提下，串聯沙灘運動、媽祖文化與沿線景點，打造海線「觀光珍珠項鍊」，讓人潮帶動在地生意；透過智慧農業、品牌行銷與產業升級，讓青年有機會、勞工能加薪。\n\n長輩要顧、孩子要顧！延續健保補助、升級敬老愛心卡，完善育兒與長照，讓每一代都安心。\n\n說到就要做到！一起讓臺中升級、幸福加給！\n\n#大安 #大甲 #臺中海線觀光 #觀光珍珠項鍊 #龜殼生態公園 #大安媽祖園區 #智慧農業 #臺中領鮮 #青年返鄉 #敬老愛心卡升級 #友善育兒 #安心長照 #臺中升級 #幸福加給#TaichungWay",
+      "topicScores": {
+        "交通": 0.7,
+        "文化觀光": 0.9,
+        "社福": 0.88,
+        "經濟": 0.94
+      },
+      "topics": [
+        "經濟",
+        "文化觀光",
+        "社福",
+        "交通"
+      ],
+      "url": "https://www.instagram.com/p/DdJhmFSlAaI/"
+    },
+    {
+      "agendaRelevance": 0.98,
+      "candidateId": "chiang-chi-chen",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "45912def7887c55e4bb3fcc75d05965ab0c499525b5a7f819878df91227294bf",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJU5NvFF1J/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/418bfa2901227ba24062.webp",
+      "keywords": [
+        "經濟",
+        "產業",
+        "商圈",
+        "觀光",
+        "旅遊"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T11:40:52+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動提出會展整合、產業媒合及觀光延伸的經濟政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chiang-cc-ig",
+      "text": "臺中會展一路發，經濟共享全民賺！💪\n\n臺中具備強大製造業底氣與「前店後廠」優勢，會展經濟正是最強火車頭！今天啟臣正式提出 #臺中會展經濟168 政策。\n\n未來將由市長親自領軍成立 #1個專案辦公室 ，高效整合跨局處資源；善用 #6大平臺 ，全面深化產業媒合與城市交流；並落實 #8項具體政策，打造專屬接待方案、積極爭取國際大展，更主動組織臺中館帶領在地企業打團體戰。\n\n以今年工具機展為例，移師臺中後買主直奔工廠看產線，讓訂單大幅增加三成！\n\n未來我更將推動 #會展經濟168plus ，將商機從展場延伸至購物節、商圈與觀光旅遊，讓會展效益放大至百工百業，實現 #經濟共享 ，讓世界走進臺中，讓臺中走向世界！✈️\n\n#臺中啟程 #打造旗艦城 #前店後廠 #會展經濟 #臺中味 #TaichungWay #TaichungIMPACT",
+      "topicScores": {
+        "文化觀光": 0.86,
+        "經濟": 0.98
+      },
+      "topics": [
+        "經濟",
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/DdJU5NvFF1J/"
+    },
     {
       "agendaRelevance": 0.45,
       "candidateId": "chiang-chi-chen",
@@ -9092,8 +9363,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaxmWfuIAJr/",
-      "imageAspect": 1.3351,
-      "imageUrl": "assets/feed-images/16aa0911ab08f34ef7d2.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "立法院",
         "監督",

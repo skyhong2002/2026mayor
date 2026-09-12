@@ -19,7 +19,7 @@
     "name": "何欣純",
     "party": "民進黨"
   },
-  "count": 487,
+  "count": 488,
   "posts": [
     {
       "agendaRelevance": 0.03,
@@ -226,6 +226,40 @@
         "兩岸外交"
       ],
       "url": "https://www.youtube.com/shorts/u3YeHSVZH2c"
+    },
+    {
+      "agendaRelevance": 0.14,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T22:03:28+00:00",
+        "inputHash": "13dbdc1796f29202487d7e5d5f437095644c60edab989d704446fe0b3051ef9d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdKu7B2vZ0w/",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/1e5de2223325151ebf98.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T00:56:01+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣布競選總部成立並號召支持，屬競選動員而非具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-ig",
+      "text": "今天我的競選總部成立！歡迎各位市民朋友來參加！\n\n台中，年輕的城市，滿滿年輕的活力、創意；不分世代、在台中這座城市都能找到屬於自己的生活與發展模式！\n\n新台中，交給何欣純！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdKu7B2vZ0w/"
     },
     {
       "agendaRelevance": 0.28,

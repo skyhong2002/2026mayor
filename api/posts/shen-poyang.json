@@ -16556,8 +16556,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:J4K5ee8df44",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/27d9a761180d1fd85329.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-14T15:29:04+00:00",
@@ -16590,8 +16590,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Daxr6_YyWMb/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/edb8ac12986ffeec330a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-14T14:25:13+00:00",
