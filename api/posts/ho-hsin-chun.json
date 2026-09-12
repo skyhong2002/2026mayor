@@ -19,8 +19,178 @@
     "name": "何欣純",
     "party": "民進黨"
   },
-  "count": 482,
+  "count": 487,
   "posts": [
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "92eb6bb822b4922542fa195cd7506fb102f315f736306626d144c359297077fa",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:skJ_LFQp2PE",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/729e2176f85002689bce.webp",
+      "keywords": [
+        "競總"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T09:56:22+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "僅提及總統出席競選總部成立大會，屬競選活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "總統來到何欣純競總成立大會 @Chingte_Taiwan",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=skJ_LFQp2PE"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "55c2b25288d744791143ea592031dbd3e43856dc07b718d660b2531797ba600d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:A4qmxRa4n3M",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/037b7b9b9611d8f6c818.webp",
+      "keywords": [
+        "競總"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T09:51:02+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "僅記錄競選總部成立大會及出席者，未提出政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純競總成立大會 蔡其昌總召 @tsaimimi0416",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=A4qmxRa4n3M"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "be42f8c1a7d3555d4f8887880946962165cda8c9f5cb4fe5f8231dd792d5a367",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:JhKxDluHk4k",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/e7349f71db748d736dc0.webp",
+      "keywords": [
+        "競總"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T09:47:44+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "僅提及競選總部成立大會與政治人物發言，屬活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純競總成立大會 鄭麗君行政院副院長這樣說 @lichiunTW",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=JhKxDluHk4k"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "07676848aaeee9ce447da57804c1f0696730e628980224f8f70458417a724dd5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:OCkUWuYaUlQ",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/b70dedfd9a624fe49dcf.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T09:38:58+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "簡短宣布競選總部成立，屬競選活動資訊。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純競選總部成立",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=OCkUWuYaUlQ"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "8a49d66c165004ce0a70037ba5e0ff531d9c5a2fbd2c24239ead0304048f7bc7",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:Jlw6QX7AF_Q",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/ad589f53048e20769628.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T05:54:54+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "直播競選總部成立大會並宣傳選戰啟動，屬競選活動。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "新台中 正式啟動！何欣純競選總部成立大會｜台中市長候選人何欣純 LIVE 🔴",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=Jlw6QX7AF_Q"
+    },
     {
       "agendaRelevance": 0.7,
       "candidateId": "ho-hsin-chun",
@@ -14548,8 +14718,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DaxLKkmjTJJ",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/7f5a4bc6126b37377db6.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "長輩"
       ],
@@ -14584,8 +14754,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Daw0ey7EbaC",
-      "imageAspect": 1.001,
-      "imageUrl": "assets/feed-images/a613d2c1bd320c0b69d6.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "長輩",
         "敬老",
@@ -14630,8 +14800,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Daw0eSRkf6P/",
-      "imageAspect": 1.001,
-      "imageUrl": "assets/feed-images/0fc6a89e9d410be891fb.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "長輩",
         "敬老",

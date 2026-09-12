@@ -19,8 +19,78 @@
     "name": "黃世杰",
     "party": "民進黨"
   },
-  "count": 453,
+  "count": 455,
   "posts": [
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "180e6c73fd4e9897e1644a48cb974dab0599266d5a8a82cab7df3df4ace6e729",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdLsQfFGhS3",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/367ccf81d295e902e547.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-12T09:43:30+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "招募青年加入競選團隊並邀請參與，屬主動競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:尋找桃園杰出好青年 .ᐟ 杰伴小隊熱血招募中🔥\n\n桃園需要更多青年的聲音，來和黃世杰一起「杰伴同行」吧！\n\n我要邀請對桃園有愛、有想法、有服務社會衝勁跟熱血的杰出好青年，一起來分享你對桃園的觀察、期待和願景。\n\n年輕桃園的未來，青年不缺席！\n\n現在就加入杰伴小隊，一起球給世杰，行動出自己的未來💖",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdLsQfFGhS3"
+    },
+    {
+      "agendaRelevance": 0.78,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "e0ffc2d332103dbc1051dd35061a6daae8af2d8bd955556ab2c001445cf63510",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdLKsP0CZas",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/6ad9f162acee66feca91.webp",
+      "keywords": [
+        "文化"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-12T04:50:12+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "由客家儀典延伸提出支持客語與文化復振的市政主張，並結合競選承諾。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:一早來到龍潭虹橋土地公，聽到全程以客語進行、遵循正統客家禮俗的三獻禮。身為客家子弟，真的非常感動。\n\n承蒙桃園市禮儀承展協會用心協助，讓這場儀典莊重而圓滿。面對傳統文化的流失，時間不等人，未來世杰擔任市長，一定大力支持客家語言及文化復振，讓本土文化存續、客家精神永流傳！\n\n請伯公庇佑世杰，亻厓會煞猛守護桃園、守護台灣，摎大自家共下來打拚❤️",
+      "topicScores": {
+        "教育": 0.58,
+        "文化觀光": 0.96,
+        "競選": 0.8
+      },
+      "topics": [
+        "文化觀光",
+        "競選",
+        "教育"
+      ],
+      "url": "https://www.threads.com/t/DdLKsP0CZas"
+    },
     {
       "agendaRelevance": 0.01,
       "candidateId": "huang-shih-chieh",
@@ -14660,8 +14730,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DawbK2bk4tX/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/b6a976e6398dcb0282cb.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "競總"
       ],

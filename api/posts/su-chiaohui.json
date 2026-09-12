@@ -19,8 +19,40 @@
     "name": "蘇巧慧",
     "party": "民進黨"
   },
-  "count": 508,
+  "count": 509,
   "posts": [
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "cf02c4466a65f86d6ee68d6d33eea7b32425ddb802655cffcd10808b529ccf0e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdLFa00kpXw",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/6d159553cecb064efe45.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-12T04:04:32+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄赴市場拜會與尋求支持，屬競選活動，未提出具體政策議程。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-threads",
+      "text": "@su.chiaohui:一早和新北隊一起到土城學府市場和鄉親好朋友問好！\n\n感謝大家的熱情支持，我們一起繼續拚！拚出新北新時代！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdLFa00kpXw"
+    },
     {
       "agendaRelevance": 0.17,
       "candidateId": "su-chiaohui",
@@ -16081,8 +16113,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Daw-l8_Gd4f",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/3938c4f8e0d3a1efc417.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "大學",
         "文化"
@@ -16120,8 +16152,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Daw8nE6Jj0u/",
-      "imageAspect": 1.5,
-      "imageUrl": "assets/feed-images/683bcb588de6fc4b234d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "大學",
         "文化"

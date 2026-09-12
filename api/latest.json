@@ -2,6 +2,347 @@
   "count": 100,
   "posts": [
     {
+      "agendaRelevance": 0.03,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "92eb6bb822b4922542fa195cd7506fb102f315f736306626d144c359297077fa",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:skJ_LFQp2PE",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/729e2176f85002689bce.webp",
+      "keywords": [
+        "競總"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T09:56:22+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "僅提及總統出席競選總部成立大會，屬競選活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "總統來到何欣純競總成立大會 @Chingte_Taiwan",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=skJ_LFQp2PE"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "55c2b25288d744791143ea592031dbd3e43856dc07b718d660b2531797ba600d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:A4qmxRa4n3M",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/037b7b9b9611d8f6c818.webp",
+      "keywords": [
+        "競總"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T09:51:02+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "僅記錄競選總部成立大會及出席者，未提出政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純競總成立大會 蔡其昌總召 @tsaimimi0416",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=A4qmxRa4n3M"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "be42f8c1a7d3555d4f8887880946962165cda8c9f5cb4fe5f8231dd792d5a367",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:JhKxDluHk4k",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/e7349f71db748d736dc0.webp",
+      "keywords": [
+        "競總"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T09:47:44+00:00",
+      "postingIntent": {
+        "confidence": 0.97,
+        "label": "主動發文",
+        "reason": "僅提及競選總部成立大會與政治人物發言，屬活動紀錄。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純競總成立大會 鄭麗君行政院副院長這樣說 @lichiunTW",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=JhKxDluHk4k"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "180e6c73fd4e9897e1644a48cb974dab0599266d5a8a82cab7df3df4ace6e729",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdLsQfFGhS3",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/367ccf81d295e902e547.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-12T09:43:30+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "招募青年加入競選團隊並邀請參與，屬主動競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:尋找桃園杰出好青年 .ᐟ 杰伴小隊熱血招募中🔥\n\n桃園需要更多青年的聲音，來和黃世杰一起「杰伴同行」吧！\n\n我要邀請對桃園有愛、有想法、有服務社會衝勁跟熱血的杰出好青年，一起來分享你對桃園的觀察、期待和願景。\n\n年輕桃園的未來，青年不缺席！\n\n現在就加入杰伴小隊，一起球給世杰，行動出自己的未來💖",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdLsQfFGhS3"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "07676848aaeee9ce447da57804c1f0696730e628980224f8f70458417a724dd5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:OCkUWuYaUlQ",
+      "imageAspect": 1.7778,
+      "imageUrl": "assets/feed-images/b70dedfd9a624fe49dcf.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T09:38:58+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "簡短宣布競選總部成立，屬競選活動資訊。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純競選總部成立",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=OCkUWuYaUlQ"
+    },
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "f916c98343739a3fa182890d3a0bfa799015061c40bae3d1d66c5b263b84ad43",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:DZwyEguMwCk",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/a5b88c368d5e898e0c39.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T07:00:13+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以政治人物支持與選舉口號進行競選宣傳，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "神力女超人來相挺，一起翻轉大台南｜謝龍介",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=DZwyEguMwCk"
+    },
+    {
+      "agendaRelevance": 0.2,
+      "candidateId": "chen-ting-fei",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "8bf39d652141f67ffd797b18b6fcdce5a1a7d515cfe1047d8ad69682def2c87d",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdLV89ak07M",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/c4a5b5434428636fb36e.webp",
+      "keywords": [
+        "競選",
+        "選舉",
+        "競總",
+        "選戰"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-12T06:28:38+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣布競選總部進駐、舉辦成立大會並邀請參加，主要是競選動員。",
+        "type": "self_initiated"
+      },
+      "sourceId": "chen-tf-threads",
+      "text": "@chen_tingfei:今天我與團隊夥伴們正式進駐競選總部！\n\n這裡不只是作為選舉基地，空間設計上也有很多巧思，我們結合自然、親子、生活等概念，成為「美學台南」的選戰空間，讓政治也能充滿溫度！\n\n今天謝土儀式圓滿完成，也代表開始進入下一階段。我有信心，和台南隊的夥伴們一起，一步一步把我們對台南的想像變成行動，也把大家對這座城市的期待接起來。\n\n10月11日下午3點，競選總部成立大會，邀請大家一起來競總走走！\n\n台南市長候選人陳亭妃競選總部\n📍台南市永康區水漾路520號",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdLV89ak07M"
+    },
+    {
+      "agendaRelevance": 0.04,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "8a49d66c165004ce0a70037ba5e0ff531d9c5a2fbd2c24239ead0304048f7bc7",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:Jlw6QX7AF_Q",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/ad589f53048e20769628.webp",
+      "keywords": [
+        "競選"
+      ],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T05:54:54+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "直播競選總部成立大會並宣傳選戰啟動，屬競選活動。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "新台中 正式啟動！何欣純競選總部成立大會｜台中市長候選人何欣純 LIVE 🔴",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=Jlw6QX7AF_Q"
+    },
+    {
+      "agendaRelevance": 0.78,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "e0ffc2d332103dbc1051dd35061a6daae8af2d8bd955556ab2c001445cf63510",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdLKsP0CZas",
+      "imageAspect": 1.3333,
+      "imageUrl": "assets/feed-images/6ad9f162acee66feca91.webp",
+      "keywords": [
+        "文化"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-12T04:50:12+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "由客家儀典延伸提出支持客語與文化復振的市政主張，並結合競選承諾。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:一早來到龍潭虹橋土地公，聽到全程以客語進行、遵循正統客家禮俗的三獻禮。身為客家子弟，真的非常感動。\n\n承蒙桃園市禮儀承展協會用心協助，讓這場儀典莊重而圓滿。面對傳統文化的流失，時間不等人，未來世杰擔任市長，一定大力支持客家語言及文化復振，讓本土文化存續、客家精神永流傳！\n\n請伯公庇佑世杰，亻厓會煞猛守護桃園、守護台灣，摎大自家共下來打拚❤️",
+      "topicScores": {
+        "教育": 0.58,
+        "文化觀光": 0.96,
+        "競選": 0.8
+      },
+      "topics": [
+        "文化觀光",
+        "競選",
+        "教育"
+      ],
+      "url": "https://www.threads.com/t/DdLKsP0CZas"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "cf02c4466a65f86d6ee68d6d33eea7b32425ddb802655cffcd10808b529ccf0e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdLFa00kpXw",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/6d159553cecb064efe45.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-12T04:04:32+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "記錄赴市場拜會與尋求支持，屬競選活動，未提出具體政策議程。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-threads",
+      "text": "@su.chiaohui:一早和新北隊一起到土城學府市場和鄉親好朋友問好！\n\n感謝大家的熱情支持，我們一起繼續拚！拚出新北新時代！",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdLFa00kpXw"
+    },
+    {
       "agendaRelevance": 0.01,
       "candidateId": "shen-poyang",
       "classification": {
@@ -3152,411 +3493,6 @@
         "議會監督"
       ],
       "url": "https://www.youtube.com/shorts/RLJ4l0GeVMY"
-    },
-    {
-      "agendaRelevance": 0.43,
-      "candidateId": "shen-poyang",
-      "classification": {
-        "classifiedAt": "2026-09-11T11:15:00+00:00",
-        "inputHash": "70ec8be7494dab0efe545c372270c7eff0685fed8405e4d5845301842c84c482",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "facebook:122111800359329310",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/c53b4d472e038344b0aa.webp",
-      "keywords": [],
-      "platform": "facebook",
-      "postedAt": "2026-09-09T14:17:41.000Z",
-      "postingIntent": {
-        "confidence": 0.91,
-        "label": "主動發文",
-        "reason": "主張反映市民聲音以改善城市治理，並帶有競選宣傳性質。",
-        "type": "self_initiated"
-      },
-      "sourceId": "shen-fb-campaign",
-      "text": "市民才是這個城市的主人，\n市民聲音能被真實的反應，\n才有辦法建造美好的城市！\n\n#市長你給我聽好了\n#台北順起來\n#你的市長沈伯洋",
-      "topicScores": {
-        "競選": 0.88,
-        "議會監督": 0.77
-      },
-      "topics": [
-        "競選",
-        "議會監督"
-      ],
-      "url": "https://www.facebook.com/puma.taipei/videos/1797983094966799/"
-    },
-    {
-      "agendaRelevance": 0.91,
-      "candidateId": "ho-hsin-chun",
-      "classification": {
-        "classifiedAt": "2026-09-11T10:34:37+00:00",
-        "inputHash": "ee258a6413b857b6dc6b642138ea0ebf40865f707cce686a6a61dc67af9ad73d",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "youtube:ZujnOIoJYgU",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/d9966df16987499a33e3.webp",
-      "keywords": [
-        "敬老",
-        "學校",
-        "營養午餐",
-        "國中"
-      ],
-      "platform": "youtube",
-      "postedAt": "2026-09-09T14:15:04+00:00",
-      "postingIntent": {
-        "confidence": 0.99,
-        "label": "主動發文",
-        "reason": "提出敬老愛心卡升級及公私立國中小營養午餐免費政策。",
-        "type": "self_initiated"
-      },
-      "sourceId": "ho-hc-yt",
-      "text": "何欣純政策許願池！敬老愛心卡大升級，國中小孩子營養午餐不分公私立學校通通免費，何欣純「政策許願池」好像還蠻好的！新台中，交給何欣純！",
-      "topicScores": {
-        "教育": 0.9,
-        "社福": 0.92
-      },
-      "topics": [
-        "社福",
-        "教育"
-      ],
-      "url": "https://www.youtube.com/shorts/ZujnOIoJYgU"
-    },
-    {
-      "agendaRelevance": 0.35,
-      "candidateId": "ho-hsin-chun",
-      "classification": {
-        "classifiedAt": "2026-09-11T10:46:45+00:00",
-        "inputHash": "2107f9546d7cfaa760e52887b2e051c123cf2d2ac4e88bbca7b5a6e6974bbf21",
-        "intentVerificationVersion": "responsive-v2",
-        "intentVerifiedAt": "2026-09-11T10:47:04+00:00",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "instagram:https://www.instagram.com/p/DdEcNymvDGs/",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/956856dc12e026caa928.webp",
-      "keywords": [
-        "敬老",
-        "學校",
-        "營養午餐",
-        "國中"
-      ],
-      "platform": "instagram",
-      "postedAt": "2026-09-09T14:09:26+00:00",
-      "postingIntent": {
-        "confidence": 0.96,
-        "label": "回應他方觀點",
-        "reason": "比較何欣純與盧秀燕對敬老卡及營養午餐政策的主張，回應並嘲諷盧市長政策轉向。",
-        "type": "responsive"
-      },
-      "sourceId": "ho-hc-ig",
-      "text": "何欣純政策許願池！\n\n何欣純主張，敬老愛心卡坐計程車從85點增加到200點，盧市長就從85點微幅增加到100點；國中小孩子營養午餐不分公私立學校通通免費，議會不分顏色的議員提案支持那麼多年，盧市長本來說沒有錢，後來何欣純、蔣萬安、陳其邁都說要做，盧市長就說有錢了、要跟著做......何欣純「政策許願池」好像還蠻好的！\n\n新台中，交給何欣純！",
-      "topicScores": {
-        "教育": 0.84,
-        "社福": 0.86,
-        "競選": 0.82
-      },
-      "topics": [
-        "社福",
-        "教育",
-        "競選"
-      ],
-      "url": "https://www.instagram.com/p/DdEcNymvDGs/"
-    },
-    {
-      "agendaRelevance": 0.2,
-      "candidateId": "chen-ting-fei",
-      "classification": {
-        "classifiedAt": "2026-09-11T11:15:00+00:00",
-        "inputHash": "3365d21dfafaa3f0d7e93be5a5ff78b5961c6332a6b041dbf9b329e477b43041",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "facebook:1641841490637106",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/324a6ee91b0d59c51f82.webp",
-      "keywords": [
-        "豪雨",
-        "災害"
-      ],
-      "platform": "facebook",
-      "postedAt": "2026-09-09T14:07:43.000Z",
-      "postingIntent": {
-        "confidence": 0.97,
-        "label": "主動發文",
-        "reason": "公告豪雨農業災損救助與申請期限，並表示將持續爭取協助，屬災害資訊與行政服務。",
-        "type": "self_initiated"
-      },
-      "sourceId": "chen-tf-fb",
-      "text": "妃妃報你知 🌧️ 台南市牡蠣養殖全品項115年8月下旬豪雨農業災損公告了！\n\n這次台南市全區納入農業天然災害現金救助地區，受災的漁民朋友請把握時間申請！\n📌 申請期間｜9／10～9／23\n📌 台南市全區皆可申請\n📌 例假日也可以受理申請\n\n另外，這次同時也公告，115年8月下旬豪雨農業天然災害現金救助及低利貸款：\n📌受理期限延長至115年9月14日\n\n農民漁民朋友辛苦了！面對連日豪雨造成的農業損失，亭妃會持續為大家發聲、向中央爭取，讓受災農漁民都獲得應有的協助。\n\n請大家告訴大家、相互提醒，符合資格的農民漁民朋友記得把握申請期限！",
-      "topicScores": {
-        "經濟": 0.83,
-        "防災": 0.96
-      },
-      "topics": [
-        "防災",
-        "經濟"
-      ],
-      "url": "https://www.facebook.com/fififans/posts/pfbid0331v5D7tEXWesbNMwwoxXbos8ae9gDVAj8B1vqmJY9BVDaj7oQMBfq2YShiPHmRzl"
-    },
-    {
-      "agendaRelevance": 0.62,
-      "candidateId": "ho-hsin-chun",
-      "classification": {
-        "classifiedAt": "2026-09-11T11:15:00+00:00",
-        "inputHash": "98f614d8c7e20c791d7607aad30bcd6469975290a17a088ef47b611455b643d9",
-        "intentVerificationVersion": "responsive-v2",
-        "intentVerifiedAt": "2026-09-11T11:15:59+00:00",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "facebook:1681779773311430",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/b69910a56e407b754630.webp",
-      "keywords": [
-        "敬老",
-        "學校",
-        "營養午餐",
-        "國中"
-      ],
-      "platform": "facebook",
-      "postedAt": "2026-09-09T13:59:07.000Z",
-      "postingIntent": {
-        "confidence": 0.9,
-        "label": "回應他方觀點",
-        "reason": "針對盧秀燕的敬老卡與營養午餐政策，對比何欣純等人主張並批評其原先立場。",
-        "type": "responsive"
-      },
-      "sourceId": "ho-hc-fb",
-      "text": "何欣純政策許願池！\n何欣純主張，敬老愛心卡坐計程車從85點增加到200點，盧市長就從85點微幅增加到100點；國中小孩子營養午餐不分公私立學校通通免費，議會不分顏色的議員提案支持那麼多年，盧市長本來說沒有錢，後來何欣純、蔣萬安、陳其邁都說要做，盧市長就說有錢了、要跟著做......何欣純「政策許願池」好像還蠻好的！\n\n新台中，交給何欣純！",
-      "topicScores": {
-        "教育": 0.87,
-        "社福": 0.91,
-        "競選": 0.9
-      },
-      "topics": [
-        "社福",
-        "競選",
-        "教育"
-      ],
-      "url": "https://www.facebook.com/reel/1759719688612934/"
-    },
-    {
-      "agendaRelevance": 0.97,
-      "candidateId": "ko-chih-en",
-      "classification": {
-        "classifiedAt": "2026-09-11T11:15:00+00:00",
-        "inputHash": "9338661e73c0f960244a7c0828d94467d4e96e3844736e3bcdc02188af036314",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "facebook:1636740197806360",
-      "imageAspect": 1.5013,
-      "imageUrl": "assets/feed-images/98eae791b40ca009a80d.webp",
-      "keywords": [
-        "社福",
-        "長照",
-        "長輩",
-        "身心障礙",
-        "弱勢",
-        "補助",
-        "社工",
-        "照顧",
-        "心理健康",
-        "就業"
-      ],
-      "platform": "facebook",
-      "postedAt": "2026-09-09T13:33:47.000Z",
-      "postingIntent": {
-        "confidence": 0.98,
-        "label": "主動發文",
-        "reason": "提出社工留才、長照人力、弱勢扶助與公益募款平台等完整社福政見。",
-        "type": "self_initiated"
-      },
-      "sourceId": "ko-ce-fb",
-      "text": "助人，是我這輩子的志業；而這份幸福，我不會丟掉。\n\n今天很高興受「 #高雄市社福慈善總會 」邀請，和高雄許多社福團體與夥伴交流。過去二十多年，我一直都在和「人」相處、陪伴與幫助別人。許多我曾經指導的學生，後來也投入社福、慈善體系。看著一個人因為得到一點支持，而有機會重新站起來；看著一個家庭因為有人伸出援手，而重新找回生活的力量，這些事情對我來說，從來不是負擔，而是人生很重要的幸福來源。\n\n所以今天和許多長期站在第一線的社福夥伴交流，我特別有感。他們每天都在替這座城市接住一個又一個需要幫助的人，而政府應該做的，就是讓他們在助人的路上，不必孤單、不必為資源煩惱，更不必因為制度的限制而疲於奔命。\n\n今天，我也和大家分享五項社福政策，希望讓「 #助人 」這件事，得到更有力的支持。\n一、社工安心服務，也要有尊嚴\n社工不是消耗品，不能只靠一句「做功德」留住人才。未來推動「社工留才加給計畫」，資深社工滿五年，每月加給3,000元；高風險危險工作費，市府再加碼最高50%；具社工師執照、專科證書或碩士學歷，每月再加給1,000元。\n除了照顧薪水，也要照顧心理健康。加碼心理諮商補助，結合中央資源，讓社工每年最高享有6小時免費諮商；心理衛生中心則以2030年增至12處為目標，並鼓勵心理師取得證照、留在高雄服務。同時建立模範社政人員表揚制度，讓長期默默付出的夥伴獲得應有的肯定。\n\n二、「雄挺照護師」，把長照人才留在高雄\n第一線長照人力不足，最終影響的是長輩的照顧品質。未來只要設籍或在高雄執業的照服員，取得單一級技術士證照，市府補助5,000元；取得證照後留在高雄服務滿一年，再連續三年提供每月2,000至3,600元留任獎勵，讓專業人才願意留下來。\n\n三、社福互助，讓團體把力氣用在助人\n很多小型社福團體不是沒有熱情，而是沒有專業人力撰寫計畫、處理行政。未來鼓勵大型團體協助小型團體提案，成功獲得補助就提供輔導獎金；專案活動政府補助比例最高提高至80%，自籌款門檻由30%降至20%，減少大家的行政與財務壓力。\n\n四、扶助弱勢，也給重新出發的機會\n福利不只是救濟，更要讓人重新找到自己的價值。推動「打狗城市導覽員」，培訓無家者與獨居長輩成為導覽員，透過走讀鹽埕、哈瑪星，用自己的生命故事帶大家認識高雄，導覽收入60%直接回饋給導覽員。\n同時提供企業最高30萬元補助，協助改善無障礙工作環境，讓身心障礙朋友有更友善的就業空間。\n\n五、讓高雄的善意被更多人看見\n許多在地慈善團體長年默默做事，卻缺乏網站、社群與數位募款資源。未來建置「高雄公益數位勸募平台」，協助串接線上捐款、服務方案與資源需求，降低社福團體數位經營的門檻，讓高雄的善意能被更多人看見，也得到更穩定的支持。\n\n今天現場還有許多夥伴提出第一線的需求，從無家者救助、弱勢家戶修繕、校園霸凌，到社工自治、研習資源等，我都會放在心上，納入未來政策的思考。\n因為我始終相信，一座城市真正的進步，不只是建設變多，而是當一個人遇到困難時，這座城市有沒有能力接住他。\n\n而對我來說，能夠幫助別人，就是一種幸福。\n這份幸福，我不會丟掉；這份初衷，我也不會忘記。\n無論未來站在哪一個位置，我都會繼續用我熟悉的方式，陪伴人、幫助人，為高雄、為台灣服務。\n\n再次感謝高雄市社福慈善總會理事長李昭陽、榮譽理事長張美煌、輔導理事長莊明勳、助學主席蕭南湘，以及今天到場的20多個社福、慈善前輩與團體。\n\n因為有你們長年站在第一線，高雄才能成為一座更有溫度的城市。未來，我也希望和大家一起，讓每一個需要幫助的人，都有人接住；讓每一份善意，都有力量延續。\n\n助人，是我這輩子的志業。這條路，我會繼續走下去。",
-      "topicScores": {
-        "社福": 0.99,
-        "經濟": 0.55,
-        "醫療": 0.63
-      },
-      "topics": [
-        "社福",
-        "醫療",
-        "經濟"
-      ],
-      "url": "https://www.facebook.com/KoChihEn/posts/pfbid0piZcJ8k7Qn8HNpckFPoKpdBLuy9R9vT8G1zxLvHPuVoCUDDKDnPQK3hfkqq4u5aTl"
-    },
-    {
-      "agendaRelevance": 0.98,
-      "candidateId": "huang-shih-chieh",
-      "classification": {
-        "classifiedAt": "2026-09-11T10:34:37+00:00",
-        "inputHash": "001802f215b4b246d263547a7ad342ca88638b884b30ae3591e15cb2b561312a",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "instagram:https://www.instagram.com/p/DdEXkPLE42x/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/6fe0035ad6568fc05c9f.webp",
-      "keywords": [
-        "運動",
-        "選手",
-        "賽事",
-        "學校",
-        "醫療"
-      ],
-      "platform": "instagram",
-      "postedAt": "2026-09-09T13:28:01+00:00",
-      "postingIntent": {
-        "confidence": 0.98,
-        "label": "主動發文",
-        "reason": "主動提出全民運動、選手培訓照護及國際運動城市政策。",
-        "type": "self_initiated"
-      },
-      "sourceId": "huang-sj-ig",
-      "text": "運動心桃園，幸福動起來 .ᐟ\n\n今天是9/9國民體育日，也是運動部正式成立滿一周年。世杰今天和桃園體育界舉辦座談會，向總統府葉政彥國策顧問、前運動部鄭世忠政務次長、邱炳坤教授及黎正評教授等各領域教練及專業人士請益，交流對桃園體育發展的想法。\n\n世杰認為，桃園除了要栽培優秀的運動選手，也必須創造讓每位市民都能自在運動、健康生活的城市💪\n\n我是黃世杰，我要打造「打造心生活運動城市」：\n\n📢推動全民運動，構築大桃園運動生活圈\n➊推動學校多元運動社團，導入專業合作機制\n➋擴增多元戶外運動空間，升級運動環境友善設施\n➌推動分齡與分區運動賽事，打造「桃園全民運動季」\n➍設置專屬適應運動中心與共融運動據點\n\n📢強化桃園運動選手的培訓與照顧，擴大健全照護防護網\n➊調整桃園選手參加各項賽事的獎勵制度\n➋串聯醫療資源，打造健全照護防護網\n\n📢打造桃園成為國際運動城市的品牌，用運動連結世界\n讓世界看見桃園，發展具有國際發展潛力項目，建立國際合作，打造桃園運動城市新品牌。\n\n未來，我會全力改善桃園的體育環境，打造全民運動心生活，從孩子到選手、從社區到國際，讓運動真正扎根桃園，一起打造充滿活力、全民運動的幸福城市💖",
-      "topicScores": {
-        "教育": 0.72,
-        "醫療": 0.65,
-        "體育": 0.99
-      },
-      "topics": [
-        "體育",
-        "教育",
-        "醫療"
-      ],
-      "url": "https://www.instagram.com/p/DdEXkPLE42x/"
-    },
-    {
-      "agendaRelevance": 0.96,
-      "candidateId": "huang-shih-chieh",
-      "classification": {
-        "classifiedAt": "2026-09-11T11:15:00+00:00",
-        "inputHash": "7b54f469121e5f19e79775af9f8358809b693f088b7eeacc6ed6adf2ef5dcc66",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "facebook:1594178035490062",
-      "imageAspect": 1.4975,
-      "imageUrl": "assets/feed-images/11c8b26dff6e7749540b.webp",
-      "keywords": [
-        "運動",
-        "選手",
-        "賽事",
-        "學校",
-        "醫療"
-      ],
-      "platform": "facebook",
-      "postedAt": "2026-09-09T13:26:25.000Z",
-      "postingIntent": {
-        "confidence": 0.98,
-        "label": "主動發文",
-        "reason": "完整提出全民運動、選手培訓照護及國際運動城市的政策方案。",
-        "type": "self_initiated"
-      },
-      "sourceId": "huang-sj-fb",
-      "text": "運動心桃園，幸福動起來 .ᐟ\n\n今天是9/9國民體育日，也是運動部正式成立滿一周年。世杰今天和桃園體育界舉辦座談會，向總統府葉政彥國策顧問、前運動部鄭世忠政務次長、邱炳坤教授及黎正評教授等各領域教練及專業人士請益，交流對桃園體育發展的想法。\n\n世杰認為，桃園除了要栽培優秀的運動選手，也必須創造讓每位市民都能自在運動、健康生活的城市💪\n\n我是黃世杰，我要打造「打造心生活運動城市」：\n\n📢推動全民運動，構築大桃園運動生活圈\n➊推動學校多元運動社團，導入專業合作機制\n➋擴增多元戶外運動空間，升級運動環境友善設施\n➌推動分齡與分區運動賽事，打造「桃園全民運動季」\n➍設置專屬適應運動中心與共融運動據點\n\n📢強化桃園運動選手的培訓與照顧，擴大健全照護防護網\n➊調整桃園選手參加各項賽事的獎勵制度\n➋串聯醫療資源，打造健全照護防護網\n\n📢打造桃園成為國際運動城市的品牌，用運動連結世界\n讓世界看見桃園，發展具有國際發展潛力項目，建立國際合作，打造桃園運動城市新品牌。\n\n未來，我會全力改善桃園的體育環境，打造全民運動心生活，從孩子到選手、從社區到國際，讓運動真正扎根桃園，一起打造充滿活力、全民運動的幸福城市💖",
-      "topicScores": {
-        "兩岸外交": 0.3,
-        "教育": 0.62,
-        "醫療": 0.52,
-        "體育": 0.99
-      },
-      "topics": [
-        "體育",
-        "教育",
-        "醫療",
-        "兩岸外交"
-      ],
-      "url": "https://www.facebook.com/SCHuangLawyer/posts/pfbid02XiHY9rUPiEcghuAWqNUVaSDJvdPdf5N3aQEfAcpDuppZLNwj1yDSk3zFridMqXgfl"
-    },
-    {
-      "agendaRelevance": 0.08,
-      "candidateId": "shen-poyang",
-      "classification": {
-        "classifiedAt": "2026-09-11T11:15:00+00:00",
-        "inputHash": "f377f7c3c3b129e557ee53a0e5fac1c5c7f58f94dac74d0e153054aa75e0961e",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "facebook:122111792211329310",
-      "imageAspect": 1.5013,
-      "imageUrl": "assets/feed-images/c1971e69025951bf7c3f.webp",
-      "keywords": [],
-      "platform": "facebook",
-      "postedAt": "2026-09-09T12:17:57.000Z",
-      "postingIntent": {
-        "confidence": 0.97,
-        "label": "主動發文",
-        "reason": "紀錄參加律師節活動並分享法律專業與城市治理感想。",
-        "type": "self_initiated"
-      },
-      "sourceId": "shen-fb-campaign",
-      "text": "9/9是律師節，參加台北律師公會舉辦的「律師節慶祝大會」，再次見到許多法律界的前輩與夥伴，感到格外親切。\n⠀\n當看到許多同學、學長姐、學弟妹還有學生，大家聚在一起，真的很溫暖。可惜時間不夠，沒辦法跟大家一一拍照敘舊，真不好意思。\n⠀\n律師的訓練，讓我們習慣從複雜問題中釐清脈絡、找出關鍵，並提出能夠落實的解方。這不只是法律工作的基礎，也是城市治理需要的能力。\n⠀\n祝所有律師朋友，律師節快樂！讓我們繼續在不同的位置，以專業守護人民的權利，也讓台灣變得更好。\n⠀\n#台北順起來\n#你的市長沈伯洋",
-      "topicScores": {
-        "生活": 0.81
-      },
-      "topics": [
-        "生活"
-      ],
-      "url": "https://www.facebook.com/puma.taipei/posts/pfbid0zVh3Cb5kS69TpT5Wa2696zu3qYjnEmyzUWNAYK96EZwhv4HmaJeRQhNABVxFHQZNl"
-    },
-    {
-      "agendaRelevance": 0.9,
-      "candidateId": "chang-san-cheng",
-      "classification": {
-        "classifiedAt": "2026-09-11T11:15:00+00:00",
-        "inputHash": "fdd8b144650bff9faac66ed18129158e44cbc93d25f2f09319dffa26488e2460",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "facebook:1845639156925308",
-      "imageAspect": 1.4975,
-      "imageUrl": "assets/feed-images/ab184b9b79106dd7f4e5.webp",
-      "keywords": [
-        "住宅",
-        "居住正義",
-        "交通",
-        "捷運",
-        "道路",
-        "停車",
-        "科技"
-      ],
-      "platform": "facebook",
-      "postedAt": "2026-09-09T12:17:37.000Z",
-      "postingIntent": {
-        "confidence": 0.97,
-        "label": "主動發文",
-        "reason": "說明捷運導向開發、可負擔住宅及城市生活機能的推動進度。",
-        "type": "self_initiated"
-      },
-      "sourceId": "chang-sc-fb",
-      "text": "桃園持續成長，但在城市發展的同時，我們也希望讓年輕人看見未來、留在桃園\n\n四年前，桃園人口是228萬；到了今年，已接近236萬。\n\n面對持續成長的城市，我們一方面推動捷運建設與整體開發，充實城市生活機能；另一方面，也要思考如何讓城市發展的成果惠及更多市民，讓桃園的年輕人能夠留下來。\n\n#桃園首件捷運土地開發案正式簽約\nTOD就是以捷運為核心，帶動周邊交通、商業、住宅與生活機能一起發展。這次，桃園首件捷運土地開發案正式簽約，就從蘆竹的機捷A10山鼻站開始。\n\n由宏匯集團、群光電能科技及甲山林建設共同組成的「宏匯光合聯盟」投入，將進一步帶動場站周邊生活機能與區域發展，打造結合商場與住宅的複合大樓，並強化周邊轉乘、停車機能。未來的山鼻站，將會變得很不一樣。\n\n#八德大湳整開區納入可負擔住宅規劃\n上週，桃園市都委會審議通過八德大湳森林公園周邊整體開發計畫，除了完善綠地、公共設施與道路，也正式將可負擔住宅納入規劃。加上這項計畫，目前市府已掌握超過300戶可負擔住宅量能。\n\n從提出可負擔住宅構想，到一項項整體開發納入可負擔住宅，我們持續用行動告訴大家，#桃園落實居住正義的決心不會改變。\n\n目前，《桃園市可負擔住宅自治條例》已送行政院審查，市府也持續與中央溝通。我們已經把所有配套準備好，只要法規程序完備，就能讓更多年輕人在桃園安心成家。\n\n有方便的交通、有好的工作，也有一個負擔得起的房子。我們會努力讓桃園變得更好，讓年輕人在這座城市安心成家。",
-      "topicScores": {
-        "交通": 0.83,
-        "住宅": 0.98,
-        "經濟": 0.67
-      },
-      "topics": [
-        "住宅",
-        "交通",
-        "經濟"
-      ],
-      "url": "https://www.facebook.com/SanCheng624/posts/pfbid0ZjgoGUS5TmbwFYFDWUjwj3Q8iQSYyCeY9gjtZNNbT2Xg7cpUh7Kp8nBfFy5Yg2L7l"
     }
   ],
   "version": 1

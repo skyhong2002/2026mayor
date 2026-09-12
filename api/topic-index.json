@@ -1,5 +1,5 @@
 {
-  "count": 4342,
+  "count": 4352,
   "fallbackTopic": "生活",
   "posts": [
     {
@@ -43008,6 +43008,98 @@
       "postingIntent": "self_initiated",
       "topicScores": {
         "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "su-chiaohui",
+      "id": "threads:https://www.threads.com/t/DdLFa00kpXw",
+      "postedAt": "2026-09-12T04:04:32+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "threads:https://www.threads.com/t/DdLsQfFGhS3",
+      "postedAt": "2026-09-12T09:43:30+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.98
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "threads:https://www.threads.com/t/DdLKsP0CZas",
+      "postedAt": "2026-09-12T04:50:12+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "教育": 0.58,
+        "文化觀光": 0.96,
+        "競選": 0.8
+      }
+    },
+    {
+      "candidateId": "chen-ting-fei",
+      "id": "threads:https://www.threads.com/t/DdLV89ak07M",
+      "postedAt": "2026-09-12T06:28:38+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "youtube:skJ_LFQp2PE",
+      "postedAt": "2026-09-12T09:56:22+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "youtube:A4qmxRa4n3M",
+      "postedAt": "2026-09-12T09:51:02+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "youtube:JhKxDluHk4k",
+      "postedAt": "2026-09-12T09:47:44+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "youtube:OCkUWuYaUlQ",
+      "postedAt": "2026-09-12T09:38:58+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "youtube:Jlw6QX7AF_Q",
+      "postedAt": "2026-09-12T05:54:54+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "hsieh-lung-chieh",
+      "id": "youtube:DZwyEguMwCk",
+      "postedAt": "2026-09-12T07:00:13+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
       }
     }
   ],

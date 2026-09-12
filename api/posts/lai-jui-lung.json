@@ -11110,8 +11110,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Dawp3_cHwaP",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/e9c6518bcb7a9de3df9f.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-14T04:40:27+00:00",
@@ -11144,8 +11144,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Dawoam0SMA3/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/c5b95e6d428ffd84f6f5.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-14T04:40:14+00:00",

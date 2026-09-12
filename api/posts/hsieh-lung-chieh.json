@@ -19,8 +19,40 @@
     "name": "謝龍介",
     "party": "國民黨"
   },
-  "count": 445,
+  "count": 446,
   "posts": [
+    {
+      "agendaRelevance": 0.05,
+      "candidateId": "hsieh-lung-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T10:01:29+00:00",
+        "inputHash": "f916c98343739a3fa182890d3a0bfa799015061c40bae3d1d66c5b263b84ad43",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:DZwyEguMwCk",
+      "imageAspect": 1.7822,
+      "imageUrl": "assets/feed-images/a5b88c368d5e898e0c39.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-12T07:00:13+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "以政治人物支持與選舉口號進行競選宣傳，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "hsieh-lc-yt",
+      "text": "神力女超人來相挺，一起翻轉大台南｜謝龍介",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/watch?v=DZwyEguMwCk"
+    },
     {
       "agendaRelevance": 0.01,
       "candidateId": "hsieh-lung-chieh",
@@ -13352,8 +13384,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DaxNfNiydn8/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/58690b244dc73c7ab7c6.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "質詢",
         "立法院"
@@ -13428,8 +13460,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/Daw3CkBj2Iy",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/e876c68eea76bc44046a.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "後援會"
       ],
@@ -13464,8 +13496,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/Daw2jbSkrWd/",
-      "imageAspect": 1.7778,
-      "imageUrl": "assets/feed-images/854d2922aa1bf3e9db28.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "後援會"
       ],
