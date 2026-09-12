@@ -19,8 +19,72 @@
     "name": "蘇巧慧",
     "party": "民進黨"
   },
-  "count": 504,
+  "count": 508,
   "posts": [
+    {
+      "agendaRelevance": 0.17,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-12T04:03:00+00:00",
+        "inputHash": "aa4e6fa0500b111a3aa7ac0f1f748094a7830d466e2b8ca2070e8e6f78118375",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdKqoKxkmEr",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/8c34af324d43b8eebb58.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-12T00:10:30+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "紀錄與副總統走訪金山、萬里及地方團隊交流，重點是推廣新北山海景觀。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-threads",
+      "text": "@su.chiaohui:那天我和 @bikhimhsiao 美琴副總統到金山，和金山農會以及許多努力把金山、萬里的美介紹給更多人認識的青年夥伴、在地團隊聊聊未來我們對北海岸的想像。\n\n我們也動手試試拔芋頭、洗芋頭和搓芋圓…真的不簡單🤣\n\n術業有專攻，我們各自在自己的崗位上，一起努力，讓更多人看見新北最美的山海風景。",
+      "topicScores": {
+        "文化觀光": 0.93
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.threads.com/t/DdKqoKxkmEr"
+    },
+    {
+      "agendaRelevance": 0.18,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-12T04:03:00+00:00",
+        "inputHash": "f074ca35f6ca97f883772f1e81ee9e0f97daf99d2620243f201fdafc426cc708",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdKqVXLzgbq/",
+      "imageAspect": 0.5626,
+      "imageUrl": "assets/feed-images/fcf38527efde0e44d3de.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-12T00:08:54+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "紀錄走訪金山、萬里並交流地方觀光與青年團隊，未提出具體政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-ig",
+      "text": "那天我和 #蕭美琴 副總統到金山，和金山農會以及許多努力把金山、萬里的美介紹給更多人認識的青年夥伴、在地團隊聊聊未來我們對北海岸的想像。\n\n我們也動手試試拔芋頭、洗芋頭和搓芋圓…真的不簡單🤣\n\n術業有專攻，我們各自在自己的崗位上，一起努力，讓更多人看見新北最美的山海風景。",
+      "topicScores": {
+        "文化觀光": 0.93
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/DdKqVXLzgbq/"
+    },
     {
       "agendaRelevance": 0.1,
       "candidateId": "su-chiaohui",
@@ -56,6 +120,40 @@
       "url": "https://www.threads.com/t/DdJm2x0mV9t"
     },
     {
+      "agendaRelevance": 0.12,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-12T04:03:00+00:00",
+        "inputHash": "e9e6cad6d9b46c5acd07da4453f5534ae6d9dfb4796d23ba77faedb83792d6e5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJmUR7pnwh/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/4bfdd46c6e1b7ca7f62b.webp",
+      "keywords": [
+        "歷史"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T14:15:21+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "介紹新北歷史場域的尋寶活動與文創聯名贈品，屬觀光文化推廣。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-ig",
+      "text": "開箱新北第二彈：從前從前\n\n很開心第一波的【你家隔壁】收到大家的熱烈迴響，這一次，我想帶大家循著時間留下的線索，走進新北的故事。\n\n水獺媽媽這波將攜手鬼才繪本作家信子 @quack1106 的人氣角色「奇怪阿嬤」、人氣插畫家瑞秋廖 @rachelliao_illustration 畫的「呱鬆蛙蛙」，一樣設置5個藏寶點，將寶盒藏進承載著歷史記憶的角落。\n\n大家快根據影片裡的線索，找到藏寶的地方，一起開箱新北的從前從前！\n\n🌟每人請拿「一份」鐵盒中的小禮物，讓較晚抵達的參與者也能發現驚喜～也歡迎留言給我喔！\n\n這次藏寶盒裡面又放了什麼？\n\n🎁水獺媽媽與奇怪阿嬤、呱鬆蛙蛙限量「聯名壓克力鑰匙圈」（2款各3個）\n🎁水獺媽媽與奇怪阿嬤、呱鬆蛙蛙獨家「聯名貼紙」（2款各10張）\n🎁加碼水獺媽媽角色貼紙（每個藏寶點不同）",
+      "topicScores": {
+        "文化觀光": 0.97
+      },
+      "topics": [
+        "文化觀光"
+      ],
+      "url": "https://www.instagram.com/p/DdJmUR7pnwh/"
+    },
+    {
       "agendaRelevance": 0.96,
       "candidateId": "su-chiaohui",
       "classification": {
@@ -88,6 +186,42 @@
         "經濟"
       ],
       "url": "https://www.threads.com/t/DdJUu8_GTa_"
+    },
+    {
+      "agendaRelevance": 0.98,
+      "candidateId": "su-chiaohui",
+      "classification": {
+        "classifiedAt": "2026-09-12T04:03:00+00:00",
+        "inputHash": "5efee1db28f55520691076b3ec92982db112aed8e747bc2a540add55ba85d995",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJUezaiUCA/",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/d26c7fe1e0ac24c39d5f.webp",
+      "keywords": [
+        "產業"
+      ],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T11:37:15+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "主動提出家具產業廢棄物處理、產業轉型與品牌扶植三項政見。",
+        "type": "self_initiated"
+      },
+      "sourceId": "su-ch-ig",
+      "text": "挺家具產業！解決業界痛點、助攻品牌轉型！\n\n我和新北家具相關產業認識超過十年，深知每一件家具背後，都是一代代職人累積的技術和心血。當產業面對廢棄家具清運的困難、低價進口產品競爭，以及品牌轉型等挑戰，未來的市政府更應該站出來，成為家具產業的後盾！\n\n很感謝今天家具產業的朋友們為我成立後援會，我也提出三項政見，期望能實質照顧大家，一起突破產業困境：\n\n✅ 擴大巨大廢棄物去化量能\n✅ 市府帶頭支持新北在地及MIT產品，協助業者取得各項標章，提升競爭力\n✅ 推動家具產業加入「中小型企業創新研發計劃」，協助業者建立自有品牌\n\n產業有技術，政府就幫忙找資源；產業有困難，政府就一起找方法。我會繼續努力，讓新北家具產業傳承好手藝、打造好品牌，在新時代開拓更大的市場！",
+      "topicScores": {
+        "環境": 0.82,
+        "經濟": 0.98
+      },
+      "topics": [
+        "經濟",
+        "環境"
+      ],
+      "url": "https://www.instagram.com/p/DdJUezaiUCA/"
     },
     {
       "agendaRelevance": 0.01,

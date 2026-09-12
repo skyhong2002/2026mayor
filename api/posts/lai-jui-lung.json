@@ -11178,8 +11178,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:xh-frjRKBLw",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/f6248669e611b71fc86c.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-14T02:12:02+00:00",
@@ -11212,8 +11212,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:NpdKjLrGPZo",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/d39aae6f2342e3ad45b3.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "科技"
       ],
@@ -11246,8 +11246,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:KAR8zEqcweE",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/b5c226c75306b60ba2b7.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [
         "垃圾"
       ],

@@ -19,8 +19,40 @@
     "name": "沈伯洋",
     "party": "民進黨"
   },
-  "count": 539,
+  "count": 542,
   "posts": [
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-12T04:03:00+00:00",
+        "inputHash": "2c72c2bebd3d64a921f2122322f25fc83360c8fffe197c8ef7c0e852604fd237",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdK7vVPgCVt",
+      "imageAspect": 0.5624,
+      "imageUrl": "assets/feed-images/592f2d80d8978566e5d0.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-12T02:43:48+00:00",
+      "postingIntent": {
+        "confidence": 0.96,
+        "label": "主動發文",
+        "reason": "分享運動驛站體驗與被拍攝的趣事，屬日常紀錄，沒有政策討論。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-threads-personal",
+      "text": "@pumashen:體驗完運動驛站\n結果時間大delay\n趕緊跑回驛站換衣服\n被無情幕僚錄下\n\n拍攝者不救",
+      "topicScores": {
+        "生活": 0.95
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/DdK7vVPgCVt"
+    },
     {
       "agendaRelevance": 0.18,
       "candidateId": "shen-poyang",
@@ -54,6 +86,38 @@
       "url": "https://www.threads.com/t/DdJsiEyFKsE"
     },
     {
+      "agendaRelevance": 0.25,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-12T04:03:00+00:00",
+        "inputHash": "9d96a319297aeaed81881a3097e86d2223a4d802b56b161a73865363428baa44",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJsa0jkoux/",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/250dbbda0f695657af58.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T15:06:26+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "宣傳候選人文宣品與支持行動，屬於競選動員，未回應特定他方說法。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "想拿沈伯洋的文宣品，不用再四處找啦！\n⠀\n「洋流好店」有沈伯洋的文宣品喔！\n也可以打開「洋流好店」地圖，\n就能找到鄰近的友善店家索取文宣品，\n也歡迎用行動支持店家。\n⠀\n如果你也願意在店內協助放置文宣品，\n可以直接透過店家地圖申請加入「洋流好店」，\n讓支持的力量遍布台北每個角落！⠀\n⠀\n📍查看洋流好店：https://storemap.puma.taipei\n⠀\n一間店、一份文宣品，匯聚成改變台北的洋流。\n⠀\n#台北順起來\n#你的市長沈伯洋",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.instagram.com/p/DdJsa0jkoux/"
+    },
+    {
       "agendaRelevance": 0.01,
       "candidateId": "shen-poyang",
       "classification": {
@@ -84,6 +148,38 @@
         "生活"
       ],
       "url": "https://www.threads.com/t/DdJSFRTAEYL"
+    },
+    {
+      "agendaRelevance": 0.02,
+      "candidateId": "shen-poyang",
+      "classification": {
+        "classifiedAt": "2026-09-12T04:03:00+00:00",
+        "inputHash": "26f38426a6a746b61557689bd9d56d90d1d20ce47995d58854b21e411bdac6fc",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "instagram:https://www.instagram.com/p/DdJRtaLy71F/",
+      "imageAspect": 0.5625,
+      "imageUrl": "assets/feed-images/b2bf144109fe43950cef.webp",
+      "keywords": [],
+      "platform": "instagram",
+      "postedAt": "2026-09-11T11:15:22+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "分享到台大品嘗往日喜愛美食的日常內容，沒有具體公共議題。",
+        "type": "self_initiated"
+      },
+      "sourceId": "shen-ig-personal",
+      "text": "來台大吃以前愛吃的美食～",
+      "topicScores": {
+        "生活": 0.98
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.instagram.com/p/DdJRtaLy71F/"
     },
     {
       "agendaRelevance": 1.0,

@@ -19,8 +19,42 @@
     "name": "柯志恩",
     "party": "國民黨"
   },
-  "count": 401,
+  "count": 402,
   "posts": [
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-12T04:03:00+00:00",
+        "inputHash": "2b660b2527f0611971551071936038abd4190c4438c19156bc734987dad442ca",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdK4MnXiTYV",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/ca60f5accdb7803bce63.webp",
+      "keywords": [
+        "造勢"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-12T02:08:35+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "回顧鳳山造勢及支持者情感，屬競選活動紀錄與動員，未提出政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:四年前我們一起種下希望，四年後我們一起收穫改變！\n\n昨晚來到鳳山代天府，看著滿滿鄉親坐滿廟埕，心裡有很多感觸。\n\n鳳山 對我來說，一直是很特別的地方。六歲時，我第一次當花童就在鳳山；2018年，我第一次站上萬人造勢舞台，也是在鳳山。那一次，我看見庶民的力量，也看見高雄人渴望改變的心。\n\n四年前，我第一次大型造勢活動同樣在鳳山，直到今天，我仍然記得那些坐著輪椅、頭髮斑白的90歲老黨員緊緊握著我的手，告訴我：「中華民國靠你了。」那一刻，我感受到的不只是鼓勵，更是一份沉甸甸的責任。",
+      "topicScores": {
+        "競選": 0.98
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdK4MnXiTYV"
+    },
     {
       "agendaRelevance": 0.36,
       "candidateId": "ko-chih-en",

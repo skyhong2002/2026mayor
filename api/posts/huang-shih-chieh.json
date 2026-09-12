@@ -19,8 +19,40 @@
     "name": "黃世杰",
     "party": "民進黨"
   },
-  "count": 452,
+  "count": 453,
   "posts": [
+    {
+      "agendaRelevance": 0.01,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-12T04:03:00+00:00",
+        "inputHash": "830cc9bb81ddf2d4418c4e9a0e1b0a76735eb421ab6b0fd247a87dd9347f7be6",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdKtPaPCEjo",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/3911d27443c7773f3f1d.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-12T00:33:10+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "簡短分享週末暖身與問候，沒有公共議題或政策內容。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:早安☀️先來暖身一下，準備開啟充實的週末！",
+      "topicScores": {
+        "生活": 0.99
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/DdKtPaPCEjo"
+    },
     {
       "agendaRelevance": 0.45,
       "candidateId": "huang-shih-chieh",
@@ -14664,8 +14696,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DawbL85k7bx",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/4d0e5bd694e55cf20afd.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-14T02:32:03+00:00",
