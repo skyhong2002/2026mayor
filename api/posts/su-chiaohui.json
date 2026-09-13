@@ -15989,8 +15989,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:WIMHwJ_zfas",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/591803700cb50584a093.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-15T03:58:45+00:00",
@@ -16021,8 +16021,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "threads:https://www.threads.com/t/DazH0lyEjUt",
-      "imageAspect": 0.5634,
-      "imageUrl": "assets/feed-images/5b476049aa7581ffb0d9.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "threads",
       "postedAt": "2026-07-15T03:41:34+00:00",
@@ -16053,8 +16053,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "instagram:https://www.instagram.com/p/DazHCVJpWU5/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/1350983938a72f827bc0.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "instagram",
       "postedAt": "2026-07-15T03:34:04+00:00",

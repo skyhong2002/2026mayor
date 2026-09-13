@@ -1,5 +1,5 @@
 {
-  "count": 4406,
+  "count": 4410,
   "fallbackTopic": "生活",
   "posts": [
     {
@@ -43652,6 +43652,42 @@
       "postingIntent": "self_initiated",
       "topicScores": {
         "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "huang-shih-chieh",
+      "id": "threads:https://www.threads.com/t/DdNRtUVkg-6",
+      "postedAt": "2026-09-13T00:30:13+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "生活": 0.97
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "threads:https://www.threads.com/t/DdNPX4KH4IF",
+      "postedAt": "2026-09-13T00:09:35+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "ko-chih-en",
+      "id": "threads:https://www.threads.com/t/DdNp0Zzidhd",
+      "postedAt": "2026-09-13T04:00:40+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.99
+      }
+    },
+    {
+      "candidateId": "ho-hsin-chun",
+      "id": "youtube:fDcjXyqD36I",
+      "postedAt": "2026-09-13T01:00:18+00:00",
+      "postingIntent": "self_initiated",
+      "topicScores": {
+        "競選": 0.93
       }
     }
   ],

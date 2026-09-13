@@ -16522,8 +16522,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:xPFtdeju3-o",
-      "imageAspect": 1.7872,
-      "imageUrl": "assets/feed-images/70c3ccceda5f4dfc29c9.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-15T01:01:21+00:00",

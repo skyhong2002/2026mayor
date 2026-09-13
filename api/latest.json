@@ -2,6 +2,140 @@
   "count": 100,
   "posts": [
     {
+      "agendaRelevance": 0.1,
+      "candidateId": "ko-chih-en",
+      "classification": {
+        "classifiedAt": "2026-09-13T04:01:12+00:00",
+        "inputHash": "e6bda562ce623471571cad60228cb66c302544ec870edc194af6fcacc2b3b541",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdNp0Zzidhd",
+      "imageAspect": 1.5,
+      "imageUrl": "assets/feed-images/a175cf2679917b7846cc.webp",
+      "keywords": [
+        "競選",
+        "參選"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-13T04:00:40+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣布競選總部主委人選並說明支持關係，屬競選布局與動員，非政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ko-ce-threads",
+      "text": "@prof.kochihen:今早，我特別與黨籍議員一同邀請王金平院長擔任我的競選總部主任委員。\n\n四年前第一次來到高雄參選市長，王院長一路給我支持、給我鼓勵，也在很多關鍵時刻替我加油打氣。這份情誼，我一直放在心上。\n\n我知道，對王院長來說，願意接下這份職位，是一個相當重要的決定。過去王院長很少親自擔任其他候選人的競選總部主委。這一次，因為高雄是王院長的家鄉，也因為他始終心繫高雄、關心這座城市的未來，王院長願意再次站出來，和我們並肩作戰，一起為高雄打拚。",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdNp0Zzidhd"
+    },
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-13T04:01:12+00:00",
+        "inputHash": "fd1a7ed24abc947863972a14bb61a2e7df21f2f9d597cd46f189ee10260df60e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:fDcjXyqD36I",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/f6be5c54f53004310874.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-13T01:00:18+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "宣傳候選人親子活動，屬競選活動資訊，未涉及具體公共政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純親子童樂列車一起玩！",
+      "topicScores": {
+        "競選": 0.93
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/fDcjXyqD36I"
+    },
+    {
+      "agendaRelevance": 0.03,
+      "candidateId": "huang-shih-chieh",
+      "classification": {
+        "classifiedAt": "2026-09-13T04:01:12+00:00",
+        "inputHash": "4fee48adde523021566ea9432a23ad4964ea71448d67cb37b8996c176412de18",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdNRtUVkg-6",
+      "imageAspect": 0.5634,
+      "imageUrl": "assets/feed-images/92492556be85c96d9b9f.webp",
+      "keywords": [],
+      "platform": "threads",
+      "postedAt": "2026-09-13T00:30:13+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "分享到八德向參香市民問候，屬日常行程紀錄，未提出公共政策主張。",
+        "type": "self_initiated"
+      },
+      "sourceId": "huang-sj-threads",
+      "text": "@schuanglawyer:一早來到八德，跟進香的市民朋友問好☀️",
+      "topicScores": {
+        "生活": 0.97
+      },
+      "topics": [
+        "生活"
+      ],
+      "url": "https://www.threads.com/t/DdNRtUVkg-6"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-13T04:01:12+00:00",
+        "inputHash": "78faec72c17d04d1ffbf415f44761a043c04ad37c0200bd350061aa5e22c87c5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdNPX4KH4IF",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/835995aa036b45ddc7cf.webp",
+      "keywords": [
+        "競選",
+        "競總"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-13T00:09:35+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣傳競選總部成立與活動邀請，屬競選動員，未提出具體施政議程。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:我的競選總部昨天成立，感謝滿場爆棚的市民朋友熱情力挺😘😘，阿純也要向擠不進去、無法進場的鄉親抱歉再抱歉！🥹🥹\n\n今天下午，「何欣純海線競選總部」也要成立，歡迎所有市民鄉親好朋友 ♥️欣潮 ❤️追欣族 ❤️台中純派 一起參加，我與蔡其昌競總主任委員熱情邀約、全力相挺何欣純！💪💪\n\n📌日期：9/13（日）今天下午3：30\n📌地點：清水龍天宮旁（台中市清水區西社里鎮新路21號）",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdNPX4KH4IF"
+    },
+    {
       "agendaRelevance": 0.89,
       "candidateId": "lee-shih-chuan",
       "classification": {
@@ -3395,168 +3529,6 @@
         "教育"
       ],
       "url": "https://www.threads.com/t/DdGu5AtCvC5"
-    },
-    {
-      "agendaRelevance": 0.88,
-      "candidateId": "shen-poyang",
-      "classification": {
-        "classifiedAt": "2026-09-11T10:34:37+00:00",
-        "inputHash": "b2504c0c77476039e6de899e879ee00ee94ceef5ce1bbd8b1f7233379f9c37f6",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "youtube:4cLreLUig4Q",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/81c7e9813e46c0850569.webp",
-      "keywords": [],
-      "platform": "youtube",
-      "postedAt": "2026-09-10T11:22:31+00:00",
-      "postingIntent": {
-        "confidence": 0.98,
-        "label": "主動發文",
-        "reason": "提出串聯台北故事的文化徑與山林旅遊中心建設構想。",
-        "type": "self_initiated"
-      },
-      "sourceId": "shen-yt-personal",
-      "text": "One Cultural Trail, Weaving Together Taipei’s Stories; One Mountaineering Tourist Center, Buildin...",
-      "topicScores": {
-        "文化觀光": 0.97
-      },
-      "topics": [
-        "文化觀光"
-      ],
-      "url": "https://www.youtube.com/shorts/4cLreLUig4Q"
-    },
-    {
-      "agendaRelevance": 0.98,
-      "candidateId": "ho-hsin-chun",
-      "classification": {
-        "classifiedAt": "2026-09-11T10:34:37+00:00",
-        "inputHash": "f6ab3f414a032de18553e360065895c29bcaeca0d2a9c7ad42eb01240747bc51",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "threads:https://www.threads.com/t/DdGmmWyD8PL",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/d872779397572b56db41.webp",
-      "keywords": [
-        "交通",
-        "道路",
-        "鐵路",
-        "機場",
-        "產業",
-        "文化",
-        "觀光"
-      ],
-      "platform": "threads",
-      "postedAt": "2026-09-10T10:17:51+00:00",
-      "postingIntent": {
-        "confidence": 0.99,
-        "label": "主動發文",
-        "reason": "主動提出海線軌道、道路、港口機場及觀光產業建設政策。",
-        "type": "self_initiated"
-      },
-      "sourceId": "ho-hc-threads",
-      "text": "@a_chun1973:🌊 海線媳婦何欣純，推出 「4321海線大進擊」！\n\n我是清水媳婦，也是海線媳婦。每次走訪海線，都能感受到鄉親對交通、建設與地方發展的期待。\n\n今天，我和海線夥伴共同提出海線進擊政策：\n\n🚆 4條軌道加速\n藍線拚通車、橘線動工延伸清水、海線鐵路雙軌高架化、舊貨運鐵道轉型觀光鐵道。\n\n🛣️ 3條交通命脈打通\n甲埔大道延伸、國道4號延伸台中港、生活圈4號道路闢建。\n\n✈️🚢 2大海空港升級\n升級台中機場、活化台中港與梧棲漁港，帶動海線觀光與產業。\n\n🏆 打造第1的海線\n推動台中港盈餘回饋地方，讓海線產業、交通、文化、觀光一起升級！\n\n4321，海線大進步、大進擊！💪🌊",
-      "topicScores": {
-        "交通": 0.99,
-        "文化觀光": 0.8,
-        "經濟": 0.82
-      },
-      "topics": [
-        "交通",
-        "經濟",
-        "文化觀光"
-      ],
-      "url": "https://www.threads.com/t/DdGmmWyD8PL"
-    },
-    {
-      "agendaRelevance": 0.97,
-      "candidateId": "ho-hsin-chun",
-      "classification": {
-        "classifiedAt": "2026-09-11T10:34:37+00:00",
-        "inputHash": "fc2a023b5f8fc9453babc78f01ae4002f726f5731e75cd6e5197d3f68e3cad7c",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "instagram:https://www.instagram.com/p/DdGmlc5D_XO/",
-      "imageAspect": 1.0,
-      "imageUrl": "assets/feed-images/75d19d5c803dc1e428de.webp",
-      "keywords": [
-        "交通",
-        "道路",
-        "鐵路",
-        "機場",
-        "文化",
-        "觀光",
-        "產業"
-      ],
-      "platform": "instagram",
-      "postedAt": "2026-09-10T10:17:44+00:00",
-      "postingIntent": {
-        "confidence": 0.99,
-        "label": "主動發文",
-        "reason": "提出海線鐵路、道路、港空運及觀光產業的整體建設政見。",
-        "type": "self_initiated"
-      },
-      "sourceId": "ho-hc-ig",
-      "text": "🌊 海線媳婦何欣純，推出 #4321海線大進擊！\n\n我是清水媳婦，也是海線媳婦。每次走訪海線，都能感受到鄉親對交通、建設與地方發展的期待。\n\n今天，我和海線夥伴共同提出「4321海線大進擊」：\n\n🚆 4條軌道加速\n藍線拚通車、橘線動工延伸清水、海線鐵路雙軌高架化、舊貨運鐵道轉型觀光鐵道。\n\n🛣️ 3條交通命脈打通\n甲埔大道延伸、國道4號延伸台中港、生活圈4號道路闢建。\n\n✈️🚢 2大海空港升級\n升級台中機場、活化台中港與梧棲漁港，帶動海線觀光與產業。\n\n🏆 打造第1的海線\n推動台中港盈餘回饋地方，讓海線產業、交通、文化、觀光一起升級！\n\n4321，海線大進步、大進擊！💪🌊",
-      "topicScores": {
-        "交通": 0.99,
-        "文化觀光": 0.87,
-        "競選": 0.8,
-        "經濟": 0.86
-      },
-      "topics": [
-        "交通",
-        "文化觀光",
-        "經濟",
-        "競選"
-      ],
-      "url": "https://www.instagram.com/p/DdGmlc5D_XO/"
-    },
-    {
-      "agendaRelevance": 0.6,
-      "candidateId": "ko-chih-en",
-      "classification": {
-        "classifiedAt": "2026-09-12T22:03:28+00:00",
-        "inputHash": "398243c31f44119dc1345f24e0a2bd1da519e82d7a11fe240bac3ef868258121",
-        "method": "ai",
-        "model": "gpt-5.6-luna",
-        "rubricVersion": "content-v5"
-      },
-      "id": "instagram:https://www.instagram.com/p/DdGk9eVgSdb/",
-      "imageAspect": 0.5625,
-      "imageUrl": "assets/feed-images/6879d0ffd7a26fc8550c.webp",
-      "keywords": [
-        "環境"
-      ],
-      "platform": "instagram",
-      "postedAt": "2026-09-10T10:05:03+00:00",
-      "postingIntent": {
-        "confidence": 0.98,
-        "label": "主動發文",
-        "reason": "競選場合主動提出商圈活化、老屋更新、照顧與環境改善願景。",
-        "type": "self_initiated"
-      },
-      "sourceId": "ko-ce-ig",
-      "text": "#三民區廟口開講 #三鳳宮 \n四年前，我的第一場廟口開講從三鳳宮出發；再度回到這裡，初心沒變，決心更堅定。\n\n曾經繁華的三民區，不該慢慢老去。\n商圈活化、老屋更新、長輩照顧、幸福川環境提升；我要讓三民區重新發光，成為高雄再起飛的原點！\n\n「投給柯志恩，就是投給善良、正向的力量。」 \n高雄值得更好的未來，高雄也值得再次站上世界舞台！",
-      "topicScores": {
-        "住宅": 0.72,
-        "文化觀光": 0.6,
-        "環境": 0.62,
-        "競選": 0.97
-      },
-      "topics": [
-        "競選",
-        "住宅",
-        "環境",
-        "文化觀光"
-      ],
-      "url": "https://www.instagram.com/p/DdGk9eVgSdb/"
     }
   ],
   "version": 1

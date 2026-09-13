@@ -19,8 +19,75 @@
     "name": "何欣純",
     "party": "民進黨"
   },
-  "count": 488,
+  "count": 490,
   "posts": [
+    {
+      "agendaRelevance": 0.08,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-13T04:01:12+00:00",
+        "inputHash": "fd1a7ed24abc947863972a14bb61a2e7df21f2f9d597cd46f189ee10260df60e",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "youtube:fDcjXyqD36I",
+      "imageAspect": 0.6661,
+      "imageUrl": "assets/feed-images/f6be5c54f53004310874.webp",
+      "keywords": [],
+      "platform": "youtube",
+      "postedAt": "2026-09-13T01:00:18+00:00",
+      "postingIntent": {
+        "confidence": 0.98,
+        "label": "主動發文",
+        "reason": "宣傳候選人親子活動，屬競選活動資訊，未涉及具體公共政策。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-yt",
+      "text": "何欣純親子童樂列車一起玩！",
+      "topicScores": {
+        "競選": 0.93
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.youtube.com/shorts/fDcjXyqD36I"
+    },
+    {
+      "agendaRelevance": 0.12,
+      "candidateId": "ho-hsin-chun",
+      "classification": {
+        "classifiedAt": "2026-09-13T04:01:12+00:00",
+        "inputHash": "78faec72c17d04d1ffbf415f44761a043c04ad37c0200bd350061aa5e22c87c5",
+        "method": "ai",
+        "model": "gpt-5.6-luna",
+        "rubricVersion": "content-v5"
+      },
+      "id": "threads:https://www.threads.com/t/DdNPX4KH4IF",
+      "imageAspect": 1.0,
+      "imageUrl": "assets/feed-images/835995aa036b45ddc7cf.webp",
+      "keywords": [
+        "競選",
+        "競總"
+      ],
+      "platform": "threads",
+      "postedAt": "2026-09-13T00:09:35+00:00",
+      "postingIntent": {
+        "confidence": 0.99,
+        "label": "主動發文",
+        "reason": "宣傳競選總部成立與活動邀請，屬競選動員，未提出具體施政議程。",
+        "type": "self_initiated"
+      },
+      "sourceId": "ho-hc-threads",
+      "text": "@a_chun1973:我的競選總部昨天成立，感謝滿場爆棚的市民朋友熱情力挺😘😘，阿純也要向擠不進去、無法進場的鄉親抱歉再抱歉！🥹🥹\n\n今天下午，「何欣純海線競選總部」也要成立，歡迎所有市民鄉親好朋友 ♥️欣潮 ❤️追欣族 ❤️台中純派 一起參加，我與蔡其昌競總主任委員熱情邀約、全力相挺何欣純！💪💪\n\n📌日期：9/13（日）今天下午3：30\n📌地點：清水龍天宮旁（台中市清水區西社里鎮新路21號）",
+      "topicScores": {
+        "競選": 0.99
+      },
+      "topics": [
+        "競選"
+      ],
+      "url": "https://www.threads.com/t/DdNPX4KH4IF"
+    },
     {
       "agendaRelevance": 0.03,
       "candidateId": "ho-hsin-chun",
@@ -14618,8 +14685,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:ws1pqLoKZ6c",
-      "imageAspect": 1.7872,
-      "imageUrl": "assets/feed-images/5e09d48f9cf61bef72c9.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-15T03:00:06+00:00",
@@ -14650,8 +14717,8 @@
         "rubricVersion": "content-v5"
       },
       "id": "youtube:mfMWkzdBVCA",
-      "imageAspect": 0.6661,
-      "imageUrl": "assets/feed-images/bb1a90088dca59bfdc8d.webp",
+      "imageAspect": null,
+      "imageUrl": null,
       "keywords": [],
       "platform": "youtube",
       "postedAt": "2026-07-15T02:30:39+00:00",
